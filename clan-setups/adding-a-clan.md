@@ -31,13 +31,13 @@ This is a way to organize your clans. Many clan families have 5 or more clans. S
 
 <details>
 
-<summary>general_clan_role &#x26; leadership_clan_role</summary>
+<summary>member_role &#x26; leadership_role</summary>
 
 This two are best explained together. The very core of the bot is about family management, specifically roles. This has been here since the beginning. You may or may not use it, but I have made it mandatory on setup to introduce it & have it ready if you do decide to use the very handy role management that ClashKing provides.\
 \
-Anyhow, general\_clan role is the role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.\
+Anyhow, member role is the role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.\
 \
-And lastly, leadership\_clan\_role. This role is the role that any co-leaders & leaders in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans, this role may find use there.\
+And lastly, leadership role. This role is the role that any co-leaders & leaders in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans, this role may find use there.\
 \
 Typical/Suggested Naming is something like @Clan Members and @Clan Leadership\
 \

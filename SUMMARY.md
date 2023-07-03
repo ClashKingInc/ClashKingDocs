@@ -1,25 +1,23 @@
 # Table of contents
 
-* [The Beginning](README.md)
+* [Hello World!](README.md)
 
 ## Clan Setups
 
 * [⚙ Adding a Clan](clan-setups/adding-a-clan.md)
-* [📄Log Setup](clan-setups/log-setup/README.md)
-  * [War Log Differences](clan-setups/log-setup/war-log-differences.md)
+* [📄Log Setup](clan-setups/log-setup.md)
 
 ## Server Setups
 
 * [Welcome Messages](server-setups/welcome-messages.md)
 * [Reddit Recruit Feed](server-setups/reddit-recruit-feed.md)
-* [Voice Statbars](server-setups/voice-statbars.md)
+* [Voice Countdowns](server-setups/voice-countdowns.md)
 * [Autoboards](server-setups/autoboards.md)
-* [Global Chat](server-setups/global-chat.md)
 
 ## Eval
 
 * [Basic Eval (Clan Roles)](eval/basic-eval-clan-roles.md)
-* [Eval & Link Commands](eval/eval-and-link-commands.md)
+* [Link Commands](eval/link-commands.md)
 * [Advanced Eval (TH Roles & More)](eval/advanced-eval-th-roles-and-more.md)
 
 ## &#x20;🕐Reminders
