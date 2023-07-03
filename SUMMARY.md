@@ -13,19 +13,13 @@
 * [Reddit Recruit Feed](server-setups/reddit-recruit-feed.md)
 * [Voice Countdowns](server-setups/voice-countdowns.md)
 * [Autoboards](server-setups/autoboards.md)
+* [Reminders](server-setups/reminders.md)
 
 ## Eval
 
 * [Basic Eval (Clan Roles)](eval/basic-eval-clan-roles.md)
 * [Link Commands](eval/link-commands.md)
 * [Advanced Eval (TH Roles & More)](eval/advanced-eval-th-roles-and-more.md)
-
-## &#x20;🕐Reminders
-
-* [Clan Games](reminders/clan-games.md)
-* [Clan Capital](reminders/clan-capital.md)
-* [Inactivity](reminders/inactivity.md)
-* [War](reminders/war.md)
 
 ## Punishment Management
 

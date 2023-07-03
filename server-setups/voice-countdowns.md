@@ -2,7 +2,7 @@
 
 Ever wonder when the next clash event is? Well while you are in your server, tell easily with voice countdowns. Best way to think of them is timers but using discord voice channels. They are easy to set up - just use `/setup countdowns` and choose the types you would like. There is 5 types, all pictured below.
 
-&#x20;![](../.gitbook/assets/image.png)
+&#x20;![](<../.gitbook/assets/image (4).png>)
 
 {% hint style="info" %}
 A couple of notes:
