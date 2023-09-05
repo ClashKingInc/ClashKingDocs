@@ -30,3 +30,5 @@ There are then 3 optional flags for filtering the strike list:
 * `{player}` - Will show only that player can be combined with `{clan}`
 * `{strike_amount}` - Choose a number of minimum strikes to show
 
+Strikes can be removed with `/strike remove {strike ID}`. This is not a user but the combination of letters/numbers for each strike.
+
