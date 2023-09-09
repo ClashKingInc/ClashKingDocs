@@ -73,3 +73,7 @@ There are a few ways you can edit the appearance of the roster when posted or us
     ![](<../.gitbook/assets/Screenshot 2023-09-09 at 21.34.26.png>)
 
 </details>
+
+{% hint style="info" %}
+If told that 'manage guild' permission are required then the user carrying out the command needs to have the manage server permission in discord or the command needs to be whitelisted. More info via [whitelist.md](../settings/whitelist.md "mention")
+{% endhint %}
