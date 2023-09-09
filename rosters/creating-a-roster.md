@@ -33,5 +33,12 @@ To begin simply use `/roster create {clan} {roster_alias}`
 * `/roster remove` to remove a player (done via an interactive drop down menu)
 * `/roster move` can move a player from one roster to another without having to use the remove and add (done via an interactive drop down menu)
 * `/roster missing` will ping all players who aren't currently in the clan if they need to move to participate&#x20;
+* `/roster change link {roster} {clan}` can change which roster a clan is linked to `{clan}` refers to the clan the roster is changing to.
 
 </details>
+
+
+
+{% hint style="warning" %}
+Using `/roster delete` will completely delete a roster and you will lose all settings setup forever
+{% endhint %}
