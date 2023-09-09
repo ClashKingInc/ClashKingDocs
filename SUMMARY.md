@@ -29,7 +29,7 @@
 ## Rosters
 
 * [Creating a roster](rosters/creating-a-roster.md)
-* [Editing a roster](rosters/editing-a-roster.md)
+* [Editing a Roster](rosters/editing-a-roster.md)
 * [Advanced Uses](rosters/advanced-uses.md)
 
 ## Clan & Family Commands
