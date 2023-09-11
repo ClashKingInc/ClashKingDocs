@@ -31,13 +31,13 @@ Bellow shows all the different options that can be used in clan search
 * Clan games\
 
 * Activity\
-
+  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.16.52.png>)
 * Last Online\
-
+  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.17.21.png>)
 * War Log\
-
+  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.18.30.png>)
 * CWL History\
-
+  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.18.45.png>)
 
 </details>
 
@@ -45,7 +45,9 @@ Bellow shows all the different options that can be used in clan search
 
 <summary><code>/clan progress {clan} {type}</code></summary>
 
+Shows progress for the current season or different when selected in `{season}`. Number of results can also be altered in `{limit} .`Below shows the different `{types}`
 
+* {Heroes and pets}
 
 </details>
 
