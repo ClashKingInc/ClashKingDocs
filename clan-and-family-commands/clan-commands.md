@@ -68,7 +68,7 @@ Currently Doesn't display
 
 <summary><code>/clan compo {clan} {type}</code></summary>
 
-Will show TH break down within a clan. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars. Below shows the different `{types}`.
+Will show TH break down within a clan. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars against their own townhall level. Below shows the different `{types}`.
 
 * Totals - can be achieved by omitting `{type}`\
   ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.54.22.png>)
