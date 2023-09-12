@@ -45,9 +45,14 @@ Bellow shows all the different options that can be used in clan search
 
 <summary><code>/clan progress {clan} {type}</code></summary>
 
-Shows progress for the current season or different when selected in `{season}`. Number of results can also be altered in `{limit} .`Below shows the different `{types}`
+Shows progress for the current season or different when selected in `{season}`. Number of results can also be altered in `{limit} .`Below shows the different `{types}` .
 
-* {Heroes and pets}
+* Heroes & Pets\
+  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.39.33.png>)
+* Troops, Spells, & Sieges\
+  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.39.02.png>)
+* Loot\
+
 
 </details>
 
@@ -55,7 +60,7 @@ Shows progress for the current season or different when selected in `{season}`. 
 
 <summary><code>/clan sorted {clan} {sort_by}</code></summary>
 
-
+Currently Doesn't display
 
 </details>
 
@@ -63,7 +68,12 @@ Shows progress for the current season or different when selected in `{season}`. 
 
 <summary><code>/clan compo {clan} {type}</code></summary>
 
+Will show TH break down within a clan. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars. Below shows the different `{types}`.
 
+* Totals - can be achieved by omitting `{type}`\
+  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.54.22.png>)
+* Hitrate\
+  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.55.28.png>)
 
 </details>
 
@@ -71,6 +81,13 @@ Shows progress for the current season or different when selected in `{season}`. 
 
 <summary><code>/clan board {clan} {board}</code></summary>
 
+Clan boards are a great way to overview clan members in a variety of ways, these can be refreshed with the refresh button. `{Limit}` can be used to only show the top X number of players
 
+* Activity\
+  ![](../.gitbook/assets/peak\_mini\_activitydonation\_board.png)
+* Legend Board\
+  ![](../.gitbook/assets/peak\_fiction\_legend\_board.png)
+* Trophies\
+  ![](../.gitbook/assets/peak\_mini\_trophy\_board.png)
 
 </details>
