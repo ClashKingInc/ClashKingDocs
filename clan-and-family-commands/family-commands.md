@@ -65,6 +65,11 @@ This can show you what league every clan is in, you can toggle between CWL leagu
 
 There are a couple different options that you are able to view the top 50 members in the entire family for which can be helpful for friendly competition.
 
+* family donations
+* family capital
+* family progress
+* family clan games
+
 </details>
 
 <details>
