@@ -83,9 +83,11 @@ Please be aware that {`season}` behave slightly differently for each command. Se
 
 <details>
 
-<summary>/family history</summary>
+<summary><code>/family history</code></summary>
 
-
+This command is quite useful for looking at if any clans are losing alot of players. Keep in mind that it logs every leave and every join, it doesnt take into account if someone leaves and joins\
+\
+![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.36.39.png>)
 
 </details>
 
