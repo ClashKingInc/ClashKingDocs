@@ -93,8 +93,9 @@ This command is quite useful for looking at if any clans are losing alot of play
 
 <details>
 
-<summary>/family trophies</summary>
+<summary><code>/family trophies</code></summary>
 
-
+A way to view total trophies in either main, builder or clan capital\
+![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.41.43.png>)
 
 </details>
