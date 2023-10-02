@@ -6,7 +6,8 @@ CWL and war commands are a great utility to take advantage of. Information that 
 
 <summary><code>/cwl status</code></summary>
 
-This is extremely useful for organising large families and making sure all clans are spinning CWL at the correct times and all goes smoothly.
+This is extremely useful for organising large families and making sure all clans are spinning CWL at the correct times and all goes smoothly.\
+![](<../.gitbook/assets/Screenshot 2023-10-02 at 22.20.57.png>)
 
 </details>
 
