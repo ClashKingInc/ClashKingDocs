@@ -63,12 +63,18 @@ This can show you what league every clan is in, you can toggle between CWL leagu
 
 <summary>Top 50s</summary>
 
-There are a couple different options that you are able to view the top 50 members in the entire family for which can be helpful for friendly competition.
+There are a couple different options that you are able to view the top 50 members in the entire family for which can be helpful for friendly competition.\
+\
+Please be aware that seasons behave slightly differently for each command. Season an refer to month (clan games) or the ingame season (donations).
 
-* family donations
-* family capital
-* family progress
-* family clan games
+* family donations\
+  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.16.05.png>)
+* /family capital\
+  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.17.34.png>)
+* family progress (can vary depending on option)\
+  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.19.03.png>)
+* family clan games\
+  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.20.14.png>)
 
 </details>
 
