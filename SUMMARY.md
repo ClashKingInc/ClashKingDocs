@@ -25,6 +25,7 @@
 
 * [Bans](punishment-management/bans.md)
 * [Strikes](punishment-management/strikes.md)
+* [Auto strikes](punishment-management/auto-strikes.md)
 
 ## Rosters
 
@@ -56,11 +57,13 @@
 * [Boosted Super Troops](utility/boosted-super-troops.md)
 * [Awarding](utility/awarding.md)
 * [Buttons](utility/buttons.md)
+* [User settings](utility/user-settings.md)
 
 ## Settings
 
 * [Whitelist](settings/whitelist.md)
 * [Clan Setup & Log Settings](settings/clan-setup-and-log-settings.md)
+* [Server settings](settings/server-settings.md)
 
 ***
 
