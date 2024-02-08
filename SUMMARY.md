@@ -15,11 +15,11 @@
 * [Autoboards](server-setups/autoboards.md)
 * [Reminders](server-setups/reminders.md)
 
-## Eval
+## Refresh Roles
 
-* [Basic Eval (Clan Roles)](eval/basic-eval-clan-roles.md)
-* [Link Commands](eval/link-commands.md)
-* [Advanced Eval (TH Roles & More)](eval/advanced-eval-th-roles-and-more.md)
+* [Basic Refresh (Clan Roles)](refresh-roles/basic-refresh-clan-roles.md)
+* [Link Commands](refresh-roles/link-commands.md)
+* [Advanced Refresh (TH Roles & More)](refresh-roles/advanced-refresh-th-roles-and-more.md)
 
 ## Punishment Management
 
