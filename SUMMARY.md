@@ -59,11 +59,16 @@
 * [Buttons](utility/buttons.md)
 * [User settings](utility/user-settings.md)
 
-## Settings
+## ⚙ Settings
 
 * [Whitelist](settings/whitelist.md)
 * [Clan Setup & Log Settings](settings/clan-setup-and-log-settings.md)
 * [Server settings](settings/server-settings.md)
+
+## 🤖 Custom Bots
+
+* [Developer Portal](custom-bots/developer-portal.md)
+* [Start Up](custom-bots/start-up.md)
 
 ***
 

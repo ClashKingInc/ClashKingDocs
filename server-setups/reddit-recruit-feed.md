@@ -8,4 +8,4 @@ To add this feed -> `/setup reddit-recruit-feed` & to remove - use the `remove` 
 The Player Profile Button pops up when a "recruit" has shared their player tag & the bot provides a quick way to view their account details
 {% endhint %}
 
-&#x20;![](<../.gitbook/assets/image (3).png>)
+&#x20;![](<../.gitbook/assets/image (3) (1).png>)
