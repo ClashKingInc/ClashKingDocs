@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hello World!](README.md)
+* [❓ FAQ](faq.md)
 
 ## Clan Setups
 
