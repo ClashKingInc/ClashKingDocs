@@ -59,6 +59,7 @@
 * [Awarding](utility/awarding.md)
 * [Buttons](utility/buttons.md)
 * [User settings](utility/user-settings.md)
+* [Embeds](utility/embeds.md)
 
 ## ⚙ Settings
 
