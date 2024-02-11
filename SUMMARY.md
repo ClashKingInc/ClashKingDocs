@@ -43,9 +43,9 @@
 
 ## Ticketing
 
-* [Creating an Embed](ticketing/creating-an-embed.md)
 * [Creating a Panel](ticketing/creating-a-panel.md)
 * [Adding Buttons & Actions](ticketing/adding-buttons-and-actions.md)
+* [Inside the Ticket](ticketing/inside-the-ticket.md)
 
 ## Player Commands
 
