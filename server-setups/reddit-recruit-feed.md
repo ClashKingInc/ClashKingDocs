@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Reddit Recruit Feed
 
 One of my favorite commands when I ran a clan. Reddit is one of the main 2-3 external recruiting sources for Clash of Clans. For anyone unfamiliar, there is a subreddit - [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) - where people post when they are looking for a clan. This feed will post and optionally ping a role when activated. This let's you get a leg up and be one of the first to message or comment on a user's post which can significantly boost your recruiting chances, all things considered.
