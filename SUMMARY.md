@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Hello World!](README.md)
+* [👋 Welcome to ClashKing!](README.md)
 * [❓ FAQ](faq.md)
 
 ## Clan Setups
 
-* [⚙ Adding a Clan](clan-setups/adding-a-clan.md)
+* [⚙️ Adding a Clan](clan-setups/adding-a-clan.md)
 * [📄Log Setup](clan-setups/log-setup.md)
 
 ## Server Setups
@@ -61,7 +61,7 @@
 * [User settings](utility/user-settings.md)
 * [Embeds](utility/embeds.md)
 
-## ⚙ Settings
+## ⚙️ Settings
 
 * [Whitelist](settings/whitelist.md)
 * [Clan Setup & Log Settings](settings/clan-setup-and-log-settings.md)

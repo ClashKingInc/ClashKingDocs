@@ -1,13 +1,12 @@
 ---
-description: Adding a clan is easy! Get started!
+description: Adding a clan is easy! Here is how to get started!
 ---
 
-# ⚙ Adding a Clan
+# ⚙️ Adding a Clan
 
-So to get started. Assuming you have added the bot to your server. \
-To Add a Clan you just need one command - `/addclan` \
+Assuming you have added the bot to your server, to Add a Clan you just need one command - `/addclan` \
 \
-**Inside this slash command there is 5 fields:**
+**Inside this slash command there are 5 fields:**
 
 <details>
 
@@ -23,7 +22,7 @@ This is the unique tag used to identify a clan. It can be found in-game undernea
 
 <summary>category</summary>
 
-This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or only Events. You can use one of the preset options (pictured) or type your own.
+This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or Event clans. You can use one of the preset options (pictured) or type your own.
 
 &#x20;![](https://media.discordapp.net/attachments/923767060977303552/1059696678648696832/image.png)
 
@@ -33,15 +32,15 @@ This is a way to organize your clans. Many clan families have 5 or more clans. S
 
 <summary>member_role &#x26; leadership_role</summary>
 
-This two are best explained together. The very core of the bot is about family management, specifically roles. This has been here since the beginning. You may or may not use it, but I have made it mandatory on setup to introduce it & have it ready if you do decide to use the very handy role management that ClashKing provides.\
+These two are best explained together. The very core of the bot is about family management, specifically roles. This has been here since the beginning. You may or may not use it, but I have made it mandatory on setup to introduce it and have it ready if you do decide to use the very handy role management that ClashKing provides.\
 \
-Anyhow, member role is the role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.\
+_Member Role_ is the role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.\
 \
-And lastly, leadership role. This role is the role that any co-leaders & leaders in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans, this role may find use there.\
+_Leadership Role_ is the role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.\
 \
-Typical/Suggested Naming is something like @Clan Members and @Clan Leadership\
+Typical/suggested naming is something like _@Clan Members_ and _@Clan Leadership_\
 \
-You may be wondering why there is no elder role & colead/lead is "merged" and we'll get into that in the Eval Portion of this guide.
+You may be wondering why there is no elder role, and co-leader/leader is "merged". We'll get into that in the Eval Portion of this guide.
 
 </details>
 
