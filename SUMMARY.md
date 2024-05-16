@@ -6,7 +6,7 @@
 ## Clan Setups
 
 * [⚙️ Adding a Clan](clan-setups/adding-a-clan.md)
-* [📄Log Setup](clan-setups/log-setup.md)
+* [📄 Log Setup](clan-setups/log-setup.md)
 
 ## Server Setups
 
