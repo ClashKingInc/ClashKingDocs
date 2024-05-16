@@ -10,13 +10,13 @@ description: Frequently Asked Questions
 
 <summary>Why do some stats not show up accurately (or at all) in their commands?</summary>
 
-The bot can only get this info if the clan is tracked, which can be done by linking it to a server with /addclan. This is because this info is not given by the API and it's not feasible or possible to track millions of clans arbitrarily (for more detailed things at least).
+ClashKing can only get this info if the clan is tracked, which can be done by linking a clan to a  server with `/addclan`. This is because this info is not given by the API and it's not feasible or possible to track millions of clans arbitrarily (for more detailed things at least).
 
 </details>
 
 <details>
 
-<summary>What does last online &#x26; activity check?</summary>
+<summary>What does last online &#x26; activity check do?</summary>
 
 check for changes in the following to detect when a player was last online:
 
@@ -52,7 +52,7 @@ The server _@everyone_ role has to have the “use external emojis” permission
 
 * Use `/setup list` and confirm it is (still) set up
 * Give it some time, up to 10 minutes after an event has happened in game - due to looping and api cache times (especially on the first time a clan has been set up)
-* Check your channel/bot permissions, especially if you didn’t give the bot admin. _If you didn't give it admin, I do not provide support to fix your permissions._
+* Check your channel/bot permissions, especially if you did not give ClashKing admin. _If you did not give the bot admin privileges, we do not provide support to fix your permissions._
 
 </details>
 
@@ -60,7 +60,15 @@ The server _@everyone_ role has to have the “use external emojis” permission
 
 <summary>The legend stats are wrong?</summary>
 
-Well it depends. It helps to understand how this bot works - as mentioned above, there can be errors because the api doesn’t directly give legends stats. This bot works by checking player's trophies non-stop. If the trophies go up, it’s an attack. If they go down, it’s a defense. Sounds good, except, the api doesn’t update _immediately_ - it can take up to 5 minutes. In those few minutes, the trophies (how we’re checking hits/defenses) could change in a few ways that can trip up the bot. 1. Two attacks in a short time frame - in this case you will see stats like +68. That’s 2 hits, and it’s 100% accurate for all intents & purposes. 2. Two defenses happen at same time, same as above but something like -68. And Lastly, 3, where we can get some inaccuracy, a defense & attack happen at same time. You may get something like +4, if a +30 attack and -26 defense happen at same time. Always, the net gain/loss for the day will be accurate.
+Well it depends - It helps to understand deeper how this bot works. As mentioned above, there can be errors because the api doesn’t directly give legends stats. \
+\
+This bot works by checking player's trophies non-stop. If the trophies go up, it’s an attack. If they go down, it’s a defense. Sounds good, except, the api doesn’t update _immediately_ - it can take up to 5 minutes. In those few minutes, the trophies (how we’re checking hits/defenses) could change in a few ways that can trip up the bot. \
+\
+1\. Two attacks in a short time frame - in this case you will see stats like +68. That’s 2 hits, and it’s 100% accurate for all intents & purposes. \
+2\. Two defenses happen at same time, same as above but something like -68. \
+3\. Where we can get some inaccuracy, a defense & attack happen at same time. You may get something like +4, if a +30 attack and -26 defense happen at same time. \
+\
+Always- the net gain/loss for the day will be accurate.
 
 </details>
 
