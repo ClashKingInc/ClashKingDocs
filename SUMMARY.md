@@ -67,6 +67,7 @@
 
 ## Utility
 
+* [🆘 Help](utility/help.md)
 * [🔘 Buttons](utility/buttons.md)
 * [🔢 Embeds](utility/embeds.md)
 * [🐸 Other, Fun, & Stats](utility/other-fun-and-stats.md)
