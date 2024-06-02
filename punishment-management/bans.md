@@ -1,4 +1,4 @@
-# Bans
+# 🚪 Bans
 
 The ban command can be very useful to create a list of members that you would not want to return for eternity or a given time period.
 
@@ -7,6 +7,6 @@ To add a user to the list use `/ban add {tag}` (this supports "smart search" so 
 All bans can be viewed using `/ban list`.
 
 {% hint style="info" %}
-Using the ban command will not ban them from joining your clan. This is out of the bots control
+Using the ban command will not ban them from joining your clan. This is out of the bots control.
 {% endhint %}
 

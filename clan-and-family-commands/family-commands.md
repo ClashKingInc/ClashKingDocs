@@ -1,14 +1,86 @@
-# Family Commands
+# 👩‍👩‍👧‍👦 Family Commands
 
-Family commands are very similar to Clan commands but on a larger scale being able to view the entire family of clans on your server. Most of the family commands have the `{server}` option to select other servers - I wont mention this for every command as it does the same thing.
+Family commands are very similar to Clan commands but on a larger scale being able to view the entire family of clans on your server.
+
+## Top 50s
+
+There are a couple different options that you are able to view the top 50 members in the entire family for which can be helpful for friendly competition.
+
+**There is up to 6 parameters :**&#x20;
+
+* {`season}`  behave slightly differently for each command. Season an refer to month (clan games) or the ingame season (donations), raid weekends also have `{weekend}` instead.
+* `{limit}` will only show that number of users
+* `{townhall}` will only show results at that townhall
+* `{sort_by}` allows you to choose which parameters should be taken in account to make the top 50
+* `{sort_order}` will show the result by ascending or descending order
+* `{server}` will shows the result for a family linked to a specific server **you are in**.
+
+<details>
+
+<summary><code>/family activity</code></summary>
+
+Show top 50 active members of the family with a graph showing total activity by clan.
+
+![](<../.gitbook/assets/image (43).png>)
+
+</details>
+
+<details>
+
+<summary><code>/family donations</code></summary>
+
+![](<../.gitbook/assets/image (44).png>)
+
+</details>
+
+<details>
+
+<summary><code>/family raids</code></summary>
+
+Shows current status of the capital raids in each clan where raids are currently opened.
+
+![](<../.gitbook/assets/image (48).png>)
+
+</details>
+
+<details>
+
+<summary><code>/family progress</code> </summary>
+
+Available for Heroes & Pets, but also for Troops, Spells & Sieges.\
+It will show the number of level upgraded for a season by members but also in total.
+
+* Heroes & Pets
+
+![](<../.gitbook/assets/image (49).png>)
+
+* Troops, Spells & Sieges
+
+![](<../.gitbook/assets/image (50).png>)
+
+</details>
+
+<details>
+
+<summary><code>/family games</code></summary>
+
+Show the number of clan games points done by members of a family during a given season.![](<../.gitbook/assets/image (53).png>)
+
+</details>
+
+## Others
 
 <details>
 
 <summary><code>/family clans</code></summary>
 
-This will show a general members count for all clans as well as the league in the server. `{server}` can be used to check other servers you are in
+This will show a general members count for all clans in the server. You can choose betwen several parameters to decide what will be shown in the board :&#x20;
 
-![](<../.gitbook/assets/Screenshot 2023-09-12 at 13.12.00.png>)
+![](<../.gitbook/assets/image (52).png>)
+
+* With no parameters, it will shows "Overview" by default :&#x20;
+
+![](<../.gitbook/assets/image (51).png>)
 
 </details>
 
@@ -27,7 +99,7 @@ Will show TH break down within a family. Hitrate also gives a breakdown of the p
 
 <details>
 
-<summary>/family wars</summary>
+<summary><code>/family wars</code></summary>
 
 Will display all current and ongoing wars with a brief overview
 
@@ -61,28 +133,6 @@ This can show you what league every clan is in, you can toggle between CWL leagu
 
 <details>
 
-<summary>Top 50s</summary>
-
-There are a couple different options that you are able to view the top 50 members in the entire family for which can be helpful for friendly competition.\
-\
-Please be aware that {`season}` behave slightly differently for each command. Season an refer to month (clan games) or the ingame season (donations), raid weekends also have `{weekend}` instead.\
-\
-`{TH}` will only show results at that townhall\
-`{limit}` will only show that number of users
-
-* `/family donations`\
-  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.16.05.png>)
-* `/family capital`\
-  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.17.34.png>)
-* `/family progress` (can vary depending on option)\
-  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.19.03.png>)
-* /fam`ily clan-games`\
-  ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.20.14.png>)
-
-</details>
-
-<details>
-
 <summary><code>/family history</code></summary>
 
 This command is quite useful for looking at if any clans are losing alot of players. Keep in mind that it logs every leave and every join, it doesnt take into account if someone leaves and joins\
@@ -97,5 +147,39 @@ This command is quite useful for looking at if any clans are losing alot of play
 
 A way to view total trophies in either main, builder or clan capital\
 ![](<../.gitbook/assets/Screenshot 2023-10-02 at 18.41.43.png>)
+
+</details>
+
+<details>
+
+<summary><code>/family sorted {townhall} {limit} {server}</code></summary>
+
+Show members of a clans family sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
+
+![](<../.gitbook/assets/image (42).png>)
+
+Example for members sorted by attacks won :&#x20;
+
+![](<../.gitbook/assets/image (41).png>)
+
+</details>
+
+<details>
+
+<summary><code>/family summary {season} {limit} {server}</code></summary>
+
+Shows a leaderboard of the family best players for loot, activity, trophies, donations, raids and war stars.
+
+![](<../.gitbook/assets/image (56).png>)![](<../.gitbook/assets/image (57).png>)
+
+</details>
+
+<details>
+
+<summary>/family stats {types}</summary>
+
+This command is under construction for now but shoud be able to give statistics of a family members for donations, activity, trophies, versus trophies & capital trophies.
+
+![](<../.gitbook/assets/image (58).png>)
 
 </details>

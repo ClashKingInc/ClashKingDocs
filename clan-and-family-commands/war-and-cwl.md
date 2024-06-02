@@ -1,4 +1,4 @@
-# War & CWL
+# ⚔️ War & CWL
 
 CWL and war commands are a great utility to take advantage of. Information that could take a while to check ingame can now be accessed instantly.&#x20;
 
@@ -23,7 +23,16 @@ This is extremely useful for organising large families and making sure all clans
 
 <summary><code>/cwl search</code></summary>
 
+See the current status of the CWL your clan is in.\
+![](<../.gitbook/assets/image (103).png>)
 
+You can have differents stats such as :&#x20;
+
+* Star Leaderboard,&#x20;
+* Clan Ranking,&#x20;
+* Missed Hits,&#x20;
+* List of rounds with the results,
+* List of Members with heroes and TH levels.
 
 </details>
 

@@ -2,7 +2,7 @@
 description: Adding more functionality to your tickets!
 ---
 
-# Adding Buttons & Actions
+# ✅ Adding Buttons & Actions
 
 If you are in this section, you should have at minimum - 1 embed created (`/embed create`) and 1 ticket panel created (`/ticket panel-create`). \
 \
@@ -14,12 +14,12 @@ Assuming you do, you can now add some more functionality to your tickets. This g
 
 ## Adding & Editing Buttons
 
-For this, use /ticket button-add, which has 4 options:
+For this, use `/ticket button-add,` which has 4 options:
 
-* panel\_name: the panel you want to add the button to
-* button\_text: the text you want on the button
-* button\_color: what color you want the button (only blue, green, grey, or red)
-* button\_emoji: an emoji for the button (you can use custom emojis as long as they are on the server)
+* `{panel_name}`: the panel you want to add the button to
+* `{button_text}`: the text you want on the button
+* `{button_color}`: what color you want the button (only blue, green, grey, or red)
+* `{button_emoji}`: an emoji for the button (you can use custom emojis as long as they are on the server)
 
 Once ran, you will have a brand new button for your panel.&#x20;
 
@@ -27,9 +27,9 @@ Once ran, you will have a brand new button for your panel.&#x20;
 You will need to rerun `/ticket panel-post` when new buttons are added
 {% endhint %}
 
-Editing buttons works very similarly, /ticket button-edit, same options, except it will ask for which button on the panel to edit.
+Editing buttons works very similarly, `/ticket button-edit`, same options, except it will ask for which button on the panel to edit.
 
-And lastly, you can delete a button with /ticket button-remove
+And lastly, you can delete a button with `/ticket button-remove`
 
 ## Clash Account Applications
 
@@ -43,7 +43,7 @@ Run /ticket apply. Here you will be presented with 4 options:
 *   Send Player Info (if green (on), will send a breakdown of the player's info when the ticket opens)\
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>/ticket apply</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>/ticket apply</p></figcaption></figure>
 
 {% hint style="warning" %}
 One caveat to the entire ticket apply process is that it does require people's accounts to be linked to them. The bot does inform users of this if they end up trying to apply with no accounts, but it is on the server's side to set up a robust linking system using things like link buttons or the such. Not as a big a deal these days however, as a surprising amount of people are discord linked :smile:&#x20;
@@ -51,7 +51,7 @@ One caveat to the entire ticket apply process is that it does require people's a
 
 We can go further though, /ticket apply-rules allows us to filter out applicants on more than just townhall level. You can filter out by individual hero levels or war stars. This command explains how it works pretty well when ran, but here is what it looks like. Copy past the requirements, keeping the same format, edit them, just upload back (the one given is just a sample and not actually the default everyone is set to)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="479"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="479"><figcaption></figcaption></figure>
 
 ## Questions
 

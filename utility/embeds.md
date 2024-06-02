@@ -2,7 +2,7 @@
 description: Creating, Editing, Copying, Posting, & Deleting an Embed
 ---
 
-# Embeds
+# 🔢 Embeds
 
 To put an embed onto the bot, there is 2 options. Option 1 is from scratch and Option 2 is if you have an embed already, but want the bot to use it (like if you have a ticket panel on another bot and want to use it on ClashKing)
 
@@ -10,13 +10,13 @@ To put an embed onto the bot, there is 2 options. Option 1 is from scratch and O
 
 Head to this site -> [https://glitchii.github.io/embedbuilder/](https://glitchii.github.io/embedbuilder/) and you will see something like this:
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
 
 Create your embed with whatever options you would like: message content, embed colors, multiple embeds, etc. The right will show a preview as you edit.\
 \
 When done, click the 3 dot menu button and click "Get URL with data link"
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Getting the data link url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Getting the data link url</p></figcaption></figure>
 
 It may have a confirmation message, click ok, and now it is saved to your clipboard. Now head back to discord.\
 \
@@ -27,7 +27,7 @@ Now just run `/embed create`, choose a name to identify the embed later and for 
 Step 1 is to locate the embed you are copying on discord. Then, right click the embed and click Copy Message Link\
 
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Copying Message Link</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Copying Message Link</p></figcaption></figure>
 
 That will save the message link to your clipboard. Now head to a channel you can run ClashKing commands in and open up`/embed clone`, fill in the name field with a unique identifier so you can use it later and in the message\_link field paste in the link you copied earlier. Run the command & now you have cloned that embed!
 

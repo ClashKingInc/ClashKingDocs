@@ -1,43 +1,86 @@
-# Clan Commands
+# 🏛️ Clan Commands
 
-The are a selection of commands to view a clan giving different statistics and data, you wont remember them all but the ones you'll need will stick with you
+The are a selection of commands to view a clan giving different statistics and data, you wont remember them all but the ones you'll need will stick with you.&#x20;
 
 <details>
 
-<summary><code>/clan search {clan} {type}</code></summary>
+<summary><code>/clan activity {clan} {season} {townhall} {limit} {sort_by} {sort_order}</code></summary>
 
-clan search has a lot of different options to enter for `{type}` to suit your need.  These can be selected through a drop down menu once the command has been run once. Also this can be season specific info by selecting a month in {season}.
+Shows a leaderboard of players activity with last seen date and a graph with additions of all the players activity. The graphs will be reworked soon.
 
-Bellow shows all the different options that can be used in clan search
+![](<../.gitbook/assets/image (32).png>)
 
-* Overview board\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.06.19.png>)
-* Simple board\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.07.56.png>)
-* Summary\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.23.30.png>)
-* Donation\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.20.57.png>)
-* Received\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.26.37.png>)
-* Dono Ratio - donated : received (higher better)\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.26.00 (1).png>)
-* Discord Links - displays unlinked and linked\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.27.54.png>)![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.28.35.png>)
-* War Preference - time refers to how long ago opt in status changed\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.30.16.png>)
-* Super Troops\
-  ![](<../.gitbook/assets/Screenshot 2023-09-10 at 19.32.02.png>)
-* Clan games\
+</details>
 
-* Activity\
-  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.16.52.png>)
-* Last Online\
-  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.17.21.png>)
-* War Log\
-  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.18.30.png>)
-* CWL History\
-  ![](<../.gitbook/assets/Screenshot 2023-09-11 at 19.18.45.png>)
+<details>
+
+<summary><code>/clan capital {clan} {weekend}</code></summary>
+
+Show a complete overview of the last raid weekend .
+
+![](<../.gitbook/assets/image (36).png>)![](<../.gitbook/assets/image (37).png>)
+
+
+
+</details>
+
+<details>
+
+<summary><code>/clan compo {clan} {type}</code></summary>
+
+
+
+This command can show stats about the members of a clan :&#x20;
+
+![](<../.gitbook/assets/image (22).png>)
+
+* By townhalls
+
+![](<../.gitbook/assets/image (23).png>)
+
+* By trophies&#x20;
+
+![](<../.gitbook/assets/image (25).png>)
+
+* By country (if set in user profile)
+
+![](<../.gitbook/assets/image (26).png>)
+
+* By roles
+
+![](<../.gitbook/assets/image (27).png>)
+
+* By league
+
+![](<../.gitbook/assets/image (28).png>)\
+
+
+</details>
+
+<details>
+
+<summary><code>/clan donations {clan} {season} {townhall} {limit} {sort_by} {sort_order}</code></summary>
+
+![](<../.gitbook/assets/image (21).png>)
+
+</details>
+
+<details>
+
+<summary><code>/clan games {clan} {season} {townhall} {limit} {sort_by} {sort_order}</code></summary>
+
+Show the number of clan games points done by members during a given season.\
+![](<../.gitbook/assets/image (39).png>)
+
+</details>
+
+<details>
+
+<summary><code>/clan overview {type}</code></summary>
+
+Show a complete overview of a clan.
+
+![](<../.gitbook/assets/image (38).png>)
 
 </details>
 
@@ -50,8 +93,7 @@ Shows progress for the current season or different when selected in `{season}`. 
 * Heroes & Pets\
   ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.39.33.png>)
 * Troops, Spells, & Sieges\
-  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.39.02.png>)
-* Loot\
+  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.39.02.png>)\
 
 
 </details>
@@ -60,34 +102,43 @@ Shows progress for the current season or different when selected in `{season}`. 
 
 <summary><code>/clan sorted {clan} {sort_by}</code></summary>
 
-Currently Doesn't display
+Show members of a clan sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
+
+![](<../.gitbook/assets/image (29).png>)
+
+Example for members sorted by attacks won :&#x20;
+
+![](<../.gitbook/assets/image (30).png>)
 
 </details>
 
 <details>
 
-<summary><code>/clan compo {clan} {type}</code></summary>
+<summary><code>/clan summary {clan} {season} {limit}</code></summary>
 
-Will show TH break down within a clan. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars against their own townhall level. Below shows the different `{types}`.
+Shows a leaderboard of the clan best players for loot, activity, trophies, donations, raids and war stars.
 
-* Totals - can be achieved by omitting `{type}`\
-  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.54.22.png>)
-* Hitrate\
-  ![](<../.gitbook/assets/Screenshot 2023-09-12 at 12.55.28.png>)
+![](<../.gitbook/assets/image (33).png>)
 
 </details>
 
 <details>
 
-<summary><code>/clan board {clan} {board}</code></summary>
+<summary><code>/clan war-log {clan} {option} {limit}</code></summary>
 
-Clan boards are a great way to overview clan members in a variety of ways, these can be refreshed with the refresh button. `{Limit}` can be used to only show the top X number of players
+Show the results of the last wars :
 
-* Activity\
-  ![](../.gitbook/assets/peak\_mini\_activitydonation\_board.png)
-* Legend Board\
-  ![](../.gitbook/assets/peak\_fiction\_legend\_board.png)
-* Trophies\
-  ![](../.gitbook/assets/peak\_mini\_trophy\_board.png)
+![](<../.gitbook/assets/image (34).png>)
+
+</details>
+
+<details>
+
+<summary><code>/clan war-preference {clan} {option}</code></summary>
+
+Show current war preferences for each members.\
+![](<../.gitbook/assets/image (40).png>)
+
+`{option}` allows you to see when was the last time a member participated in a war and when did they change their war status for the last time.
 
 </details>

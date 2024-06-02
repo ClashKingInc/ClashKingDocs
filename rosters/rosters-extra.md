@@ -1,4 +1,4 @@
-# Rosters Extra
+# 😍 Rosters Extra
 
 These are just a few uses of rosters that don't fit else where.
 
@@ -35,5 +35,13 @@ You are able to search for a list of rosters that a discord user or specific acc
   ![](<../.gitbook/assets/Screenshot 2023-09-09 at 22.27.13.png>)
 * `{player}` displays a single accounts rosters they are currently in\
   ![](<../.gitbook/assets/Screenshot 2023-09-09 at 22.31.01.png>)
+
+</details>
+
+<details>
+
+<summary>Set a timer</summary>
+
+With `/roster time {roster} {timezone} {remove}`, you can set a deadline to the roster. You can use it with `/reminders create` (see [reminders.md](../server-setups/reminders.md "mention")).
 
 </details>

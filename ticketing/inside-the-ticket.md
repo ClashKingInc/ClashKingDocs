@@ -2,7 +2,7 @@
 description: Actions you can perform inside a ticket
 ---
 
-# Inside the Ticket
+# 🎫 Inside the Ticket
 
 ## Ticket Messages
 
@@ -43,4 +43,4 @@ Well, now you can automate that, and it supports replacement conventions! Here a
 The replacement conventions with "clan" in the name, will require the "Set Clan" button to be used, so it knows what clan it is dealing with
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>

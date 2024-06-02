@@ -1,4 +1,4 @@
-# Strikes
+# 😠 Strikes
 
 Strikes is a way of keeping track of warnings given to members. These can be given roll over periods just like bans however behave slightly differently which will be explained.
 

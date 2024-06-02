@@ -1,2 +1,0 @@
-# Clan Setup & Log Settings
-

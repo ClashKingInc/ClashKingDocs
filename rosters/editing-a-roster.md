@@ -1,4 +1,4 @@
-# Editing a Roster
+# ✏️ Editing a Roster
 
 Rosters can be customised quite heavily to suit your needs. This page will show the possible ways to make the make the most of rosters.
 
@@ -75,5 +75,5 @@ There are a few ways you can edit the appearance of the roster when posted or us
 </details>
 
 {% hint style="info" %}
-If told that 'manage guild' permission are required then the user carrying out the command needs to have the manage server permission in discord or the command needs to be whitelisted. More info via [whitelist.md](../settings/whitelist.md "mention")
+If told that 'manage guild' permission are required then the user carrying out the command needs to have the manage server permission in discord or the command needs to be whitelisted. More info via [whitelist.md](../server-setups/whitelist.md "mention")
 {% endhint %}

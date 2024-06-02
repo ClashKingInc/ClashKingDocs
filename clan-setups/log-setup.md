@@ -14,17 +14,57 @@ The channel field on any of the setup commands is optional. If you don't set a s
 Note these options will be slightly different in the command, i.e Join/Leave Log is actually 2 logs. You can choose to set up either or both.
 {% endhint %}
 
-* **Clan Capital Log** - Logs all clan capital donations & raids. It **cannot** show where the gold was donated unfortunately (not given by the API)
-* **Join/Leave Log** - Log of Clan Member Joins & Leaves
+<details>
+
+<summary><strong>Clan Capital Log</strong></summary>
+
+Logs all clan capital donations & raids. It **cannot** show where the gold was donated unfortunately (not given by the API).
+
+</details>
+
+<details>
+
+<summary><strong>Join/Leave Log</strong></summary>
+
+&#x20;Log of Clan Member Joins & Leaves
+
+</details>
 
 {% hint style="info" %}
 A unique feature of this Join/Leave log is that it shows _where_ the player goes after they leave. Helpful if you need to see if a member moved to another family clan or maybe went to a rival?!
 {% endhint %}
 
-* **War Log/Panel** - Shows War Start, End, Prep, Attacks, & Missed Hits along with a Result Overview. _Panel_ sends one message and then updates it as the war goes along. _Log_ sends a message for every attack and event in the war.&#x20;
-* **Legend Log** - Log of each legend attack & defense done in your clan
-* **Clan Log** - Log of clan member upgrades (spell, hero, pet, troop, sieges & TH) along with Name & Trophy League Changes
-* **Donation Log** - Log of donations given & received in the clan. It **cannot** show which troops were donated (not given by API)
+<details>
+
+<summary><strong>War Log/Panel</strong></summary>
+
+Shows War Start, End, Prep, Attacks, & Missed Hits along with a Result Overview. _Panel_ sends one message and then updates it as the war goes along. _Log_ sends a message for every attack and event in the war.&#x20;
+
+</details>
+
+<details>
+
+<summary>Legend Log</summary>
+
+Log of each legend attack & defense done in your clan
+
+</details>
+
+<details>
+
+<summary><strong>Clan Log</strong></summary>
+
+Log of clan member upgrades (spell, hero, pet, troop, sieges & TH) along with Name & Trophy League Changes
+
+</details>
+
+<details>
+
+<summary><strong>Donation Log</strong></summary>
+
+Log of donations given & received in the clan. It **cannot** show which troops were donated (not given by API)
+
+</details>
 
 {% hint style="warning" %}
 The logs update approximately every 5-10 minutes. This value may go down in the future but is never significantly higher.

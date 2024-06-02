@@ -1,2 +1,0 @@
-# Boosted Super Troops
-
