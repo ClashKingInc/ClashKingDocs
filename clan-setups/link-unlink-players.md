@@ -46,7 +46,7 @@ This si to send a [welcome-messages.md](../server-setups/welcome-messages.md "me
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Example of how to use the link command for someone else. Do not really use @ClashKing it's just an example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Example of how to use the link command for someone else. Do not really use @ClashKing it's just an example</p></figcaption></figure>
 
 {% hint style="info" %}
 Using the /link command might be not easy for everyone. I suggest you to use a panel with a link button so your server members can link themselves more easily. Please take a look at [buttons.md](../utility/buttons.md "mention")
@@ -56,7 +56,7 @@ Using the /link command might be not easy for everyone. I suggest you to use a p
 
 To unlink a player, you just need to run the `/unlink` command with the player tag of the user you want to unlink.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of the use of /unlink command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of the use of /unlink command</p></figcaption></figure>
 
 
 

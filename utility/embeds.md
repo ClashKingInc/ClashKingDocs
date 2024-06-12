@@ -8,19 +8,19 @@ To put an embed onto the bot, there is 2 options. Option 1 is from scratch and O
 
 ## Creating: Option 1  (creating a new embed)
 
-Head to this site -> [https://glitchii.github.io/embedbuilder/](https://glitchii.github.io/embedbuilder/) and you will see something like this:
+Head to [discohook ](https://discohook.org/?data=eyJtZXNzYWdlcyI6W3siZGF0YSI6eyJjb250ZW50IjoidGhpcyBpcyBhbiBleGFtcGxlIiwiZW1iZWRzIjpbeyJ0aXRsZSI6IndpdGggYW4gZW1iZWQiLCJkZXNjcmlwdGlvbiI6Imxpa2UgdGhpcy4gZ29vZCBsdWNrISIsImNvbG9yIjpudWxsfV0sImF0dGFjaG1lbnRzIjpbXX19XX0)and you will see something like this:
 
-<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
 
 Create your embed with whatever options you would like: message content, embed colors, multiple embeds, etc. The right will show a preview as you edit.\
 \
-When done, click the 3 dot menu button and click "Get URL with data link"
+When done, click "Share Message", then "Copy Link" in the next popup
 
-<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Getting the data link url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Getting the url</p></figcaption></figure>
 
-It may have a confirmation message, click ok, and now it is saved to your clipboard. Now head back to discord.\
+It is now saved to your clipboard. Now head back to discord.\
 \
-Now just run `/embed create`, choose a name to identify the embed later and for the data\_link field, paste in that link you copied. Now your embed is created!
+Now just run `/embed create`, choose a name to identify the embed later and for the `discordhook_url` field, paste in that link you copied. Now your embed is created!
 
 ## Creating: Option 2 (copying an existing embed)
 
@@ -33,7 +33,7 @@ That will save the message link to your clipboard. Now head to a channel you can
 
 ## Editing an Embed
 
-Use the command `/embed edit`. If you specify only the `name` field, then the bot will return a link that you can directly edit your embed from. When done editing, follow the steps in [Creating: Option 1](embeds.md#creating-option-1-creating-a-new-embed), and copy the data link to your clipboard. Then run `/embed edit` again with the new `data_link` and now your embed is updated with whatever changes you made.
+Use the command `/embed edit`. If you specify only the `name` field, then the bot will return a link that you can directly edit your embed from. When done editing, follow the steps in [Creating: Option 1](embeds.md#creating-option-1-creating-a-new-embed), and copy the data link to your clipboard. Then run `/embed edit` again with the new `discohook_url` and now your embed is updated with whatever changes you made.
 
 ## Using your embed
 

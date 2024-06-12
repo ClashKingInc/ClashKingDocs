@@ -10,7 +10,7 @@ The `/setup server` allows you to set the basis on how the bot will behave in yo
 
 When you ban someone with the `/ban` command (see [bans.md](../punishment-management/bans.md "mention")), it will automatically send a message in the channel you choose.
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 
 </details>
 
