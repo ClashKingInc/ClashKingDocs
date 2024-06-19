@@ -31,7 +31,7 @@ Allows you to provide a role every leader/co-leaders of your clan will be provid
 </details>
 
 {% hint style="info" %}
-The @everyone role can't be chosen as a member\_role or leadership\_role.
+The @/everyone role can't be chosen as a member\_role or leadership\_role.
 {% endhint %}
 
 <details>

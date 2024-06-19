@@ -42,7 +42,7 @@ Each tracking period (approx 3 mins) that one of these is found, +1 is added to 
 
 <summary>The bot's emoji's aren't working?</summary>
 
-The server _@everyone_ role has to have the “use external emojis” permission.
+The server _@/everyone_ role has to have the “use external emojis” permission.
 
 </details>
 
