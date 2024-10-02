@@ -4,81 +4,70 @@ description: There are currently 5 reminder types
 
 # 📳 Reminders
 
-To get started with reminders there are 2 commands -> `/reminders create` and `/reminders edit`
+## The goal
 
-## Type of reminders
+Remind your clan mate to not forget what they have to do in the game !
 
-<details>
+{% hint style="info" %}
+If you are curious what these reminders look like, they are all on demo in the [support server.](https://discord.gg/clashking) You can also click on the name of the log type to be redirected to an example.
+{% endhint %}
 
-<summary>War &#x26; CWL</summary>
+## The commands
 
-Ping users that have remaining attacks X hours before the end of the war (48h max)
+To create new reminders, you must use the `/reminder create` command.
 
-</details>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
-<details>
+You can also use :&#x20;
 
-<summary>Clan Capital</summary>
+* &#x20;`/reminder list` to see the reminders you already set.
+* `/reminder edit` to modify or delete a reminder you already created.
+* \``/reminder manual` to ping your clan mate right now !
+
+## The parameters
+
+### Required
+
+* `type:` Choose between war & CWL,Clan Capital, Inactivity, Clan Games and Roster.
+* `time_left` : Time remaining before pinging your clan mates.
+
+### Optional
+
+`channel:` The channel you want the ping to be sent to.If you don't set a channel, the ping will be send in the channel the command was run in.
+
+## Reminders type
+
+On this section we will explain the different reminders type.
+
+{% hint style="danger" %}
+For now only the war & CWL reminders are working. Other reminders will be reactivated soon. Stay tuned !
+{% endhint %}
+
+#### War & CWL
+
+Ping users that have remaining attacks X hours before the end of the war (48h max). Gif can be used.
+
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
+
+#### **Use cases :**&#x20;
+
+* Remind them during prep days to fill clan castles,&#x20;
+* Inform them that the war started,
+* Remind them to attack when there's only a few hour left.
+
+### Clan capital
 
 Remind people to use their raids attacks if not done yet.
 
-</details>
-
-<details>
-
-<summary>Inactivity</summary>
+### Inactivity
 
 Ping people who has been inactive for X days.
 
-</details>
-
-<details>
-
-<summary>Clan Games</summary>
+### Clan Games
 
 Remind people to participate to the clan game if they are under a certain amount of points.
 
-</details>
+### Roster
 
-<details>
-
-<summary>Roster</summary>
-
-Ping people when a roster is about to end (see [rosters-extra.md](../rosters/rosters-extra.md "mention")).
-
-</details>
-
-## Manage reminders
-
-<details>
-
-<summary>Set up reminders</summary>
-
-`/reminders create`
-
-![](<../.gitbook/assets/image (11).png>)
-
-You will be given the 5 options above and the ability to select the times for the reminders + what channel you'd like them sent.&#x20;
-
-![](<../.gitbook/assets/image (13).png>)
-
-Once in, you'll be able to select several filters, any custom text, and for which clans you want reminders to be sent/pinged.&#x20;
-
-</details>
-
-<details>
-
-<summary>Edit/Remove reminders</summary>
-
-`/reminders edit`
-
-Starts off by having you choose a clan + reminder group to edit (war, capital, etc). Once you choose, you'll be greeted by.
-
-![](<../.gitbook/assets/image (14).png>)
-
-From here you can choose the individual reminder to edit and you'll be able to do the same filters you did when you created the reminder - or delete it if you choose.
-
-![](<../.gitbook/assets/image (15).png>)
-
-</details>
+Ping people when a roster is about to end (see [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
 

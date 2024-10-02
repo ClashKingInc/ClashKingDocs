@@ -1,41 +1,80 @@
 # 🔘 Buttons
 
-The `/button` command allows you to add buttons under an embed.
+## The goal
+
+This command provides a way to add one or more buttons under an embeds. It can also allows you to send a specific embed when people join one of your clan, so you don't have to do it yourself ! There is currently 5 buttons available and you can select up to 4 buttons.
 
 {% hint style="info" %}
-If you do not know what is an embed and how to create one, please take a look at [embeds.md](embeds.md "mention")
+If you don't know what is an embed and how to create one with ClashKing, check [embeds.md](embeds.md "mention")
 {% endhint %}
 
-Thanks to that, you can use a command without writing it.
+## The command
 
-You can add up to 4 buttons under one embed among 5 choices :&#x20;
+The command is `/buttons`
 
-<figure><img src="../.gitbook/assets/image (81).png" alt="" width="388"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## Link Button
+{% hint style="info" %}
+Before running that command, you need to create an [embeds.md](embeds.md "mention")
+{% endhint %}
 
-This button allows you to link a CoC account to your discord account (see [link-unlink-players.md](../clan-setups/link-unlink-players.md "mention"))
+## The parameters
+
+### Required
+
+No parameters is required.
+
+### Optionnal
+
+* **embed :** Choose the [embeds.md](embeds.md "mention") you want to add buttons to. If you don't select an embed, an embed will be created depending on what buttons you chose.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Embed by default for Link account buttons</p></figcaption></figure>
+
+* **button\_color :** Choose between blue, green, grey and red. Default color is grey.
+* **on\_welcome\_channel :** you can choose a channel on which the embed (with buttons or not) will be sent to every time someone join your Discord server. Only one embed can be set, so if you set a new one, it will replace the current one.&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Example of embeds sent every time a user join the discord server</p></figcaption></figure>
+
+{% hint style="danger" %}
+For now there is no way to de activate the welcom message. If you want to remove it, create a new channel, set a welcom message on it, and delete the channel.
+{% endhint %}
+
+## Buttons type
+
+Once you sent the command, you will be able to choose up to 4 buttons between those 5.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Link Button
+
+This button allows you to link a CoC account to your discord account (see [link-players.md](../clan-setups/link-players.md "mention"))
 
 <figure><img src="../.gitbook/assets/image (83).png" alt="" width="416"><figcaption><p>Link account pop up</p></figcaption></figure>
 
-## Link help button
+### Link help button
 
 This button displays a tutorial to show how to link a player and how to find the API token.
 
 <figure><img src="../.gitbook/assets/image (84).png" alt="" width="322"><figcaption></figcaption></figure>
 
-## Refresh roles
+### Refresh roles
 
-The title is pretty clear, it allows you to refresh your roles if the bot didn't gave you a new role (yet).
+The title is pretty clear, it allows you to refresh your roles if the bot didn't gave you a new role (yet).&#x20;
 
-## To-Do List
+### To-Do List
 
 Shows what you have to do today on all your accounts. This includes Legends hits, Raids hits, Clan Games points, Season Pass points, Capital donations and Inactivity.
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-## Roster
+### Roster
 
-Shows the rosters your accounts are currently in.
+Shows all the rosters your accounts are currently in.
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+
+## Once your done
+
+Once you selected the buttons, if you didn't set `on_welcome_channel`, the embed will automatically be sent to the channel you run the command.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>

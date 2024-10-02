@@ -10,13 +10,13 @@ To put an embed onto the bot, there is 2 options. Option 1 is from scratch and O
 
 Head to [discohook ](https://discohook.org/?data=eyJtZXNzYWdlcyI6W3siZGF0YSI6eyJjb250ZW50IjoidGhpcyBpcyBhbiBleGFtcGxlIiwiZW1iZWRzIjpbeyJ0aXRsZSI6IndpdGggYW4gZW1iZWQiLCJkZXNjcmlwdGlvbiI6Imxpa2UgdGhpcy4gZ29vZCBsdWNrISIsImNvbG9yIjpudWxsfV0sImF0dGFjaG1lbnRzIjpbXX19XX0)and you will see something like this:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
 
 Create your embed with whatever options you would like: message content, embed colors, multiple embeds, etc. The right will show a preview as you edit.\
 \
 When done, click "Share Message", then "Copy Link" in the next popup
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Getting the url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Getting the url</p></figcaption></figure>
 
 It is now saved to your clipboard. Now head back to discord.\
 \
@@ -27,7 +27,7 @@ Now just run `/embed create`, choose a name to identify the embed later and for 
 Step 1 is to locate the embed you are copying on discord. Then, right click the embed and click Copy Message Link\
 
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption><p>Copying Message Link</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption><p>Copying Message Link</p></figcaption></figure>
 
 That will save the message link to your clipboard. Now head to a channel you can run ClashKing commands in and open up`/embed clone`, fill in the name field with a unique identifier so you can use it later and in the message\_link field paste in the link you copied earlier. Run the command & now you have cloned that embed!
 

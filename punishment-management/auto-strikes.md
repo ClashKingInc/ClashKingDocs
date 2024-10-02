@@ -1,3 +1,0 @@
-# 🛎️ Auto strikes
-
-Coming soon

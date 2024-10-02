@@ -1,20 +1,22 @@
 # ⬜ Whitelist
 
-## Add user/role
+## The goal
 
-If you want to give a specific user or role access to one command, you can use `/whitelist add {ping} {command}`\
-\
-If you want to give a role access to all the bot commands, please use the `/server setup {full_whitelist_role}` command (see [Broken link](broken-reference "mention")).
+Gives a specific user or role access to one command.
 
-## Show whitelist
+{% hint style="info" %}
+You can give access to every commands to a role in [setup-a-server.md](setup-a-server.md "mention")(full\_whitelist\_role).
+{% endhint %}
 
-`/whitelist list` shows the users or roles that have access to a specific command.
+## The command
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+For that, you must use the `/whitelist add` command to add a role, the `/whitelist remove` command to remove a role, and the `/whitelist list` to display the list of commands that have whitelist overrides.
 
-## Remove user/role
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
-If you want to remove a specific user or role access to one command, you can use `/whitelist remove {ping} {command}`
+## The parameters
 
-If you want to remove a role access to all the bot commands, please use the `/server setup {full_whitelist_role}` command (see [Broken link](broken-reference "mention")).
+### Optional
 
+* `ping`: The role you want to give access to a command
+* `command`:  The command you want to give acces to

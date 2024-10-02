@@ -4,7 +4,13 @@ description: Frequently Asked Questions
 
 # ❓ FAQ
 
+<details>
 
+<summary>How do I set up the bot?</summary>
+
+You can set up the bot easily by following those steps : [quick-start.md](quick-start.md "mention")
+
+</details>
 
 <details>
 

@@ -43,7 +43,7 @@ Run /ticket apply. Here you will be presented with 4 options:
 *   Send Player Info (if green (on), will send a breakdown of the player's info when the ticket opens)\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>/ticket apply</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>/ticket apply</p></figcaption></figure>
 
 {% hint style="warning" %}
 One caveat to the entire ticket apply process is that it does require people's accounts to be linked to them. The bot does inform users of this if they end up trying to apply with no accounts, but it is on the server's side to set up a robust linking system using things like link buttons or the such. Not as a big a deal these days however, as a surprising amount of people are discord linked :smile:&#x20;
@@ -51,7 +51,7 @@ One caveat to the entire ticket apply process is that it does require people's a
 
 We can go further though, /ticket apply-rules allows us to filter out applicants on more than just townhall level. You can filter out by individual hero levels or war stars. This command explains how it works pretty well when ran, but here is what it looks like. Copy past the requirements, keeping the same format, edit them, just upload back (the one given is just a sample and not actually the default everyone is set to)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="479"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="479"><figcaption></figcaption></figure>
 
 ## Questions
 

@@ -15,4 +15,3 @@ If you might consider supporting the bot, the easiest way is to use our [creator
 If you have any questions or concerns, please join the [support server](https://discord.gg/clashking)\
 
 
-###

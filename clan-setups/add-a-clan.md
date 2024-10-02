@@ -4,55 +4,36 @@ description: Adding a clan is easy! Here is how to get started!
 
 # ➕ Add a Clan
 
-Assuming you have added the bot to your server, to Add a Clan you just need one command - `/addclan` \
-\
-**Inside this slash command there are 5 fields:**
+{% hint style="danger" %}
+Before adding a clan, make sure you [invited ClashKing Bot](https://invite.clashk.ing) first and give it admin perms.
+{% endhint %}
 
-<details>
+## The goal
 
-<summary>clan_tag</summary>
+Adding a clan to your server allows you to manage it directly from Discord. Once your clan is added, it will be tracked by our system, giving you clear insights into what’s happening within your clan and providing powerful tools to manage it efficiently.
 
-This is the unique tag used to identify a clan. It can be found in-game underneath the clan name. (pic below as an example)
+## The command
 
-&#x20;![](https://media.discordapp.net/attachments/923767060977303552/1059695674578440202/IMG\_0657.png)
+For that, you must use the `/addclan` command.
 
-</details>
+{% hint style="info" %}
+Before running that command, you need to create a membership role (and optionally a leadership role) from your discord server if you do not have one already. For example : @/member (and @/coleader)
+{% endhint %}
 
-<details>
+## The parameters
 
-<summary>category</summary>
+### Required
 
-This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or Event clans. You can use one of the preset options (pictured) or type your own.
+* `clan_tag` : This is the unique tag used to identify a clan. It can be found in-game underneath the clan name.&#x20;
+* `category`: This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or Event clans. You can use one of the preset options (**General, Feeder, War, Esport**) or type your own.
+* `member_role`: The role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.
+* `clan_channel`: This channel should be one of the channel your clan mates has access to. This is where the bot will send welcome messages.
 
-&#x20;![](https://media.discordapp.net/attachments/923767060977303552/1059696678648696832/image.png)
+### Optional
 
-</details>
+`leadership_role`: The role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.
 
-<details>
-
-<summary>member_role &#x26; leadership_role</summary>
-
-These two are best explained together. The very core of the bot is about family management, specifically roles. This has been here since the beginning. You may or may not use it, but I have made it mandatory on setup to introduce it and have it ready if you do decide to use the very handy role management that ClashKing provides.\
-\
-_Member Role_ is the role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.\
-\
-_Leadership Role_ is the role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.\
-\
-Typical/suggested naming is something like _@Clan Members_ and _@Clan Leadership_\
-\
-You may be wondering why there is no elder role, and co-leader/leader is "merged". We'll get into that in the Eval Portion of this guide.
-
-</details>
-
-<details>
-
-<summary>clan_channel</summary>
-
-Goal of this setup is to get a few channels & roles set up for your server. So here we need a clan channel, where you would probably put the people from the previous general\_clan\_role into. Or in other words, a channel where you clan members would go.\
-\
-Why? What does this do? The bot sends ban alerts for your clan & link welcome messages. It's not spammy whatsoever.
-
-</details>
+## Once you're done
 
 After filling these in, you should get a success message showing what you have set up. \
 You can continue with setting up some logs or other setups, but this alone will let you use a large portion of the "static" commands & will start tracking wars, donations, activity & more for your clan!

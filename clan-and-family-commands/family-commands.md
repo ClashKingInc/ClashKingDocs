@@ -21,7 +21,7 @@ There are a couple different options that you are able to view the top 50 member
 
 Show top 50 active members of the family with a graph showing total activity by clan.
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 </details>
 
@@ -156,11 +156,11 @@ A way to view total trophies in either main, builder or clan capital\
 
 Show members of a clans family sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42) (1).png>)
 
 Example for members sorted by attacks won :&#x20;
 
-![](<../.gitbook/assets/image (41).png>)
+![](<../.gitbook/assets/image (41) (1).png>)
 
 </details>
 
