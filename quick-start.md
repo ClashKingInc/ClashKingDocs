@@ -1,13 +1,13 @@
 ---
+icon: flag-checkered
 description: >-
   Here we will explain step by step how to set up the bot for the first time on
   your server.
-icon: flag-checkered
 ---
 
 # Quick start
 
-## Recommanded set up
+## Recommended set up
 
 **Step 0 -** [**Add the bot**](https://clashk.ing)
 
@@ -27,7 +27,7 @@ icon: flag-checkered
 
 
 
-## Optionnal but really useful
+## Optional but really useful
 
 **Step 8 -**[ **Setup a pannel to help your clan mates link their account**](utility/buttons.md) **(static or welcome message)**
 
@@ -54,5 +54,5 @@ icon: flag-checkered
 
 
 {% hint style="info" %}
-Once you set up the bot, we suggest that you take a look at [Broken link](broken-reference "mention")section.
+Once you set up the bot, we suggest that you take a look at [Broken link](broken-reference "mention") section.
 {% endhint %}
