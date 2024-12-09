@@ -30,9 +30,6 @@ If you link someone by mistake, you can use the [unlink-players.md](unlink-playe
 The API token is required only if set by the clan staff (see [setup-a-server.md](../server-setups/setup-a-server.md "mention")), or if the account is already linked to someone else.
 {% endhint %}
 
-`greet`: This si to send a [Broken link](broken-reference "mention")to the user once linked.
+`greet`: This is to send a greeting message to the user once linked.
 
-
-
-
-
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
