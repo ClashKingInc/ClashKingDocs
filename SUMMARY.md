@@ -3,6 +3,7 @@
 * [👋 Welcome to ClashKing!](README.md)
 * [Quick start](quick-start.md)
 * [❓ FAQ](faq.md)
+* [📱 Mobile App](mobile-app.md)
 
 ## Clan Setups
 

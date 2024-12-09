@@ -25,6 +25,8 @@ description: >-
 
 **Step 7 -** [**Autorefresh**](players-roles/auto-refresh.md) **(Automatically give roles/name to user depending on their status in the clan)**
 
+**Bonus -** [**Download our Mobile App**](https://app.gitbook.com/o/vUQyHI2yDoT9gndEKG5F/s/iSJhS5UxZkjOhR5eSxhS/~/changes/74/mobile-app)
+
 
 
 ## Optional but really useful
