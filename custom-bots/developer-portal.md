@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # 💻 Developer Portal
 
 To get started with creating a discord bot you will have to create the underlying bot. Kinda like you create a discord account and that is your profile, you are making a bot profile.\
 \
-So to get started we will have to go to the discord developer portal. [This link](https://discord.com/developers/applications?new\_application=true) will take you there.\
+So to get started we will have to go to the discord developer portal. [This link](https://discord.com/developers/applications?new_application=true) will take you there.\
 \
 After you sign in, you should see something like the below.
 

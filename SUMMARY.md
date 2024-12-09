@@ -96,4 +96,3 @@
 
 * [🏗️ Autoboards](coming-soon/autoboards.md)
 * [📸 Screenshot](coming-soon/screenshot.md)
-* [🆙 Upgrades](coming-soon/upgrades.md)

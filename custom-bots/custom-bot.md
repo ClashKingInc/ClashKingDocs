@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🤖 Custom bot
 
 ## What is a custom bot?

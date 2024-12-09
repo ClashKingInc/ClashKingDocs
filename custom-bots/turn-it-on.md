@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Turn it on!
 
 So if you are here, you should have done everything in the [Developer Portal](developer-portal.md) Guide and should have your bot token and bot invite link (don't use this just _yet_).\
