@@ -1,3 +1,0 @@
-# 📸 Screenshot
-
-Coming soon !

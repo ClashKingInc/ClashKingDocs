@@ -21,6 +21,7 @@
 * [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
 * [📳 Reminders](server-setups/reminders.md)
 * [🏹 Link parse](server-setups/link-parse.md)
+* [🏗️ Autoboards](server-setups/autoboards.md)
 * [ℹ️ Others](server-setups/others.md)
 
 ## Players Roles
@@ -91,8 +92,3 @@
 * [🤖 Custom bot](custom-bots/custom-bot.md)
 * [💻 Developer Portal](custom-bots/developer-portal.md)
 * [🟢 Turn it on!](custom-bots/turn-it-on.md)
-
-## Coming soon !
-
-* [🏗️ Autoboards](coming-soon/autoboards.md)
-* [📸 Screenshot](coming-soon/screenshot.md)
