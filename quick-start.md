@@ -31,7 +31,7 @@ Get notified for wars, CWL, inactivity, clan games, raids, and rosters.
 **Step 7** - 🔄 [**Enable auto-refresh**](players-roles/auto-refresh.md)\
 Automatically assign roles and names to users based on their clan status.
 
-**Bonus** - 📱 [**Download our Mobile App**](mobile-app.md)\
+**Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
 Take ClashKing wherever you go with our dedicated mobile app!
 
 ***
