@@ -29,7 +29,6 @@
 
 * [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
   * [👨‍👩‍👧‍👧 Family Roles](players-roles/roles-th-and-more/family-roles.md)
-  * [⭐ Achievements Roles](players-roles/roles-th-and-more/achievements-roles.md)
   * [🔨 Builder League Roles](players-roles/roles-th-and-more/builder-league-roles.md)
   * [⚒️ Builder Hall Roles](players-roles/roles-th-and-more/builder-hall-roles.md)
   * [🥂 Clan Category Role](players-roles/roles-th-and-more/clan-category-role.md)

@@ -14,33 +14,33 @@ If you are curious what these reminders look like, they are all on demo in the [
 
 ## The commands
 
-To create new reminders, you must use the `/reminder create` command.
+To create new reminders, you must use the `/reminders create` command.
 
 <figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 You can also use :&#x20;
 
-* &#x20;`/reminder list` to see the reminders you already set.
-* `/reminder edit` to modify or delete a reminder you already created.
-* \``/reminder manual` to ping your clan mate right now !
+* &#x20;`/reminders list` to see the reminders you already set.
+* `/reminders edit` to modify or delete a reminder you already created.
+* `/reminders manual` to ping your clan mate right now!
 
 ## The parameters
 
 ### Required
 
 * `type:` Choose between war & CWL,Clan Capital, Inactivity, Clan Games and Roster.
-* `time_left` : Time remaining before pinging your clan mates.
+* `time_left` : Time remaining before pinging your clan mates. Use commas to enter multiple times.
 
 ### Optional
 
-`channel:` The channel you want the ping to be sent to.If you don't set a channel, the ping will be send in the channel the command was run in.
+`channel:` The channel you want the ping to be sent to.If you don't set a channel, the ping will be sent in the channel the command was run in.
 
 ## Reminders type
 
 On this section we will explain the different reminders type.
 
 {% hint style="danger" %}
-For now only the war & CWL reminders are working. Other reminders will be reactivated soon. Stay tuned !
+For now only the war & CWL reminders are working. Other reminders will be reactivated soon. Stay tuned!
 {% endhint %}
 
 #### War & CWL
