@@ -8,9 +8,9 @@ To put an embed onto the bot, there is 2 options. Option 1 is from scratch and O
 
 ## Creating: Option 1  (creating a new embed)
 
-Head to [discohook ](https://discohook.org/?data=eyJtZXNzYWdlcyI6W3siZGF0YSI6eyJjb250ZW50IjoidGhpcyBpcyBhbiBleGFtcGxlIiwiZW1iZWRzIjpbeyJ0aXRsZSI6IndpdGggYW4gZW1iZWQiLCJkZXNjcmlwdGlvbiI6Imxpa2UgdGhpcy4gZ29vZCBsdWNrISIsImNvbG9yIjpudWxsfV0sImF0dGFjaG1lbnRzIjpbXX19XX0)and you will see something like this:
+Head to [discohook](https://discohook.app) and you will see something like this:
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Online embed creator &#x26; editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption><p>Default Discohook Page</p></figcaption></figure>
 
 Create your embed with whatever options you would like: message content, embed colors, multiple embeds, etc. The right will show a preview as you edit.\
 \
