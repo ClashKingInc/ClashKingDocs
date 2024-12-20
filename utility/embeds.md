@@ -16,7 +16,7 @@ Create your embed with whatever options you would like: message content, embed c
 \
 When done, click "Share Message", then "Copy Link" in the next popup
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Getting the url</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Getting the url</p></figcaption></figure>
 
 It is now saved to your clipboard. Now head back to discord.\
 \

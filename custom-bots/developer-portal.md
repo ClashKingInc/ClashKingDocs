@@ -10,7 +10,7 @@ So to get started we will have to go to the discord developer portal. [This link
 \
 After you sign in, you should see something like the below.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Create an Apllication Prompt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Create an Apllication Prompt</p></figcaption></figure>
 
 Fill it in with a name, it can be whatever you plan to name your bot. Agree with the terms of service and press create. Now you will see something like the below.\
 \

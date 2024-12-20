@@ -8,7 +8,7 @@ Do you know pepe ? You can make him hold a sign with anything you want on it!&#x
 
 ## The command
 
-`/pepe`
+`/pepe {sign_text} {hidden}`
 
 ## The parameters
 

@@ -72,7 +72,12 @@
 ## Player Commands
 
 * [🔍 Lookup](player-commands/lookup.md)
-* [🟣 Legends](player-commands/legends.md)
+* [🟣 Legends](player-commands/legends/README.md)
+  * [Legends search](player-commands/legends/legends-search.md)
+  * [Legends clan](player-commands/legends/legends-clan.md)
+  * [Legends stats](player-commands/legends/legends-stats.md)
+  * [Legends history](player-commands/legends/legends-history.md)
+  * [Legends poster](player-commands/legends/legends-poster.md)
 * [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
 * [😎 User settings](player-commands/user-settings.md)
 * [🤔 To-do](player-commands/to-do.md)
