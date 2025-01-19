@@ -47,7 +47,7 @@ Once you sent the command, you will be able to choose up to 4 buttons between th
 
 ### Link Button
 
-This button allows you to link a CoC account to your discord account (see [link-players.md](../clan-setups/link-players.md "mention"))
+This button allows you to link a CoC account to your discord account (see [link-players](../clan-setups/link-players/ "mention"))
 
 <figure><img src="../.gitbook/assets/image (83).png" alt="" width="416"><figcaption><p>Link account pop up</p></figcaption></figure>
 

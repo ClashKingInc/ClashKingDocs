@@ -10,8 +10,8 @@
 * [➕ Add a Clan](clan-setups/add-a-clan.md)
 * [⚙️ Setup a clan](clan-setups/setup-a-clan.md)
 * [📄 Log Setup](clan-setups/log-setup.md)
-* [🔗 Link Players](clan-setups/link-players.md)
-* [👋 Unlink Players](clan-setups/unlink-players.md)
+* [🔗 Link Players](clan-setups/link-players/README.md)
+  * [👋 Unlink Players](clan-setups/link-players/unlink-players.md)
 * [ℹ️ Others](clan-setups/others.md)
 
 ## Server Setups
@@ -91,6 +91,7 @@
 * [🐸 Pepe](utility/pepe.md)
 * [Army links](utility/army-links.md)
 * [🖼️ Base links](utility/base-links.md)
+* [🎁 Giveaways](utility/giveaways.md)
 
 ## 🤖 Custom Bots
 

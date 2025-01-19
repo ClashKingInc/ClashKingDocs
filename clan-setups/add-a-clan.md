@@ -33,6 +33,10 @@ Before running that command, you need to create a membership role (and optionall
 
 `leadership_role`: The role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.
 
+{% hint style="info" %}
+You can remove a clan from the server with the `/removeclan` command!
+{% endhint %}
+
 ## Once you're done
 
 After filling these in, you should get a success message showing what you have set up. \

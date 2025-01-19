@@ -16,7 +16,7 @@ Link your Clash of Clans clan(s) to the bot.
 **Step 2** - ⚙️[ **Set up your clan(s)**](clan-setups/setup-a-clan.md)\
 Configure your clan(s) to get the most out of ClashKing.
 
-**Step 3** - 🔗 [**Link your clanmates**](clan-setups/link-players.md)\
+**Step 3** - 🔗 [**Link your clanmates**](clan-setups/link-players/)\
 Map Discord users to Clash of Clans players for better tracking.
 
 **Step 4** - 📝 [**Set up clan logs**](clan-setups/log-setup.md)\

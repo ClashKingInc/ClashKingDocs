@@ -47,7 +47,7 @@ No required parameters.
 {% endhint %}
 
 * `flair_non_family` : You can choose whether or not to give “flair” roles (townhall, league, etc) to non family members.
-* `api_token`: Choose if player has to give an api\_token when they use the `/link command` ([link-players.md](../clan-setups/link-players.md "mention")).
+* `api_token`: Choose if player has to give an api\_token when they use the `/link command` ([link-players](../clan-setups/link-players/ "mention")).
 * `leadership_eval`: You can choose if leader and co-leader should be excluded from eval settings (see [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention") & [auto-refresh.md](../players-roles/auto-refresh.md "mention"))
 * `full_whitelist_role`: Give the right to the users having this special role to run every bot commands. Use it with caution : "With great power comes great responsibility".
 * `embed_color`:  Choose the colors of the embed sent by the bot.

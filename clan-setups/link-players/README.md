@@ -2,7 +2,7 @@
 
 The goal
 
-To run correctly, the bot needs to know which discord users own each CoC account of your clan. This will for example allow it to give the member access to specific channel or ping them automatically with [reminders.md](../server-setups/reminders.md "mention")you set.
+To run correctly, the bot needs to know which discord users own each CoC account of your clan. This will for example allow it to give the member access to specific channel or ping them automatically with [reminders.md](../../server-setups/reminders.md "mention")you set.
 
 ## The command
 
@@ -27,9 +27,9 @@ If you link someone by mistake, you can use the [unlink-players.md](unlink-playe
 `api_token` : This is to prove that the account is yours. You can find this in the parameters of Clash Of Clans.&#x20;
 
 {% hint style="warning" %}
-The API token is required only if set by the clan staff (see [setup-a-server.md](../server-setups/setup-a-server.md "mention")), or if the account is already linked to someone else.
+The API token is required only if set by the clan staff (see [setup-a-server.md](../../server-setups/setup-a-server.md "mention")), or if the account is already linked to someone else.
 {% endhint %}
 
 `greet`: This is to send a greeting message to the user once linked.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
