@@ -21,7 +21,7 @@ You can also do it manually for army links and base links (see [army-links.md](.
 * `{clan_links}`: replace the clan link by an embed.&#x20;
 * `{base_links}`: replace the base link with an embed. This requires an image and optionally a description text.
 * `{show_parse}`: if turned on, it allows you to use -show PartOfTheNameOfOneOfYourClans to see an overview of this clan.
-* `{manage_whitelist}`:  disable the link-parsing in certain channels.
+* `{manage_whitelist}`:  enable the link-parsing only in certain channels.
 
 ## Examples
 
@@ -85,9 +85,11 @@ Have you added your clan to your Discord server (using [/addclan](../clan-setups
 
 <summary>Manage whitelist</summary>
 
-Do you want to disable link-parsing in certain channels? Use the optional `manage_whitelist` parameter to manage the whitelist. Link-parsing will only function in the channels you have added.
+Do you want to enable link-parsing only in certain channels? Use the optional `manage_whitelist` parameter to manage the whitelist. Link-parsing will only function in the channels you have added.
 
 ![](<../.gitbook/assets/image (143).png>)
+
+The red button will remove all whitelisted channels. To add a specific channel again, you will need to reselect all the whitelisted channels.
 
 </details>
 
