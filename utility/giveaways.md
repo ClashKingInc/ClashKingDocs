@@ -10,7 +10,7 @@ This feature is quite new! Report bugs or feature suggestions in [the discord!](
 
 ## Manage giveaways
 
-You can manage your giveaways using a webpage dashboard. You can get the link with the command `/giveaway dashboard`.&#x20;
+You can manage your giveaways using a webpage dashboard. You can get the link with the command `/giveaway dashboard`.  This link will expire 1 hour after you executed the command.
 
 {% hint style="info" %}
 You need the Manage Server perms to have acces to the dashboard. To grant access to others or a specific role (such as a giveaways manager), use the [**/whitelist add** ](../server-setups/whitelist.md)command
@@ -30,6 +30,14 @@ It is possible set certain requirements for the giveaways.  Those requirements w
 * User must have a Clash of Clans account linked to the ClashKing bot (using [/link](../clan-setups/link-players/))
 * Only allow users with a certain role to participate
 * Or adjust the odds for a certain role
+
+## Example of a giveaway
+
+<figure><img src="../.gitbook/assets/image (147).png" alt="" width="275"><figcaption><p>Example of a giveaway</p></figcaption></figure>
+
+{% hint style="info" %}
+The participate button will update 60 seconds after the last click.&#x20;
+{% endhint %}
 
 ## Reroll giveaways
 

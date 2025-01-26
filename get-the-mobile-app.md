@@ -23,6 +23,12 @@ We’re excited to announce that we’re working on a **dedicated mobile app** t
 
 ***
 
+#### **🌍 Help us translate!**
+
+You can help us by translating the app in your language on [Crowdin](https://crowdin.com/project/clashkingapp)!
+
+***
+
 #### **🔍 What’s Next?**
 
 We’re working hard to expand the app with even more features and tools in the coming updates. Your feedback is invaluable—let us know [here](https://clashkingapp.features.vote/board) what you’d like to see next!
