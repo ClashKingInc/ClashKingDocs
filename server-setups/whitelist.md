@@ -5,7 +5,7 @@
 Gives a specific user or role access to one command.
 
 {% hint style="info" %}
-You can give access to every commands to a role in [setup-a-server.md](setup-a-server.md "mention")(full\_whitelist\_role).
+You can give access to every commands to a role in [setup-a-server.md](setup-a-server.md "mention") (full\_whitelist\_role).
 {% endhint %}
 
 ## The command

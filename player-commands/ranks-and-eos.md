@@ -18,7 +18,7 @@ The `/ranked clans` command shows which clans are currently in the top 200 of yo
 
 ## Players region ranking
 
-The `/ranked best` command shows which members of your group are currently ranked in their region.
+The `/ranked players` command shows which members of your group are currently ranked in their region.
 
 <figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption><p>Show a player being ranked in France. Do not invite him I'll know it.</p></figcaption></figure>
 

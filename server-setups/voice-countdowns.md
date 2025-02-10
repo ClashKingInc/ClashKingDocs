@@ -24,7 +24,7 @@ A couple of notes:
 
 ### Optional
 
-`clan` : if you want to set specific countdowns for a clan (war score and timer)
+`clan`: if you want to set specific countdowns for a clan (war score and timer)
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="419"><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
 

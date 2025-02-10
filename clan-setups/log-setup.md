@@ -51,6 +51,7 @@ The logs update approximately every 5-10 minutes. This value may go down in the 
 * [**Member donation**](https://discord.com/channels/923764211845312533/1128185494497398834)**:** Send a message every time someone receive/give troops
 * **Clan achievements:** Send a message when the clan move up.
 * **Clan Requirements:** Send a message when clan settings has been modified.
+* **Clan Desciption**: Send a message when the clan description has been modified
 
 {% hint style="info" %}
 If you want to add ban/strike/profile buttons to player joining/leaving logs, see [setup-a-clan.md](setup-a-clan.md "mention").
@@ -61,11 +62,13 @@ If you want to add ban/strike/profile buttons to player joining/leaving logs, se
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 * [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)**:** A continuous log of war changes posted in a channel - attacks, defenses, war start, end, etc.
-* [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Send an embed pannel when a new war starts and update it in real time.
+* [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Send an embed panel when a new war starts and update it in real time.
 * **CWL Lineup Change**
 
+Setting both war log and war panel will result in double images of the result of the war. &#x20;
+
 {% hint style="warning" %}
-If you set up the log during a war, the logs won't be send until the next war.
+If you set up the log during a war, the logs won't be send until the next war. Your war log should also be "public".
 {% endhint %}
 
 ### Capital Logs
@@ -86,3 +89,9 @@ If you set up the log during a war, the logs won't be send until the next war.
 * [**Super Troop Boosts**](https://discord.com/channels/923764211845312533/1128185014773874770/1283545307875115010)**:** Send a message every time the player boost a troop (which one)
 * [**TrownHall Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283708036535291914)**:** Send a message every time the player upgrade their townHall (with new level)
 * [**League Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283508937324236954)**:** Send a message every time the player change league (indicate former league and new one)
+* Spell Upgrade
+* Hero Upgrade
+* Hero Equipment Upgrade
+* Name Change
+* Legend Attacks
+* Legend Defenses

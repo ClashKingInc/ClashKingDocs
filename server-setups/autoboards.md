@@ -54,6 +54,12 @@ Once set, the command will automatically run in the channel where you configured
 
 <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+There is currently no way to remove the Auto Post of autoboard with automation. A command will be added later. You can ask to remove an Auto Post automation in the discord support server.&#x20;
+{% endhint %}
+
+
+
 #### Auto Refresh
 
 An embed message will be sent and automatically refreshed every **30 to 60 minutes**. You’ll also see a timestamp at the bottom indicating when it was last updated.

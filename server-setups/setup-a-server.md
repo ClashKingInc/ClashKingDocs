@@ -1,9 +1,9 @@
 # ⚙️ Setup a server
 
-{% hint style="danger" %}
-You need to turn on `/setup autoeval {option}` to let the bot run correctly.
+{% hint style="warning" %}
+You need to turn on `/autorefresh options {state}` to let the bot run correctly.
 
-If the bot do not update content correctly, please check that autoeval is turned on.
+If the bot do not update content correctly, please check that the state is turned on.
 {% endhint %}
 
 ## The goal
