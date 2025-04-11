@@ -1,6 +1,6 @@
 # 👋 Welcome to ClashKing!
 
-## C'est quoi **ClashKing?**
+## What is **ClashKing?**
 
 ClashKing was created with **three main goals**:
 
