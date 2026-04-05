@@ -52,6 +52,18 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        indexDocs: true,
+        indexBlog: false,
+        docsRouteBasePath: '/',
+        language: ['en'],
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
@@ -71,8 +83,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/ClashKingInc/ClashKingDocs',
-          label: 'GitHub',
+          type: 'search',
           position: 'right',
         },
       ],
