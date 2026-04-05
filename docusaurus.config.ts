@@ -96,19 +96,19 @@ const config: Config = {
           items: [
             {
               label: 'Functies',
-              to: '/features',
+              href: 'https://clashk.ing/features',
             },
             {
               label: 'Hulp nodig?',
-              to: '/help',
+              href: 'https://clashk.ing/help',
             },
             {
               label: 'Open Source',
-              to: '/open-source',
+              href: 'https://clashk.ing/open-source',
             },
             {
               label: 'Steun ons',
-              to: '/support',
+              href: 'https://clashk.ing/support',
             },
           ],
         },
@@ -117,7 +117,7 @@ const config: Config = {
           items: [
             {
               label: 'Dashboard',
-              to: '/login',
+              href: 'https://clashk.ing/login',
             },
             {
               label: 'Nodig Bot Uit',
@@ -164,7 +164,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `De krachtigste Clash of Clans-bot voor Discord-communities.<br/>© ${new Date().getFullYear()} ClashKing. Alle rechten voorbehouden. · <a href="/privacy">Privacybeleid</a> · <a href="/terms">Servicevoorwaarden</a>`,
+      copyright: `De krachtigste Clash of Clans-bot voor Discord-communities.<br/>© ${new Date().getFullYear()} ClashKing. Alle rechten voorbehouden. · <a href="https://clashk.ing/privacy">Privacybeleid</a> · <a href="https://clashk.ing/terms">Servicevoorwaarden</a>`,
     },
     prism: {
       theme: prismThemes.github,
