@@ -8,7 +8,7 @@ Als je de inhoud van een selectie wilt wijzigen zonder een [post-a-roster-signup
 
 [#move-or-remove-players](manage-players.md#move-or-remove-players "mention")
 
-## Spelers toevoegen
+## Spelers toevoegen {#add-players}
 
 Dit is een eenvoudige manier om één persoon aan een rooster toe te voegen.
 
@@ -21,7 +21,7 @@ Gebruik `/roster add-player`&#x20;
 * `roster`: Rosternaam waaraan u de speler wilt toevoegen
 * `player`: naam of tag van de speler
 
-## Verplaats of verwijder spelers
+## Verplaats of verwijder spelers {#move-or-remove-players}
 
 Hiermee kunt u een speler tussen twee roosters verplaatsen of uit één rooster verwijderen.
 

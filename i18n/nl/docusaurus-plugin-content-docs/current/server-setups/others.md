@@ -1,6 +1,6 @@
 # ℹ️Anderen
 
-## Pas de bot aan
+## Pas de bot aan {#customize-the-bot}
 
 Wil je dat de bot verschijnt als een van je clanleden? Gebruik de opdracht `/set webhook-profile {picture} {name}` om de naam en profielfoto te wijzigen. Elke keer dat er logbestanden worden verzonden, worden deze naam en profielfoto gebruikt.
 

@@ -16,7 +16,7 @@ Voici ce que vous trouverez sur cette page :
 
 
 
-## Effacer ou supprimer une liste
+## Effacer ou supprimer une liste {#clear-or-delete-a-roster}
 
 ### La commande
 
@@ -33,7 +33,7 @@ Une liste qui a été supprimée ne peut pas être récupérée alors soyez prud
 
 
 
-## Actualisation de la liste
+## Actualisation de la liste {#roster-refresh}
 
 ### La commande
 
@@ -41,7 +41,7 @@ Une liste qui a été supprimée ne peut pas être récupérée alors soyez prud
 
 
 
-## Lister les listes
+## Lister les listes {#list-the-rosters}
 
 Afficher une liste de toutes les listes actives sur le serveur.
 
@@ -53,7 +53,7 @@ Utiliser `/roster list`
 
 
 
-## Rôles de la liste
+## Rôles de la liste {#roster-roles}
 
 Les rôles de liste sont d'une grande utilité et font exactement ce que vous attendez, attribuer un rôle à toutes les personnes d'une liste. Vous pouvez attribuer un rôle à une liste en effectuant `/roster role {roster} {role}`. Notez que le rôle doit être créé au préalable.
 :::info
@@ -95,7 +95,7 @@ La commande est votre amie avec les deux drapeaux facultatifs : :
 
 
 
-## Recherche de joueurs
+## Recherche de joueurs {#player-search}
 
 Vous pouvez rechercher une liste de listes appartenant à un utilisateur Discord ou à un compte spécifique.
 

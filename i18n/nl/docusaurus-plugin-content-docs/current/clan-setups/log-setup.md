@@ -41,7 +41,7 @@ In deze sectie leggen we de verschillende logtypes uit, met links naar een voorb
 De logboeken worden ongeveer elke 5-10 minuten bijgewerkt. Deze waarde kan in de toekomst dalen, maar is nooit significant hoger.
 :::
 
-### Clanlogboeken
+### Clanlogboeken {#clan-logs}
 
 <figure><img src="/img/gitbook/image (37).png" alt="" /><figcaption></figcaption></figure>
 
@@ -69,7 +69,7 @@ Het instellen van zowel het oorlogslogboek als het oorlogspaneel resulteert in d
 Als je het logboek tijdens een oorlog hebt aangemaakt, worden de logboeken pas bij de volgende oorlog verzonden. Je oorlogslogboek moet ook "openbaar" zijn.
 :::
 
-### Kapitaallogboeken
+### Kapitaallogboeken {#capital-logs}
 
 <figure><img src="/img/gitbook/image (40).png" alt="" /><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ Als je het logboek tijdens een oorlog hebt aangemaakt, worden de logboeken pas b
 * [**Capital Panel**](https://discord.com/channels/923764211845312533/1129404852385087498)**:** Automatisch bijgewerkt paneel van raid-weekendinformatie
 * **Capital Weekly Summary:** Stuur het resultaat van de raids aan het einde van het weekend zoals weergegeven in het spel.
 
-### Spelerslogboeken
+### Spelerslogboeken {#players-logs}
 
 <figure><img src="/img/gitbook/image (41).png" alt="" /><figcaption></figcaption></figure>
 

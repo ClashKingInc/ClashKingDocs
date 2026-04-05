@@ -40,7 +40,7 @@ Dans cette section, nous expliquerons les différents types de journaux, avec de
 Les journaux sont mis à jour environ toutes les 5 à 10 minutes. Cette valeur peut diminuer à l’avenir mais n’est jamais significativement plus élevée.
 :::
 
-### Journaux du clan
+### Journaux du clan {#clan-logs}
 
 <figure><img src="/img/gitbook/image (37).png" alt="" /><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ La définition du journal de guerre et du panneau de guerre entraînera des imag
 Si vous configurez le journal pendant une guerre, les journaux ne seront envoyés qu'à la prochaine guerre. Votre journal de guerre doit également être "public".
 :::
 
-### Journaux du capital
+### Journaux du capital {#capital-logs}
 
 <figure><img src="/img/gitbook/image (40).png" alt="" /><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ Si vous configurez le journal pendant une guerre, les journaux ne seront envoyé
 * [**Capital Panel**](https://discord.com/channels/923764211845312533/1129404852385087498)** :** Panneau de mise à jour automatique des informations du week-end de raid
 * **Résumé hebdomadaire de la capitale :** Envoyez le résultat des raids à la fin du week-end tel qu'affiché dans le jeu.
 
-### Journaux des joueurs
+### Journaux des joueurs {#players-logs}
 
 <figure><img src="/img/gitbook/image (41).png" alt="" /><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # ℹ️ Autres
 
-## Personnalisez le bot
+## Personnalisez le bot {#customize-the-bot}
 
 Voulez-vous que le bot apparaisse comme l’un des membres de votre clan ? Utilisez la commande `/set webhook-profile {picture} {name}` pour modifier son nom et sa photo de profil. Il utilisera ce nom et cette photo de profil chaque fois qu’il enverra des journaux.
 

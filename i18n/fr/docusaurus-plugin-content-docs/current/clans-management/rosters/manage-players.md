@@ -8,7 +8,7 @@ Si vous souhaitez modifier le contenu d'une liste sans utiliser de [post-a-roste
 
 [#move-or-remove-players](manage-players.md#move-or-remove-players "mention")
 
-## Ajouter des joueurs
+## Ajouter des joueurs {#add-players}
 
 C’est un moyen simple d’ajouter une seule personne à une liste.
 
@@ -21,7 +21,7 @@ Utilisez `/roster add-player`&#x20;
 * `roster` : nom de la liste à laquelle vous souhaitez ajouter le joueur
 * `player` : nom ou tag du joueur
 
-## Déplacer ou supprimer des joueurs
+## Déplacer ou supprimer des joueurs {#move-or-remove-players}
 
 Il permet de déplacer un joueur entre deux rosters ou de le supprimer d'un seul.
 

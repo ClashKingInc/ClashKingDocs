@@ -16,7 +16,7 @@ Dit is wat je op deze pagina kunt vinden:
 
 
 
-## Een rooster wissen of verwijderen
+## Een rooster wissen of verwijderen {#clear-or-delete-a-roster}
 
 ### Het commando
 
@@ -32,7 +32,7 @@ Een rooster dat is verwijderd, kan niet worden hersteld, dus wees voorzichtig
 
 
 
-## Rooster vernieuwen
+## Rooster vernieuwen {#roster-refresh}
 
 ### Het commando
 
@@ -40,7 +40,7 @@ Een rooster dat is verwijderd, kan niet worden hersteld, dus wees voorzichtig
 
 
 
-## Maak een lijst van de roosters
+## Maak een lijst van de roosters {#list-the-rosters}
 
 Toon een lijst met alle roosters die actief zijn op de server.
 
@@ -52,7 +52,7 @@ Gebruik `/roster list`
 
 
 
-## Roosterrollen
+## Roosterrollen {#roster-roles}
 
 Roosterrollen zijn een geweldig hulpmiddel en doen precies wat u verwacht: geef een rol aan alle mensen in een rooster. U kunt een rol aan een rooster toekennen door `/roster role {roster} {role}` uit te voeren. Let op: de rol moet vooraf worden aangemaakt.
 
@@ -96,7 +96,7 @@ Het commando is je vriend met de twee optionele vlaggen::
 
 
 
-## Speler zoeken
+## Speler zoeken {#player-search}
 
 U kunt zoeken naar een lijst met roosters van een onenigheidsgebruiker of een specifiek account.
 
