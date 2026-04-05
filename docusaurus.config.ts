@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ClashKing Docs',
   tagline: 'Guides and setup help for ClashKing',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logos/bot-app-logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -70,10 +70,10 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'ClashKing Docs',
+      title: 'ClashKing',
       logo: {
         alt: 'ClashKing Logo',
-        src: 'img/logo.svg',
+        src: 'img/logos/bot-app-logo.png',
       },
       items: [
         {
