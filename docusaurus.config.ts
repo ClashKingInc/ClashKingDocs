@@ -92,11 +92,61 @@ const config: Config = {
       style: 'light',
       links: [
         {
-          title: 'Docs',
+          title: 'Over',
           items: [
             {
-              label: 'Quick Start',
-              to: '/quick-start',
+              label: 'Functies',
+              to: '/features',
+            },
+            {
+              label: 'Hulp nodig?',
+              to: '/help',
+            },
+            {
+              label: 'Open Source',
+              to: '/open-source',
+            },
+            {
+              label: 'Steun ons',
+              to: '/support',
+            },
+          ],
+        },
+        {
+          title: 'Bot',
+          items: [
+            {
+              label: 'Dashboard',
+              to: '/login',
+            },
+            {
+              label: 'Nodig Bot Uit',
+              href: 'https://invite.clashk.ing/',
+            },
+          ],
+        },
+        {
+          title: 'Bronnen',
+          items: [
+            {
+              label: 'Documentatie',
+              href: 'https://docs.clashk.ing',
+            },
+            {
+              label: 'Snelstartgids',
+              href: 'https://docs.clashk.ing/quick-start',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://git.clashk.ing/',
+            },
+            {
+              label: 'Meld een bug',
+              href: 'https://github.com/ClashKingInc/ClashKingBot/issues',
+            },
+            {
+              label: 'Vraag functie aan',
+              href: 'https://github.com/ClashKingInc/ClashKingBot/issues',
             },
           ],
         },
@@ -104,26 +154,17 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discord.com/invite/clashking',
+              label: 'Discord Server',
+              href: 'https://discord.clashk.ing/',
             },
             {
-              label: 'Mobile App',
-              to: '/get-the-mobile-app',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/ClashKingInc/ClashKingDocs',
+              label: 'X (Twitter)',
+              href: 'https://x.clashk.ing/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ClashKing. Built with Docusaurus.`,
+      copyright: `De krachtigste Clash of Clans-bot voor Discord-communities.<br/>© ${new Date().getFullYear()} ClashKing. Alle rechten voorbehouden. · <a href="/privacy">Privacybeleid</a> · <a href="/terms">Servicevoorwaarden</a>`,
     },
     prism: {
       theme: prismThemes.github,
