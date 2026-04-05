@@ -65,7 +65,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logos/bot-app-logo.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
