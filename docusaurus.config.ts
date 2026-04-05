@@ -71,10 +71,6 @@ const config: Config = {
     },
     navbar: {
       title: 'ClashKing',
-      logo: {
-        alt: 'ClashKing Logo',
-        src: 'img/logos/bot-app-logo.png',
-      },
       items: [
         {
           type: 'docSidebar',

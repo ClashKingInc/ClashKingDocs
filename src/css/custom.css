@@ -37,10 +37,10 @@
   overflow: hidden;
   white-space: nowrap;
   color: transparent;
-  background: url('/img/logos/crown-text-dark.png') no-repeat left center;
+  background: url('/img/logos/crown-text-white.png') no-repeat left center;
   background-size: contain;
 }
 
 [data-theme='dark'] .navbar__brand .navbar__title {
-  background-image: url('/img/logos/crown-text-white.png');
+  background-image: url('/img/logos/crown-text-dark.png');
 }
