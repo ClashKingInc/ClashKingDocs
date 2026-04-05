@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Clan Setups": {
+    "message": "Clan Setups",
+    "description": "The label for category 'Clan Setups' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Link Players": {
+    "message": "Link Players",
+    "description": "The label for category 'Link Players' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Server Setups": {
+    "message": "Server Setups",
+    "description": "The label for category 'Server Setups' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Players Roles": {
+    "message": "Players Roles",
+    "description": "The label for category 'Players Roles' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Roles (TH & More)": {
+    "message": "Roles (TH & More)",
+    "description": "The label for category 'Roles (TH & More)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Clans Management": {
+    "message": "Clans Management",
+    "description": "The label for category 'Clans Management' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Strikes": {
+    "message": "Strikes",
+    "description": "The label for category 'Strikes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Rosters": {
+    "message": "Rosters",
+    "description": "The label for category 'Rosters' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Clan & Family Commands": {
+    "message": "Clan & Family Commands",
+    "description": "The label for category 'Clan & Family Commands' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Ticketing": {
+    "message": "Ticketing",
+    "description": "The label for category 'Ticketing' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Player Commands": {
+    "message": "Player Commands",
+    "description": "The label for category 'Player Commands' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Legends": {
+    "message": "Legends",
+    "description": "The label for category 'Legends' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Utility": {
+    "message": "Utility",
+    "description": "The label for category 'Utility' in sidebar 'tutorialSidebar'"
+  }
+}
