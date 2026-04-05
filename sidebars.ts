@@ -145,11 +145,6 @@ const sidebars: SidebarsConfig = {
         'utility/giveaways',
       ],
     },
-    {
-      type: 'category',
-      label: 'Custom Bots',
-      items: ['custom-bots/custom-bot', 'custom-bots/developer-portal', 'custom-bots/turn-it-on'],
-    },
   ],
 };
 
