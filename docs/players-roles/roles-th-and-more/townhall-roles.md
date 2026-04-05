@@ -4,7 +4,7 @@
 
 Gives a specific role to users depending on their current Town Hall Level.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt="" /><figcaption></figcaption></figure>
 
 ## The command
 

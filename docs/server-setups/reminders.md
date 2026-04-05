@@ -16,7 +16,7 @@ If you are curious what these reminders look like, they are all on demo in the [
 
 To create new reminders, you must use the `/reminders create` command.
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt="" /><figcaption></figcaption></figure>
 
 You can also use :&#x20;
 
@@ -51,7 +51,7 @@ Ping users that have remaining attacks X hours before the end of the war (48h ma
 Your war log should be set to 'public' in game, otherwise you won't get a reminder
 :::
 
-<figure><img src="../.gitbook/assets/image (115).png" alt="" width="563"><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
 
 #### **Use cases :**&#x20;
 

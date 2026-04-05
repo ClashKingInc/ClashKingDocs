@@ -20,7 +20,7 @@ If you are curious what these logs look like, they are all on demo in the [suppo
 
 You must use the `/setup logs` command.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt="" width="526"><figcaption><p>Output of the command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="526" /><figcaption><p>Output of the command</p></figcaption></figure>
 
 ## The parameters
 
@@ -44,7 +44,7 @@ The logs update approximately every 5-10 minutes. This value may go down in the 
 
 ### Clan logs
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Member Join**](https://discord.com/channels/923764211845312533/1128182552121839648)**:** Send a message when a member join your clan.
 * [**Member Leave**](https://discord.com/channels/923764211845312533/1128182846218055722)**:**  Send a message when a member leave your clan. A unique feature of this Join/Leave log is that it shows _where_ the player goes after they leave. Helpful if you need to see if a member moved to another family clan or maybe went to a rival?!&#x20;
@@ -59,7 +59,7 @@ If you want to add ban/strike/profile buttons to player joining/leaving logs, se
 
 ### War/CWL Logs
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt="" /><figcaption></figcaption></figure>
 
 * [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)**:** A continuous log of war changes posted in a channel - attacks, defenses, war start, end, etc.
 * [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Send an embed panel when a new war starts and update it in real time.
@@ -73,7 +73,7 @@ If you set up the log during a war, the logs won't be send until the next war. Y
 
 ### Capital Logs
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Capital Donations**](https://discord.com/channels/923764211845312533/1128186033918459905/1283537311958827122)**:** Send a message each time a player donate capital gold with the amount donated.
 * [**Capital Attacks**](https://discord.com/channels/923764211845312533/1128186033918459905/1282595848181514302)**:** Send a message each time a player attacks with the amount of capital gold received.
@@ -82,7 +82,7 @@ If you set up the log during a war, the logs won't be send until the next war. Y
 
 ### Players Logs
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Role Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283202622450565171)**:** Send a message every time the player change role (indicate former role and new one)
 * [**Troop Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283787642386911333)**:** Send a message every time the player upgrade a troop (which one and new level)

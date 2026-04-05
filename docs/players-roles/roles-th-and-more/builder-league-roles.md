@@ -4,7 +4,7 @@
 
 Gives a specific role to users depending on their current builder league.
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt="" /><figcaption></figcaption></figure>
 
 ## The command
 

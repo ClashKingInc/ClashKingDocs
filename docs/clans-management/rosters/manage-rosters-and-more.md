@@ -45,7 +45,7 @@ A roster that have been deleted can't be recover so be careful
 
 Show a list of every rosters active on the server.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt="" /><figcaption></figcaption></figure>
 
 ### The command
 
@@ -55,7 +55,7 @@ Use `/roster list`
 
 ## Roster roles
 
-Roster roles are a great utility and do exactly as you expect, give a role to all people in a roster. You can asign a role to a roster by doing `/roster role {roster} {role}`. Note the role must be created before hand\
+Roster roles are a great utility and do exactly as you expect, give a role to all people in a roster. You can assign a role to a roster by doing `/roster role {roster} {role}`. Note the role must be created beforehand.
 
 
 :::info
@@ -109,9 +109,8 @@ Use `/roster search`&#x20;
 
 * `user` : Discord username. Displays all the rosters the user is currently in.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
 
 * `player`:Player tag or name. Displays all the rosters the player is currently in.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-09-09 at 22.31.01.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>

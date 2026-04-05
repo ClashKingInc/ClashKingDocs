@@ -8,11 +8,11 @@ Automatically refresh roles and nickname when the status of a user changes in ga
 
 `/autorefresh triggers` allows you to choose in which scenario the refresh will happen
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt="" /><figcaption></figcaption></figure>
 
 `/autorefresh option` allows you to choose what will be refreshed when a trigger is activated.
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt="" /><figcaption></figcaption></figure>
 
 :::info
 If you want to refresh manually, please use `/refresh`

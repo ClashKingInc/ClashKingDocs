@@ -4,7 +4,7 @@
 
 Gives a specific role to users whether they are in your clans or not, but also based on their rank in the clan.
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt="" /><figcaption></figcaption></figure>
 
 ## The command
 

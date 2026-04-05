@@ -8,7 +8,7 @@ Leader boards have a few options, some of these are ingames ones that become vie
 
 <details>
 
-<summary><code>/leaderboard family {limit}</code></summary>
+<summary><code>/leaderboard family `{limit}`</code></summary>
 
 Gives a leaderboard for everyone in the family trophies
 
@@ -58,7 +58,7 @@ Shows the player leaderboard from ingame in the selected country
 
 <details>
 
-<summary><code>/leaderboard image {clan} {server} {limit}</code></summary>
+<summary><code>/leaderboard image `{clan}` `{server}` `{limit}`</code></summary>
 
 Create a beautiful image with the results of the following options :
 

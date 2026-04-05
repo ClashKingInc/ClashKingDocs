@@ -14,28 +14,28 @@ Well, now you can automate that, and it supports replacement conventions! Here a
 
 <summary>Replacement Convention Options</summary>
 
-* {ticket\_count}
-* {ticket\_status}
-* {ticket\_emoji\_status}
-* {ticket\_channel\_mention}
-* {user\_name}
-* {user\_mention}
-* {server\_name}
-* {server\_member\_count}
-* {account\_name}
-* {account\_th}
-* {account\_heroes}
-* {clan\_name}
-* {clan\_level}
-* {clan\_badge\_emoji}
-* {clan\_link}
-* {clan\_location}
-* {clan\_member\_count}
-* {clan\_leader}
-* {clan\_leader\_mention}
-* {clan\_tag}
-* {clan\_war\_league}
-* {clan\_capital\_league}
+* `{ticket_count}`
+* `{ticket_status}`
+* `{ticket_emoji_status}`
+* `{ticket_channel_mention}`
+* `{user_name}`
+* `{user_mention}`
+* `{server_name}`
+* `{server_member_count}`
+* `{account_name}`
+* `{account_th}`
+* `{account_heroes}`
+* `{clan_name}`
+* `{clan_level}`
+* `{clan_badge_emoji}`
+* `{clan_link}`
+* `{clan_location}`
+* `{clan_member_count}`
+* `{clan_leader}`
+* `{clan_leader_mention}`
+* `{clan_tag}`
+* `{clan_war_league}`
+* `{clan_capital_league}`
 
 </details>
 
@@ -43,4 +43,4 @@ Well, now you can automate that, and it supports replacement conventions! Here a
 The replacement conventions with "clan" in the name, will require the "Set Clan" button to be used, so it knows what clan it is dealing with
 :::
 
-<figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt="" /><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>

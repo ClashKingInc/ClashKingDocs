@@ -4,7 +4,7 @@
 
 Do you want the bot to appear as one of your clan members? Use the `/set webhook-profile {picture} {name}` command to change its name and profile picture. It will use this name and profile picture each time it sends logs.
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (102).png" alt="" /><figcaption></figcaption></figure>
 
 ## Change the clans category order&#x20;
 

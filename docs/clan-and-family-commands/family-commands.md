@@ -8,7 +8,7 @@ There are a couple different options that you are able to view the top 50 member
 
 **There is up to 6 parameters :**&#x20;
 
-* {`season}`  behave slightly differently for each command. Season an refer to month (clan games) or the ingame season (donations), raid weekends also have `{weekend}` instead.
+* `{season}` behave slightly differently for each command. Season can refer to month (clan games) or the in-game season (donations), raid weekends also have `{weekend}` instead.
 * `{limit}` will only show that number of users
 * `{townhall}` will only show results at that townhall
 * `{sort_by}` allows you to choose which parameters should be taken in account to make the top 50
@@ -86,7 +86,7 @@ This will show a general members count for all clans in the server. You can choo
 
 <details>
 
-<summary><code>/family compo {type}</code></summary>
+<summary><code>/family compo `{type}`</code></summary>
 
 Will show TH break down within a family. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars against their own townhall level. Below shows the different `{types}`.
 
@@ -109,7 +109,7 @@ Will display all current and ongoing wars with a brief overview
 
 <details>
 
-<summary><code>/family board {board}</code></summary>
+<summary><code>/family board `{board}`</code></summary>
 
 Clan boards are a great way to overview family members in a variety of ways, these can be refreshed with the refresh button. Each board `{board}` is shown below
 
@@ -152,7 +152,7 @@ A way to view total trophies in either main, builder or clan capital\
 
 <details>
 
-<summary><code>/family sorted {townhall} {limit} {server}</code></summary>
+<summary><code>/family sorted `{townhall}` `{limit}` `{server}`</code></summary>
 
 Show members of a clans family sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
 
@@ -166,7 +166,7 @@ Example for members sorted by attacks won :&#x20;
 
 <details>
 
-<summary><code>/family summary {season} {limit} {server}</code></summary>
+<summary><code>/family summary `{season}` `{limit}` `{server}`</code></summary>
 
 Shows a leaderboard of the family best players for loot, activity, trophies, donations, raids and war stars.
 
@@ -176,7 +176,7 @@ Shows a leaderboard of the family best players for loot, activity, trophies, don
 
 <details>
 
-<summary>/family stats {types}</summary>
+<summary>/family stats `{types}`</summary>
 
 This command is under construction for now but shoud be able to give statistics of a family members for donations, activity, trophies, versus trophies & capital trophies.
 

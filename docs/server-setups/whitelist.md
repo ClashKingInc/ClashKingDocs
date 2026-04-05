@@ -12,7 +12,7 @@ You can give access to every commands to a role in [setup-a-server.md](setup-a-s
 
 For that, you must use the `/whitelist add` command to add a role, the `/whitelist remove` command to remove a role, and the `/whitelist list` to display the list of commands that have whitelist overrides.
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt="" /><figcaption></figcaption></figure>
 
 ## The parameters
 

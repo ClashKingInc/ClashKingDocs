@@ -2,7 +2,7 @@
 
 To start, what is a panel? A ticket panel is an embed that contains details along with buttons that open tickets. Below is an example.
 
-<figure><img src="../.gitbook/assets/image (109).png" alt="" width="313"><figcaption><p>An Example ticket panel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt="" width="313" /><figcaption><p>An Example ticket panel</p></figcaption></figure>
 
 So a panel consists of 2 parts - embeds & buttons. In this section, we are going to create the embed(s).
 

@@ -4,7 +4,7 @@ The are a selection of commands to view a clan giving different statistics and d
 
 <details>
 
-<summary><code>/clan activity {clan} {season} {townhall} {limit} {sort_by} {sort_order}</code></summary>
+<summary><code>/clan activity `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
 Shows a leaderboard of players activity with last seen date and a graph with additions of all the players activity. The graphs will be reworked soon.
 
@@ -14,7 +14,7 @@ Shows a leaderboard of players activity with last seen date and a graph with add
 
 <details>
 
-<summary><code>/clan capital {clan} {weekend}</code></summary>
+<summary><code>/clan capital `{clan}` `{weekend}`</code></summary>
 
 Show a complete overview of the last raid weekend .
 
@@ -26,7 +26,7 @@ Show a complete overview of the last raid weekend .
 
 <details>
 
-<summary><code>/clan compo {clan} {type}</code></summary>
+<summary><code>/clan compo `{clan}` `{type}`</code></summary>
 
 
 
@@ -59,7 +59,7 @@ This command can show stats about the members of a clan :&#x20;
 
 <details>
 
-<summary><code>/clan donations {clan} {season} {townhall} {limit} {sort_by} {sort_order}</code></summary>
+<summary><code>/clan donations `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
 ![](<../.gitbook/assets/image (21) (1).png>)
 
@@ -67,7 +67,7 @@ This command can show stats about the members of a clan :&#x20;
 
 <details>
 
-<summary><code>/clan games {clan} {season} {townhall} {limit} {sort_by} {sort_order}</code></summary>
+<summary><code>/clan games `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
 Show the number of clan games points done by members during a given season.\
 ![](<../.gitbook/assets/image (39) (1).png>)
@@ -76,7 +76,7 @@ Show the number of clan games points done by members during a given season.\
 
 <details>
 
-<summary><code>/clan overview {type}</code></summary>
+<summary><code>/clan overview `{type}`</code></summary>
 
 Show a complete overview of a clan.
 
@@ -86,7 +86,7 @@ Show a complete overview of a clan.
 
 <details>
 
-<summary><code>/clan progress {clan} {type}</code></summary>
+<summary><code>/clan progress `{clan}` `{type}`</code></summary>
 
 Shows progress for the current season or different when selected in `{season}`. Number of results can also be altered in `{limit} .`Below shows the different `{types}` .
 
@@ -100,7 +100,7 @@ Shows progress for the current season or different when selected in `{season}`. 
 
 <details>
 
-<summary><code>/clan sorted {clan} {sort_by}</code></summary>
+<summary><code>/clan sorted `{clan}` `{sort_by}`</code></summary>
 
 Show members of a clan sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
 
@@ -114,7 +114,7 @@ Example for members sorted by attacks won :&#x20;
 
 <details>
 
-<summary><code>/clan summary {clan} {season} {limit}</code></summary>
+<summary><code>/clan summary `{clan}` `{season}` `{limit}`</code></summary>
 
 Shows a leaderboard of the clan best players for loot, activity, trophies, donations, raids and war stars.
 
@@ -124,7 +124,7 @@ Shows a leaderboard of the clan best players for loot, activity, trophies, donat
 
 <details>
 
-<summary><code>/clan war-log {clan} {option} {limit}</code></summary>
+<summary><code>/clan war-log `{clan}` `{option}` `{limit}`</code></summary>
 
 Show the results of the last wars :
 
@@ -134,7 +134,7 @@ Show the results of the last wars :
 
 <details>
 
-<summary><code>/clan war-preference {clan} {option}</code></summary>
+<summary><code>/clan war-preference `{clan}` `{option}`</code></summary>
 
 Show current war preferences for each members.\
 ![](<../.gitbook/assets/image (40) (1).png>)
