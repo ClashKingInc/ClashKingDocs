@@ -26,7 +26,7 @@ Pour ajouter ce flux -> `/setup reddit-recruit-feed` & pour supprimer - utilisez
 Le bouton de profil du joueur apparaît lorsqu'une « recrue » a partagé son tag de joueur, et le bot fournit un moyen rapide d'afficher les détails de son compte.
 :::
 
-&#x20;![](</img/gitbook/image (14) (1) (1).png>)
+&#x20;![](</img/docs-media/image (14) (1) (1).png>)
 
 
 

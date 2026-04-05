@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, ongeacht of ze in je clans zitten of niet, maar ook op basis van hun rang in de clan.
 
-<figure><img src="/img/gitbook/image (117).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (117).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

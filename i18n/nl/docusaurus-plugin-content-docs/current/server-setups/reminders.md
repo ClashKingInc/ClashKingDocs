@@ -15,7 +15,7 @@ Mocht je benieuwd zijn hoe deze herinneringen er uit zien, ze staan allemaal op 
 
 Om nieuwe herinneringen aan te maken, moet u de opdracht `/reminders create` gebruiken.
 
-<figure><img src="/img/gitbook/image (113).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (113).png" alt="" /><figcaption></figcaption></figure>
 
 Je kunt ook gebruiken:&#x20;
 
@@ -49,7 +49,7 @@ Ping gebruikers die X uur voor het einde van de oorlog nog aanvallen hebben (max
 Je oorlogslogboek moet in het spel op 'openbaar' staan, anders krijg je geen herinnering
 :::
 
-<figure><img src="/img/gitbook/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
 
 #### **Gebruiksscenario's:**&#x20;
 

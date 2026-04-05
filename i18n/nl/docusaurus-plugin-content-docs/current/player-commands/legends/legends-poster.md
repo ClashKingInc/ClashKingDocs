@@ -18,4 +18,4 @@ Hiermee wordt de afbeelding verzonden die wordt weergegeven in `/legends search`
 
 ## Voorbeeld:
 
-<figure><img src="/img/gitbook/image (4).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (4).png" alt="" /><figcaption></figcaption></figure>

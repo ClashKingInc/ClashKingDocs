@@ -13,7 +13,7 @@ Vous pouvez également activer [link-parse.md](../server-setups/link-parse.md "m
 
 &#x20;`/base`
 
-<figure><img src="/img/gitbook/image (17).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (17).png" alt="" /><figcaption></figcaption></figure>
 
 ## Les paramètres
 

@@ -20,7 +20,7 @@ description: Command to show general legend statistics.
 
 This shows basic stats about the legend league:
 
-![](</img/gitbook/image (69).png>)
+![](</img/docs-media/image (69).png>)
 
 The available stat types are:
 
@@ -30,7 +30,7 @@ The available stat types are:
 
 The number of trophies held by player #.
 
-![](/img/gitbook/image.png)
+![](/img/docs-media/image.png)
 
 </details>
 
@@ -40,7 +40,7 @@ The number of trophies held by player #.
 
 Displays legendary players with the highest triple-star streak. Optionally, you can limit the results using the `{limit}` parameter (a number between 1-50).
 
-![](</img/gitbook/image (3).png>)
+![](</img/docs-media/image (3).png>)
 
 </details>
 
@@ -50,7 +50,7 @@ Displays legendary players with the highest triple-star streak. Optionally, you 
 
 The current trophy buckets: how the players are divided within the legend league.&#x20;
 
-![](</img/gitbook/image (72).png>)
+![](</img/docs-media/image (72).png>)
 
 </details>
 
@@ -60,7 +60,7 @@ The current trophy buckets: how the players are divided within the legend league
 
 Top player with the most trophies each season (data from May 2020 onwards).
 
-![](</img/gitbook/image (73).png>)
+![](</img/docs-media/image (73).png>)
 
 </details>
 

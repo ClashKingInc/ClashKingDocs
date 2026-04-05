@@ -8,9 +8,9 @@ Vous êtes-vous déjà demandé quand aurait lieu le prochain événement de cho
 
 Ils sont faciles à configurer : utilisez simplement `/setup countdowns` et choisissez les types que vous souhaitez. Il existe 5 types, tous illustrés ci-dessous.
 
-<figure><img src="/img/gitbook/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
 
-<figure><img src="/img/gitbook/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
 :::info
 Quelques remarques :
 
@@ -25,6 +25,6 @@ Quelques remarques :
 
 `clan` : si vous souhaitez définir des comptes à rebours spécifiques pour un clan (score de guerre et timer)
 
-<figure><img src="/img/gitbook/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
 
-<figure><img src="/img/gitbook/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>

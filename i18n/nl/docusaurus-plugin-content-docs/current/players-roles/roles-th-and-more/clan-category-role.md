@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, afhankelijk van het type clan waarin ze zich bevinden (zie [setup-a-clan.md](../../clan-setups/setup-a-clan.md "mention")).
 
-<figure><img src="/img/gitbook/image (122).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (122).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

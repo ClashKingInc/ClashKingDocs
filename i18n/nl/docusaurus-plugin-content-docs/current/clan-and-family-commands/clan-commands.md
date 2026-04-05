@@ -8,7 +8,7 @@ Dit is een selectie van commando's om een ​​clan te bekijken met verschillen
 
 Toont een scorebord van spelersactiviteit met de datum voor het laatst gezien en een grafiek met toevoegingen van alle spelersactiviteit. De grafieken zullen binnenkort worden herwerkt.
 
-![](</img/gitbook/image (32) (1).png>)
+![](</img/docs-media/image (32) (1).png>)
 
 </details>
 
@@ -18,7 +18,7 @@ Toont een scorebord van spelersactiviteit met de datum voor het laatst gezien en
 
 Toon een compleet overzicht van het afgelopen raidweekend.
 
-![](</img/gitbook/image (36) (1).png>)![](</img/gitbook/image (37) (1).png>)
+![](</img/docs-media/image (36) (1).png>)![](</img/docs-media/image (37) (1).png>)
 
 
 
@@ -32,27 +32,27 @@ Toon een compleet overzicht van het afgelopen raidweekend.
 
 Dit commando kan statistieken tonen over de leden van een clan:&#x20;
 
-![](</img/gitbook/image (22) (1).png>)
+![](</img/docs-media/image (22) (1).png>)
 
 * Via gemeentehuizen
 
-![](</img/gitbook/image (23) (1).png>)
+![](</img/docs-media/image (23) (1).png>)
 
 * Op trofeeën&#x20;
 
-![](</img/gitbook/image (25) (1).png>)
+![](</img/docs-media/image (25) (1).png>)
 
 * Per land (indien ingesteld in gebruikersprofiel)
 
-![](</img/gitbook/image (26) (1).png>)
+![](</img/docs-media/image (26) (1).png>)
 
 * Op rollen
 
-![](</img/gitbook/image (27) (1).png>)
+![](</img/docs-media/image (27) (1).png>)
 
 * Per competitie
 
-![](</img/gitbook/image (28) (1).png>)\
+![](</img/docs-media/image (28) (1).png>)\
 
 
 </details>
@@ -61,7 +61,7 @@ Dit commando kan statistieken tonen over de leden van een clan:&#x20;
 
 <summary><code>/clan donaties `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
-![](</img/gitbook/image (21) (1).png>)
+![](</img/docs-media/image (21) (1).png>)
 
 </details>
 
@@ -70,7 +70,7 @@ Dit commando kan statistieken tonen over de leden van een clan:&#x20;
 <summary><code>/clan spellen `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
 Toon het aantal clanspelpunten dat leden tijdens een bepaald seizoen hebben behaald.\
-![](</img/gitbook/image (39) (1).png>)
+![](</img/docs-media/image (39) (1).png>)
 
 </details>
 
@@ -80,7 +80,7 @@ Toon het aantal clanspelpunten dat leden tijdens een bepaald seizoen hebben beha
 
 Toon een compleet overzicht van een clan.
 
-![](</img/gitbook/image (38) (1).png>)
+![](</img/docs-media/image (38) (1).png>)
 
 </details>
 
@@ -91,9 +91,9 @@ Toon een compleet overzicht van een clan.
 Toont de voortgang voor het huidige seizoen of anders indien geselecteerd in `{season}`. Aantal resultaten kan ook worden gewijzigd in `{limit} .`Hieronder ziet u de verschillende `{types}`.
 
 * Helden en huisdieren\
-  ![](</img/gitbook/Screenshot 2023-09-12 at 12.39.33.png>)
+  ![](</img/docs-media/Screenshot 2023-09-12 at 12.39.33.png>)
 * Troepen, spreuken en belegeringen\
-  ![](</img/gitbook/Screenshot 2023-09-12 at 12.39.02.png>)\
+  ![](</img/docs-media/Screenshot 2023-09-12 at 12.39.02.png>)\
 
 
 </details>
@@ -104,11 +104,11 @@ Toont de voortgang voor het huidige seizoen of anders indien geselecteerd in `{s
 
 Toon leden van een clan gesorteerd op een specifiek kenmerk. Er zijn er te veel, dus ik laat je het direct op je server ontdekken!
 
-![](</img/gitbook/image (29) (1).png>)
+![](</img/docs-media/image (29) (1).png>)
 
 Voorbeeld voor leden gesorteerd op gewonnen aanvallen:&#x20;
 
-![](</img/gitbook/image (30) (1).png>)
+![](</img/docs-media/image (30) (1).png>)
 
 </details>
 
@@ -118,7 +118,7 @@ Voorbeeld voor leden gesorteerd op gewonnen aanvallen:&#x20;
 
 Toont een klassement van de beste spelers van de clan voor buit, activiteit, trofeeën, donaties, invallen en oorlogssterren.
 
-![](</img/gitbook/image (33) (1).png>)
+![](</img/docs-media/image (33) (1).png>)
 
 </details>
 
@@ -128,7 +128,7 @@ Toont een klassement van de beste spelers van de clan voor buit, activiteit, tro
 
 Toon de resultaten van de laatste oorlogen:
 
-![](</img/gitbook/image (34) (1).png>)
+![](</img/docs-media/image (34) (1).png>)
 
 </details>
 
@@ -137,7 +137,7 @@ Toon de resultaten van de laatste oorlogen:
 <summary><code>/clan oorlogsvoorkeur `{clan}` `{option}`</code></summary>
 
 Toon huidige oorlogsvoorkeuren voor elk lid.\
-![](</img/gitbook/image (40) (1).png>)
+![](</img/docs-media/image (40) (1).png>)
 
 Met `{option}` kunt u zien wanneer een lid voor het laatst aan een oorlog heeft deelgenomen en wanneer zijn of haar oorlogsstatus voor de laatste keer is gewijzigd.
 

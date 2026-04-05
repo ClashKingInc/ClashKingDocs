@@ -44,7 +44,7 @@ Een rooster dat is verwijderd, kan niet worden hersteld, dus wees voorzichtig
 
 Toon een lijst met alle roosters die actief zijn op de server.
 
-<figure><img src="/img/gitbook/image (111).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (111).png" alt="" /><figcaption></figcaption></figure>
 
 ### Het commando
 
@@ -108,8 +108,8 @@ Gebruik `/roster search`&#x20;
 
 * `user`: Discord-gebruikersnaam. Toont alle roosters waarin de gebruiker zich momenteel bevindt.
 
-<figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
 
 * `player`: Spelertag of naam. Toont alle roosters waarin de speler zich momenteel bevindt.
 
-<figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>

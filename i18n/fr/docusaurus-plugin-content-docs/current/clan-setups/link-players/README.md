@@ -30,4 +30,4 @@ Le jeton API n'est requis que s'il est défini par le personnel du clan (voir [s
 
 `greet` : Il s'agit d'envoyer un message de bienvenue à l'utilisateur une fois lié.
 
-<figure><img src="/img/gitbook/image (129).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (129).png" alt="" /><figcaption></figcaption></figure>

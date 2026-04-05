@@ -11,7 +11,7 @@ Les légendes /leaderboard, les lecteurs /leaderboard et les images /leaderboard
 
 Donne un classement pour tout le monde dans les trophées familiaux
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.58.33.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.58.33.png>)
 
 </details>
 
@@ -21,7 +21,7 @@ Donne un classement pour tout le monde dans les trophées familiaux
 
 Affiche un classement des légendes pour toutes les légendes de votre famille. Peut être commandé par filtre à l’aide des filtres ci-joints.
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.58.51.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.58.51.png>)
 
 </details>
 
@@ -31,7 +31,7 @@ Affiche un classement des légendes pour toutes les légendes de votre famille. 
 
 Affiche le classement en jeu pour le pays sélectionné
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.59.00.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
 
 </details>
 
@@ -41,7 +41,7 @@ Affiche le classement en jeu pour le pays sélectionné
 
 Affiche le classement de la capitale du clan dans le pays sélectionné.
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.59.13.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
 
 </details>
 
@@ -51,7 +51,7 @@ Affiche le classement de la capitale du clan dans le pays sélectionné.
 
 Affiche le classement des joueurs du jeu dans le pays sélectionné
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.59.30.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.59.30.png>)
 
 </details>
 
@@ -61,6 +61,6 @@ Affiche le classement des joueurs du jeu dans le pays sélectionné
 
 Créez une belle image avec les résultats des options suivantes :
 
-![](</img/gitbook/image (59).png>)
+![](</img/docs-media/image (59).png>)
 
 </details>

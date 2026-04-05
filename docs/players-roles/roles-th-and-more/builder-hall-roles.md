@@ -4,7 +4,7 @@
 
 Gives a specific role to users depending on their builderhall level.
 
-<figure><img src="/img/gitbook/image (120).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (120).png" alt="" /><figcaption></figcaption></figure>
 
 ## The command
 

@@ -14,7 +14,7 @@ Vous pouvez également activer [link-parse.md](../server-setups/link-parse.md "m
 
 `/army links`
 
-<figure><img src="/img/gitbook/image (13).png" alt="" width="507" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (13).png" alt="" width="507" /><figcaption></figcaption></figure>
 
 ## Les paramètres
 

@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, afhankelijk van hun huidige bouwcompetitie.
 
-<figure><img src="/img/gitbook/image (119).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (119).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

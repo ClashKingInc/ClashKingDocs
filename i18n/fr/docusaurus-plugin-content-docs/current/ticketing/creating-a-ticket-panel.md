@@ -2,7 +2,7 @@
 
 Pour commencer, qu’est-ce qu’un panneau ? Un panneau de tickets est une intégration qui contient des détails ainsi que des boutons permettant d'ouvrir les tickets. Ci-dessous un exemple.
 
-<figure><img src="/img/gitbook/image (109).png" alt="" width="313" /><figcaption><p>An Example ticket panel</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (109).png" alt="" width="313" /><figcaption><p>An Example ticket panel</p></figcaption></figure>
 
 Un panneau se compose donc de 2 parties : intégrations et boutons. Dans cette section, nous allons créer la ou les intégrations.
 

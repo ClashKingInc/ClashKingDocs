@@ -11,4 +11,4 @@ Si vous souhaitez avoir une représentation graphique des résultats des command
 * /ZXQPH2QXZ : Activité, Jeux de Clan, Victoires d'Attaques, Dons, Reçus, Ligues CWL, Ligues de la Capitale et Trophées de la Capitale
 * `/graph month` : Comparez les clans à un attribut quotidien.
 
-<figure><img src="/img/gitbook/image (95).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (95).png" alt="" /><figcaption></figcaption></figure>

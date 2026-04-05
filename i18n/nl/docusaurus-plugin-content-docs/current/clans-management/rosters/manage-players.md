@@ -27,7 +27,7 @@ Hiermee kunt u een speler tussen twee roosters verplaatsen of uit één rooster 
 
 Je kunt schakelen tussen de modus Speler verwijderen en Speler verplaatsen met behulp van de tandwielknop.
 
-![](</img/gitbook/image (9) (1).png>)
+![](</img/docs-media/image (9) (1).png>)
 
 ### Het commando
 

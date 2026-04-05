@@ -24,13 +24,13 @@ Geef uw serverleden automatisch een specifieke rol, zodat u ze eenvoudig toegang
 
 U kunt een overzicht krijgen van de rollen die u instelt. Het commando is `/roles list`
 
-<figure><img src="/img/gitbook/image (6).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (6).png" alt="" /><figcaption></figcaption></figure>
 
 ## Rollen uitschakelen
 
 U kunt een aantal van de eerder ingestelde rollen ongedaan maken met behulp van `/roles remove`
 
-<figure><img src="/img/gitbook/image (42).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (42).png" alt="" /><figcaption></figcaption></figure>
 
 ## Beheer rollen
 
@@ -40,7 +40,7 @@ U kunt een aantal van de eerder ingestelde rollen ongedaan maken met behulp van 
 
 Bekijk welke rollen zijn ingesteld met `/roles list`
 
-![](</img/gitbook/image (18) (1).png>)
+![](</img/docs-media/image (18) (1).png>)
 
 </details>
 
@@ -50,7 +50,7 @@ Bekijk welke rollen zijn ingesteld met `/roles list`
 
 Stel het type serverleden in die de rollen krijgen die u instelt met `/roles family {type} {add} {remove}`.
 
-![](</img/gitbook/image (17) (1).png>)
+![](</img/docs-media/image (17) (1).png>)
 
 </details>
 

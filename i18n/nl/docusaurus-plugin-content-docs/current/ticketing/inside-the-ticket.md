@@ -42,4 +42,4 @@ Welnu, nu kun je dat automatiseren, en het ondersteunt vervangingsconventies! Di
 De vervangende conventies met "clan" in de naam vereisen dat de knop "Clan instellen" wordt gebruikt, zodat het weet met welke clan het te maken heeft
 :::
 
-<figure><img src="/img/gitbook/image (25) (1) (1).png" alt="" /><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (25) (1) (1).png" alt="" /><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>

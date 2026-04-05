@@ -13,7 +13,7 @@ Met deze opdracht kunt u de basis instellen voor hoe de bot zich op uw server za
 
 `/setup server`
 
-<figure><img src="/img/gitbook/image (128).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (128).png" alt="" /><figcaption></figcaption></figure>
 
 ## De parameters
 

@@ -19,7 +19,7 @@ description: Command to show general legend statistics.
 
 Cela montre les statistiques de base sur la ligue des légendes :
 
-![](</img/gitbook/image (69).png>)
+![](</img/docs-media/image (69).png>)
 
 Les types de statistiques disponibles sont :
 
@@ -29,7 +29,7 @@ Les types de statistiques disponibles sont :
 
 Le nombre de trophées détenus par le joueur #.
 
-![](/img/gitbook/image.png)
+![](/img/docs-media/image.png)
 
 </details>
 
@@ -39,7 +39,7 @@ Le nombre de trophées détenus par le joueur #.
 
 Affiche les joueurs légendaires avec la séquence de triples étoiles la plus élevée. Vous pouvez éventuellement limiter les résultats à l'aide du paramètre `{limit}` (un nombre compris entre 1 et 50).
 
-![](</img/gitbook/image (3).png>)
+![](</img/docs-media/image (3).png>)
 
 </details>
 
@@ -49,7 +49,7 @@ Affiche les joueurs légendaires avec la séquence de triples étoiles la plus �
 
 Les trophées actuels : comment les joueurs sont répartis au sein de la ligue des légendes.&#x20;
 
-![](</img/gitbook/image (72).png>)
+![](</img/docs-media/image (72).png>)
 
 </details>
 
@@ -59,7 +59,7 @@ Les trophées actuels : comment les joueurs sont répartis au sein de la ligue 
 
 Meilleur joueur avec le plus de trophées chaque saison (données à partir de mai 2020).
 
-![](</img/gitbook/image (73).png>)
+![](</img/docs-media/image (73).png>)
 
 </details>
 

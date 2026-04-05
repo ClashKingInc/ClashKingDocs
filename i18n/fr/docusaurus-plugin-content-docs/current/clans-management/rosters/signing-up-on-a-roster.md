@@ -7,7 +7,7 @@ description: >-
 
 Vos chefs de clan ont lancé un panel d'inscription sur la liste ? Il est temps de vous inscrire !
 
-<figure><img src="/img/gitbook/image (33).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (33).png" alt="" /><figcaption></figcaption></figure>
 
 Sur le panneau, vous verrez :&#x20;
 
@@ -25,16 +25,16 @@ Pour vous inscrire, vous devez d'abord appuyer sur le bouton "Rejoindre".
 
 Une fois que vous aurez cliqué dessus, ClashKing Bot enverra un message **en bas** de la chaîne, qui vous permettra de choisir un ou plusieurs comptes à ajouter.&#x20;
 :::info
-Seuls les comptes répondant aux exigences de la liste seront affichés dans la liste. Ces exigences sont définies par les chefs de votre clan et sont visibles au bas de la liste.<img src="/img/gitbook/image (31).png" alt="" data-size="original" />
+Seuls les comptes répondant aux exigences de la liste seront affichés dans la liste. Ces exigences sont définies par les chefs de votre clan et sont visibles au bas de la liste.<img src="/img/docs-media/image (31).png" alt="" data-size="original" />
 :::
 
-<figure><img src="/img/gitbook/image (26).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (26).png" alt="" /><figcaption></figcaption></figure>
 
 Vous pouvez également choisir un groupe auquel vous souhaitez vous inscrire. Par exemple, vous pouvez avoir un « Groupe principal » et un « Sous-groupe ». À l'exception du "Groupe principal", tous ces groupes sont créés par les chefs de votre clan, alors n'hésitez pas à leur poser des questions sur ces groupes.
 
 Une fois que vous avez cliqué sur soumettre, vous devez avoir un message de confirmation.
 
-<figure><img src="/img/gitbook/image (28).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (28).png" alt="" /><figcaption></figcaption></figure>
 :::info
 Une fois inscrit, votre nom DOIT apparaître sur la liste des joueurs. Si ce n'est pas le cas, utilisez le bouton Actualiser (🔄). Si ce n'est toujours pas le cas, essayez de vous inscrire à nouveau ou demandez de l'aide au personnel de votre clan.
 :::
@@ -46,11 +46,11 @@ Vous pouvez être inscrit sur plusieurs rosters en même temps, alors attention 
 
 Vous avez changé d'avis et ne souhaitez pas participer ? Vous pouvez facilement désenregistrer votre compte avec le bouton "Supprimer".
 
-<figure><img src="/img/gitbook/image (29).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (29).png" alt="" /><figcaption></figcaption></figure>
 
 Une fois le compte sélectionné, vous recevrez un message de confirmation.
 
-<figure><img src="/img/gitbook/image (30).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (30).png" alt="" /><figcaption></figcaption></figure>
 :::info
 Une fois que vous vous êtes désinscrit, votre nom DOIT disparaître de la liste des membres. Si ce n'est pas le cas, utilisez le bouton Actualiser (🔄). Si ce n'est toujours pas le cas, réessayez ou demandez de l'aide au personnel de votre clan.
 :::

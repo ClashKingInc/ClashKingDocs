@@ -8,9 +8,9 @@ Heb je je ooit afgevraagd wanneer het volgende clash-evenement is? Uw serverlede
 
 Ze zijn eenvoudig in te stellen: gebruik gewoon `/setup countdowns` en kies de gewenste typen. Er zijn 5 soorten, allemaal hieronder afgebeeld.
 
-<figure><img src="/img/gitbook/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
 
-<figure><img src="/img/gitbook/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
 
 :::info
 Een paar opmerkingen:
@@ -26,6 +26,6 @@ Een paar opmerkingen:
 
 `clan`: als je specifieke countdowns voor een clan wilt instellen (oorlogsscore en timer)
 
-<figure><img src="/img/gitbook/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
 
-<figure><img src="/img/gitbook/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>

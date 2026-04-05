@@ -4,7 +4,7 @@
 
 Wil je dat de bot verschijnt als een van je clanleden? Gebruik de opdracht `/set webhook-profile {picture} {name}` om de naam en profielfoto te wijzigen. Elke keer dat er logbestanden worden verzonden, worden deze naam en profielfoto gebruikt.
 
-<figure><img src="/img/gitbook/image (102).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (102).png" alt="" /><figcaption></figcaption></figure>
 
 ## Verander de volgorde van de clancategorieën&#x20;
 

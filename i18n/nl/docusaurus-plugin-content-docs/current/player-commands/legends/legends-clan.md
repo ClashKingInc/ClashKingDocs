@@ -15,4 +15,4 @@ description: Displays the trophy counts of all legendary players in a clan.
 
 Toont de trofeetellingen van alle legendarische spelers in een clan.
 
-![](</img/gitbook/image (67).png>)
+![](</img/docs-media/image (67).png>)

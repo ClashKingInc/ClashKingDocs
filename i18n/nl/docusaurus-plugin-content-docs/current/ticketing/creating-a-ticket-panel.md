@@ -2,7 +2,7 @@
 
 Om te beginnen: wat is een paneel? Een ticketpaneel is een insluiting die details bevat, samen met knoppen waarmee tickets kunnen worden geopend. Hieronder ziet u een voorbeeld.
 
-<figure><img src="/img/gitbook/image (109).png" alt="" width="313" /><figcaption><p>An Example ticket panel</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (109).png" alt="" width="313" /><figcaption><p>An Example ticket panel</p></figcaption></figure>
 
 Een paneel bestaat dus uit 2 delen: insluitingen en knoppen. In deze sectie gaan we de insluiting(en) maken.
 

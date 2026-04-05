@@ -10,11 +10,11 @@ Ten eerste kun je met `/roster groups.` groepen maken waaruit de speler kan kiez
 
 Gebruik`/roster settings`. Eenmaal verzonden, stuurt de bot je een link om het rooster op een webpagina in te stellen, wat niet mogelijk is op Discord.
 
-<figure><img src="/img/gitbook/image (20).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (20).png" alt="" /><figcaption></figcaption></figure>
 
 ## De webpagina
 
-<figure><img src="/img/gitbook/image (21).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (21).png" alt="" /><figcaption></figcaption></figure>
 
 ## De opties
 

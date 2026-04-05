@@ -7,7 +7,7 @@ CWL et les commandes de guerre sont un excellent utilitaire dont il faut profite
 <summary><code>Statut /cwl</code></summary>
 
 Ceci est extrêmement utile pour organiser des familles nombreuses et s'assurer que tous les clans lancent CWL au bon moment et que tout se passe bien.\
-![](</img/gitbook/Screenshot 2023-10-02 at 22.20.57.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 22.20.57.png>)
 
 </details>
 
@@ -24,7 +24,7 @@ Ceci est extrêmement utile pour organiser des familles nombreuses et s'assurer 
 <summary><code>Recherche /cwl</code></summary>
 
 Consultez l'état actuel de la CWL dans laquelle se trouve votre clan.\
-![](</img/gitbook/image (103).png>)
+![](</img/docs-media/image (103).png>)
 
 Vous pouvez avoir différentes statistiques telles que :&#x20;
 

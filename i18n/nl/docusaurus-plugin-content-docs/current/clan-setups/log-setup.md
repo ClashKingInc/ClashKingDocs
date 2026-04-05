@@ -20,7 +20,7 @@ Mocht je benieuwd zijn hoe deze logs er uit zien, ze staan allemaal op demo in d
 
 U moet de opdracht `/setup logs` gebruiken.
 
-<figure><img src="/img/gitbook/image (38).png" alt="" width="526" /><figcaption><p>Output of the command</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (38).png" alt="" width="526" /><figcaption><p>Output of the command</p></figcaption></figure>
 
 ## De parameters
 
@@ -43,7 +43,7 @@ De logboeken worden ongeveer elke 5-10 minuten bijgewerkt. Deze waarde kan in de
 
 ### Clanlogboeken {#clan-logs}
 
-<figure><img src="/img/gitbook/image (37).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (37).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Member Join**](https://discord.com/channels/923764211845312533/1128182552121839648)**:** Stuur een bericht wanneer een lid zich bij je clan voegt.
 * [**Member Leave**](https://discord.com/channels/923764211845312533/1128182846218055722)**:** Stuur een bericht wanneer een lid je clan verlaat. Een uniek kenmerk van dit Join/Leave-logboek is dat het laat zien _waar_ de speler naartoe gaat nadat hij/zij is vertrokken. Handig als je wilt zien of een lid naar een andere familieclan is verhuisd of misschien naar een rivaal is gegaan?!&#x20;
@@ -58,7 +58,7 @@ Als je ban/strike/profile-knoppen wilt toevoegen aan de logboeken van spelers di
 
 ### War/CWL-logboeken {#war-cwl-logs}
 
-<figure><img src="/img/gitbook/image (39).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (39).png" alt="" /><figcaption></figcaption></figure>
 
 * [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)**:** Een continu logboek van oorlogsveranderingen gepost in een kanaal: aanvallen, verdedigingen, begin, einde van oorlog, enz.
 * [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Stuur een insluitpaneel wanneer een nieuwe oorlog begint en update het in realtime.
@@ -71,7 +71,7 @@ Als je het logboek tijdens een oorlog hebt aangemaakt, worden de logboeken pas b
 
 ### Kapitaallogboeken {#capital-logs}
 
-<figure><img src="/img/gitbook/image (40).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (40).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Capital Donations**](https://discord.com/channels/923764211845312533/1128186033918459905/1283537311958827122)**:** Stuur een bericht elke keer dat een speler kapitaalgoud doneert met het gedoneerde bedrag.
 * [**Capital Attacks**](https://discord.com/channels/923764211845312533/1128186033918459905/1282595848181514302)**:** Stuur elke keer dat een speler aanvalt een bericht met de hoeveelheid ontvangen kapitaalgoud.
@@ -80,7 +80,7 @@ Als je het logboek tijdens een oorlog hebt aangemaakt, worden de logboeken pas b
 
 ### Spelerslogboeken {#players-logs}
 
-<figure><img src="/img/gitbook/image (41).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (41).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Role Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283202622450565171)**:** Stuur een bericht elke keer dat de speler van rol verandert (geef de vorige rol en de nieuwe aan)
 * [**Troop Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283787642386911333)**:** Stuur een bericht elke keer dat de speler een troepen upgradet (welke en een nieuw niveau)

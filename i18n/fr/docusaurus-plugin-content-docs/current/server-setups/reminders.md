@@ -14,7 +14,7 @@ Si vous êtes curieux de savoir à quoi ressemblent ces rappels, ils sont tous e
 
 Pour créer de nouveaux rappels, vous devez utiliser la commande `/reminders create`.
 
-<figure><img src="/img/gitbook/image (113).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (113).png" alt="" /><figcaption></figcaption></figure>
 
 Vous pouvez également utiliser :&#x20;
 
@@ -48,7 +48,7 @@ Pingez les utilisateurs qui ont des attaques restantes X heures avant la fin de 
 Votre journal de guerre doit être défini sur « public » dans le jeu, sinon vous ne recevrez pas de rappel.
 :::
 
-<figure><img src="/img/gitbook/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
 
 #### **Cas d'utilisation :**&#x20;
 

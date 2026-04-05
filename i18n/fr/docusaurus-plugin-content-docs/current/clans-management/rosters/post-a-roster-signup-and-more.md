@@ -21,7 +21,7 @@ Une fois que vous l'avez fait, le panneau sera automatiquement envoyé au canal 
 
 Cela affichera un panneau avec des boutons permettant à votre membre de clan d'enregistrer ses comptes. Les informations que vous avez définies dans [setup-a-server.md](../../server-setups/setup-a-server.md "mention") seront également affichées.
 
-<figure><img src="/img/gitbook/image (34).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (34).png" alt="" /><figcaption></figcaption></figure>
 
 Vous pouvez ensuite demander à votre membre du clan de s'inscrire. Vous pouvez partager la page [signing-up-on-a-roster.md](signing-up-on-a-roster.md "mention") qui leur expliquera comment interagir avec le panneau.
 
@@ -35,11 +35,11 @@ Cela affichera un panneau sans boutons pour rejoindre ou quitter la liste. Vous 
 
 L'intégration peut être actualisée à l'aide du bouton 🔄.
 
-<figure><img src="/img/gitbook/image (35).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (35).png" alt="" /><figcaption></figcaption></figure>
 
 ### Statique
 
 Cela affichera l’état de la liste au moment où vous envoyez la commande. L'intégration affichée ne peut pas être actualisée. Cela peut être utile si vous souhaitez suivre l'enregistrement de la liste, ou si vous souhaitez conserver la liste des membres de la liste avant de la vider pour la réutiliser.
 
-<figure><img src="/img/gitbook/image (36).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (36).png" alt="" /><figcaption></figcaption></figure>
 

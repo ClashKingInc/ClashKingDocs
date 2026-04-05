@@ -14,7 +14,7 @@ This command will allow you to set the basis on how the bot will behave on your 
 
 `/setup server`
 
-<figure><img src="/img/gitbook/image (128).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (128).png" alt="" /><figcaption></figcaption></figure>
 
 ## The parameters
 

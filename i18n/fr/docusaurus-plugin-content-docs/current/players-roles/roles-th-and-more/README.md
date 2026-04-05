@@ -24,13 +24,13 @@ Donnez automatiquement un rôle spécifique aux membres de votre serveur afin de
 
 Vous pouvez avoir un aperçu des rôles que vous définissez. La commande est `/roles list`
 
-<figure><img src="/img/gitbook/image (6).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (6).png" alt="" /><figcaption></figcaption></figure>
 
 ## Rôles non définis
 
 Vous pouvez annuler la définition de certains des rôles que vous avez définis précédemment en utilisant `/roles remove`.
 
-<figure><img src="/img/gitbook/image (42).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (42).png" alt="" /><figcaption></figcaption></figure>
 
 ## Gérer les rôles
 
@@ -40,7 +40,7 @@ Vous pouvez annuler la définition de certains des rôles que vous avez définis
 
 Voir quels rôles sont définis avec `/roles list`
 
-![](</img/gitbook/image (18) (1).png>)
+![](</img/docs-media/image (18) (1).png>)
 
 </details>
 
@@ -50,7 +50,7 @@ Voir quels rôles sont définis avec `/roles list`
 
 Définissez le type de membres du serveur qui obtiendront les rôles que vous avez définis avec `/roles family {type} {add} {remove}`.
 
-![](</img/gitbook/image (17) (1).png>)
+![](</img/docs-media/image (17) (1).png>)
 
 </details>
 

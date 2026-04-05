@@ -12,4 +12,4 @@ Ceci montre les trophées EOS (fin de saison) d'un joueur depuis qu'il a été s
 
 ## Exemple
 
-![](</img/gitbook/image (74).png>)
+![](</img/docs-media/image (74).png>)

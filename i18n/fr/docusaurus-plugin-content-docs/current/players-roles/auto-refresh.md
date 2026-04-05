@@ -8,11 +8,11 @@ Actualisez automatiquement les rôles et le surnom lorsque le statut d'un utilis
 
 `/autorefresh triggers` vous permet de choisir dans quel scénario le rafraîchissement aura lieu
 
-<figure><img src="/img/gitbook/image (94).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (94).png" alt="" /><figcaption></figcaption></figure>
 
 `/autorefresh option` permet de choisir ce qui sera rafraîchi lorsqu'un déclencheur est activé.
 
-<figure><img src="/img/gitbook/image (116).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (116).png" alt="" /><figcaption></figcaption></figure>
 :::info
 Si vous souhaitez actualiser manuellement, veuillez utiliser `/refresh`
 :::

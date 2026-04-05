@@ -18,11 +18,11 @@ Er zijn veel aanpasbare manieren om aanvallen te bekijken, maar ze beginnen alle
 
 <div align="center">
 
-<figure><img src="/img/gitbook/Screenshot 2023-09-05 at 17.07.59 (1).png" alt="" width="235" /><figcaption><p>Player view</p></figcaption></figure>
+<figure><img src="/img/docs-media/Screenshot 2023-09-05 at 17.07.59 (1).png" alt="" width="235" /><figcaption><p>Player view</p></figcaption></figure>
 
  
 
-<figure><img src="/img/gitbook/Screenshot 2023-09-05 at 17.08.41.png" alt="" width="235" /><figcaption><p>Strike view</p></figcaption></figure>
+<figure><img src="/img/docs-media/Screenshot 2023-09-05 at 17.08.41.png" alt="" width="235" /><figcaption><p>Strike view</p></figcaption></figure>
 
 </div>
 

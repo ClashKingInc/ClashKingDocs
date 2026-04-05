@@ -42,14 +42,14 @@ Voer /ticket uit. Hier krijgt u 4 opties te zien:
 * Spelersinformatie verzenden (indien groen (aan), wordt een overzicht van de spelersinformatie verzonden wanneer het ticket wordt geopend)\
 
 
-    <figure><img src="/img/gitbook/image (1) (1) (1) (1) (1).png" alt="" /><figcaption><p>/ticket apply</p></figcaption></figure>
+    <figure><img src="/img/docs-media/image (1) (1) (1) (1) (1).png" alt="" /><figcaption><p>/ticket apply</p></figcaption></figure>
 :::warning
 Een kanttekening bij het hele ticketaanvraagproces is dat de accounts van mensen eraan moeten worden gekoppeld. De bot informeert gebruikers hierover als ze uiteindelijk proberen zich aan te melden zonder account, maar het is aan de kant van de server om een ​​robuust koppelingssysteem op te zetten met behulp van zaken als linkknoppen en dergelijke. Tegenwoordig is dat echter niet zo'n groot probleem meer, aangezien een verrassend aantal mensen met onenigheid te maken hebben :smile:&#x20;
 :::
 
 We kunnen echter nog verder gaan: de toepassingsregels van /ticket stellen ons in staat aanvragers op meer dan alleen gemeentehuisniveau uit te filteren. Je kunt filteren op individuele heldenniveaus of oorlogssterren. Deze opdracht legt uit hoe het redelijk goed werkt als het wordt uitgevoerd, maar zo ziet het eruit. Kopieer voorbij de vereisten, behoud hetzelfde formaat, bewerk ze, upload ze gewoon terug (de opgegeven versie is slechts een voorbeeld en niet de standaard waar iedereen op is ingesteld)
 
-<figure><img src="/img/gitbook/image (2) (1) (1) (1) (1).png" alt="" width="479" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (2) (1) (1) (1) (1).png" alt="" width="479" /><figcaption></figcaption></figure>
 
 ## Vragen
 

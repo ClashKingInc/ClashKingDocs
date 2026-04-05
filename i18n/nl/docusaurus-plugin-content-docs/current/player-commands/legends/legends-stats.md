@@ -19,7 +19,7 @@ description: Command to show general legend statistics.
 
 Dit toont basisstatistieken over de Legend League:
 
-![](</img/gitbook/image (69).png>)
+![](</img/docs-media/image (69).png>)
 
 De beschikbare statistische typen zijn:
 
@@ -29,7 +29,7 @@ De beschikbare statistische typen zijn:
 
 Het aantal trofeeën in handen van speler #.
 
-![](/img/gitbook/image.png)
+![](/img/docs-media/image.png)
 
 </details>
 
@@ -39,7 +39,7 @@ Het aantal trofeeën in handen van speler #.
 
 Toont legendarische spelers met de hoogste triple-star streak. Optioneel kunt u de resultaten beperken met behulp van de parameter `{limit}` (een getal tussen 1-50).
 
-![](</img/gitbook/image (3).png>)
+![](</img/docs-media/image (3).png>)
 
 </details>
 
@@ -49,7 +49,7 @@ Toont legendarische spelers met de hoogste triple-star streak. Optioneel kunt u 
 
 De huidige trofee-emmers: hoe de spelers zijn verdeeld binnen de Legend League.&#x20;
 
-![](</img/gitbook/image (72).png>)
+![](</img/docs-media/image (72).png>)
 
 </details>
 
@@ -59,7 +59,7 @@ De huidige trofee-emmers: hoe de spelers zijn verdeeld binnen de Legend League.&
 
 Topspeler met de meeste trofeeën per seizoen (gegevens vanaf mei 2020).
 
-![](</img/gitbook/image (73).png>)
+![](</img/docs-media/image (73).png>)
 
 </details>
 

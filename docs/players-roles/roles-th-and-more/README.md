@@ -24,13 +24,13 @@ Give automatically a specific role to your server members so you can give them a
 
 You can have an overview of the roles you set. The command is `/roles list`
 
-<figure><img src="/img/gitbook/image (6).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (6).png" alt="" /><figcaption></figcaption></figure>
 
 ## Unset roles
 
 You can unset some of the roles you previously set by using `/roles remove`
 
-<figure><img src="/img/gitbook/image (42).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (42).png" alt="" /><figcaption></figcaption></figure>
 
 ## Manage roles
 
@@ -40,7 +40,7 @@ You can unset some of the roles you previously set by using `/roles remove`
 
 See which roles are set with `/roles list`
 
-![](</img/gitbook/image (18) (1).png>)
+![](</img/docs-media/image (18) (1).png>)
 
 </details>
 
@@ -50,7 +50,7 @@ See which roles are set with `/roles list`
 
 Set type of server members who will get the roles you set with `/roles family {type} {add} {remove}`.
 
-![](</img/gitbook/image (17) (1).png>)
+![](</img/docs-media/image (17) (1).png>)
 
 </details>
 

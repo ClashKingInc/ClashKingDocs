@@ -27,7 +27,7 @@ Il permet de déplacer un joueur entre deux rosters ou de le supprimer d'un seul
 
 Vous pouvez basculer entre le mode supprimer et déplacer le joueur en utilisant le bouton d'engrenage.
 
-![](</img/gitbook/image (9) (1).png>)
+![](</img/docs-media/image (9) (1).png>)
 
 ### La commande
 

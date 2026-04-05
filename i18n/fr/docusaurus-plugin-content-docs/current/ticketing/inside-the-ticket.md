@@ -41,4 +41,4 @@ Eh bien, vous pouvez désormais automatiser cela et cela prend en charge les con
 Les conventions de remplacement avec "clan" dans le nom nécessiteront l'utilisation du bouton "Définir le clan", afin qu'il sache à quel clan il a affaire.
 :::
 
-<figure><img src="/img/gitbook/image (25) (1) (1).png" alt="" /><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (25) (1) (1).png" alt="" /><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>

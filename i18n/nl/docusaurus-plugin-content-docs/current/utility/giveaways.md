@@ -16,11 +16,11 @@ U kunt uw weggeefacties beheren via een webpaginadashboard. U kunt de link verkr
 U heeft de machtiging Server beheren nodig om toegang te krijgen tot het dashboard. Om toegang te verlenen aan anderen of een specifieke rol (zoals een giveaways-manager), gebruikt u de opdracht [**/whitelist add** ](../server-setups/whitelist.md)
 :::
 
-<figure><img src="/img/gitbook/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
 
 Klik op **maak winactie** om een ​​nieuwe winactie aan te maken. Voer de details in, zoals de prijs, begin- en eindtijd, samen met een aangepast bericht of afbeelding!
 
-<figure><img src="/img/gitbook/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
 
 ### Vereisten voor weggeefacties
 
@@ -33,7 +33,7 @@ Het is mogelijk om bepaalde eisen te stellen aan de winacties.  Deze vereisten z
 
 ## Voorbeeld van een winactie
 
-<figure><img src="/img/gitbook/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
 
 :::info
 De deelnameknop wordt 60 seconden na de laatste klik bijgewerkt.&#x20;

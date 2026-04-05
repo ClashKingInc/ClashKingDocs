@@ -13,7 +13,7 @@ Cette commande vous permettra de définir les bases du comportement du bot sur v
 
 `/setup server`
 
-<figure><img src="/img/gitbook/image (128).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (128).png" alt="" /><figcaption></figcaption></figure>
 
 ## Les paramètres
 

@@ -12,4 +12,4 @@ Als u een grafische weergave wilt van de resultaten van de opdrachten in [clan-c
 * /ZXQPH2QXZ: activiteit, clanspellen, aanvalsoverwinningen, donaties, ontvangen, CWL-competities, hoofdcompetities en hoofdtrofeeën
 * `/graph month`: Vergelijk clans met een dagelijks attribuut.
 
-<figure><img src="/img/gitbook/image (95).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (95).png" alt="" /><figcaption></figcaption></figure>

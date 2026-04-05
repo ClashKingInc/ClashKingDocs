@@ -8,7 +8,7 @@ description: >-
 
 Your clan leaders dropped a roster sign up pannel? It's time to sign up!
 
-<figure><img src="/img/gitbook/image (33).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (33).png" alt="" /><figcaption></figcaption></figure>
 
 On the pannel, you'll see :&#x20;
 
@@ -27,16 +27,16 @@ To sign up, you firstly need to touch the "Join" button.
 Once you clicked on it, ClashKing Bot will send a message **on the bottom** of the channel, which will allow you to choose one or several account to add.&#x20;
 
 :::info
-Only the accounts that fit the requirements of the roster will be shown in the list. Those requirements are set by your clan leaders and are visible at the bottom of the roster.<img src="/img/gitbook/image (31).png" alt="" data-size="original" />
+Only the accounts that fit the requirements of the roster will be shown in the list. Those requirements are set by your clan leaders and are visible at the bottom of the roster.<img src="/img/docs-media/image (31).png" alt="" data-size="original" />
 :::
 
-<figure><img src="/img/gitbook/image (26).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (26).png" alt="" /><figcaption></figcaption></figure>
 
 You can also choose a group you want to sign up in. For example, you could have a "Main Group" and a "Sub group". Except for "Main Group", all those groups are created by your clan leaders, so feel free to ask them about those groups.
 
 Once you click on submit, you must have a confirmation message.
 
-<figure><img src="/img/gitbook/image (28).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (28).png" alt="" /><figcaption></figcaption></figure>
 
 :::info
 Once you registered, your name MUST appear on the roster list. If it doesn't, use the refresh (🔄) button. If it still doesn't, then try register again, or ask your clan staff for help.
@@ -50,11 +50,11 @@ You can be registered on several rosters at the same time, so be careful not to 
 
 You changed your mind and don't want to participate? You can easily unregister your account with the "Remove" button.
 
-<figure><img src="/img/gitbook/image (29).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (29).png" alt="" /><figcaption></figcaption></figure>
 
 Once you selected the account, you'll have a confirmation message.
 
-<figure><img src="/img/gitbook/image (30).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (30).png" alt="" /><figcaption></figcaption></figure>
 
 :::info
 Once you unregistered, your name MUST disappear from the roster list. If it doesn't, use the refresh (🔄) button. If it still doesn't, then try again, or ask your clan staff for help.

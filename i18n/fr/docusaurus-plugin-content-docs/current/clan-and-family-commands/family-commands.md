@@ -21,7 +21,7 @@ Il existe plusieurs options différentes qui vous permettent de visualiser les 5
 
 Affichez les 50 principaux membres actifs de la famille avec un graphique montrant l'activité totale par clan.
 
-![](</img/gitbook/image (43) (1).png>)
+![](</img/docs-media/image (43) (1).png>)
 
 </details>
 
@@ -29,7 +29,7 @@ Affichez les 50 principaux membres actifs de la famille avec un graphique montra
 
 <summary><code>Dons /family</code></summary>
 
-![](</img/gitbook/image (44).png>)
+![](</img/docs-media/image (44).png>)
 
 </details>
 
@@ -39,7 +39,7 @@ Affichez les 50 principaux membres actifs de la famille avec un graphique montra
 
 Affiche l'état actuel des raids de capitale dans chaque clan où les raids sont actuellement ouverts.
 
-![](</img/gitbook/image (48).png>)
+![](</img/docs-media/image (48).png>)
 
 </details>
 
@@ -52,11 +52,11 @@ Il indiquera le nombre de niveaux améliorés au cours d'une saison par les memb
 
 * Héros et animaux de compagnie
 
-![](</img/gitbook/image (49).png>)
+![](</img/docs-media/image (49).png>)
 
 * Troupes, sorts et sièges
 
-![](</img/gitbook/image (50).png>)
+![](</img/docs-media/image (50).png>)
 
 </details>
 
@@ -64,7 +64,7 @@ Il indiquera le nombre de niveaux améliorés au cours d'une saison par les memb
 
 <summary><code>Jeux /family</code></summary>
 
-Afficher le nombre de points de jeux de clan réalisés par les membres d'une famille au cours d'une saison donnée.![](</img/gitbook/image (53).png>)
+Afficher le nombre de points de jeux de clan réalisés par les membres d'une famille au cours d'une saison donnée.![](</img/docs-media/image (53).png>)
 
 </details>
 
@@ -76,11 +76,11 @@ Afficher le nombre de points de jeux de clan réalisés par les membres d'une fa
 
 Cela affichera un nombre général de membres pour tous les clans du serveur. Vous pouvez choisir entre plusieurs paramètres pour décider de ce qui sera affiché sur le tableau :&#x20;
 
-![](</img/gitbook/image (52).png>)
+![](</img/docs-media/image (52).png>)
 
 * Sans paramètres, il affichera "Aperçu" par défaut : &#x20;
 
-![](</img/gitbook/image (51).png>)
+![](</img/docs-media/image (51).png>)
 
 </details>
 
@@ -91,9 +91,9 @@ Cela affichera un nombre général de membres pour tous les clans du serveur. Vo
 Montrera que TH s'effondre au sein d'une famille. Hitrate donne également une répartition du pourcentage d'attaques qui obtiennent 0, 1, 2 et 3 étoiles par rapport à leur propre niveau de mairie. Ci-dessous montre les différents `{types}`.
 
 * Totaux\
-  ![](</img/gitbook/Screenshot 2023-09-12 at 21.29.06.png>)
+  ![](</img/docs-media/Screenshot 2023-09-12 at 21.29.06.png>)
 * Hitrate\
-  ![](</img/gitbook/Screenshot 2023-09-12 at 21.28.34.png>)
+  ![](</img/docs-media/Screenshot 2023-09-12 at 21.28.34.png>)
 
 </details>
 
@@ -103,7 +103,7 @@ Montrera que TH s'effondre au sein d'une famille. Hitrate donne également une r
 
 Affichera toutes les guerres en cours et en cours avec un bref aperçu
 
-![](</img/gitbook/Screenshot 2023-09-12 at 21.32.30.png>)
+![](</img/docs-media/Screenshot 2023-09-12 at 21.32.30.png>)
 
 </details>
 
@@ -114,11 +114,11 @@ Affichera toutes les guerres en cours et en cours avec un bref aperçu
 Les tableaux de clan sont un excellent moyen d'avoir une vue d'ensemble des membres de la famille de différentes manières, ceux-ci peuvent être actualisés avec le bouton d'actualisation. Chaque carte `{board}` est présentée ci-dessous
 
 * Activité\
-  ![](/img/gitbook/peak\_dynasty\_activitydonation\_board.png)
+  ![](/img/docs-media/peak\_dynasty\_activitydonation\_board.png)
 * Légendes\
-  ![](/img/gitbook/peak\_dynasty\_legend\_board.png)
+  ![](/img/docs-media/peak\_dynasty\_legend\_board.png)
 *Trophée\
-  ![](/img/gitbook/peak\_dynasty\_trophy\_board.png)
+  ![](/img/docs-media/peak\_dynasty\_trophy\_board.png)
 
 </details>
 
@@ -127,7 +127,7 @@ Les tableaux de clan sont un excellent moyen d'avoir une vue d'ensemble des memb
 <summary><code>Ligues /family</code></summary>
 
 Cela peut vous montrer à quelle ligue appartient chaque clan, vous pouvez basculer entre les ligues CWL et la capitale du clan à l'aide des boutons\
-![](</img/gitbook/Screenshot 2023-09-12 at 22.00.52.png>)![](</img/gitbook/Screenshot 2023-09-12 at 22.01.04.png>)
+![](</img/docs-media/Screenshot 2023-09-12 at 22.00.52.png>)![](</img/docs-media/Screenshot 2023-09-12 at 22.01.04.png>)
 
 </details>
 
@@ -137,7 +137,7 @@ Cela peut vous montrer à quelle ligue appartient chaque clan, vous pouvez bascu
 
 Cette commande est très utile pour vérifier si des clans perdent beaucoup de joueurs. Gardez à l'esprit qu'il enregistre chaque départ et chaque arrivée, il ne prend pas en compte si quelqu'un quitte et rejoint\
 \
-![](</img/gitbook/Screenshot 2023-10-02 at 18.36.39.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 18.36.39.png>)
 
 </details>
 
@@ -146,7 +146,7 @@ Cette commande est très utile pour vérifier si des clans perdent beaucoup de j
 <summary><code>Trophées /family</code></summary>
 
 Un moyen de visualiser le total des trophées dans la capitale principale, de constructeur ou de clan\
-![](</img/gitbook/Screenshot 2023-10-02 at 18.41.43.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 18.41.43.png>)
 
 </details>
 
@@ -156,11 +156,11 @@ Un moyen de visualiser le total des trophées dans la capitale principale, de co
 
 Afficher les membres d'une famille de clans triés selon un attribut spécifique. Il y en a trop donc je vous laisse le découvrir directement sur votre serveur !
 
-![](</img/gitbook/image (42) (1).png>)
+![](</img/docs-media/image (42) (1).png>)
 
 Exemple pour les membres triés par attaques gagnées :&#x20;
 
-![](</img/gitbook/image (41) (1).png>)
+![](</img/docs-media/image (41) (1).png>)
 
 </details>
 
@@ -170,7 +170,7 @@ Exemple pour les membres triés par attaques gagnées :&#x20;
 
 Affiche un classement des meilleurs joueurs de la famille pour le butin, l'activité, les trophées, les dons, les raids et les étoiles de guerre.
 
-![](</img/gitbook/image (56).png>)![](</img/gitbook/image (57).png>)
+![](</img/docs-media/image (56).png>)![](</img/docs-media/image (57).png>)
 
 </details>
 
@@ -180,6 +180,6 @@ Affiche un classement des meilleurs joueurs de la famille pour le butin, l'activ
 
 Cette commande est en construction pour l'instant mais devrait être capable de donner des statistiques sur les membres d'une famille pour les dons, l'activité, les trophées, par rapport aux trophées et aux trophées capitaux.
 
-![](</img/gitbook/image (58).png>)
+![](</img/docs-media/image (58).png>)
 
 </details>

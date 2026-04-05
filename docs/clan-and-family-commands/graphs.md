@@ -12,4 +12,4 @@ If you want to have graphical representation of the results of the commands in [
 * /`graph over-time` : Activity, Clan Games, Attack Wins, Donations, Received, CWL Leagues, Capital Leagues & Capital Trophies
 * `/graph month` : Compare clans to a daily attribute .
 
-<figure><img src="/img/gitbook/image (95).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (95).png" alt="" /><figcaption></figcaption></figure>

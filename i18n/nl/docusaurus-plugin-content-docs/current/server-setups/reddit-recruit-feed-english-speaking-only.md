@@ -27,7 +27,7 @@ Om deze feed toe te voegen -> `/setup reddit-recruit-feed` en om te verwijderen,
 De knop Spelersprofiel verschijnt wanneer een "rekruut" zijn spelerstag heeft gedeeld, en de bot biedt een snelle manier om zijn accountgegevens te bekijken
 :::
 
-&#x20;![](</img/gitbook/image (14) (1) (1).png>)
+&#x20;![](</img/docs-media/image (14) (1) (1).png>)
 
 
 

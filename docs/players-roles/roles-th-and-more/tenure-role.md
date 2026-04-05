@@ -4,7 +4,7 @@
 
 Gives a specific role to users depending on their joining date on the server.
 
-<figure><img src="/img/gitbook/image (126).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (126).png" alt="" /><figcaption></figcaption></figure>
 
 ## The command
 

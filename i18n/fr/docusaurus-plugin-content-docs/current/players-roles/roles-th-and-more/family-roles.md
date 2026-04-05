@@ -4,7 +4,7 @@
 
 Donne un rôle spécifique aux utilisateurs qu'ils soient dans vos clans ou non, mais également en fonction de leur rang dans le clan.
 
-<figure><img src="/img/gitbook/image (117).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (117).png" alt="" /><figcaption></figcaption></figure>
 
 ## La commande
 

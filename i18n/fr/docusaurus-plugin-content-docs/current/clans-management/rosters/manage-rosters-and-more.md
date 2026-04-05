@@ -45,7 +45,7 @@ Une liste qui a été supprimée ne peut pas être récupérée alors soyez prud
 
 Afficher une liste de toutes les listes actives sur le serveur.
 
-<figure><img src="/img/gitbook/image (111).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (111).png" alt="" /><figcaption></figcaption></figure>
 
 ### La commande
 
@@ -107,8 +107,8 @@ Utilisez `/roster search`&#x20;
 
 * `user` : nom d'utilisateur Discord. Affiche toutes les listes dans lesquelles l'utilisateur se trouve actuellement.
 
-<figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
 
 * `player` : étiquette ou nom du joueur. Affiche toutes les listes dans lesquelles le joueur se trouve actuellement.
 
-<figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>

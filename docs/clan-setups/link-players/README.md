@@ -32,4 +32,4 @@ The API token is required only if set by the clan staff (see [setup-a-server.md]
 
 `greet`: This is to send a greeting message to the user once linked.
 
-<figure><img src="/img/gitbook/image (129).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (129).png" alt="" /><figcaption></figcaption></figure>

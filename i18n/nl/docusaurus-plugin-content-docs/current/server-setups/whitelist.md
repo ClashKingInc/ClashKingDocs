@@ -12,7 +12,7 @@ U kunt toegang geven tot alle opdrachten aan een rol in [setup-a-server.md](setu
 
 Daarvoor moet u de opdracht `/whitelist add` gebruiken om een ​​rol toe te voegen, de opdracht `/whitelist remove` om een ​​rol te verwijderen en de opdracht `/whitelist list` om de lijst met opdrachten weer te geven die overschrijvingen op de witte lijst hebben.
 
-<figure><img src="/img/gitbook/image (127).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (127).png" alt="" /><figcaption></figcaption></figure>
 
 ## De parameters
 

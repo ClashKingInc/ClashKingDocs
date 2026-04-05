@@ -16,6 +16,6 @@ Je kunt dan mensen spotten en pingen die zijn vergeten zich te registreren, of d
 
 Zodra het commando is verzonden, zie je de lijst met de speler, maar ook een knop "Ping Misiing", die de ontbrekende spelers zal pingen met het bericht dat je bij het commando hebt ingesteld.
 
-<figure><img src="/img/gitbook/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
 
-<figure><img src="/img/gitbook/image (112).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (112).png" alt="" /><figcaption></figcaption></figure>

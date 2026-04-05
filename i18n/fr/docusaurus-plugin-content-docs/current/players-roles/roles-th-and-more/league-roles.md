@@ -4,7 +4,7 @@
 
 Donne un rôle spécifique aux utilisateurs en fonction de leur ligue actuelle.
 
-<figure><img src="/img/gitbook/image (125).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (125).png" alt="" /><figcaption></figcaption></figure>
 
 ## La commande
 

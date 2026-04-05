@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, afhankelijk van hun huidige stadhuisniveau.
 
-<figure><img src="/img/gitbook/image (124).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (124).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

@@ -18,4 +18,4 @@ This send the image that is display in `/legends search`
 
 ## Example:
 
-<figure><img src="/img/gitbook/image (4).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (4).png" alt="" /><figcaption></figcaption></figure>

@@ -19,7 +19,7 @@ Si vous êtes curieux de savoir à quoi ressemblent ces logs, ils sont tous en d
 
 Vous devez utiliser la commande `/setup logs`.
 
-<figure><img src="/img/gitbook/image (38).png" alt="" width="526" /><figcaption><p>Output of the command</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (38).png" alt="" width="526" /><figcaption><p>Output of the command</p></figcaption></figure>
 
 ## Les paramètres
 
@@ -42,7 +42,7 @@ Les journaux sont mis à jour environ toutes les 5 à 10 minutes. Cette valeur p
 
 ### Journaux du clan {#clan-logs}
 
-<figure><img src="/img/gitbook/image (37).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (37).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Member Join**](https://discord.com/channels/923764211845312533/1128182552121839648)** :** Envoyez un message lorsqu'un membre rejoint votre clan.
 * [**Member Leave**](https://discord.com/channels/923764211845312533/1128182846218055722)** :** Envoyez un message lorsqu'un membre quitte votre clan. Une caractéristique unique de ce journal Join/Leave est qu'il indique _où_ le joueur va après son départ. Utile si vous avez besoin de voir si un membre a déménagé dans un autre clan familial ou peut-être chez un rival ?!&#x20;
@@ -56,7 +56,7 @@ Si vous souhaitez ajouter des boutons ban/strike/profile aux joueurs rejoignant 
 
 ### Journaux War/CWL {#war-cwl-logs}
 
-<figure><img src="/img/gitbook/image (39).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (39).png" alt="" /><figcaption></figcaption></figure>
 
 * [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)** :** Un journal continu des changements de guerre publiés dans une chaîne : attaques, défenses, début, fin de guerre, etc.
 * [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)** :** Envoyez un panneau intégré lorsqu'une nouvelle guerre commence et mettez-le à jour en temps réel.
@@ -69,7 +69,7 @@ Si vous configurez le journal pendant une guerre, les journaux ne seront envoyé
 
 ### Journaux du capital {#capital-logs}
 
-<figure><img src="/img/gitbook/image (40).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (40).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Capital Donations**](https://discord.com/channels/923764211845312533/1128186033918459905/1283537311958827122)** :** Envoyez un message chaque fois qu'un joueur fait un don d'or capital avec le montant donné.
 * [**Capital Attacks**](https://discord.com/channels/923764211845312533/1128186033918459905/1282595848181514302)** :** Envoyez un message à chaque fois qu'un joueur attaque avec la quantité d'or capital reçu.
@@ -78,7 +78,7 @@ Si vous configurez le journal pendant une guerre, les journaux ne seront envoyé
 
 ### Journaux des joueurs {#players-logs}
 
-<figure><img src="/img/gitbook/image (41).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (41).png" alt="" /><figcaption></figcaption></figure>
 
 * [**Role Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283202622450565171)** :** Envoyer un message à chaque fois que le joueur change de rôle (indiquer l'ancien rôle et le nouveau)
 * [**Troop Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283787642386911333)** :** Envoie un message à chaque fois que le joueur améliore une troupe (lequel et le nouveau niveau)

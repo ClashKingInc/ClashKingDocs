@@ -10,11 +10,11 @@ Tout d'abord, vous pouvez créer des groupes sur lesquels le joueur pourra chois
 
 Utilisez `/roster settings`. Une fois envoyé, le bot vous enverra un lien pour configurer la liste sur une page Web, ce qui ne peut pas être fait sur Discord.
 
-<figure><img src="/img/gitbook/image (20).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (20).png" alt="" /><figcaption></figcaption></figure>
 
 ## La page Web
 
-<figure><img src="/img/gitbook/image (21).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (21).png" alt="" /><figcaption></figcaption></figure>
 
 ## Les options
 

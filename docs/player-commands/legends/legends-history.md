@@ -12,4 +12,4 @@ This shows the EOS (end of season) trophies of a player since it was first follo
 
 ## Example
 
-![](</img/gitbook/image (74).png>)
+![](</img/docs-media/image (74).png>)

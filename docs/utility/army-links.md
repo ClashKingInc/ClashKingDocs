@@ -16,7 +16,7 @@ You can also turn on [link-parse.md](../server-setups/link-parse.md "mention") s
 
 `/army links`
 
-<figure><img src="/img/gitbook/image (13).png" alt="" width="507" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (13).png" alt="" width="507" /><figcaption></figcaption></figure>
 
 ## The parameters
 

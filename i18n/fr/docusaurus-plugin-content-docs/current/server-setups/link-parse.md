@@ -30,7 +30,7 @@ Vous pouvez également le faire manuellement pour les liens d'armée et les lien
 
 Un lien d'armée sera automatiquement converti en un format intégré, comme le montre l'exemple ci-dessous.
 
-![](</img/gitbook/image (146).png>)
+![](</img/docs-media/image (146).png>)
 
 Vous pouvez également le faire manuellement avec la commande [ZXQPH8QXZ](../utility/army-links.md).
 
@@ -42,7 +42,7 @@ Vous pouvez également le faire manuellement avec la commande [ZXQPH8QXZ](../uti
 
 Un lien de lecteur sera automatiquement converti en un format intégré, comme illustré dans l'exemple ci-dessous.
 
-![](</img/gitbook/image (140).png>)
+![](</img/docs-media/image (140).png>)
 
 </details>
 
@@ -52,7 +52,7 @@ Un lien de lecteur sera automatiquement converti en un format intégré, comme i
 
 Les liens de clan seront automatiquement convertis dans un format intégré, comme démontré ci-dessous.
 
-![](</img/gitbook/image (139).png>)
+![](</img/docs-media/image (139).png>)
 
 </details>
 
@@ -62,7 +62,7 @@ Les liens de clan seront automatiquement convertis dans un format intégré, com
 
 Avez-vous une bonne base que vous aimeriez partager ? Publiez simplement une photo de la base avec le lien de la base dans un seul message. L'analyse du lien le transformera en message, comme le montre l'exemple ci-dessous. Vous pouvez également inclure du texte normal dans le message qui apparaîtra au-dessus de l'intégration, par exemple en mentionnant la défense requise du château de clan !
 
-![](</img/gitbook/image (141).png>)
+![](</img/docs-media/image (141).png>)
 
 Vous pouvez également utiliser la commande [/base](../utility/base-links.md) pour créer de telles intégrations !&#x20;
 
@@ -76,7 +76,7 @@ Les liens de base resteront actifs pendant 90 jours à compter de la date du der
 
 Vous avez ajouté votre clan à votre serveur Discord (en utilisant [/addclan](../clan-setups/add-a-clan.md)) et souhaitez afficher rapidement une intégration de votre clan ? Vous pouvez le faire avec -shown NameOfTheClan. Une intégration apparaîtra sous le message, comme illustré dans l'exemple ci-dessous.
 
-![](</img/gitbook/image (142).png>)
+![](</img/docs-media/image (142).png>)
 
 </details>
 
@@ -86,7 +86,7 @@ Vous avez ajouté votre clan à votre serveur Discord (en utilisant [/addclan](.
 
 Souhaitez-vous activer l’analyse des liens uniquement dans certains canaux ? Utilisez le paramètre facultatif `manage_whitelist` pour gérer la liste blanche. L'analyse des liens ne fonctionnera que dans les chaînes que vous avez ajoutées.
 
-![](</img/gitbook/image (143).png>)
+![](</img/docs-media/image (143).png>)
 
 Le bouton rouge supprimera toutes les chaînes de la liste blanche. Pour ajouter à nouveau une chaîne spécifique, vous devrez resélectionner toutes les chaînes sur la liste blanche.
 

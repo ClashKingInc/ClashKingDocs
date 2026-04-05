@@ -8,11 +8,11 @@ Ververs automatisch rollen en bijnaam wanneer de status van een gebruiker in het
 
 Met `/autorefresh triggers` kunt u kiezen in welk scenario de vernieuwing zal plaatsvinden
 
-<figure><img src="/img/gitbook/image (94).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (94).png" alt="" /><figcaption></figcaption></figure>
 
 Met `/autorefresh option` kunt u kiezen wat er wordt vernieuwd wanneer een trigger wordt geactiveerd.
 
-<figure><img src="/img/gitbook/image (116).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (116).png" alt="" /><figcaption></figcaption></figure>
 
 :::info
 Als u handmatig wilt vernieuwen, gebruik dan `/refresh`

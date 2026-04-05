@@ -4,7 +4,7 @@
 
 Gives a specific role to users depending on the type of clan they are in (see [setup-a-clan.md](../../clan-setups/setup-a-clan.md "mention")).
 
-<figure><img src="/img/gitbook/image (122).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (122).png" alt="" /><figcaption></figcaption></figure>
 
 ## The command
 

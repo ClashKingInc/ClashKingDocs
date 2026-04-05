@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, afhankelijk van hun bouwerniveau.
 
-<figure><img src="/img/gitbook/image (120).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (120).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

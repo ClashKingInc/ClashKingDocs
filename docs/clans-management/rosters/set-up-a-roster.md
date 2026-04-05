@@ -10,11 +10,11 @@ Firstly, you can create groups on which player will be able to choose (like a su
 
 Use`/roster settings`. Once sent, the bot will send you a link to set up the roster on a webpage, which can't be done on Discord.
 
-<figure><img src="/img/gitbook/image (20).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (20).png" alt="" /><figcaption></figcaption></figure>
 
 ## The webpage
 
-<figure><img src="/img/gitbook/image (21).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (21).png" alt="" /><figcaption></figcaption></figure>
 
 ## The options
 

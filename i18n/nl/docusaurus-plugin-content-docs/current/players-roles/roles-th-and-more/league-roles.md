@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, afhankelijk van hun huidige competitie.
 
-<figure><img src="/img/gitbook/image (125).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (125).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

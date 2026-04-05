@@ -7,7 +7,7 @@ CWL- en oorlogsopdrachten zijn een geweldig hulpprogramma om van te profiteren. 
 <summary><code>/cwl status</code></summary>
 
 Dit is uiterst handig voor het organiseren van grote gezinnen en om ervoor te zorgen dat alle clans op de juiste tijden CWL draaien en dat alles soepel verloopt.\
-![](</img/gitbook/Screenshot 2023-10-02 at 22.20.57.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 22.20.57.png>)
 
 </details>
 
@@ -24,7 +24,7 @@ Dit is uiterst handig voor het organiseren van grote gezinnen en om ervoor te zo
 <summary><code>/cwl zoeken</code></summary>
 
 Bekijk de huidige status van de CWL waarin uw clan zich bevindt.\
-![](</img/gitbook/image (103).png>)
+![](</img/docs-media/image (103).png>)
 
 Je kunt verschillende statistieken hebben, zoals:&#x20;
 

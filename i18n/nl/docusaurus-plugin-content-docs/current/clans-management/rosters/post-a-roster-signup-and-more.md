@@ -21,7 +21,7 @@ Zodra u dat gedaan heeft, wordt het paneel automatisch verzonden naar het kanaal
 
 Dit toont een paneel met knoppen waarmee je clangenoot zijn accounts kan registreren. De informatie die u in [setup-a-server.md](../../server-setups/setup-a-server.md "mention") instelt, wordt ook weergegeven.
 
-<figure><img src="/img/gitbook/image (34).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (34).png" alt="" /><figcaption></figcaption></figure>
 
 Je kunt dan tegen je clangenoot zeggen dat hij zich moet aanmelden. U kunt de [signing-up-on-a-roster.md](signing-up-on-a-roster.md "mention")-pagina delen, waarop wordt uitgelegd hoe ze met het paneel kunnen communiceren.
 
@@ -35,11 +35,11 @@ Er wordt een paneel weergegeven zonder knoppen om aan de selectie deel te nemen 
 
 De insluiting kan worden vernieuwd met de knop 🔄.
 
-<figure><img src="/img/gitbook/image (35).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (35).png" alt="" /><figcaption></figcaption></figure>
 
 ### Statisch
 
 Hiermee wordt de status van het rooster weergegeven op het moment dat u de opdracht verzendt. De getoonde insluiting kan niet worden vernieuwd. Het kan handig zijn als u de roosterregistratie wilt bijhouden, of als u de roosterledenlijst wilt bewaren voordat u deze leegmaakt om deze opnieuw te gebruiken.
 
-<figure><img src="/img/gitbook/image (36).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (36).png" alt="" /><figcaption></figcaption></figure>
 

@@ -9,13 +9,13 @@ Pour intégrer une intégration au bot, il existe 2 options. L'option 1 est à p
 
 Dirigez-vous vers [discohook](https://discohook.app) et vous verrez quelque chose comme ceci :
 
-<figure><img src="/img/gitbook/image (130).png" alt="" /><figcaption><p>Default Discohook Page</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (130).png" alt="" /><figcaption><p>Default Discohook Page</p></figcaption></figure>
 
 Créez votre intégration avec les options de votre choix : contenu du message, couleurs d'intégration, intégrations multiples, etc. La droite affichera un aperçu au fur et à mesure que vous modifiez.\
 \
 Une fois terminé, cliquez sur "Partager le message", puis sur "Copier le lien" dans la fenêtre contextuelle suivante.
 
-<figure><img src="/img/gitbook/image (2) (1) (1).png" alt="" /><figcaption><p>Getting the url</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (2) (1) (1).png" alt="" /><figcaption><p>Getting the url</p></figcaption></figure>
 
 Il est maintenant enregistré dans votre presse-papiers. Revenons maintenant à Discord.\
 \
@@ -26,7 +26,7 @@ Maintenant, exécutez simplement `/embed create`, choisissez un nom pour identif
 L'étape 1 consiste à localiser l'intégration que vous copiez sur Discord. Ensuite, faites un clic droit sur l'intégration et cliquez sur Copier le lien du message\
 
 
-<figure><img src="/img/gitbook/image (24) (1) (1).png" alt="" /><figcaption><p>Copying Message Link</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (24) (1) (1).png" alt="" /><figcaption><p>Copying Message Link</p></figcaption></figure>
 
 Cela enregistrera le lien du message dans votre presse-papiers. Dirigez-vous maintenant vers un canal dans lequel vous pouvez exécuter des commandes ClashKing et ouvrez `/embed clone`, remplissez le champ de nom avec un identifiant unique afin de pouvoir l'utiliser plus tard et dans le champ message\_link, collez le lien que vous avez copié plus tôt. Exécutez la commande et vous avez maintenant cloné cette intégration !
 

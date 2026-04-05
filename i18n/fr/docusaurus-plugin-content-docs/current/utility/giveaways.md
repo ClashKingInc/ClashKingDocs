@@ -14,11 +14,11 @@ Vous pouvez gérer vos cadeaux à l'aide d'un tableau de bord de page Web. Vous 
 Vous avez besoin des autorisations de gestion du serveur pour accéder au tableau de bord. Pour accorder l'accès à d'autres personnes ou à un rôle spécifique (comme un gestionnaire de cadeaux), utilisez la commande [**/whitelist add** ](../server-setups/whitelist.md).
 :::
 
-<figure><img src="/img/gitbook/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
 
 Cliquez sur **créer un cadeau** pour créer un nouveau cadeau. Entrez les détails, tels que le prix, les heures de début et de fin, ainsi qu'un message ou une image personnalisée !
 
-<figure><img src="/img/gitbook/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
 
 ### Conditions requises pour les cadeaux
 
@@ -31,7 +31,7 @@ Il est possible de fixer certaines exigences pour les cadeaux.  Ces exigences pe
 
 ## Exemple de cadeau
 
-<figure><img src="/img/gitbook/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
 :::info
 Le bouton de participation sera mis à jour 60 secondes après le dernier clic.
 :::

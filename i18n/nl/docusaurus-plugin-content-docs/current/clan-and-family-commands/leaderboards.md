@@ -11,7 +11,7 @@ Leaderboards hebben een paar opties, sommige hiervan zijn ingames die zichtbaar 
 
 Geeft een klassement voor iedereen in de familietrofeeën
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.58.33.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.58.33.png>)
 
 </details>
 
@@ -21,7 +21,7 @@ Geeft een klassement voor iedereen in de familietrofeeën
 
 Toont een legenda-klassement voor iedereen in legendes binnen uw gezin. Filters kunnen worden besteld met behulp van de bijgevoegde filters.
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.58.51.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.58.51.png>)
 
 </details>
 
@@ -31,7 +31,7 @@ Toont een legenda-klassement voor iedereen in legendes binnen uw gezin. Filters 
 
 Toont het in-game klassement voor het geselecteerde land
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.59.00.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
 
 </details>
 
@@ -41,7 +41,7 @@ Toont het in-game klassement voor het geselecteerde land
 
 Toont het klassement voor clanhoofdstad in het geselecteerde land.
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.59.13.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
 
 </details>
 
@@ -51,7 +51,7 @@ Toont het klassement voor clanhoofdstad in het geselecteerde land.
 
 Toont het spelersklassement van ingame in het geselecteerde land
 
-![](</img/gitbook/Screenshot 2023-10-02 at 20.59.30.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 20.59.30.png>)
 
 </details>
 
@@ -61,6 +61,6 @@ Toont het spelersklassement van ingame in het geselecteerde land
 
 Maak een mooie afbeelding met de resultaten van de volgende opties:
 
-![](</img/gitbook/image (59).png>)
+![](</img/docs-media/image (59).png>)
 
 </details>

@@ -16,6 +16,6 @@ Vous pouvez ensuite repérer et envoyer un ping aux personnes qui ont oublié de
 
 Une fois la commande envoyée, vous verrez la liste des joueurs, mais aussi un bouton "Ping Misiing", qui pingera les joueurs manquants avec le message que vous avez défini sur la commande.
 
-<figure><img src="/img/gitbook/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
 
-<figure><img src="/img/gitbook/image (112).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (112).png" alt="" /><figcaption></figcaption></figure>

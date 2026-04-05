@@ -31,7 +31,7 @@ Je kunt het ook handmatig doen voor legerlinks en basislinks (zie [army-links.md
 
 Een legerlink wordt automatisch omgezet naar een ingesloten formaat, zoals weergegeven in het onderstaande voorbeeld.
 
-![](</img/gitbook/image (146).png>)
+![](</img/docs-media/image (146).png>)
 
 U kunt dit ook handmatig doen met de opdracht [ZXQPH8QXZ](../utility/army-links.md).
 
@@ -43,7 +43,7 @@ U kunt dit ook handmatig doen met de opdracht [ZXQPH8QXZ](../utility/army-links.
 
 Een spelerlink wordt automatisch omgezet naar een ingesloten formaat, zoals geïllustreerd in het onderstaande voorbeeld.
 
-![](</img/gitbook/image (140).png>)
+![](</img/docs-media/image (140).png>)
 
 </details>
 
@@ -53,7 +53,7 @@ Een spelerlink wordt automatisch omgezet naar een ingesloten formaat, zoals geï
 
 Clanlinks worden automatisch omgezet in een ingesloten indeling, zoals hieronder wordt gedemonstreerd.
 
-![](</img/gitbook/image (139).png>)
+![](</img/docs-media/image (139).png>)
 
 </details>
 
@@ -63,7 +63,7 @@ Clanlinks worden automatisch omgezet in een ingesloten indeling, zoals hieronder
 
 Heb jij een mooie basis die je graag wilt delen? Plaats eenvoudigweg een foto van de basis samen met de basislink in één bericht. Door het parseren van links wordt het omgezet in een bericht, zoals weergegeven in het onderstaande voorbeeld. Je kunt ook gewone tekst in het bericht opnemen dat boven de insluiting wordt weergegeven, bijvoorbeeld met vermelding van de vereiste verdediging van het clankasteel!
 
-![](</img/gitbook/image (141).png>)
+![](</img/docs-media/image (141).png>)
 
 U kunt ook de opdracht [/base](../utility/base-links.md) gebruiken om dergelijke insluitingen te maken!&#x20;
 
@@ -77,7 +77,7 @@ Basislinks blijven 90 dagen actief vanaf de datum van de laatste klik.
 
 Heb je je clan toegevoegd aan je Discord-server (met behulp van [/addclan](../clan-setups/add-a-clan.md)) en wil je snel een insluiting van je clan weergeven? Je kunt dit doen met -showd NameOfTheClan. Er verschijnt een insluiting onder het bericht, zoals geïllustreerd in het onderstaande voorbeeld.
 
-![](</img/gitbook/image (142).png>)
+![](</img/docs-media/image (142).png>)
 
 </details>
 
@@ -87,7 +87,7 @@ Heb je je clan toegevoegd aan je Discord-server (met behulp van [/addclan](../cl
 
 Wilt u het parseren van links alleen in bepaalde kanalen inschakelen? Gebruik de optionele parameter `manage_whitelist` om de witte lijst te beheren. Het parseren van links werkt alleen in de kanalen die u heeft toegevoegd.
 
-![](</img/gitbook/image (143).png>)
+![](</img/docs-media/image (143).png>)
 
 Met de rode knop worden alle kanalen op de witte lijst verwijderd. Als u een specifiek kanaal opnieuw wilt toevoegen, moet u alle kanalen op de witte lijst opnieuw selecteren.
 

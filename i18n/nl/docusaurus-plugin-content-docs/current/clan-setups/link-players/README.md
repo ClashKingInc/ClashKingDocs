@@ -31,4 +31,4 @@ Het API-token is alleen vereist als dit is ingesteld door het clanpersoneel (zie
 
 `greet`: Hiermee wordt een begroetingsbericht naar de gebruiker verzonden zodra deze is gekoppeld.
 
-<figure><img src="/img/gitbook/image (129).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (129).png" alt="" /><figcaption></figcaption></figure>

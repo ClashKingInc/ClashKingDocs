@@ -21,7 +21,7 @@ There are a couple different options that you are able to view the top 50 member
 
 Show top 50 active members of the family with a graph showing total activity by clan.
 
-![](</img/gitbook/image (43) (1).png>)
+![](</img/docs-media/image (43) (1).png>)
 
 </details>
 
@@ -29,7 +29,7 @@ Show top 50 active members of the family with a graph showing total activity by 
 
 <summary><code>/family donations</code></summary>
 
-![](</img/gitbook/image (44).png>)
+![](</img/docs-media/image (44).png>)
 
 </details>
 
@@ -39,7 +39,7 @@ Show top 50 active members of the family with a graph showing total activity by 
 
 Shows current status of the capital raids in each clan where raids are currently opened.
 
-![](</img/gitbook/image (48).png>)
+![](</img/docs-media/image (48).png>)
 
 </details>
 
@@ -52,11 +52,11 @@ It will show the number of level upgraded for a season by members but also in to
 
 * Heroes & Pets
 
-![](</img/gitbook/image (49).png>)
+![](</img/docs-media/image (49).png>)
 
 * Troops, Spells & Sieges
 
-![](</img/gitbook/image (50).png>)
+![](</img/docs-media/image (50).png>)
 
 </details>
 
@@ -64,7 +64,7 @@ It will show the number of level upgraded for a season by members but also in to
 
 <summary><code>/family games</code></summary>
 
-Show the number of clan games points done by members of a family during a given season.![](</img/gitbook/image (53).png>)
+Show the number of clan games points done by members of a family during a given season.![](</img/docs-media/image (53).png>)
 
 </details>
 
@@ -76,11 +76,11 @@ Show the number of clan games points done by members of a family during a given 
 
 This will show a general members count for all clans in the server. You can choose betwen several parameters to decide what will be shown in the board :&#x20;
 
-![](</img/gitbook/image (52).png>)
+![](</img/docs-media/image (52).png>)
 
 * With no parameters, it will shows "Overview" by default :&#x20;
 
-![](</img/gitbook/image (51).png>)
+![](</img/docs-media/image (51).png>)
 
 </details>
 
@@ -91,9 +91,9 @@ This will show a general members count for all clans in the server. You can choo
 Will show TH break down within a family. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars against their own townhall level. Below shows the different `{types}`.
 
 * Totals\
-  ![](</img/gitbook/Screenshot 2023-09-12 at 21.29.06.png>)
+  ![](</img/docs-media/Screenshot 2023-09-12 at 21.29.06.png>)
 * Hitrate\
-  ![](</img/gitbook/Screenshot 2023-09-12 at 21.28.34.png>)
+  ![](</img/docs-media/Screenshot 2023-09-12 at 21.28.34.png>)
 
 </details>
 
@@ -103,7 +103,7 @@ Will show TH break down within a family. Hitrate also gives a breakdown of the p
 
 Will display all current and ongoing wars with a brief overview
 
-![](</img/gitbook/Screenshot 2023-09-12 at 21.32.30.png>)
+![](</img/docs-media/Screenshot 2023-09-12 at 21.32.30.png>)
 
 </details>
 
@@ -114,11 +114,11 @@ Will display all current and ongoing wars with a brief overview
 Clan boards are a great way to overview family members in a variety of ways, these can be refreshed with the refresh button. Each board `{board}` is shown below
 
 * Activity\
-  ![](/img/gitbook/peak\_dynasty\_activitydonation\_board.png)
+  ![](/img/docs-media/peak\_dynasty\_activitydonation\_board.png)
 * Legends\
-  ![](/img/gitbook/peak\_dynasty\_legend\_board.png)
+  ![](/img/docs-media/peak\_dynasty\_legend\_board.png)
 * Trophy\
-  ![](/img/gitbook/peak\_dynasty\_trophy\_board.png)
+  ![](/img/docs-media/peak\_dynasty\_trophy\_board.png)
 
 </details>
 
@@ -127,7 +127,7 @@ Clan boards are a great way to overview family members in a variety of ways, the
 <summary><code>/family leagues</code></summary>
 
 This can show you what league every clan is in, you can toggle between CWL leagues and clan capital using buttons\
-![](</img/gitbook/Screenshot 2023-09-12 at 22.00.52.png>)![](</img/gitbook/Screenshot 2023-09-12 at 22.01.04.png>)
+![](</img/docs-media/Screenshot 2023-09-12 at 22.00.52.png>)![](</img/docs-media/Screenshot 2023-09-12 at 22.01.04.png>)
 
 </details>
 
@@ -137,7 +137,7 @@ This can show you what league every clan is in, you can toggle between CWL leagu
 
 This command is quite useful for looking at if any clans are losing alot of players. Keep in mind that it logs every leave and every join, it doesnt take into account if someone leaves and joins\
 \
-![](</img/gitbook/Screenshot 2023-10-02 at 18.36.39.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 18.36.39.png>)
 
 </details>
 
@@ -146,7 +146,7 @@ This command is quite useful for looking at if any clans are losing alot of play
 <summary><code>/family trophies</code></summary>
 
 A way to view total trophies in either main, builder or clan capital\
-![](</img/gitbook/Screenshot 2023-10-02 at 18.41.43.png>)
+![](</img/docs-media/Screenshot 2023-10-02 at 18.41.43.png>)
 
 </details>
 
@@ -156,11 +156,11 @@ A way to view total trophies in either main, builder or clan capital\
 
 Show members of a clans family sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
 
-![](</img/gitbook/image (42) (1).png>)
+![](</img/docs-media/image (42) (1).png>)
 
 Example for members sorted by attacks won :&#x20;
 
-![](</img/gitbook/image (41) (1).png>)
+![](</img/docs-media/image (41) (1).png>)
 
 </details>
 
@@ -170,7 +170,7 @@ Example for members sorted by attacks won :&#x20;
 
 Shows a leaderboard of the family best players for loot, activity, trophies, donations, raids and war stars.
 
-![](</img/gitbook/image (56).png>)![](</img/gitbook/image (57).png>)
+![](</img/docs-media/image (56).png>)![](</img/docs-media/image (57).png>)
 
 </details>
 
@@ -180,6 +180,6 @@ Shows a leaderboard of the family best players for loot, activity, trophies, don
 
 This command is under construction for now but shoud be able to give statistics of a family members for donations, activity, trophies, versus trophies & capital trophies.
 
-![](</img/gitbook/image (58).png>)
+![](</img/docs-media/image (58).png>)
 
 </details>

@@ -4,7 +4,7 @@
 
 Ken jij pepe? Je kunt hem een ​​bordje laten vasthouden met alles wat je maar wilt erop!&#x20;
 
-<figure><img src="/img/gitbook/image (105).png" alt="" /><figcaption><p>Use code ClashKing &#x3C;3</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (105).png" alt="" /><figcaption><p>Use code ClashKing &#x3C;3</p></figcaption></figure>
 
 ## Het commando
 

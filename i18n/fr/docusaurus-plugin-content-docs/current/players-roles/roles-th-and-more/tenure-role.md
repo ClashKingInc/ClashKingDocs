@@ -4,7 +4,7 @@
 
 Donne un rôle spécifique aux utilisateurs en fonction de leur date d'adhésion sur le serveur.
 
-<figure><img src="/img/gitbook/image (126).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (126).png" alt="" /><figcaption></figcaption></figure>
 
 ## La commande
 

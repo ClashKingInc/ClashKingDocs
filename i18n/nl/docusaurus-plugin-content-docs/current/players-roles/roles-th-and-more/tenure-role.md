@@ -4,7 +4,7 @@
 
 Geeft een specifieke rol aan gebruikers, afhankelijk van hun toetredingsdatum op de server.
 
-<figure><img src="/img/gitbook/image (126).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (126).png" alt="" /><figcaption></figcaption></figure>
 
 ## Het commando
 

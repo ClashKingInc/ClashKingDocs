@@ -4,7 +4,7 @@
 
 Donne un rôle spécifique aux utilisateurs en fonction de leur ligue de constructeur actuelle.
 
-<figure><img src="/img/gitbook/image (119).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (119).png" alt="" /><figcaption></figcaption></figure>
 
 ## La commande
 

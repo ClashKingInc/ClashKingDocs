@@ -41,14 +41,14 @@ Exécutez /ticket appliquer. Ici, 4 options vous seront présentées :
 * Envoyer les informations sur le joueur (si vert (allumé), enverra une ventilation des informations sur le joueur à l'ouverture du ticket)\
 
 
-    <figure><img src="/img/gitbook/image (1) (1) (1) (1) (1).png" alt="" /><figcaption><p>/ticket apply</p></figcaption></figure>
+    <figure><img src="/img/docs-media/image (1) (1) (1) (1) (1).png" alt="" /><figcaption><p>/ticket apply</p></figcaption></figure>
 :::warning
 Une mise en garde concernant l'ensemble du processus de demande de ticket est qu'il nécessite que les comptes des personnes y soient liés. Le bot en informe les utilisateurs s'ils finissent par essayer de postuler sans compte, mais il appartient au serveur de mettre en place un système de liaison robuste en utilisant des éléments tels que des boutons de lien ou autres. Ce n'est cependant pas si grave de nos jours, car un nombre surprenant de personnes sont liées à Discord :smile:&#x20;
 :::
 
 Nous pouvons cependant aller plus loin : les règles d'application /ticket nous permettent de filtrer les candidats au-delà du simple niveau de la mairie. Vous pouvez filtrer par niveaux de héros individuels ou par étoiles de guerre. Cette commande explique assez bien son fonctionnement une fois exécutée, mais voici à quoi elle ressemble. Copiez les exigences, en conservant le même format, modifiez-les, puis téléchargez-les à nouveau (celui donné n'est qu'un exemple et pas réellement la valeur par défaut sur laquelle tout le monde est défini)
 
-<figure><img src="/img/gitbook/image (2) (1) (1) (1) (1).png" alt="" width="479" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (2) (1) (1) (1) (1).png" alt="" width="479" /><figcaption></figcaption></figure>
 
 ##Questions
 

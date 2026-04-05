@@ -4,7 +4,7 @@
 
 Donne un rôle spécifique aux utilisateurs en fonction de leur niveau actuel de mairie.
 
-<figure><img src="/img/gitbook/image (124).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/docs-media/image (124).png" alt="" /><figcaption></figcaption></figure>
 
 ## La commande
 
