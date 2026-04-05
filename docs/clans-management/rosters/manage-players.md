@@ -27,7 +27,7 @@ It allows you to move a player between two rosters or to remove them from one.
 
 You can switch between the remove and move player mode by using the gear button.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](</img/gitbook/image (9) (1).png>)
 
 ### The command
 

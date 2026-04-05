@@ -16,11 +16,11 @@ You can manage your giveaways using a webpage dashboard. You can get the link wi
 You need the Manage Server perms to have acces to the dashboard. To grant access to others or a specific role (such as a giveaways manager), use the [**/whitelist add** ](../server-setups/whitelist.md)command
 :::
 
-<figure><img src="../.gitbook/assets/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
+<figure><img src="/img/gitbook/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
 
 Click on the **create giveaway** to create a new giveaway. Enter the details, such as the prize, start and end times, along with a custom message or image!
 
-<figure><img src="../.gitbook/assets/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
+<figure><img src="/img/gitbook/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
 
 ### Giveaway requirements
 
@@ -33,7 +33,7 @@ It is possible set certain requirements for the giveaways.  Those requirements w
 
 ## Example of a giveaway
 
-<figure><img src="../.gitbook/assets/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
+<figure><img src="/img/gitbook/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
 
 :::info
 The participate button will update 60 seconds after the last click.&#x20;

@@ -4,7 +4,7 @@
 
 Do you know pepe ? You can make him hold a sign with anything you want on it!&#x20;
 
-<figure><img src="../.gitbook/assets/image (105).png" alt="" /><figcaption><p>Use code ClashKing &#x3C;3</p></figcaption></figure>
+<figure><img src="/img/gitbook/image (105).png" alt="" /><figcaption><p>Use code ClashKing &#x3C;3</p></figcaption></figure>
 
 ## The command
 

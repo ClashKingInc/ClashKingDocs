@@ -16,6 +16,6 @@ You can then spot & ping people who forgot to register, or who are still not in 
 
 Once the command has been sent, you'll see the list of the player, but also a "Ping Misiing" button, which will ping the missing players with the message you set on the command.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt="" /><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/image (112).png" alt="" /><figcaption></figcaption></figure>
