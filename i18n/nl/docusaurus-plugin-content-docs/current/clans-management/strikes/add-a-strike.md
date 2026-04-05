@@ -1,32 +1,32 @@
-# 🎳 Add a strike
+# 🎳 Voeg een waarschuwing toe
 
-## The goal
+## Het doel
 
-When a player does not follow one of your clan rule, you can add a strike to warn them about it and keep track of this warning.
+Wanneer een speler een van je clanregels niet volgt, kun je een waarschuwing toevoegen om hem daarvoor te waarschuwen en deze waarschuwing in de gaten te houden.
 
-## The command
+## Het commando
 
-To add a strike use `/strike add` (this supports "smart search" so a username can work).&#x20;
+Om een ​​waarschuwing toe te voegen gebruik je `/strike add` (dit ondersteunt "slim zoeken", zodat een gebruikersnaam kan werken).&#x20;
 
 :::info
-Strikes can be removed with `/strike remove {strike ID}`. This is not a user but the combination of letters/numbers for each strike, that you can find by using the [view-strikes.md](view-strikes.md "mention")command.
+Stakingen kunnen worden verwijderd met `/strike remove {strike ID}`. Dit is geen gebruiker, maar de combinatie van letters/numbers voor elke slag, die je kunt vinden met behulp van het commando [view-strikes.md](view-strikes.md "mention").
 :::
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `player`: Player username or tag. If you can't find the player name in the list, you can use their player tag, even if it's not on the list.
-* `reason`: So you can remember why you ban them
+* `player`: gebruikersnaam of tag van de speler. Als je de spelersnaam niet in de lijst kunt vinden, kun je de spelerstag gebruiken, zelfs als deze niet op de lijst staat.
+* `reason`: Zodat u zich kunt herinneren waarom u ze verbiedt
 
-### Optional
+### Optioneel
 
-* `rollover_days`: The time that the strike is "active" for. Strikes that reach the rollover period wont delete but deactivate when viewing the players total strikes.
-* `strike_weight`: It can be set to any value depending the the seriousness of the warning (default value of 1)
-* `dm_player`: If you add a text, the bot will send a dm to the player with this text
+* `rollover_days`: De tijd dat de staking "actief" is. Strikes die de rollover-periode bereiken, worden niet verwijderd, maar worden gedeactiveerd wanneer het totale aantal strikes van de speler wordt bekeken.
+* `strike_weight`: Deze kan op elke waarde worden ingesteld, afhankelijk van de ernst van de waarschuwing (standaardwaarde 1)
+* `dm_player`: Als je een tekst toevoegt, stuurt de bot een dm naar de speler met deze tekst
 
-The two optional fields are `{rollover_days}` and `{strike_weight}`.&#x20;
+De twee optionele velden zijn `{rollover_days}` en `{strike_weight}`.&#x20;
 
-Strike\_weight has a default value of 1 but can be set to any value depending the the seriousness of the warning.&#x20;
+Strike\_weight heeft een standaardwaarde van 1, maar kan op elke waarde worden ingesteld, afhankelijk van de ernst van de waarschuwing.&#x20;
 
-Rollover\_days is the time that the strike is "active" for. Strikes that reach the rollover period wont delete but deactivate when viewing the players total strikes.
+Rollover\_days is de tijd dat de waarschuwing 'actief' is. Strikes die de rollover-periode bereiken, worden niet verwijderd, maar worden gedeactiveerd wanneer het totale aantal strikes van de speler wordt bekeken.

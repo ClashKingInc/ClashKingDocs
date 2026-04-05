@@ -1,8 +1,8 @@
-# 📄 Log Setup
+# 📄 Logboekinstellingen
 
-## The goal
+## Het doel
 
-Know exactly what's happening in you clan in real time.You can set up different type of logs :&#x20;
+Weet precies wat er in realtime in je clan gebeurt. Je kunt verschillende soorten logs instellen:&#x20;
 
 [#clan-logs](log-setup.md#clan-logs "mention")
 
@@ -13,85 +13,83 @@ Know exactly what's happening in you clan in real time.You can set up different 
 [#players-logs](log-setup.md#players-logs "mention")
 
 :::info
-If you are curious what these logs look like, they are all on demo in the [support server.](https://discord.gg/clashking) You can also click on the name of the log type to be redirected to an example.
+Mocht je benieuwd zijn hoe deze logs er uit zien, ze staan allemaal op demo in de [support server.](https://discord.gg/clashking). Je kunt ook op de naam van het logtype klikken om naar een voorbeeld te worden doorverwezen.
 :::
 
-## The commands
+## De commando's
 
-You must use the `/setup logs` command.
+U moet de opdracht `/setup logs` gebruiken.
 
 <figure><img src="/img/gitbook/image (38).png" alt="" width="526" /><figcaption><p>Output of the command</p></figcaption></figure>
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-`clan:` The clan you want to set up logs for.
+`clan:` De clan waarvoor u logbestanden wilt instellen.
 
-`mode` : Add/Edit depending on if you want to set a new log or to remove a log that you previously set up.
+`mode`: Voeg/Edit toe, afhankelijk van of u een nieuw logboek wilt instellen of een logboek wilt verwijderen dat u eerder hebt ingesteld.
 
-### Optional
+### Optioneel
 
-`/channel:` The channel you want the logs to be sent to. If you want to set up logs on different channel, you can run the command several time. If you don't set a channel, the logs will be send in the channel the command was run in.
+`/channel:` Het kanaal waarnaar u de logs wilt verzenden. Als u logboeken op verschillende kanalen wilt instellen, kunt u de opdracht meerdere keren uitvoeren. Als u geen kanaal instelt, worden de logs verzonden naar het kanaal waarin de opdracht werd uitgevoerd.
 
-## Logs type
+## Logboektype
 
-On this section we will explain the different logs type, with links  to an example.
-
+In deze sectie leggen we de verschillende logtypes uit, met links naar een voorbeeld.
 :::warning
-The logs update approximately every 5-10 minutes. This value may go down in the future but is never significantly higher.
+De logboeken worden ongeveer elke 5-10 minuten bijgewerkt. Deze waarde kan in de toekomst dalen, maar is nooit significant hoger.
 :::
 
-### Clan logs
+### Clanlogboeken
 
 <figure><img src="/img/gitbook/image (37).png" alt="" /><figcaption></figcaption></figure>
 
-* [**Member Join**](https://discord.com/channels/923764211845312533/1128182552121839648)**:** Send a message when a member join your clan.
-* [**Member Leave**](https://discord.com/channels/923764211845312533/1128182846218055722)**:**  Send a message when a member leave your clan. A unique feature of this Join/Leave log is that it shows _where_ the player goes after they leave. Helpful if you need to see if a member moved to another family clan or maybe went to a rival?!&#x20;
-* [**Member donation**](https://discord.com/channels/923764211845312533/1128185494497398834)**:** Send a message every time someone receive/give troops
-* **Clan achievements:** Send a message when the clan move up.
-* **Clan Requirements:** Send a message when clan settings has been modified.
-* **Clan Desciption**: Send a message when the clan description has been modified
+* [**Member Join**](https://discord.com/channels/923764211845312533/1128182552121839648)**:** Stuur een bericht wanneer een lid zich bij je clan voegt.
+* [**Member Leave**](https://discord.com/channels/923764211845312533/1128182846218055722)**:** Stuur een bericht wanneer een lid je clan verlaat. Een uniek kenmerk van dit Join/Leave-logboek is dat het laat zien _waar_ de speler naartoe gaat nadat hij/zij is vertrokken. Handig als je wilt zien of een lid naar een andere familieclan is verhuisd of misschien naar een rivaal is gegaan?!&#x20;
+* [**Member donation**](https://discord.com/channels/923764211845312533/1128185494497398834)**:** Stuur een bericht telkens wanneer iemand /give-troepen ontvangt
+* **Clanprestaties:** Stuur een bericht wanneer de clan omhoog gaat.
+* **Clanvereisten:** Stuur een bericht wanneer de claninstellingen zijn gewijzigd.
+* **Clanbeschrijving**: Stuur een bericht wanneer de clanbeschrijving is gewijzigd
 
 :::info
-If you want to add ban/strike/profile buttons to player joining/leaving logs, see [setup-a-clan.md](setup-a-clan.md "mention").
+Als je ban/strike/profile-knoppen wilt toevoegen aan de logboeken van spelers die deelnemen aan de /leaving, zie dan [setup-a-clan.md](setup-a-clan.md "mention").
 :::
 
-### War/CWL Logs {#war-cwl-logs}
+### War/CWL-logboeken {#war-cwl-logs}
 
 <figure><img src="/img/gitbook/image (39).png" alt="" /><figcaption></figcaption></figure>
 
-* [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)**:** A continuous log of war changes posted in a channel - attacks, defenses, war start, end, etc.
-* [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Send an embed panel when a new war starts and update it in real time.
-* **CWL Lineup Change**
+* [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)**:** Een continu logboek van oorlogsveranderingen gepost in een kanaal: aanvallen, verdedigingen, begin, einde van oorlog, enz.
+* [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Stuur een insluitpaneel wanneer een nieuwe oorlog begint en update het in realtime.
+* **CWL line-upwijziging**
 
-Setting both war log and war panel will result in double images of the result of the war. &#x20;
-
+Het instellen van zowel het oorlogslogboek als het oorlogspaneel resulteert in dubbele beelden van het resultaat van de oorlog. &#x20;
 :::warning
-If you set up the log during a war, the logs won't be send until the next war. Your war log should also be "public".
+Als je het logboek tijdens een oorlog hebt aangemaakt, worden de logboeken pas bij de volgende oorlog verzonden. Je oorlogslogboek moet ook "openbaar" zijn.
 :::
 
-### Capital Logs
+### Kapitaallogboeken
 
 <figure><img src="/img/gitbook/image (40).png" alt="" /><figcaption></figcaption></figure>
 
-* [**Capital Donations**](https://discord.com/channels/923764211845312533/1128186033918459905/1283537311958827122)**:** Send a message each time a player donate capital gold with the amount donated.
-* [**Capital Attacks**](https://discord.com/channels/923764211845312533/1128186033918459905/1282595848181514302)**:** Send a message each time a player attacks with the amount of capital gold received.
-* [**Capital Panel**](https://discord.com/channels/923764211845312533/1129404852385087498)**:** Auto updating panel of raid weekend info
-* **Capital Weekly Summary:** Send the result of the raids at the end of the weekend as displayed in the game.
+* [**Capital Donations**](https://discord.com/channels/923764211845312533/1128186033918459905/1283537311958827122)**:** Stuur een bericht elke keer dat een speler kapitaalgoud doneert met het gedoneerde bedrag.
+* [**Capital Attacks**](https://discord.com/channels/923764211845312533/1128186033918459905/1282595848181514302)**:** Stuur elke keer dat een speler aanvalt een bericht met de hoeveelheid ontvangen kapitaalgoud.
+* [**Capital Panel**](https://discord.com/channels/923764211845312533/1129404852385087498)**:** Automatisch bijgewerkt paneel van raid-weekendinformatie
+* **Capital Weekly Summary:** Stuur het resultaat van de raids aan het einde van het weekend zoals weergegeven in het spel.
 
-### Players Logs
+### Spelerslogboeken
 
 <figure><img src="/img/gitbook/image (41).png" alt="" /><figcaption></figcaption></figure>
 
-* [**Role Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283202622450565171)**:** Send a message every time the player change role (indicate former role and new one)
-* [**Troop Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283787642386911333)**:** Send a message every time the player upgrade a troop (which one and new level)
-* [**Super Troop Boosts**](https://discord.com/channels/923764211845312533/1128185014773874770/1283545307875115010)**:** Send a message every time the player boost a troop (which one)
-* [**TrownHall Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283708036535291914)**:** Send a message every time the player upgrade their townHall (with new level)
-* [**League Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283508937324236954)**:** Send a message every time the player change league (indicate former league and new one)
-* Spell Upgrade
-* Hero Upgrade
-* Hero Equipment Upgrade
-* Name Change
-* Legend Attacks
-* Legend Defenses
+* [**Role Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283202622450565171)**:** Stuur een bericht elke keer dat de speler van rol verandert (geef de vorige rol en de nieuwe aan)
+* [**Troop Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283787642386911333)**:** Stuur een bericht elke keer dat de speler een troepen upgradet (welke en een nieuw niveau)
+* [**Super Troop Boosts**](https://discord.com/channels/923764211845312533/1128185014773874770/1283545307875115010)**:** Stuur een bericht elke keer dat de speler een troepenmacht versterkt (welke)
+* [**TrownHall Upgrade**](https://discord.com/channels/923764211845312533/1128185014773874770/1283708036535291914)**:** Stuur een bericht elke keer dat de speler zijn stadhuis upgradet (met een nieuw niveau)
+* [**League Change**](https://discord.com/channels/923764211845312533/1128185014773874770/1283508937324236954)**:** Stuur een bericht elke keer dat de speler van competitie verandert (geef de vorige competitie en de nieuwe aan)
+* Spelling-upgrade
+* Held-upgrade
+* Upgrade van heldenuitrusting
+* Naamswijziging
+* Legenda-aanvallen
+* Legende verdedigingen

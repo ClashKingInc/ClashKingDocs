@@ -1,40 +1,39 @@
 ---
 description: Creating, Editing, Copying, Posting, & Deleting an Embed
 ---
+# 🔢 Insluitingen
 
-# 🔢 Embeds
+Er zijn 2 opties om een ​​insluiting op de bot te plaatsen. Optie 1 is helemaal opnieuw en Optie 2 is als je al een insluiting hebt, maar wilt dat de bot deze gebruikt (bijvoorbeeld als je een ticketpaneel op een andere bot hebt en deze op ClashKing wilt gebruiken)
 
-To put an embed onto the bot, there is 2 options. Option 1 is from scratch and Option 2 is if you have an embed already, but want the bot to use it (like if you have a ticket panel on another bot and want to use it on ClashKing)
+## Creëren: Optie 1 (een nieuwe insluiting maken) {#creating-option-1-creating-a-new-embed}
 
-## Creating: Option 1 (creating a new embed) {#creating-option-1-creating-a-new-embed}
-
-Head to [discohook](https://discohook.app) and you will see something like this:
+Ga naar [discohook](https://discohook.app) en je zult zoiets als dit zien:
 
 <figure><img src="/img/gitbook/image (130).png" alt="" /><figcaption><p>Default Discohook Page</p></figcaption></figure>
 
-Create your embed with whatever options you would like: message content, embed colors, multiple embeds, etc. The right will show a preview as you edit.\
+Maak uw insluiting met de gewenste opties: berichtinhoud, insluitingskleuren, meerdere insluitingen, enz. Aan de rechterkant wordt een voorbeeld weergegeven terwijl u aan het bewerken bent.\
 \
-When done, click "Share Message", then "Copy Link" in the next popup
+Als u klaar bent, klikt u op 'Bericht delen' en vervolgens op 'Kopieer link' in de volgende pop-up
 
 <figure><img src="/img/gitbook/image (2) (1) (1).png" alt="" /><figcaption><p>Getting the url</p></figcaption></figure>
 
-It is now saved to your clipboard. Now head back to discord.\
+Het is nu opgeslagen op uw klembord. Ga nu terug naar onenigheid.\
 \
-Now just run `/embed create`, choose a name to identify the embed later and for the `discordhook_url` field, paste in that link you copied. Now your embed is created!
+Voer nu gewoon `/embed create` uit, kies een naam om de insluiting later te identificeren en plak voor het veld `discordhook_url` de link die u hebt gekopieerd. Nu is je insluiting gemaakt!
 
-## Creating: Option 2 (copying an existing embed)
+## Creëren: Optie 2 (een bestaande insluiting kopiëren)
 
-Step 1 is to locate the embed you are copying on discord. Then, right click the embed and click Copy Message Link\
+Stap 1 is het lokaliseren van de insluiting die u kopieert op onenigheid. Klik vervolgens met de rechtermuisknop op de insluiting en klik op Berichtlink kopiëren\
 
 
 <figure><img src="/img/gitbook/image (24) (1) (1).png" alt="" /><figcaption><p>Copying Message Link</p></figcaption></figure>
 
-That will save the message link to your clipboard. Now head to a channel you can run ClashKing commands in and open up`/embed clone`, fill in the name field with a unique identifier so you can use it later and in the message\_link field paste in the link you copied earlier. Run the command & now you have cloned that embed!
+Hierdoor wordt de berichtlink op uw klembord opgeslagen. Ga nu naar een kanaal waarin je ClashKing-opdrachten kunt uitvoeren en open `/embed clone`, vul het naamveld in met een unieke identificatie zodat je deze later kunt gebruiken en plak in het bericht\_link-veld de link die je eerder hebt gekopieerd. Voer de opdracht uit en nu heb je die insluiting gekloond!
 
-## Editing an Embed
+## Een insluiting bewerken
 
-Use the command `/embed edit`. If you specify only the `name` field, then the bot will return a link that you can directly edit your embed from. When done editing, follow the steps in [Creating: Option 1](embeds.md#creating-option-1-creating-a-new-embed), and copy the data link to your clipboard. Then run `/embed edit` again with the new `discohook_url` and now your embed is updated with whatever changes you made.
+Gebruik het commando `/embed edit`. Als u alleen het veld `name` opgeeft, retourneert de bot een link waarmee u uw insluiting rechtstreeks kunt bewerken. Wanneer u klaar bent met bewerken, volgt u de stappen in [Creating: Option 1](embeds.md#creating-option-1-creating-a-new-embed) en kopieert u de datalink naar uw klembord. Voer vervolgens `/embed edit` opnieuw uit met de nieuwe `discohook_url` en nu wordt uw insluiting bijgewerkt met de wijzigingen die u heeft aangebracht.
 
-## Using your embed
+## Je insluiting gebruiken
 
-Multiple commands on the bot, like ticketing, use embeds you create here and those are pretty straightforward. If you want to just plainly post the new embed(s) you have made, use `/embed post`
+Meerdere opdrachten op de bot, zoals ticketing, maken gebruik van insluitingen die je hier maakt en die zijn vrij eenvoudig. Als je de nieuwe insluiting(en) die je hebt gemaakt gewoon duidelijk wilt posten, gebruik dan `/embed post`

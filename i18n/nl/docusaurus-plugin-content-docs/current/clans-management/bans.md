@@ -1,33 +1,32 @@
-# 🚪 Bans
+# 🚪 Verboden
 
-## The goal
+## Het doel
 
-The ban command can be very useful to create a list of members that you would not want to return.
+Het verbodscommando kan erg handig zijn om een ​​lijst met leden te maken die u niet wilt retourneren.
 
-Once you add a ban, the ban will be sent in the channel you set in [setup-a-server.md](../server-setups/setup-a-server.md "mention"), so no need to run the command on a specific channel !
+Zodra u een ban toevoegt, wordt de ban verzonden naar het kanaal dat u in [setup-a-server.md](../server-setups/setup-a-server.md "mention") hebt ingesteld, dus u hoeft de opdracht niet op een specifiek kanaal uit te voeren!
 
-If a banned player join one of your clan, a warning will be sent to the channel you set in [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")
-
+Als een uitgesloten speler lid wordt van een van je clans, wordt er een waarschuwing verzonden naar het kanaal dat je hebt ingesteld in [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")
 :::warning
-Using the ban command will not ban them from joining your clan. This is out of the bots control.
+Het gebruik van het ban-commando zal hen er niet van weerhouden lid te worden van je clan. Dit valt buiten de controle van de bots.
 :::
 
-## The command
+## Het commando
 
-To add a user to the list use `/ban add` (this supports "smart search" so a username can work).&#x20;
+Om een ​​gebruiker aan de lijst toe te voegen gebruik je `/ban add` (dit ondersteunt "slim zoeken", zodat een gebruikersnaam kan werken).&#x20;
 
 :::info
-All bans can be viewed using `/ban list` and a ban can be removed using `/ban remove`
+Alle verbanningen kunnen worden bekeken met `/ban list` en een verbanning kan worden verwijderd met `/ban remove`
 :::
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-`player` : player username or tag. If you can't find the player name in the list, you can use their player tag, even if it's not on the list.
+`player`: gebruikersnaam of tag van de speler. Als je de spelersnaam niet in de lijst kunt vinden, kun je de spelerstag gebruiken, zelfs als deze niet op de lijst staat.
 
-### Optional
+### Optioneel
 
-* `reason`: So you can remember why you ban them.
-* `dm_player`: If you add a text, the bot will send a dm to the player with this text.
+* `reason`: Zodat u zich kunt herinneren waarom u ze verbiedt.
+* `dm_player`: Als je een tekst toevoegt, stuurt de bot een dm naar de speler met deze tekst.
 

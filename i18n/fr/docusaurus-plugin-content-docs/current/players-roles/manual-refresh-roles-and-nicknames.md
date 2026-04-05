@@ -11,26 +11,24 @@ layout:
   pagination:
     visible: true
 ---
+# 🔄 Actualisation manuelle (rôles et surnoms)
 
-# 🔄 Manual Refresh (Roles & Nicknames)
+## Le but
 
-## The goal
-
-You can manually refresh the roles ([roles-th-and-more](roles-th-and-more/ "mention") & [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) and nicknames ( [setup-a-server.md](../server-setups/setup-a-server.md "mention")) of a user if the [auto-refresh.md](auto-refresh.md "mention")is turned off, or if you did some modification on a user settings, and nothing triggered the auto refresh yet.&#x20;
-
+Vous pouvez actualiser manuellement les rôles ([roles-th-and-more](roles-th-and-more/ "mention") et [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) et les surnoms ([setup-a-server.md](../server-setups/setup-a-server.md "mention")) d'un utilisateur si le [auto-refresh.md](auto-refresh.md "mention") est éteint ou si vous avez modifié les paramètres d'un utilisateur et que rien n'a encore déclenché l'actualisation automatique.
 :::info
-* Leadership roles are refreshed by default, want them to not? Changeable via `/setup server [leadership_refresh]`
+* Les rôles de leadership sont actualisés par défaut, souhaitez-vous qu'ils ne le soient pas ? Modifiable via `/setup server [leadership_refresh]`
 :::
 
-## The command
+## La commande
 
-There is one main command to manually refresh roles -> `/refresh` with two main options for a basic experience:
+Il existe une commande principale pour actualiser manuellement les rôles -> `/refresh` avec deux options principales pour une expérience de base :
 
-## The parameters
+## Les paramètres
 
-### Optional
+### Facultatif
 
-* `role_or_user`: choose the role or user you want to refresh roles and/or nickname.
-* `test`:  or no option, default is no, but yes allows you to see what the bot will do without it actually doing it.
-* `advanced_mode`: choose what role to evaluate. This will only add/remove the roles you selected.
-* `role_treatment`: indicate if you want to add and/or remove roles to the user depending (for example if a player left one of your clan to join another clan from your family, you can give them new roles without removing the one from the irformer clan).
+* `role_or_user` : choisissez le rôle ou l'utilisateur dont vous souhaitez actualiser les rôles et le pseudo /or.
+* `test` : ou aucune option, la valeur par défaut est non, mais oui vous permet de voir ce que le bot fera sans qu'il le fasse réellement.
+* `advanced_mode` : choisissez le rôle à évaluer. Cela ajoutera uniquement les rôles que vous avez sélectionnés.
+* `role_treatment` : indiquez si vous souhaitez ajouter et/or supprimer des rôles à l'utilisateur en fonction (par exemple si un joueur a quitté un de votre clan pour rejoindre un autre clan de votre famille, vous pouvez lui donner de nouveaux rôles sans supprimer celui du clan des irformers).

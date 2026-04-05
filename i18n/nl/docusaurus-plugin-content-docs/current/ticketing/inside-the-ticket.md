@@ -1,18 +1,17 @@
 ---
 description: Actions you can perform inside a ticket
 ---
+# 🎫 In het ticket
 
-# 🎫 Inside the Ticket
+## Ticketberichten
 
-## Ticket Messages
-
-This is a new feature & one of my favorite. Sometimes you have messages you repeat over & over to ticket applicants, like maybe (on a basic scale) "Here is Clan A, and this is the link to join it..."\
+Dit is een nieuwe functie en een van mijn favorieten. Soms heb je berichten die je keer op keer herhaalt voor ticketaanvragers, zoals misschien (op een eenvoudige schaal): "Hier is Clan A, en dit is de link om je erbij aan te sluiten..."\
 \
-Well, now you can automate that, and it supports replacement conventions! Here are the available options:
+Welnu, nu kun je dat automatiseren, en het ondersteunt vervangingsconventies! Dit zijn de beschikbare opties:
 
 <details>
 
-<summary>Replacement Convention Options</summary>
+<summary>Vervangingsconventieopties</summary>
 
 * `{ticket_count}`
 * `{ticket_status}`
@@ -40,7 +39,7 @@ Well, now you can automate that, and it supports replacement conventions! Here a
 </details>
 
 :::info
-The replacement conventions with "clan" in the name, will require the "Set Clan" button to be used, so it knows what clan it is dealing with
+De vervangende conventies met "clan" in de naam vereisen dat de knop "Clan instellen" wordt gebruikt, zodat het weet met welke clan het te maken heeft
 :::
 
 <figure><img src="/img/gitbook/image (25) (1) (1).png" alt="" /><figcaption><p>an example ticket message that is filled in dynamically</p></figcaption></figure>

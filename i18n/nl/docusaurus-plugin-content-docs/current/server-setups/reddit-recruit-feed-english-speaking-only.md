@@ -11,34 +11,33 @@ layout:
   pagination:
     visible: true
 ---
+# 🤝 Reddit Recruit Feed (alleen Engelssprekend)
 
-# 🤝 Reddit Recruit Feed (English speaking only)
+## Het doel
 
-## The goal
-
-Reddit is one of the main 2-3 external recruiting sources for Clash of Clans. For anyone unfamiliar, there is a subreddit - [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) - where people post when they are looking for a clan. This feed will post and optionally ping a role when activated. This let's you get a leg up and be one of the first to message or comment on a user's post which can significantly boost your recruiting chances, all things considered.
-
+Reddit is een van de belangrijkste 2-3 externe rekruteringsbronnen voor Clash of Clans. Voor iedereen die niet bekend is, is er een subreddit - [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) - waar mensen berichten plaatsen als ze op zoek zijn naar een clan. Deze feed zal een rol posten en optioneel pingen wanneer deze is geactiveerd. Hierdoor kunt u een voorsprong krijgen en een van de eersten zijn die berichten stuurt of commentaar geeft op de post van een gebruiker, wat uw kansen op rekrutering aanzienlijk kan vergroten, alles bij elkaar genomen.
 
 
-## The command
 
-To add this feed -> `/setup reddit-recruit-feed` & to remove - use the `remove` flag in the same command. Below is an example of a feed post.
+## Het commando
+
+Om deze feed toe te voegen -> `/setup reddit-recruit-feed` en om te verwijderen, gebruikt u de vlag `remove` in dezelfde opdracht. Hieronder ziet u een voorbeeld van een feedpost.
 
 :::info
-The Player Profile Button pops up when a "recruit" has shared their player tag, and the bot provides a quick way to view their account details
+De knop Spelersprofiel verschijnt wanneer een "rekruut" zijn spelerstag heeft gedeeld, en de bot biedt een snelle manier om zijn accountgegevens te bekijken
 :::
 
 &#x20;![](</img/gitbook/image (14) (1) (1).png>)
 
 
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `channel` : set the channel where you want the posts to be sent to
+* `channel`: stel het kanaal in waar u de berichten naartoe wilt sturen
 
-### Optional
+### Optioneel
 
-* `role_to_ping`  : role you want to ping when there's a new post&#x20;
-* `remove`  : to remove the feed.
+* `role_to_ping`: rol die u wilt pingen als er een nieuw bericht is&#x20;
+* `remove`: om het voer te verwijderen.

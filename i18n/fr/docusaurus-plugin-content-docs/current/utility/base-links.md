@@ -1,26 +1,25 @@
-# 🖼️ Base links
+# 🖼️ Liens de base
 
-## The goal
+## Le but
 
-Sometimes you would like to share a base with your clanmates, and you maybe even have a specific channel to store them. But reading a link does not provide any infos on what's the content of it. We provide a way to show more infos on this content !
+Parfois, vous aimeriez partager une base avec vos camarades de clan, et vous pourriez même avoir une chaîne spécifique pour les stocker. Mais la lecture d'un lien ne fournit aucune information sur son contenu. Nous proposons un moyen d'afficher plus d'informations sur ce contenu !
 
-People can then download the base & give feedbacks. Keep a track on how many people downloaded your base!
-
+Les gens peuvent ensuite télécharger la base et donner leur avis. Gardez une trace du nombre de personnes qui ont téléchargé votre base !
 :::info
-You can also turn on [link-parse.md](../server-setups/link-parse.md "mention") so the messages containing a base link will be automaticlly replaced by the embed.
+Vous pouvez également activer [link-parse.md](../server-setups/link-parse.md "mention") afin que les messages contenant un lien de base soient automatiquement remplacés par l'intégration.
 :::
 
-## The commands
+## Les commandes
 
 &#x20;`/base`
 
 <figure><img src="/img/gitbook/image (17).png" alt="" /><figcaption></figcaption></figure>
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `base_link` : the base link you want to parse
-* `description` : give some details on this base ! Like for which TH this is, or why do you share it.
-* `picture` : add a picture of the base to show how it looks like
+* `base_link` : le lien de base que vous souhaitez analyser
+* `description` : donnez quelques détails sur cette base ! Comme pour de quel TH il s'agit, ou pourquoi le partagez-vous.
+* `picture` : ajoutez une photo de la base pour montrer à quoi elle ressemble
 

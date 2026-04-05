@@ -1,38 +1,38 @@
-# ↔️ Manage players
+# ↔️ Beheer spelers
 
-## The goal
+## Het doel
 
-If  you want to modify the content of a roster without using a [post-a-roster-signup-and-more.md](post-a-roster-signup-and-more.md "mention"), then you can use commands to add or move players.
+Als je de inhoud van een selectie wilt wijzigen zonder een [post-a-roster-signup-and-more.md](post-a-roster-signup-and-more.md "mention") te gebruiken, kun je opdrachten gebruiken om spelers toe te voegen of te verplaatsen.
 
 [#add-players](manage-players.md#add-players "mention")
 
 [#move-or-remove-players](manage-players.md#move-or-remove-players "mention")
 
-## Add players
+## Spelers toevoegen
 
-This is an easy way to add a single person onto a roster.
+Dit is een eenvoudige manier om één persoon aan een rooster toe te voegen.
 
-### The command
+### Het commando
 
-Use `/roster add-player`&#x20;
+Gebruik `/roster add-player`&#x20;
 
 ### Parameters
 
-* `roster`: Roster name you want to add the player to
-* `player`: name or tag of the player
+* `roster`: Rosternaam waaraan u de speler wilt toevoegen
+* `player`: naam of tag van de speler
 
-## Move or remove players
+## Verplaats of verwijder spelers
 
-It allows you to move a player between two rosters or to remove them from one.
+Hiermee kunt u een speler tussen twee roosters verplaatsen of uit één rooster verwijderen.
 
-You can switch between the remove and move player mode by using the gear button.
+Je kunt schakelen tussen de modus Speler verwijderen en Speler verplaatsen met behulp van de tandwielknop.
 
 ![](</img/gitbook/image (9) (1).png>)
 
-### The command
+### Het commando
 
-Use `/roster move-player`
+Gebruik `/roster move-player`
 
 ### Parameters
 
-`roster`: Roster name you want to add the player to
+`roster`: Rosternaam waaraan u de speler wilt toevoegen

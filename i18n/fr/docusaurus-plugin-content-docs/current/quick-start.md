@@ -2,70 +2,68 @@
 icon: flag-checkered
 description: Follow these steps to set up ClashKing for the first time on your server.
 ---
+# Démarrage rapide
 
-# Quick start
+## Configuration recommandée
 
-## Recommended Setup
+**Étape 0** - 🟢 [**Add the bot**](https://invite.clashk.ing/)\
+Commencez par ajouter ClashKing à votre serveur Discord.
 
-**Step 0** - 🟢 [**Add the bot**](https://invite.clashk.ing/)\
-Start by adding ClashKing to your Discord server.
+**Étape 1** - 🏰 [**Add your clan(s)**](clan-setups/add-a-clan.md)\
+Liez votre (vos) clan(s) Clash of Clans au bot.
 
-**Step 1** - 🏰 [**Add your clan(s)**](clan-setups/add-a-clan.md)\
-Link your Clash of Clans clan(s) to the bot.
+**Étape 2** - ⚙️[ **Set up your clan(s)**](clan-setups/setup-a-clan.md)\
+Configurez votre (vos) clan(s) pour tirer le meilleur parti de ClashKing.
 
-**Step 2** - ⚙️[ **Set up your clan(s)**](clan-setups/setup-a-clan.md)\
-Configure your clan(s) to get the most out of ClashKing.
+**Étape 3** - 🔗 [**Link your clanmates**](clan-setups/link-players/)\
+Mappez les utilisateurs de Discord aux joueurs de Clash of Clans pour un meilleur suivi.
 
-**Step 3** - 🔗 [**Link your clanmates**](clan-setups/link-players/)\
-Map Discord users to Clash of Clans players for better tracking.
+**Étape 4** - 📝 [**Set up clan logs**](clan-setups/log-setup.md)\
+Activez les journaux pour les événements tels que les raids, les guerres, la CWL, l'activité des joueurs, etc.
 
-**Step 4** - 📝 [**Set up clan logs**](clan-setups/log-setup.md)\
-Enable logs for events like raids, wars, CWL, player activity, and more.
+**Étape 5** - 🛠️ [**Set up your server**](server-setups/setup-a-server.md)\
+Configurez les journaux d'administration, les rôles, les noms par défaut et d'autres paramètres du serveur.
 
-**Step 5** - 🛠️ [**Set up your server**](server-setups/setup-a-server.md)\
-Configure admin logs, roles, default names, and other server settings.
+**Étape 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
+Soyez averti des guerres, de la CWL, de l'inactivité, des jeux de clan, des raids et des listes.
 
-**Step 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
-Get notified for wars, CWL, inactivity, clan games, raids, and rosters.
-
-**Step 7** - 🔄 [**Enable auto-refresh**](players-roles/auto-refresh.md)\
-Automatically assign roles and names to users based on their clan status.
+**Étape 7** - 🔄 [**Enable auto-refresh**](players-roles/auto-refresh.md)\
+Attribuez automatiquement des rôles et des noms aux utilisateurs en fonction de leur statut de clan.
 
 **Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
-Take ClashKing wherever you go with our dedicated mobile app!
+Emmenez ClashKing partout où vous allez avec notre application mobile dédiée !
 
 ***
 
-## **Optional but Really Useful**
+## **Facultatif mais vraiment utile**
 
-**Step 8** - 🖼️ [**Set up a panel**](utility/buttons.md)\
-Help your clanmates link their accounts using a static or welcome message.
+**Étape 8** - 🖼️ [**Set up a panel**](utility/buttons.md)\
+Aidez vos membres de clan à lier leurs comptes à l'aide d'un message statique ou de bienvenue.
 
-**Step 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
-Assign roles for Town Hall level, league, achievements, and more.
+**Étape 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
+Attribuez des rôles pour le niveau de la mairie, la ligue, les réalisations et bien plus encore.
 
-**Step 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
-Simplify account linking with automated link parsing.
+**Étape 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
+Simplifiez la liaison des comptes grâce à l'analyse automatisée des liens.
 
-**Step 11** - 🎟️ [**Create tickets**](ticketing/creating-a-ticket-panel.md)\
-Set up tickets for clan applications or other needs.
+**Étape 11** - 🎟️ [**Create tickets**](ticketing/creating-a-ticket-panel.md)\
+Configurez des tickets pour les candidatures du clan ou d’autres besoins.
 
-**Step 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\
-Create timers for game or clan events directly in voice channels.
+**Étape 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\
+Créez des minuteries pour les événements de jeu ou de clan directement dans les canaux vocaux.
 
 ***
 
-## **To Go Further**
+## **Pour aller plus loin**
 
-**Step 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed-english-speaking-only.md)\
-Stream recruit posts from Reddit (English-speaking clans only).
+**Étape 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed-english-speaking-only.md)\
+Diffusez les publications de recrues depuis Reddit (clans anglophones uniquement).
 
-**Step 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\
-Allow specific users or roles to use specific commands.
+**Étape 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\
+Autorisez des utilisateurs ou des rôles spécifiques à utiliser des commandes spécifiques.
 
-**Step 15** - 🖌️ [**Customize the bot**](server-setups/others.md#customize-the-bot)\
-Change the bot’s name and picture for log messages.
-
+**Étape 15** - 🖌️ [**Customize the bot**](server-setups/others.md#customize-the-bot)\
+Modifiez le nom et l’image du bot pour les messages du journal.
 :::info
-Once you set up the bot, we suggest that you take a look at the [FAQ](faq.md) section.
+Une fois le bot configuré, nous vous suggérons de jeter un œil à la section [FAQ](faq.md).
 :::

@@ -1,9 +1,9 @@
-# 😎 User settings
+# 😎 Gebruikersinstellingen
 
-Users can set a few settings for themselves. For now, only 3 are availables.
+Gebruikers kunnen een aantal instellingen voor zichzelf instellen. Momenteel zijn er slechts 3 beschikbaar.
 
 <figure><img src="/img/gitbook/image (89).png" alt="" /><figcaption></figcaption></figure>
 
-* `{default_main_account}` make you choose which account will be display first when you run a specific command (for example `/player lookup`).
-* `{server_main_account}` make you choose which account will be display first when you run a specific command **but only in the current server** (for example `/player lookup`).
-* `{private_mode}` : if you want to be a ninja (no use at the moment).
+* Met `{default_main_account}` kunt u kiezen welk account als eerste wordt weergegeven wanneer u een specifieke opdracht uitvoert (bijvoorbeeld `/player lookup`).
+* Met `{server_main_account}` kunt u kiezen welk account als eerste wordt weergegeven wanneer u een specifieke opdracht uitvoert **maar alleen op de huidige server** (bijvoorbeeld `/player lookup`).
+* `{private_mode}`: als je een ninja wilt zijn (momenteel geen nut).

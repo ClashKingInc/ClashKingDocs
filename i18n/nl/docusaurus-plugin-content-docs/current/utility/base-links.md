@@ -1,26 +1,26 @@
-# 🖼️ Base links
+# 🖼️ Basislinks
 
-## The goal
+## Het doel
 
-Sometimes you would like to share a base with your clanmates, and you maybe even have a specific channel to store them. But reading a link does not provide any infos on what's the content of it. We provide a way to show more infos on this content !
+Soms wil je een basis delen met je clangenoten, en misschien heb je zelfs een specifiek kanaal om ze op te slaan. Maar het lezen van een link geeft geen informatie over de inhoud ervan. Wij bieden een manier om meer informatie over deze inhoud weer te geven!
 
-People can then download the base & give feedbacks. Keep a track on how many people downloaded your base!
+Mensen kunnen vervolgens de basis downloaden en feedback geven. Houd bij hoeveel mensen uw basis hebben gedownload!
 
 :::info
-You can also turn on [link-parse.md](../server-setups/link-parse.md "mention") so the messages containing a base link will be automaticlly replaced by the embed.
+U kunt ook [link-parse.md](../server-setups/link-parse.md "mention") inschakelen, zodat de berichten met een basislink automatisch worden vervangen door de insluiting.
 :::
 
-## The commands
+## De commando's
 
 &#x20;`/base`
 
 <figure><img src="/img/gitbook/image (17).png" alt="" /><figcaption></figcaption></figure>
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `base_link` : the base link you want to parse
-* `description` : give some details on this base ! Like for which TH this is, or why do you share it.
-* `picture` : add a picture of the base to show how it looks like
+* `base_link`: de basislink die u wilt parseren
+* `description`: geef enkele details over deze basis! Like voor welke TH dit is, of waarom deel je het.
+* `picture`: voeg een foto van de basis toe om te laten zien hoe deze eruit ziet
 

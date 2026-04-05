@@ -1,43 +1,41 @@
-# ⚙️ Setup a clan
+# ⚙️ Créer un clan
 
 :::danger
-Before setting up a clan, make sure you [added it first](add-a-clan.md).
+Avant de créer un clan, assurez-vous d'avoir [added it first](add-a-clan.md).
 :::
 
-## The goal
+## Le but
 
-This command will allow you to change settings you indicated on the /addclan command, but also to add new settings such as greeting messages, can name abbreviation, buttons to be shown on logs, etc.
+Cette commande vous permettra de modifier les paramètres que vous avez indiqués sur la commande /addclan, mais également d'ajouter de nouveaux paramètres tels que les messages d'accueil, l'abréviation du nom, les boutons à afficher sur les journaux, etc.
 
-## The command
+## La commande
 
 `/setup clan`
-
 :::info
-Before running that command, you need to create a leadership role from your discord server if you do not have one already. For example : @/coleader
+Avant d'exécuter cette commande, vous devez créer un rôle de leadership à partir de votre serveur Discord si vous n'en avez pas déjà un. Par exemple : @/coleader
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-`clan` : Of course you need to indicate which cln you want to set up.
+`clan` : Vous devez bien entendu indiquer quel cln vous souhaitez créer.
 
-### Optional
+### Facultatif
 
-* `member_role`: The role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.
-* `leadership_role`: The role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.
-* `clan_channel`: The channel you'll define will be the default channel for the bot will write in. For example, this is where it will great new users if you activate the option.
-* `greeting`: You can choose an embed that the bot will send when a new member join your clan (if they have been linked to discord). To create an embed, please take a look at [embeds.md](../utility/embeds.md "mention")
-
+* `member_role` : Le rôle que devraient recevoir les membres de ce clan. Donc sur votre discord, si le bot gérait les rôles, chaque personne de ce clan obtiendrait ce rôle. Utile si vous créez des chaînes spécifiques à un clan.
+* `leadership_role` : Le rôle que recevront tous les co-leaders et leaders de ce clan. Dans une discorde typique, vous pouvez avoir une discussion principale pour un clan ou une discussion de chef cumulative pour tous les clans - ce rôle peut être utile ici.
+* `clan_channel` : Le canal que vous définirez sera le canal par défaut dans lequel le bot écrira. Par exemple, c'est ici qu'il accueillera de nouveaux utilisateurs si vous activez l'option.
+* `greeting` : Vous pouvez choisir une intégration que le bot enverra lorsqu'un nouveau membre rejoindra votre clan (s'il a été lié à Discord). Pour créer une intégration, veuillez jeter un œil à [embeds.md](../utility/embeds.md "mention")
 :::info
-**Clan Greeting Conventions**
+**Conventions de salutation des clans**
 
 * `{user_mention}`
 * `{user_display_name}`
 * `{clan_name}`
 * `{clan_link}`
 * `{clan_leader_name}`
-* `{clan_leader_mention}` (in a future update)
+* `{clan_leader_mention}` (dans une future mise à jour)
 * `{player_name}`
 * `{player_link}`
 * `{player_townhall}`
@@ -47,11 +45,11 @@ Before running that command, you need to create a leadership role from your disc
 * `{player_trophies}`
 :::
 
-* `auto_greet`: If you activate it, every time a new member join the clan, the bot will greet them if they are on the server. You can choose between **Never, First Join, Every Join** to indicate to the bot if it has to greet them, and if it has to greet them the first time they are seen in the clan or everytime they join.
-* `category`: This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or Event clans. You can use one of the preset options (**General, Feeder, War, Esport**) or type your own.
-* `ban_alert_channel`:  You can choose in which channel the bot will warn you if someone that have been banned (see [bans.md](../clans-management/bans.md "mention")) join your clan.
-* `clan_abbreviation`:  You can give a nickname to your clan so the members can have it in their name if you choose to activate the rename (see [setup-a-server.md](../server-setups/setup-a-server.md "mention"))
-* `strike_button`:  Shows a strike button when someone leave your clan.
-* `ban_button`:  Shows a ban button when someone leave your clan, so you can ban them easily after having kicked them.
-* `profile_button`:  Shows a profile button when someone join your clan so you can access easily to their in game profile.
+* `auto_greet` : Si vous l'activez, chaque fois qu'un nouveau membre rejoint le clan, le bot le saluera s'il est sur le serveur. Vous pouvez choisir entre **Jamais, Premier joint, Chaque jointure** pour indiquer au bot s'il doit les saluer, et s'il doit les saluer la première fois qu'ils sont vus dans le clan ou à chaque fois qu'ils rejoignent.
+* `category` : C'est une façon d'organiser vos clans. De nombreuses familles claniques comptent 5 clans ou plus. Parfois, certains sont uniquement destinés aux clans CWL ou Event. Vous pouvez utiliser l'une des options prédéfinies (**Général, Feeder, War, Esport**) ou saisir la vôtre.
+* `ban_alert_channel` : Vous pouvez choisir sur quel canal le bot vous avertira si quelqu'un qui a été banni (voir [bans.md](../clans-management/bans.md "mention")) rejoint votre clan.
+* `clan_abbreviation` : Vous pouvez donner un pseudo à votre clan pour que les membres puissent l'avoir à leur nom si vous choisissez d'activer le renommage (voir [setup-a-server.md](../server-setups/setup-a-server.md "mention"))
+* `strike_button` : affiche un bouton d'attaque lorsque quelqu'un quitte votre clan.
+* `ban_button` : Affiche un bouton de bannissement lorsque quelqu'un quitte votre clan, afin que vous puissiez le bannir facilement après l'avoir expulsé.
+* `profile_button` : affiche un bouton de profil lorsque quelqu'un rejoint votre clan afin que vous puissiez accéder facilement à son profil en jeu.
 

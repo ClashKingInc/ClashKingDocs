@@ -1,7 +1,7 @@
-# 🛎️ Auto strikes
+# 🛎️ Grèves automobiles
 
 :::danger
-Auto strike are not available for now, but will be in an upcoming update.
+Les frappes automatiques ne sont pas disponibles pour le moment, mais le seront dans une prochaine mise à jour.
 :::
 
 

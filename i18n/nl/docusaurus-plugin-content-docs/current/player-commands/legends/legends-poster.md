@@ -1,21 +1,21 @@
-# Legends poster
+# Legendes-poster
 
-This send the image that is display in `/legends search`
+Hiermee wordt de afbeelding verzonden die wordt weergegeven in `/legends search`
 
-## The command
+## Het commando
 
 `/legends poster {player} {background}`
 
-## The parameter
+## De parameter
 
-### Required
+### Vereist
 
-* `player`: search using the player's name or tag.
+* `player`: zoeken op naam of tag van de speler.
 
-### Optional
+### Optioneel
 
-* `background`: change the image of the image.
+* `background`: verander de afbeelding van de afbeelding.
 
-## Example:
+## Voorbeeld:
 
 <figure><img src="/img/gitbook/image (4).png" alt="" /><figcaption></figcaption></figure>

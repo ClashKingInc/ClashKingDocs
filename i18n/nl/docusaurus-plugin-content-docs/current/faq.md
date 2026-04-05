@@ -1,88 +1,87 @@
 ---
 description: Frequently Asked Questions
 ---
-
-# ❓ FAQ
+# ❓ Veelgestelde vragen
 
 <details>
 
-<summary>How do I set up the bot?</summary>
+<summary>Hoe stel ik de bot in?</summary>
 
-You can set up the bot easily by following those steps : [quick-start.md](quick-start.md "mention")
+U kunt de bot eenvoudig instellen door deze stappen te volgen: [quick-start.md](quick-start.md "mention")
 
 </details>
 
 <details>
 
-<summary>Why do some stats not show up accurately (or at all) in their commands?</summary>
+<summary>Waarom worden sommige statistieken niet nauwkeurig (of helemaal niet) weergegeven in hun opdrachten?</summary>
 
-ClashKing can only get this info if the clan is tracked, which can be done by linking a clan to a  server with `/addclan`. This is because this info is not given by the API and it's not feasible or possible to track millions of clans arbitrarily (for more detailed things at least).
-
-</details>
-
-<details>
-
-<summary>What does last online &#x26; activity check do?</summary>
-
-check for changes in the following to detect when a player was last online:
-
-* name change
-* attack win
-* raid attack
-* clan capital donation
-* war attack
-* cc donation
-* war star gain
-* war preference change
-* obstacle removed
-* builder base trophy change
-* gold pass points earned
-* clan games points earned
-* gold, elixir, or DE looted
-
-Each tracking period (approx 3 mins) that one of these is found, +1 is added to activity score
+ClashKing kan deze informatie alleen krijgen als de clan wordt gevolgd, wat kan worden gedaan door een clan te koppelen aan een server met `/addclan`. Dit komt omdat deze informatie niet door de API wordt gegeven en het niet haalbaar of mogelijk is om miljoenen clans willekeurig te volgen (tenminste voor meer gedetailleerde zaken).
 
 </details>
 
 <details>
 
-<summary>The bot's emoji's aren't working?</summary>
+<summary>Wat blijft online &#x26; activiteitscontrole doen?</summary>
 
-The server _@/everyone_ role has to have the “use external emojis” permission.
+controleer op wijzigingen in het volgende om te detecteren wanneer een speler voor het laatst online was:
+
+*naamswijziging
+* aanvalsoverwinning
+* raid-aanval
+* donatie van clankapitaal
+* oorlogsaanval
+*cc-donatie
+* oorlogssterwinst
+* verandering van oorlogsvoorkeur
+* obstakel verwijderd
+* Verandering van de basistrofee voor de bouwer
+* gouden paspunten verdiend
+* Clanspelpunten verdiend
+* goud, elixer of DE geplunderd
+
+Elke volgperiode (ongeveer 3 minuten) dat een van deze wordt gevonden, wordt +1 toegevoegd aan de activiteitsscore
 
 </details>
 
 <details>
 
-<summary>The bot isn’t sending anything for my feed or log?</summary>
+<summary>De emoji's van de bot werken niet?</summary>
 
-* Use `/setup list` and confirm it is (still) set up
-* Give it some time, up to 10 minutes after an event has happened in game - due to looping and api cache times (especially on the first time a clan has been set up)
-* Check your channel/bot permissions, especially if you did not give ClashKing admin. _If you did not give the bot admin privileges, we do not provide support to fix your permissions._
+De server _@/everyone_-rol moet de machtiging "externe emoji's gebruiken" hebben.
 
 </details>
 
 <details>
 
-<summary>The legend stats are wrong?</summary>
+<summary>De bot verzendt niets voor mijn feed of log?</summary>
 
-Well it depends - It helps to understand deeper how this bot works. As mentioned above, there can be errors because the api doesn’t directly give legends stats. \
+* Gebruik `/setup list` en bevestig dat deze (nog) is ingesteld
+* Geef het wat tijd, tot 10 minuten nadat een gebeurtenis in het spel heeft plaatsgevonden - vanwege looping- en API-cachetijden (vooral bij de eerste keer dat een clan is opgezet)
+* Controleer de rechten van je kanaal/bot, vooral als je ClashKing geen beheerder hebt gegeven. _Als u de bot geen beheerdersrechten heeft gegeven, bieden wij geen ondersteuning om uw machtigingen te herstellen._
+
+</details>
+
+<details>
+
+<summary>De legendastatistieken kloppen niet?</summary>
+
+Nou, het hangt ervan af - het helpt om dieper te begrijpen hoe deze bot werkt. Zoals hierboven vermeld, kunnen er fouten optreden omdat de API niet rechtstreeks legendestatistieken geeft. \
 \
-This bot works by checking player's trophies non-stop. If the trophies go up, it’s an attack. If they go down, it’s a defense. Sounds good, except, the api doesn’t update _immediately_ - it can take up to 5 minutes. In those few minutes, the trophies (how we’re checking hits/defenses) could change in a few ways that can trip up the bot. \
+Deze bot werkt door non-stop de trofeeën van spelers te controleren. Als de trofeeën omhoog gaan, is het een aanval. Als ze ten onder gaan, is het een verdediging. Klinkt goed, behalve dat de API niet _onmiddellijk_ wordt bijgewerkt - dit kan tot 5 minuten duren. In die paar minuten kunnen de trofeeën (hoe we hits/defenses controleren) op een paar manieren kunnen veranderen waardoor de bot kan struikelen. \
 \
-1\. Two attacks in a short time frame - in this case you will see stats like +68. That’s 2 hits, and it’s 100% accurate for all intents & purposes. \
-2\. Two defenses happen at same time, same as above but something like -68. \
-3\. Where we can get some inaccuracy, a defense & attack happen at same time. You may get something like +4, if a +30 attack and -26 defense happen at same time. \
+1\. Twee aanvallen in een kort tijdsbestek - in dit geval zie je statistieken als +68. Dat zijn twee treffers en het is 100% accuraat voor alle doeleinden. \
+2\. Twee verdedigingen vinden tegelijkertijd plaats, hetzelfde als hierboven, maar zoiets als -68. \
+3\. Waar we enige onnauwkeurigheid kunnen krijgen, vinden een verdediging en een aanval tegelijkertijd plaats. Je kunt zoiets als +4 krijgen als een +30 aanval en -26 verdediging tegelijkertijd plaatsvinden. \
 \
-Always- the net gain/loss for the day will be accurate.
+Altijd: de nettowinst/loss voor de dag zal nauwkeurig zijn.
 
 </details>
 
 <details>
 
-<summary>Can the bot show where Capital Gold was donated?</summary>
+<summary>Kan de bot laten zien waar Capital Gold is gedoneerd?</summary>
 
-No, the API does not provide this information for ClashKing to be able to share
+Nee, de API verstrekt deze informatie niet aan ClashKing om te kunnen delen
 
 </details>
 

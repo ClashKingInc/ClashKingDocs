@@ -1,25 +1,25 @@
-# 👩‍👩‍👧‍👦 Family Commands
+# 👩‍👩‍👧‍👦 Commandes familiales
 
-Family commands are very similar to Clan commands but on a larger scale being able to view the entire family of clans on your server.
+Les commandes familiales sont très similaires aux commandes de clan mais à plus grande échelle, elles permettent de visualiser toute la famille des clans sur votre serveur.
 
-## Top 50s
+## Top 50
 
-There are a couple different options that you are able to view the top 50 members in the entire family for which can be helpful for friendly competition.
+Il existe plusieurs options différentes qui vous permettent de visualiser les 50 meilleurs membres de toute la famille et qui peuvent être utiles pour une compétition amicale.
 
-**There is up to 6 parameters :**&#x20;
+**Il y a jusqu'à 6 paramètres :**&#x20;
 
-* `{season}` behave slightly differently for each command. Season can refer to month (clan games) or the in-game season (donations), raid weekends also have `{weekend}` instead.
-* `{limit}` will only show that number of users
-* `{townhall}` will only show results at that townhall
-* `{sort_by}` allows you to choose which parameters should be taken in account to make the top 50
-* `{sort_order}` will show the result by ascending or descending order
-* `{server}` will shows the result for a family linked to a specific server **you are in**.
+* `{season}` se comporte légèrement différemment pour chaque commande. La saison peut faire référence au mois (jeux de clan) ou à la saison du jeu (dons), les week-ends de raid ont également `{weekend}` à la place.
+* `{limit}` affichera uniquement ce nombre d'utilisateurs
+* `{townhall}` affichera uniquement les résultats à cette mairie
+* `{sort_by}` permet de choisir quels paramètres doivent être pris en compte pour faire le top 50
+* `{sort_order}` affichera le résultat par ordre croissant ou décroissant
+* `{server}` affichera le résultat pour une famille liée à un serveur spécifique **dans lequel vous vous trouvez**.
 
 <details>
 
-<summary><code>/family activity</code></summary>
+<summary><code>Activité /family</code></summary>
 
-Show top 50 active members of the family with a graph showing total activity by clan.
+Affichez les 50 principaux membres actifs de la famille avec un graphique montrant l'activité totale par clan.
 
 ![](</img/gitbook/image (43) (1).png>)
 
@@ -27,7 +27,7 @@ Show top 50 active members of the family with a graph showing total activity by 
 
 <details>
 
-<summary><code>/family donations</code></summary>
+<summary><code>Dons /family</code></summary>
 
 ![](</img/gitbook/image (44).png>)
 
@@ -35,9 +35,9 @@ Show top 50 active members of the family with a graph showing total activity by 
 
 <details>
 
-<summary><code>/family raids</code></summary>
+<summary><code>Raids /family</code></summary>
 
-Shows current status of the capital raids in each clan where raids are currently opened.
+Affiche l'état actuel des raids de capitale dans chaque clan où les raids sont actuellement ouverts.
 
 ![](</img/gitbook/image (48).png>)
 
@@ -45,16 +45,16 @@ Shows current status of the capital raids in each clan where raids are currently
 
 <details>
 
-<summary><code>/family progress</code> </summary>
+<summary><code>Progression de /family</code> </summary>
 
-Available for Heroes & Pets, but also for Troops, Spells & Sieges.\
-It will show the number of level upgraded for a season by members but also in total.
+Disponible pour les héros et les animaux de compagnie, mais aussi pour les troupes, les sorts et les sièges.\
+Il indiquera le nombre de niveaux améliorés au cours d'une saison par les membres mais également au total.
 
-* Heroes & Pets
+* Héros et animaux de compagnie
 
 ![](</img/gitbook/image (49).png>)
 
-* Troops, Spells & Sieges
+* Troupes, sorts et sièges
 
 ![](</img/gitbook/image (50).png>)
 
@@ -62,23 +62,23 @@ It will show the number of level upgraded for a season by members but also in to
 
 <details>
 
-<summary><code>/family games</code></summary>
+<summary><code>Jeux /family</code></summary>
 
-Show the number of clan games points done by members of a family during a given season.![](</img/gitbook/image (53).png>)
+Afficher le nombre de points de jeux de clan réalisés par les membres d'une famille au cours d'une saison donnée.![](</img/gitbook/image (53).png>)
 
 </details>
 
-## Others
+## Autres
 
 <details>
 
-<summary><code>/family clans</code></summary>
+<summary><code>Clans /family</code></summary>
 
-This will show a general members count for all clans in the server. You can choose betwen several parameters to decide what will be shown in the board :&#x20;
+Cela affichera un nombre général de membres pour tous les clans du serveur. Vous pouvez choisir entre plusieurs paramètres pour décider de ce qui sera affiché sur le tableau :&#x20;
 
 ![](</img/gitbook/image (52).png>)
 
-* With no parameters, it will shows "Overview" by default :&#x20;
+* Sans paramètres, il affichera "Aperçu" par défaut : &#x20;
 
 ![](</img/gitbook/image (51).png>)
 
@@ -86,11 +86,11 @@ This will show a general members count for all clans in the server. You can choo
 
 <details>
 
-<summary><code>/family compo `{type}`</code></summary>
+<summary><code>Compo /family `{type}`</code></summary>
 
-Will show TH break down within a family. Hitrate also gives a breakdown of the percentage of attacks that score 0, 1, 2 and 3 stars against their own townhall level. Below shows the different `{types}`.
+Montrera que TH s'effondre au sein d'une famille. Hitrate donne également une répartition du pourcentage d'attaques qui obtiennent 0, 1, 2 et 3 étoiles par rapport à leur propre niveau de mairie. Ci-dessous montre les différents `{types}`.
 
-* Totals\
+* Totaux\
   ![](</img/gitbook/Screenshot 2023-09-12 at 21.29.06.png>)
 * Hitrate\
   ![](</img/gitbook/Screenshot 2023-09-12 at 21.28.34.png>)
@@ -99,9 +99,9 @@ Will show TH break down within a family. Hitrate also gives a breakdown of the p
 
 <details>
 
-<summary><code>/family wars</code></summary>
+<summary><code>Guerres /family</code></summary>
 
-Will display all current and ongoing wars with a brief overview
+Affichera toutes les guerres en cours et en cours avec un bref aperçu
 
 ![](</img/gitbook/Screenshot 2023-09-12 at 21.32.30.png>)
 
@@ -109,33 +109,33 @@ Will display all current and ongoing wars with a brief overview
 
 <details>
 
-<summary><code>/family board `{board}`</code></summary>
+<summary><code>Carte /family `{board}`</code></summary>
 
-Clan boards are a great way to overview family members in a variety of ways, these can be refreshed with the refresh button. Each board `{board}` is shown below
+Les tableaux de clan sont un excellent moyen d'avoir une vue d'ensemble des membres de la famille de différentes manières, ceux-ci peuvent être actualisés avec le bouton d'actualisation. Chaque carte `{board}` est présentée ci-dessous
 
-* Activity\
+* Activité\
   ![](/img/gitbook/peak\_dynasty\_activitydonation\_board.png)
-* Legends\
+* Légendes\
   ![](/img/gitbook/peak\_dynasty\_legend\_board.png)
-* Trophy\
+*Trophée\
   ![](/img/gitbook/peak\_dynasty\_trophy\_board.png)
 
 </details>
 
 <details>
 
-<summary><code>/family leagues</code></summary>
+<summary><code>Ligues /family</code></summary>
 
-This can show you what league every clan is in, you can toggle between CWL leagues and clan capital using buttons\
+Cela peut vous montrer à quelle ligue appartient chaque clan, vous pouvez basculer entre les ligues CWL et la capitale du clan à l'aide des boutons\
 ![](</img/gitbook/Screenshot 2023-09-12 at 22.00.52.png>)![](</img/gitbook/Screenshot 2023-09-12 at 22.01.04.png>)
 
 </details>
 
 <details>
 
-<summary><code>/family history</code></summary>
+<summary><code>Historique de /family</code></summary>
 
-This command is quite useful for looking at if any clans are losing alot of players. Keep in mind that it logs every leave and every join, it doesnt take into account if someone leaves and joins\
+Cette commande est très utile pour vérifier si des clans perdent beaucoup de joueurs. Gardez à l'esprit qu'il enregistre chaque départ et chaque arrivée, il ne prend pas en compte si quelqu'un quitte et rejoint\
 \
 ![](</img/gitbook/Screenshot 2023-10-02 at 18.36.39.png>)
 
@@ -143,22 +143,22 @@ This command is quite useful for looking at if any clans are losing alot of play
 
 <details>
 
-<summary><code>/family trophies</code></summary>
+<summary><code>Trophées /family</code></summary>
 
-A way to view total trophies in either main, builder or clan capital\
+Un moyen de visualiser le total des trophées dans la capitale principale, de constructeur ou de clan\
 ![](</img/gitbook/Screenshot 2023-10-02 at 18.41.43.png>)
 
 </details>
 
 <details>
 
-<summary><code>/family sorted `{townhall}` `{limit}` `{server}`</code></summary>
+<summary><code>/family trié `{townhall}` `{limit}` `{server}`</code></summary>
 
-Show members of a clans family sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
+Afficher les membres d'une famille de clans triés selon un attribut spécifique. Il y en a trop donc je vous laisse le découvrir directement sur votre serveur !
 
 ![](</img/gitbook/image (42) (1).png>)
 
-Example for members sorted by attacks won :&#x20;
+Exemple pour les membres triés par attaques gagnées :&#x20;
 
 ![](</img/gitbook/image (41) (1).png>)
 
@@ -166,9 +166,9 @@ Example for members sorted by attacks won :&#x20;
 
 <details>
 
-<summary><code>/family summary `{season}` `{limit}` `{server}`</code></summary>
+<summary><code>Résumé /family `{season}` `{limit}` `{server}`</code></summary>
 
-Shows a leaderboard of the family best players for loot, activity, trophies, donations, raids and war stars.
+Affiche un classement des meilleurs joueurs de la famille pour le butin, l'activité, les trophées, les dons, les raids et les étoiles de guerre.
 
 ![](</img/gitbook/image (56).png>)![](</img/gitbook/image (57).png>)
 
@@ -176,9 +176,9 @@ Shows a leaderboard of the family best players for loot, activity, trophies, don
 
 <details>
 
-<summary>/family stats `{types}`</summary>
+<summary>Statistiques /family `{types}`</summary>
 
-This command is under construction for now but shoud be able to give statistics of a family members for donations, activity, trophies, versus trophies & capital trophies.
+Cette commande est en construction pour l'instant mais devrait être capable de donner des statistiques sur les membres d'une famille pour les dons, l'activité, les trophées, par rapport aux trophées et aux trophées capitaux.
 
 ![](</img/gitbook/image (58).png>)
 

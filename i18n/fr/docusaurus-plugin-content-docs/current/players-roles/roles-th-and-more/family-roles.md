@@ -1,32 +1,30 @@
-# 👨‍👩‍👧‍👧 Family Roles
+# 👨‍👩‍👧‍👧 Rôles familiaux
 
-## The goal
+## Le but
 
-Gives a specific role to users whether they are in your clans or not, but also based on their rank in the clan.
+Donne un rôle spécifique aux utilisateurs qu'ils soient dans vos clans ou non, mais également en fonction de leur rang dans le clan.
 
 <figure><img src="/img/gitbook/image (117).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles family` command.
-
+Pour cela, vous devez utiliser la commande `/roles family`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-`type` : Choose the type of the role you want to set between Family roles (Member, Elders, Co-Leader, Leader) and Non Family Roles (Member).
-
+`type` : Choisissez le type de rôle que vous souhaitez définir entre les rôles familiaux (membre, aînés, co-leader, leader) et les rôles non familiaux (membre).
 :::info
-"Family" roles will be given to users that have an account in one of the clans you added to your server (see [add-a-clan.md](../../clan-setups/add-a-clan.md "mention")), while "Non Family" roles will be given to those who aren't in one of your clans.
+Les rôles « Famille » seront attribués aux utilisateurs qui ont un compte dans l'un des clans que vous avez ajoutés à votre serveur (voir [add-a-clan.md](../../clan-setups/add-a-clan.md "mention")), tandis que les rôles « Non Famille » seront attribués à ceux qui ne font pas partie d'un de vos clans.
 
-"Ignored Roles"&#x20;
+"Rôles ignorés"&#x20;
 :::
 
-### Optional
+### Facultatif
 
-* `add`: Role to add
-* `remove`: Role to remove
+* `add` : Rôle à ajouter
+* `remove` : Rôle à supprimer

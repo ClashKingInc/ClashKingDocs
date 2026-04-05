@@ -1,16 +1,15 @@
-# 📋 Leaderboards
+# 📋 Classements
 
-Leader boards have a few options, some of these are ingames ones that become viewable on discord and some are leadersboards within your family.
-
+Les classements ont quelques options, certaines d'entre elles sont des classements intégrés aux jeux qui deviennent visibles sur Discord et d'autres sont des classements au sein de votre famille.
 :::warning
-/leaderboard legends, /leaderboard players and /leaderboard images are currently down.
+Les légendes /leaderboard, les lecteurs /leaderboard et les images /leaderboard sont actuellement en panne.
 :::
 
 <details>
 
-<summary><code>/leaderboard family `{limit}`</code></summary>
+<summary><code>Famille /leaderboard `{limit}`</code></summary>
 
-Gives a leaderboard for everyone in the family trophies
+Donne un classement pour tout le monde dans les trophées familiaux
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.58.33.png>)
 
@@ -18,9 +17,9 @@ Gives a leaderboard for everyone in the family trophies
 
 <details>
 
-<summary><code>/leaderboard legends</code></summary>
+<summary><code>Légendes /leaderboard</code></summary>
 
-Shows a legend leaderboard for everyone in legends within your family. Can be filter ordered using the attached filters.
+Affiche un classement des légendes pour toutes les légendes de votre famille. Peut être commandé par filtre à l’aide des filtres ci-joints.
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.58.51.png>)
 
@@ -28,9 +27,9 @@ Shows a legend leaderboard for everyone in legends within your family. Can be fi
 
 <details>
 
-<summary><code>/leaderboard clans</code></summary>
+<summary><code>Clans /leaderboard</code></summary>
 
-Shows the ingame leaderboard for the selected country
+Affiche le classement en jeu pour le pays sélectionné
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.59.00.png>)
 
@@ -40,7 +39,7 @@ Shows the ingame leaderboard for the selected country
 
 <summary><code>/leaderboard capital</code></summary>
 
-Shows the leaderboard for clan capital in the selected country.
+Affiche le classement de la capitale du clan dans le pays sélectionné.
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.59.13.png>)
 
@@ -48,9 +47,9 @@ Shows the leaderboard for clan capital in the selected country.
 
 <details>
 
-<summary><code>/leaderboard players</code></summary>
+<summary><code>Joueurs /leaderboard</code></summary>
 
-Shows the player leaderboard from ingame in the selected country
+Affiche le classement des joueurs du jeu dans le pays sélectionné
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.59.30.png>)
 
@@ -58,9 +57,9 @@ Shows the player leaderboard from ingame in the selected country
 
 <details>
 
-<summary><code>/leaderboard image `{clan}` `{server}` `{limit}`</code></summary>
+<summary><code>Image /leaderboard `{clan}` `{server}` `{limit}`</code></summary>
 
-Create a beautiful image with the results of the following options :
+Créez une belle image avec les résultats des options suivantes :
 
 ![](</img/gitbook/image (59).png>)
 

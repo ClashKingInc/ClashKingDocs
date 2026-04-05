@@ -1,59 +1,59 @@
-# 🎁 Giveaways
+# 🎁 Winacties
 
-Do you want to give some things back to your community? Host now your own giveaways!&#x20;
+Wil je iets teruggeven aan je gemeenschap? Organiseer nu je eigen weggeefacties!&#x20;
 
-It is possible to schedule the giveaways beforehand! Weights can also be adjusted based on roles. For instance, long-term players can be given a higher chance ([/role tenure](../players-roles/roles-th-and-more/tenure-role.md) to set those up).
+Het is mogelijk om de winacties vooraf in te plannen! Gewichten kunnen ook worden aangepast op basis van rollen. Langetermijnspelers kunnen bijvoorbeeld een hogere kans krijgen ([/role tenure](../players-roles/roles-th-and-more/tenure-role.md) om deze op te zetten).
 
 :::info
-This feature is quite new! Report bugs or feature suggestions in [the discord!](https://discord.clashk.ing/)
+Deze functie is vrij nieuw! Rapporteer bugs of functiesuggesties in [the discord!](https://discord.clashk.ing/)
 :::
 
-## Manage giveaways
+## Beheer weggeefacties
 
-You can manage your giveaways using a webpage dashboard. You can get the link with the command `/giveaway dashboard`.  This link will expire 1 hour after you executed the command.
+U kunt uw weggeefacties beheren via een webpaginadashboard. U kunt de link verkrijgen met het commando `/giveaway dashboard`.  Deze link vervalt 1 uur nadat u de opdracht heeft uitgevoerd.
 
 :::info
-You need the Manage Server perms to have acces to the dashboard. To grant access to others or a specific role (such as a giveaways manager), use the [**/whitelist add** ](../server-setups/whitelist.md)command
+U heeft de machtiging Server beheren nodig om toegang te krijgen tot het dashboard. Om toegang te verlenen aan anderen of een specifieke rol (zoals een giveaways-manager), gebruikt u de opdracht [**/whitelist add** ](../server-setups/whitelist.md)
 :::
 
 <figure><img src="/img/gitbook/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
 
-Click on the **create giveaway** to create a new giveaway. Enter the details, such as the prize, start and end times, along with a custom message or image!
+Klik op **maak winactie** om een ​​nieuwe winactie aan te maken. Voer de details in, zoals de prijs, begin- en eindtijd, samen met een aangepast bericht of afbeelding!
 
 <figure><img src="/img/gitbook/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
 
-### Giveaway requirements
+### Vereisten voor weggeefacties
 
-It is possible set certain requirements for the giveaways.  Those requirements will allow for assigning greater weighting to specific users based on their roles. Additionally, it helps to prevent bots from participating in giveaways. Currently we have the following requirements:
+Het is mogelijk om bepaalde eisen te stellen aan de winacties.  Deze vereisten zullen het mogelijk maken om meer gewicht toe te kennen aan specifieke gebruikers op basis van hun rollen. Bovendien helpt het om te voorkomen dat bots deelnemen aan weggeefacties. Momenteel hebben wij de volgende eisen:
 
-* User must have a discord profile picture
-* User must have a Clash of Clans account linked to the ClashKing bot (using [/link](../clan-setups/link-players/))
-* Only allow users with a certain role to participate
-* Or adjust the odds for a certain role
+* Gebruiker moet een onenigheidsprofielfoto hebben
+* De gebruiker moet een Clash of Clans-account hebben dat is gekoppeld aan de ClashKing-bot (met behulp van [/link](../clan-setups/link-players/))
+* Sta alleen gebruikers met een bepaalde rol toe om deel te nemen
+*Of pas de odds voor een bepaalde rol aan
 
-## Example of a giveaway
+## Voorbeeld van een winactie
 
 <figure><img src="/img/gitbook/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
 
 :::info
-The participate button will update 60 seconds after the last click.&#x20;
+De deelnameknop wordt 60 seconden na de laatste klik bijgewerkt.&#x20;
 :::
 
-## Reroll giveaways
+## Winacties opnieuw uitrollen
 
-It is also possible to reroll certain giveaway winners.
+Het is ook mogelijk om bepaalde winactiewinnaars opnieuw uit te schrijven.
 
-### The command
+### Het commando
 
 `/giveaway reroll {giveaway name} {users_to_replace}`
 
-#### The parameters
+#### De parameters
 
-#### Required
+#### Vereist
 
-* `giveaway name`:  name of the giveaway
-* `users_to_replace`: mention of the users to replace with a new winner.
+* `giveaway name`: naam van de winactie
+* `users_to_replace`: vermelding van de gebruikers die moeten worden vervangen door een nieuwe winnaar.
 
-#### Optional
+#### Optioneel
 
-* `reason`:  reason of the reroll.&#x20;
+* `reason`: reden van de herroll.&#x20;

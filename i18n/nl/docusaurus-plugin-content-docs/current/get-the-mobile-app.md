@@ -1,34 +1,34 @@
-# 📱 Get the mobile app !
+# 📱 Download de mobiele app!
 
-#### **📱 ClashKing Mobile App**
+#### **📱 ClashKing mobiele app**
 
-We’re excited to announce that we’re working on a **dedicated mobile app** to bring all the features you love from the ClashKing bot directly to your smartphone!
+We zijn verheugd om aan te kondigen dat we werken aan een **speciale mobiele app** om alle functies van de ClashKing-bot rechtstreeks naar uw smartphone te brengen!
 
-🚀 **Current Status**: The app is now in **public beta**, and we’re continuously adding new features and improvements.
+🚀 **Huidige status**: de app bevindt zich nu in de **openbare bèta** en we voegen voortdurend nieuwe functies en verbeteringen toe.
 
 ***
 
-#### **📥 Download the App**
+#### **📥 Download de app**
 
 * **iOS**: [Download via TestFlight](https://testflight.apple.com/join/6Q8dfnMX)
 * **Android**: [Join the beta on Google Play](https://play.google.com/apps/testing/com.clashking.clashkingapp)
 
 ***
 
-#### **🌟 Why Try the Mobile App?**
+#### **🌟 Waarom de mobiele app proberen?**
 
-* Access all your favorite ClashKing bot features on the go.
-* Stay updated with your clan’s activities wherever you are.
-* Experience a clean, user-friendly interface designed for convenience.
-
-***
-
-#### **🌍 Help us translate!**
-
-You can help us by translating the app in your language on [Crowdin](https://crowdin.com/project/clashkingapp)!
+* Krijg onderweg toegang tot al uw favoriete ClashKing-botfuncties.
+* Blijf op de hoogte van de activiteiten van je clan, waar je ook bent.
+* Ervaar een schone, gebruiksvriendelijke interface die is ontworpen voor gemak.
 
 ***
 
-#### **🔍 What’s Next?**
+#### **🌍 Help ons vertalen!**
 
-We’re working hard to expand the app with even more features and tools in the coming updates. Your feedback is invaluable—let us know [here](https://clashkingapp.features.vote/board) what you’d like to see next!
+Je kunt ons helpen door de app in jouw taal te vertalen op [Crowdin](https://crowdin.com/project/clashkingapp)!
+
+***
+
+#### **🔍 Wat is het volgende?**
+
+We werken er hard aan om de app in de komende updates uit te breiden met nog meer functies en tools. Uw feedback is van onschatbare waarde. Laat ons [here](https://clashkingapp.features.vote/board) weten wat u hierna graag zou willen zien!

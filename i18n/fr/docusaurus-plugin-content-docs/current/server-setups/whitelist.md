@@ -1,22 +1,21 @@
-# ⬜ Whitelist
+# ⬜ Liste blanche
 
-## The goal
+## Le but
 
-Gives a specific user or role access to one command.
-
+Donne à un utilisateur ou un rôle spécifique l’accès à une commande.
 :::info
-You can give access to every commands to a role in [setup-a-server.md](setup-a-server.md "mention") (full\_whitelist\_role).
+Vous pouvez donner accès à toutes les commandes à un rôle dans [setup-a-server.md](setup-a-server.md "mention") (full\_whitelist\_role).
 :::
 
-## The command
+## La commande
 
-For that, you must use the `/whitelist add` command to add a role, the `/whitelist remove` command to remove a role, and the `/whitelist list` to display the list of commands that have whitelist overrides.
+Pour cela, vous devez utiliser la commande `/whitelist add` pour ajouter un rôle, la commande `/whitelist remove` pour supprimer un rôle et la commande `/whitelist list` pour afficher la liste des commandes qui ont des remplacements de liste blanche.
 
 <figure><img src="/img/gitbook/image (127).png" alt="" /><figcaption></figcaption></figure>
 
-## The parameters
+## Les paramètres
 
-### Optional
+### Facultatif
 
-* `ping`: The role you want to give access to a command
-* `command`:  The command you want to give acces to
+* `ping` : Le rôle auquel vous souhaitez donner accès à une commande
+* `command` : La commande à laquelle vous souhaitez donner accès

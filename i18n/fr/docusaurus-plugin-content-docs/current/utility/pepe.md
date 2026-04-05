@@ -1,22 +1,22 @@
-# 🐸 Pepe
+# 🐸 Pépé
 
-## Pepe
+## Pépé
 
-Do you know pepe ? You can make him hold a sign with anything you want on it!&#x20;
+Tu connais Pépé ? Vous pouvez lui faire tenir une pancarte avec tout ce que vous voulez dessus !&#x20;
 
 <figure><img src="/img/gitbook/image (105).png" alt="" /><figcaption><p>Use code ClashKing &#x3C;3</p></figcaption></figure>
 
-## The command
+## La commande
 
 `/pepe {sign_text} {hidden}`
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `sign_text`: text to write on the sign
-* `hidden`: if pepe is visible only to you or to everyone else in the chat.
+* `sign_text` : texte à écrire sur le panneau
+* `hidden` : si Pepe n'est visible que par vous ou par tous les autres participants au chat.
 
-## Example
+## Exemple
 
-Try it! `/pepe sign_text: use code clashking hidden: No`
+Essayez-le ! `/pepe sign_text: use code clashking hidden: No`

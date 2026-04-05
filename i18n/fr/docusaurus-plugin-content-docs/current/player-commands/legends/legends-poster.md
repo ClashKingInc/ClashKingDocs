@@ -1,21 +1,21 @@
-# Legends poster
+# Affiche Légendes
 
-This send the image that is display in `/legends search`
+Ceci envoie l'image qui est affichée dans `/legends search`
 
-## The command
+## La commande
 
 `/legends poster {player} {background}`
 
-## The parameter
+## Le paramètre
 
-### Required
+### Requis
 
-* `player`: search using the player's name or tag.
+* `player` : recherche par nom ou tag du joueur.
 
-### Optional
+### Facultatif
 
-* `background`: change the image of the image.
+* `background` : changez l'image de l'image.
 
-## Example:
+## Exemple:
 
 <figure><img src="/img/gitbook/image (4).png" alt="" /><figcaption></figcaption></figure>

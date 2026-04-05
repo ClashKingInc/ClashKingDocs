@@ -1,31 +1,29 @@
 ---
 hidden: true
 ---
+# 🟢 Zet hem aan!
 
-# 🟢 Turn it on!
-
-So if you are here, you should have done everything in the [Developer Portal](developer-portal.md) Guide and should have your bot token and bot invite link (don't use this just _yet_).\
+Dus als je hier bent, zou je alles in de [Developer Portal](developer-portal.md)-handleiding moeten hebben gedaan en zou je je bottoken en bot-uitnodigingslink moeten hebben (gebruik deze nog niet _).\
 \
-Now head back to discord, in a channel where you can run ClashKing commands, use `/setup custom-bot`. This has 2 options.
+Ga nu terug naar onenigheid, gebruik `/setup custom-bot` in een kanaal waar je ClashKing-opdrachten kunt uitvoeren. Dit heeft 2 opties.
 
-* name: this is just a name for identification purposes, make it something memorable, so if you need me to look at the custom bot "coolbot9000" i can do that, it won't change the name you set on the bot earlier.
-* bot\_token: this is that token from the earlier setup you should have saved
+* naam: dit is slechts een naam voor identificatiedoeleinden, maak er iets gedenkwaardigs van, dus als ik naar de aangepaste bot "coolbot9000" moet kijken, kan ik dat doen, het zal de naam die je eerder op de bot hebt ingesteld niet veranderen.
+* bot\_token: dit is het token uit de eerdere installatie dat u had moeten opslaan
 
-Fill in both fields, run the command, and you should get a message like&#x20;
+Vul beide velden in, voer de opdracht uit en u krijgt een bericht als&#x20;
 
 ```
 "Bot created, will be online shortly"
 ```
 
-Now you can invite your bot. Use the invite link you saved from earlier. By clicking on it, you can invite it to your server like other bots.\
+Nu kunt u uw bot uitnodigen. Gebruik de uitnodigingslink die u eerder hebt opgeslagen. Door erop te klikken, kunt u hem net als andere bots uitnodigen voor uw server.\
 
 
-If you decide to change the name of profile picture of your bot, you can do that the same way you set them initially.
-
+Als u besluit de naam van de profielfoto van uw bot te wijzigen, kunt u dat op dezelfde manier doen als waarop u deze aanvankelijk hebt ingesteld.
 :::danger
-Do not put 2 ClashKing custom bots in one server. It will not be pretty. However having the main ClashKing bot and your custom version is definitely alright, and I would even maybe encourage it if it doesn't bother anything.
+Plaats geen 2 aangepaste ClashKing-bots op één server. Het zal niet mooi zijn. Het is echter zeker goed om de belangrijkste ClashKing-bot en je aangepaste versie te hebben, en ik zou het misschien zelfs aanmoedigen als het je niets stoort.
 :::
 
 :::tip
-The bot will take a few minutes to initialize, creating emojis and the such. So if you want to wait to invite the bot after 10 minutes after creating, that is alright
+Het duurt een paar minuten om de bot te initialiseren, emoji's en dergelijke te maken. Dus als je na 10 minuten na het maken wilt wachten met het uitnodigen van de bot, is dat prima
 :::

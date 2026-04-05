@@ -1,45 +1,45 @@
-# 📝 Post a roster (signup & more)
+# 📝 Plaats een rooster (aanmelding en meer)
 
-## The goal
+## Het doel
 
-This is the most interesting part of the roster feature! Once you created a roster and set it up (see [create-a-roster.md](create-a-roster.md "mention") & [set-up-a-roster.md](set-up-a-roster.md "mention")), you can display a pannel where the players can sign in the roster by themselves, or post static pannel to display the final roster.
+Dit is het meest interessante deel van de roosterfunctie! Nadat u een selectie heeft gemaakt en ingesteld (zie [create-a-roster.md](create-a-roster.md "mention") & [set-up-a-roster.md](set-up-a-roster.md "mention")), kunt u een paneel weergeven waar de spelers de selectie zelf kunnen aanmelden, of een statisch paneel plaatsen om de definitieve selectie weer te geven.
 
-## The command
+## Het commando
 
-To create this pannel, use the `/roster post` command.&#x20;
+Om dit paneel te maken, gebruikt u de opdracht `/roster post`.&#x20;
 
-Once you did, the pannel will be automatically sent to the channel you run the command (the command you used won't be displayed).
+Zodra u dat gedaan heeft, wordt het paneel automatisch verzonden naar het kanaal waarop u de opdracht uitvoert (de opdracht die u gebruikte wordt niet weergegeven).
 
-## The parameters
+## De parameters
 
-* `roster`: name of the roster you want to post (if no roster is available, see [create-a-roster.md](create-a-roster.md "mention"))
-* `type`: you can choose between Static, Post and Signup. See below the use case for each type.
+* `roster`: naam van het rooster dat je wilt plaatsen (als er geen rooster beschikbaar is, zie [create-a-roster.md](create-a-roster.md "mention"))
+* `type`: u kunt kiezen tussen Statisch, Post en Aanmelden. Zie hieronder de use case voor elk type.
 
-## Roster post type
+## Type roosterbericht
 
-### Signup
+### Aanmelden
 
-This will show a pannel with buttons allowing your clan mate to register their accounts. The informations you set in [setup-a-server.md](../../server-setups/setup-a-server.md "mention")will also be displayed.
+Dit toont een paneel met knoppen waarmee je clangenoot zijn accounts kan registreren. De informatie die u in [setup-a-server.md](../../server-setups/setup-a-server.md "mention") instelt, wordt ook weergegeven.
 
 <figure><img src="/img/gitbook/image (34).png" alt="" /><figcaption></figcaption></figure>
 
-You can then tell your clan mate to sign up. You can share the [signing-up-on-a-roster.md](signing-up-on-a-roster.md "mention")page that will explain to them how to interact with the pannel.
+Je kunt dan tegen je clangenoot zeggen dat hij zich moet aanmelden. U kunt de [signing-up-on-a-roster.md](signing-up-on-a-roster.md "mention")-pagina delen, waarop wordt uitgelegd hoe ze met het paneel kunnen communiceren.
 
-### Post
+### Na
 
-This will show a pannel with no buttons to join or leave the roster. You can use that to show the roster :&#x20;
+Er wordt een paneel weergegeven zonder knoppen om aan de selectie deel te nemen of deze te verlaten. Daarmee kun je het rooster tonen:&#x20;
 
-* Once sign up are over,&#x20;
-* While the staff is creating it without using the sign up (see [manage-players.md](manage-players.md "mention")),
-* While moving players between clan or remove unselected players after you closed the sign up (see [manage-players.md](manage-players.md "mention"))&#x20;
+* Zodra de aanmelding voorbij is,&#x20;
+* Terwijl het personeel het aanmaakt zonder gebruik te maken van de aanmelding (zie [manage-players.md](manage-players.md "mention")),
+* Terwijl je spelers tussen clans verplaatst of niet-geselecteerde spelers verwijdert nadat je de aanmelding hebt gesloten (zie [manage-players.md](manage-players.md "mention"))&#x20;
 
-The embed can be refreshed using the 🔄 button.
+De insluiting kan worden vernieuwd met de knop 🔄.
 
 <figure><img src="/img/gitbook/image (35).png" alt="" /><figcaption></figcaption></figure>
 
-### Static
+### Statisch
 
-This will show the state of the roster at the moment you sent the command. The embed shown can't be refreshed. It can be useful if you want to keep track of the roster registering, or if you want to keep the roster members list before emptying it to reuse it.
+Hiermee wordt de status van het rooster weergegeven op het moment dat u de opdracht verzendt. De getoonde insluiting kan niet worden vernieuwd. Het kan handig zijn als u de roosterregistratie wilt bijhouden, of als u de roosterledenlijst wilt bewaren voordat u deze leegmaakt om deze opnieuw te gebruiken.
 
 <figure><img src="/img/gitbook/image (36).png" alt="" /><figcaption></figcaption></figure>
 

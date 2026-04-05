@@ -1,35 +1,34 @@
 ---
 slug: /
 ---
+# 👋 Welkom bij ClashKing!
 
-# 👋 Welcome to ClashKing!
+## Wat is **ClashKing?**
 
-## What is **ClashKing?**
+ClashKing is gemaakt met **drie hoofddoelen**:
 
-ClashKing was created with **three main goals**:
+* 🛠️ **Om een alles-in-één Discord-bot te bieden voor Clash of Clans.**
+* 🔍 **Om transparant, open-source en gratis te blijven voor alle gebruikers.**
+* 🌟 **Om voortdurend te innoveren met nieuwe functies en tools om uw Clash of Clans-ervaring te verbeteren.**
 
-* 🛠️ **To provide an all-in-one Discord bot for Clash of Clans.**
-* 🔍 **To remain transparent, open-source, and free for all users.**
-* 🌟 **To continuously innovate with new features and tools to enhance your Clash of Clans experience.**
-
-Our bot simplifies and enhances your Clash of Clans interactions, offering unique features while staying true to our values of transparency and accessibility. As an [**open-source project**](https://github.com/orgs/ClashKingInc/repositories), we encourage community-driven development, making it easy for anyone to contribute or learn from our work.
-
-***
-
-## **Our Team & Future Plans**
-
-We are a team of **three passionate developers**, working on ClashKing in our free time alongside our regular jobs. 🚀\
-Currently, we are also developing a **dedicated mobile app** to bring the ClashKing experience directly to your smartphone, making it even easier to stay connected and manage your Clash of Clans activities!
+Onze bot vereenvoudigt en verbetert uw Clash of Clans-interacties en biedt unieke functies terwijl we trouw blijven aan onze waarden van transparantie en toegankelijkheid. Als [**open-source project**](https://github.com/orgs/ClashKingInc/repositories) moedigen we gemeenschapsgestuurde ontwikkeling aan, waardoor het voor iedereen gemakkelijk wordt om een ​​bijdrage te leveren of van ons werk te leren.
 
 ***
 
-## **Get Started with ClashKing**
+## **Ons team en toekomstplannen**
 
-👉  **Get started here**: [Quick Start](https://docs.clashking.xyz/quick-start)\
-🌟 If you’d like to support the bot & the app development, the easiest way is by using our [creator code](https://link.clashofclans.com/en/?action=SupportCreator\&id=Clashking)!
+Wij zijn een team van **drie gepassioneerde ontwikkelaars**, die in onze vrije tijd naast onze reguliere banen aan ClashKing werken. 🚀\
+Momenteel ontwikkelen we ook een **specifieke mobiele app** om de ClashKing-ervaring rechtstreeks naar uw smartphone te brengen, waardoor het nog eenvoudiger wordt om verbonden te blijven en uw Clash of Clans-activiteiten te beheren!
 
 ***
 
-## **Need Help?**
+## **Aan de slag met ClashKing**
 
-📩 Join our [support server](https://discord.com/invite/clashking) for any questions or concerns. We’re here to help!
+👉 **Ga hier aan de slag**: [Quick Start](https://docs.clashking.xyz/quick-start)\
+🌟 Als je de bot- en app-ontwikkeling wilt ondersteunen, is de eenvoudigste manier door onze [creator code](https://link.clashofclans.com/en/?action=SupportCreator\&id=Clashking) te gebruiken!
+
+***
+
+## **Hulp nodig?**
+
+📩 Sluit je aan bij onze [support server](https://discord.com/invite/clashking) als je vragen of opmerkingen hebt. Wij zijn hier om te helpen!

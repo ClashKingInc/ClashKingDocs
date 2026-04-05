@@ -1,24 +1,24 @@
-# 👵 Tenure Role
+# 👵 Vaste rol
 
-## The goal
+## Het doel
 
-Gives a specific role to users depending on their joining date on the server.
+Geeft een specifieke rol aan gebruikers, afhankelijk van hun toetredingsdatum op de server.
 
 <figure><img src="/img/gitbook/image (126).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## Het commando
 
-For that, you must use the `/roles tenure` command.
+Daarvoor moet u de opdracht `/roles tenure` gebruiken.
 
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Voordat u die opdracht uitvoert, moet u de rollen aanmaken die u wilt instellen in de instellingen van uw Discord-server.
 :::
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `mode` : add/remove role
-* `months` : Number of months the user must be on the server
-* `role`: Role you want to set
+* `mode`: rol /remove toevoegen
+* `months` : Aantal maanden dat de gebruiker op de server moet zijn
+* `role`: Rol die u wilt instellen
 

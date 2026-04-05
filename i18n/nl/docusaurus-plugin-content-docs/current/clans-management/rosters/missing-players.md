@@ -1,20 +1,20 @@
-# ❓ Missing players
+# ❓ Ontbrekende spelers
 
-## The goal
+## Het doel
 
-A very useful command that allow you to see who's missing in the clan compared to a specific roster, who is in the clan but isn't registered, and even ping those people!
+Een zeer nuttig commando waarmee je kunt zien wie er ontbreekt in de clan vergeleken met een specifiek rooster, wie wel in de clan zit maar niet geregistreerd is, en zelfs die mensen kunt pingen!
 
-You can then spot & ping people who forgot to register, or who are still not in the right clan before your event start.
+Je kunt dan mensen spotten en pingen die zijn vergeten zich te registreren, of die nog steeds niet in de juiste clan zitten voordat je evenement begint.
 
-## The command
+## Het commando
 
-* `roster`: name of the roster you want to check players
-* `message`: Message that will be sent if you decide to ping the players
-* `reverse:` if set to true, it will show the list of people that are in the clan but are not on a roster tied to the clan. If set to false (which is the default value), it will show the list of the people that are on a roster tied to the clan but that aren't currently in the clan.
+* `roster`: naam van de selectie waarvan u spelers wilt controleren
+* `message`: bericht dat wordt verzonden als u besluit de spelers te pingen
+* `reverse:` indien ingesteld op waar, zal het de lijst tonen met mensen die in de clan zitten, maar niet op een rooster staan dat aan de clan is gekoppeld. Indien ingesteld op false (wat de standaardwaarde is), wordt de lijst weergegeven van de mensen die op een rooster staan ​​dat aan de clan is gekoppeld, maar die momenteel geen deel uitmaken van de clan.
 
-## Once sent
+## Eenmaal verzonden
 
-Once the command has been sent, you'll see the list of the player, but also a "Ping Misiing" button, which will ping the missing players with the message you set on the command.
+Zodra het commando is verzonden, zie je de lijst met de speler, maar ook een knop "Ping Misiing", die de ontbrekende spelers zal pingen met het bericht dat je bij het commando hebt ingesteld.
 
 <figure><img src="/img/gitbook/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
 

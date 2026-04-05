@@ -1,19 +1,19 @@
-# ⚔️ War & CWL
+# ⚔️Oorlog en CWL
 
-CWL and war commands are a great utility to take advantage of. Information that could take a while to check ingame can now be accessed instantly.&#x20;
+CWL- en oorlogsopdrachten zijn een geweldig hulpprogramma om van te profiteren. Informatie waarvan het even kan duren voordat deze in-game wordt gecontroleerd, is nu direct toegankelijk.&#x20;
 
 <details>
 
 <summary><code>/cwl status</code></summary>
 
-This is extremely useful for organising large families and making sure all clans are spinning CWL at the correct times and all goes smoothly.\
+Dit is uiterst handig voor het organiseren van grote gezinnen en om ervoor te zorgen dat alle clans op de juiste tijden CWL draaien en dat alles soepel verloopt.\
 ![](</img/gitbook/Screenshot 2023-10-02 at 22.20.57.png>)
 
 </details>
 
 <details>
 
-<summary><code>/cwl ranking</code></summary>
+<summary><code>/cwl-ranglijst</code></summary>
 
 
 
@@ -21,32 +21,32 @@ This is extremely useful for organising large families and making sure all clans
 
 <details>
 
-<summary><code>/cwl search</code></summary>
+<summary><code>/cwl zoeken</code></summary>
 
-See the current status of the CWL your clan is in.\
+Bekijk de huidige status van de CWL waarin uw clan zich bevindt.\
 ![](</img/gitbook/image (103).png>)
 
-You can have differents stats such as :&#x20;
+Je kunt verschillende statistieken hebben, zoals:&#x20;
 
-* Star Leaderboard,&#x20;
-* Clan Ranking,&#x20;
-* Missed Hits,&#x20;
-* List of rounds with the results,
-* List of Members with heroes and TH levels.
-
-</details>
-
-<details>
-
-<summary><code>/war search</code></summary>
-
-
+* Sterrenklassement, &#x20;
+* Clanranglijst,&#x20;
+* Gemiste hits,&#x20;
+* Lijst met rondes met de resultaten,
+* Lijst met leden met helden en TH-niveaus.
 
 </details>
 
 <details>
 
-<summary><code>/war plan</code></summary>
+<summary><code>/war zoeken</code></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><code>/war abonnement</code></summary>
 
 
 

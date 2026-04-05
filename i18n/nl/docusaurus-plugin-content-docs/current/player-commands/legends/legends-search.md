@@ -3,33 +3,32 @@ description: >-
   Probably the best command for players in legend league. It shows you various
   stats of your legend league profile.
 ---
+# Legenden zoeken
 
-# Legends search
-
-## The command
+## Het commando
 
 `/legends search {player}`
 
-## The parameter
+## De parameter
 
-* `player`: search using the player's name or tag.
+* `player`: zoeken op naam of tag van de speler.
 
-## Explanation
+## Uitleg
 
-Below the embed, you'll find several buttons:\
+Onder de insluiting vindt u verschillende knoppen:\
 ![](</img/gitbook/image (158).png>)
 
-The "Today" button, which is the default view, will show you the number of attacks/defenses, the trophies you have gained/lost, the global and country rankings, the trophies by attack and defense, the hero's equipment used, and an image will be generated to summarize this information.\
+De knop 'Vandaag', de standaardweergave, toont je het aantal aanvallen/defenses, de trofeeën die je hebt behaald/lost, de mondiale en landenranglijst, de trofeeën per aanval en verdediging, de gebruikte uitrusting van de held, en er wordt een afbeelding gegenereerd om deze informatie samen te vatten.\
 ![](</img/gitbook/image (157).png>)
 
 :::info
-First read the FAQ if you think that the legend stats are wrong: [FAQ](../../faq.md)
+Lees eerst de FAQ als je denkt dat de legendastatistieken niet kloppen: [FAQ](../../faq.md)
 :::
 
-The second button will display your daily results since the beginning of the season\
+De tweede knop toont uw dagelijkse resultaten sinds het begin van het seizoen\
 ![](</img/gitbook/image (161).png>)
 
-The third button will show your EOS trophies since the bot is following your profile stats:![](</img/gitbook/image (163).png>)\
+De derde knop toont je EOS-trofeeën, aangezien de bot je profielstatistieken volgt:![](</img/gitbook/image (163).png>)\
 
 
-Last button will add the profile to Quick Check & Daily Report list (no use at the moment).
+Met de laatste knop wordt het profiel toegevoegd aan de lijst Snelle controle en dagelijks rapport (momenteel niet gebruikt).

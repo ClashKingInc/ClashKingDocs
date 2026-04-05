@@ -1,20 +1,20 @@
-# 🔍 Lookup
+# 🔍 Recherche
 
-`/player lookup` allows you to see basic stats of a player profile.
+`/player lookup` vous permet de voir les statistiques de base d'un profil de joueur.
 
-**There are 2 parameters :**&#x20;
+**Il y a 2 paramètres :**&#x20;
 
-* `{player}` which is the player tag of the account you want to lookup
-* `{discord_user}` which is the discord username of the user you want to lookup.
+* `{player}` qui est le tag de joueur du compte que vous souhaitez rechercher
+* `{discord_user}` qui est le nom d'utilisateur Discord de l'utilisateur que vous souhaitez rechercher.
 
-If you do not enter any parameters, it will show your best account overview.
+Si vous n'entrez aucun paramètre, il affichera votre meilleur aperçu de compte.
 
 <figure><img src="/img/gitbook/image (60).png" alt="" width="311" /><figcaption><p>Example of /player lookup</p></figcaption></figure>
 
-On the bottom of the embed, you can choose what to display on it.
+Au bas de l’intégration, vous pouvez choisir ce que vous souhaitez y afficher.
 
 <figure><img src="/img/gitbook/image (61).png" alt="" width="289" /><figcaption><p>Example of /player lookup - choose what to display</p></figcaption></figure>
 
-But also which account you want to display :&#x20;
+Mais aussi quel compte vous souhaitez afficher :&#x20;
 
 <figure><img src="/img/gitbook/image (62).png" alt="" width="287" /><figcaption><p>Example of /player lookup - choose account</p></figcaption></figure>

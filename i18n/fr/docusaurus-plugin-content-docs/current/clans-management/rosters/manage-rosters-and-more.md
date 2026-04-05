@@ -1,6 +1,6 @@
-# ⚒️ Manage rosters & more
+# ⚒️ Gérer les listes et plus
 
-Here is what you'll find on this page:
+Voici ce que vous trouverez sur cette page :
 
 [#clear-or-delete-a-roster](manage-rosters-and-more.md#clear-or-delete-a-roster "mention")
 
@@ -16,101 +16,99 @@ Here is what you'll find on this page:
 
 
 
-## Clear or delete a roster
+## Effacer ou supprimer une liste
 
-### The command
+### La commande
 
 &#x20;`/roster delete`&#x20;
 
-### The parameters
+### Les paramètres
 
-* roster: name of the roster&#x20;
-* type : Choose between Clear Members so you can reuse the roster or Delete roster to delete completely the roster
+* roster : nom du roster&#x20;
+* tapez : Choisissez entre Effacer les membres pour pouvoir réutiliser la liste ou Supprimer la liste pour supprimer complètement la liste
 
 :::danger
-A roster that have been deleted can't be recover so be careful
+Une liste qui a été supprimée ne peut pas être récupérée alors soyez prudent
 :::
 
 
 
-## Roster refresh
+## Actualisation de la liste
 
-### The command
+### La commande
 
-`/roster refresh` refresh data displayed in the roster
+`/roster refresh` actualise les données affichées dans la liste
 
 
 
-## List the rosters
+## Lister les listes
 
-Show a list of every rosters active on the server.
+Afficher une liste de toutes les listes actives sur le serveur.
 
 <figure><img src="/img/gitbook/image (111).png" alt="" /><figcaption></figcaption></figure>
 
-### The command
+### La commande
 
-Use `/roster list`
-
-
-
-## Roster roles
-
-Roster roles are a great utility and do exactly as you expect, give a role to all people in a roster. You can assign a role to a roster by doing `/roster role {roster} {role}`. Note the role must be created beforehand.
+Utiliser `/roster list`
 
 
+
+## Rôles de la liste
+
+Les rôles de liste sont d'une grande utilité et font exactement ce que vous attendez, attribuer un rôle à toutes les personnes d'une liste. Vous pouvez attribuer un rôle à une liste en effectuant `/roster role {roster} {role}`. Notez que le rôle doit être créé au préalable.
 :::info
-If the roles haven't updated then you can force update them using `/roster role-refresh`
+Si les rôles n'ont pas été mis à jour, vous pouvez forcer leur mise à jour à l'aide de `/roster role-refresh`.
 :::
 
-### The command
+### La commande
 
-Use `/roster role`
+Utiliser `/roster role`
 
-### The parameters
+### Les paramètres
 
-#### Required
+#### Requis
 
-* `roster`: name of the roster
-* `role`: role you want to set to the players in the roster
+* `roster` : nom du roster
+* `role` : rôle que vous souhaitez attribuer aux joueurs du roster
 
-#### Optional
+#### Facultatif
 
-* `group`: only set the role to the players in a specific role
-* `remove_role`: If you want to remove the role instead of adding it
+* `group` : définissez uniquement le rôle des joueurs dans un rôle spécifique
+* `remove_role` : Si vous souhaitez supprimer le rôle au lieu de l'ajouter
 
 
 
-## Export/Import rosters {#export-import-rosters}
+## Listes Export/Import {#export-import-rosters}
 
-Do not fear, you do not have to remake rosters settings for every roster.&#x20;
+N'ayez crainte, vous n'êtes pas obligé de refaire les paramètres des listes pour chaque liste.
 
-### The command
+### La commande
 
 `/roster copy`
 
-### The parameters
+### Les paramètres
 
-The command  is your friend with the two optional flags::
+La commande est votre amie avec les deux drapeaux facultatifs : :
 
-* `export_roster` : Gives an import code that can be inputted into the `{import_code}` flag in order to copy over the roster settings
-* `import_code` : gives a field to enter an import code retrieved from `{export_roster}`
+* `export_roster` : Donne un code d'importation qui peut être saisi dans le drapeau `{import_code}` afin de copier les paramètres de la liste
+* `import_code` : donne un champ pour saisir un code d'importation récupéré de `{export_roster}`
 
 
 
-## Player search
+## Recherche de joueurs
 
-You are able to search for a list of rosters that a discord user or specific account.
+Vous pouvez rechercher une liste de listes appartenant à un utilisateur Discord ou à un compte spécifique.
 
-### The command
+### La commande
 
-Use `/roster search`&#x20;
+Utilisez `/roster search`&#x20;
 
-### The parameters
+### Les paramètres
 
-* `user` : Discord username. Displays all the rosters the user is currently in.
+* `user` : nom d'utilisateur Discord. Affiche toutes les listes dans lesquelles l'utilisateur se trouve actuellement.
 
 <figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
 
-* `player`:Player tag or name. Displays all the rosters the player is currently in.
+* `player` : étiquette ou nom du joueur. Affiche toutes les listes dans lesquelles le joueur se trouve actuellement.
 
 <figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>

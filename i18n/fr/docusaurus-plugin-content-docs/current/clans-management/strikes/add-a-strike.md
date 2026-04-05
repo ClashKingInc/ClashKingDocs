@@ -1,32 +1,31 @@
-# 🎳 Add a strike
+# 🎳 Ajouter un avertissement
 
-## The goal
+## Le but
 
-When a player does not follow one of your clan rule, you can add a strike to warn them about it and keep track of this warning.
+Lorsqu'un joueur ne respecte pas l'une des règles de votre clan, vous pouvez ajouter un avertissement pour l'en avertir et garder une trace de cet avertissement.
 
-## The command
+## La commande
 
-To add a strike use `/strike add` (this supports "smart search" so a username can work).&#x20;
-
+Pour ajouter un avertissement, utilisez `/strike add` (cela prend en charge la "recherche intelligente" afin qu'un nom d'utilisateur puisse fonctionner).
 :::info
-Strikes can be removed with `/strike remove {strike ID}`. This is not a user but the combination of letters/numbers for each strike, that you can find by using the [view-strikes.md](view-strikes.md "mention")command.
+Les grèves peuvent être supprimées avec `/strike remove {strike ID}`. Il ne s'agit pas d'un utilisateur mais de la combinaison de lettres /numbers pour chaque frappe, que vous pouvez retrouver en utilisant la commande [view-strikes.md](view-strikes.md "mention").
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `player`: Player username or tag. If you can't find the player name in the list, you can use their player tag, even if it's not on the list.
-* `reason`: So you can remember why you ban them
+* `player` : nom d'utilisateur ou tag du joueur. Si vous ne trouvez pas le nom du joueur dans la liste, vous pouvez utiliser son tag de joueur, même s'il ne figure pas dans la liste.
+* `reason` : pour que vous puissiez vous rappeler pourquoi vous les interdisez
 
-### Optional
+### Facultatif
 
-* `rollover_days`: The time that the strike is "active" for. Strikes that reach the rollover period wont delete but deactivate when viewing the players total strikes.
-* `strike_weight`: It can be set to any value depending the the seriousness of the warning (default value of 1)
-* `dm_player`: If you add a text, the bot will send a dm to the player with this text
+* `rollover_days` : La durée pendant laquelle la grève est "active". Les frappes qui atteignent la période de roulement ne seront pas supprimées mais désactivées lors de l'affichage du total des frappes des joueurs.
+* `strike_weight` : Il peut être réglé sur n'importe quelle valeur en fonction de la gravité de l'avertissement (valeur par défaut de 1)
+* `dm_player` : Si vous ajoutez un texte, le bot enverra un DM au joueur avec ce texte
 
-The two optional fields are `{rollover_days}` and `{strike_weight}`.&#x20;
+Les deux champs facultatifs sont `{rollover_days}` et `{strike_weight}`.&#x20;
 
-Strike\_weight has a default value of 1 but can be set to any value depending the the seriousness of the warning.&#x20;
+Strike\_weight a une valeur par défaut de 1 mais peut être défini sur n'importe quelle valeur en fonction de la gravité de l'avertissement.
 
-Rollover\_days is the time that the strike is "active" for. Strikes that reach the rollover period wont delete but deactivate when viewing the players total strikes.
+Rollover\_days est la durée pendant laquelle l'avertissement est « actif ». Les frappes qui atteignent la période de roulement ne seront pas supprimées mais désactivées lors de l'affichage du total des frappes des joueurs.

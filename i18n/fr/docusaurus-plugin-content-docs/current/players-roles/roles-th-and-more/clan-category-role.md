@@ -1,23 +1,22 @@
-# 🥂 Clan Category Role
+# 🥂 Rôle de catégorie de clan
 
-## The goal
+## Le but
 
-Gives a specific role to users depending on the type of clan they are in (see [setup-a-clan.md](../../clan-setups/setup-a-clan.md "mention")).
+Donne un rôle spécifique aux utilisateurs en fonction du type de clan dans lequel ils appartiennent (voir [setup-a-clan.md](../../clan-setups/setup-a-clan.md "mention")).
 
 <figure><img src="/img/gitbook/image (122).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles category` command.
-
+Pour cela, vous devez utiliser la commande `/roles category`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 
-## The parameters
+## Les paramètres
 
-### Optional
+### Facultatif
 
-* `category`: Choose clan category between General, War, Esports
-* `role`: The role you want to set
+* `category` : choisissez la catégorie de clan entre Général, Guerre, Esports
+* `role` : le rôle que vous souhaitez définir
 

@@ -1,41 +1,40 @@
 ---
 hidden: true
 ---
+# 💻 Ontwikkelaarsportaal
 
-# 💻 Developer Portal
-
-To get started with creating a discord bot you will have to create the underlying bot. Kinda like you create a discord account and that is your profile, you are making a bot profile.\
+Om aan de slag te gaan met het maken van een discord-bot, moet je de onderliggende bot maken. Het is net alsof je een discord-account aanmaakt en dat is je profiel, je maakt een botprofiel.\
 \
-So to get started we will have to go to the discord developer portal. [This link](https://discord.com/developers/applications?new_application=true) will take you there.\
+Dus om aan de slag te gaan, moeten we naar de discord-ontwikkelaarsportal gaan. [This link](https://discord.com/developers/applications?new_application=true) brengt je erheen.\
 \
-After you sign in, you should see something like the below.
+Nadat u zich heeft aangemeld, ziet u iets als het onderstaande.
 
 <figure><img src="/img/gitbook/image (3) (1) (1) (1) (1).png" alt="" /><figcaption><p>Create an Apllication Prompt</p></figcaption></figure>
 
-Fill it in with a name, it can be whatever you plan to name your bot. Agree with the terms of service and press create. Now you will see something like the below.\
+Vul het in met een naam. Het kan de naam zijn die u uw bot wilt noemen. Ga akkoord met de servicevoorwaarden en druk op creëren. Nu zul je zoiets als het onderstaande zien.\
 \
 
 
 <figure><img src="/img/gitbook/image (8) (1) (1).png" alt="" /><figcaption><p>Initial Application Screen</p></figcaption></figure>
 
-Go to the bot section (highlighted). To start you will fill in the name and change the profile picture to your liking then Save Changes. Once done, click Reset Token, confirm, and save that token somewhere safe (you will need it later)
+Ga naar de botsectie (gemarkeerd). Om te beginnen vult u de naam in en wijzigt u de profielfoto naar wens en vervolgens Wijzigingen opslaan. Als u klaar bent, klikt u op Token opnieuw instellen, bevestigt u het token en slaat u het op een veilige plek op (u heeft het later nodig).
 
 <figure><img src="/img/gitbook/image (9) (1) (1).png" alt="" /><figcaption><p>Bot Naming, Profile Picture, and Token Generation Screen</p></figcaption></figure>
 
-Now staying on the page, you will need to scroll down to the Privileged Gateway Intents section. You will need to flip Server Members Intent and Message Content Intent to ON. This is critical or the bot will NOT start! While you are there, just above these switches is a Public Bot switch, I recommend flipping to OFF so that others can't add your bot. (All pictured & highlighted below)\
+Als u nu op de pagina blijft, moet u omlaag scrollen naar het gedeelte Privileged Gateway Intents. U moet de intentie van serverleden en de intentie van berichtinhoud op AAN zetten. Dit is van cruciaal belang, anders start de bot NIET! Terwijl je daar bent, bevindt zich net boven deze schakelaars een schakelaar voor openbare bots. Ik raad aan om deze naar UIT te zetten, zodat anderen je bot niet kunnen toevoegen. (Alles afgebeeld en hieronder gemarkeerd)\
 
 
 <figure><img src="/img/gitbook/image (10) (1) (1).png" alt="" /><figcaption><p>Option Switches</p></figcaption></figure>
 
-Now you have your bot named & with a profile picture, your token, and the needed options flipped. Lastly you will need to make an invite link so that your bot can be invited to your server! If you look on the side-panel, you will see an option called Oath2, when clicked it will expand and click URL generator.
+Nu heb je je bot genaamd & met een profielfoto, je token en de benodigde opties omgedraaid. Ten slotte moet u een uitnodigingslink maken zodat uw bot kan worden uitgenodigd voor uw server! Als u in het zijpaneel kijkt, ziet u een optie genaamd Oath2. Wanneer u erop klikt, wordt deze uitgevouwen en klikt u op URL-generator.
 
 <figure><img src="/img/gitbook/image (19) (1) (1).png" alt="" /><figcaption><p>URL generator</p></figcaption></figure>
 
-In here you will click what it is you are creating in the top section (bot). And then what perms in the bottom section (will appear after clicking "bot"). For most uses, I recommend Admin, just as I do for the main clashking bot, but even more so here. If you invite with lesser perms, and it is unable to send logs and stuff, things may break, so at the very least invite with admin, then whittle down the perms afterwards. \
+Hier klikt u op wat u aan het maken bent in het bovenste gedeelte (bot). En dan welke rechten er in het onderste gedeelte staan ​​(verschijnt nadat u op "bot" hebt geklikt). Voor de meeste toepassingen raad ik Admin aan, net zoals ik dat doe voor de belangrijkste botsende bot, maar hier nog meer. Als je uitnodigt met minder rechten, en het is niet in staat om logs en dergelijke te verzenden, kunnen dingen kapot gaan, dus nodig op zijn minst uit met de beheerder, en verminder daarna de rechten. \
 
 
 <figure><img src="/img/gitbook/image (20) (1) (1).png" alt="" /><figcaption><p>Click Bot &#x26; Admin</p></figcaption></figure>
 
-Now with those options selected. At the bottom, you will see a url and a copy button. Copy that URL and save it along with that token from earlier and move on to[ Start Up](turn-it-on.md) (next guide section)
+Nu met die opties geselecteerd. Onderaan ziet u een url en een kopieerknop. Kopieer die URL en sla deze samen met dat token van eerder op en ga verder naar[ Start Up](turn-it-on.md) (volgende gidssectie)
 
 <figure><img src="/img/gitbook/image (21) (1) (1).png" alt="" /><figcaption><p>Copy your invite link</p></figcaption></figure>

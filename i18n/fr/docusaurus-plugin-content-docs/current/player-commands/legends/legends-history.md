@@ -1,15 +1,15 @@
-# Legends history
+# Histoire des légendes
 
-This shows the EOS (end of season) trophies of a player since it was first followed by the bot.
+Ceci montre les trophées EOS (fin de saison) d'un joueur depuis qu'il a été suivi pour la première fois par le bot.
 
-## The command
+## La commande
 
 `/legends history {player}`
 
-## The parameter
+## Le paramètre
 
-* `player`: search using the player's name or tag.
+* `player` : recherche par nom ou tag du joueur.
 
-## Example
+## Exemple
 
 ![](</img/gitbook/image (74).png>)

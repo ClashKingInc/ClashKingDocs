@@ -1,30 +1,29 @@
 ---
 icon: image
 ---
+# Legerlinks
 
-# Army links
+## Het doel
 
-## The goal
-
-Sometimes you would like to share an army with your clanmates, and you maybe even have a specific channel to store them. But reading a link does not provide any infos on what's the content of it. We provide a way to show more infos on this content !
+Soms wil je een leger delen met je clangenoten, en misschien heb je zelfs een specifiek kanaal om ze op te slaan. Maar het lezen van een link geeft geen informatie over de inhoud ervan. Wij bieden een manier om meer informatie over deze inhoud weer te geven!
 
 :::info
-You can also turn on [link-parse.md](../server-setups/link-parse.md "mention") so the messages containing an army link will be automaticlly replaced by the embed (without nicknames and clan castle)
+Je kunt ook [link-parse.md](../server-setups/link-parse.md "mention") inschakelen, zodat de berichten met een legerlink automatisch worden vervangen door de embed (zonder bijnamen en clankasteel)
 :::
 
-## The commands
+## De commando's
 
 `/army links`
 
 <figure><img src="/img/gitbook/image (13).png" alt="" width="507" /><figcaption></figcaption></figure>
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `link` : the army link you want to parse
+* `link`: de legerlink die u wilt parseren
 
-### Optional
+### Optioneel
 
-* `nickname` : How would you name your army ?
-* `clan_castle` : what should people put in their clan castle ?
+* `nickname`: Hoe zou je je leger een naam geven?
+* `clan_castle`: wat moeten mensen in hun clankasteel plaatsen?

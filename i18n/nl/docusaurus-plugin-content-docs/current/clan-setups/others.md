@@ -1,19 +1,19 @@
-# ℹ️ Others
+# ℹ️Anderen
 
-## Members threshold warning
+## Waarschuwing voor drempelwaarde voor leden
 
-If you want to be warned when the number of members in the clan reaches a threshold, either above or below a specified number, you can use the `/setup member count warning {clan} {below} {above} {channel}` command.
+Als je gewaarschuwd wilt worden wanneer het aantal leden in de clan een drempel bereikt, boven of onder een bepaald aantal, kun je de opdracht `/setup member count warning {clan} {below} {above} {channel}` gebruiken.
 
-## Show linked player
+## Toon gekoppelde speler
 
-Use `/discord-links {clan}` to display a list of members of a clan with their discord username.
+Gebruik `/discord-links {clan}` om een ​​lijst met leden van een clan weer te geven met hun discord-gebruikersnaam.
 
 <figure><img src="/img/gitbook/image (91).png" alt="" /><figcaption><p>Shows which Coc player corrspond to which Discord user</p></figcaption></figure>
 
-You can use [/players account](#user-content-fn-1)[^1] to see all the clash of clans accounts linked to a discord user.&#x20;
+Je kunt [/players account](#user-content-fn-1)[^1] gebruiken om alle clash of clans-accounts te bekijken die aan een discord-gebruiker zijn gekoppeld.&#x20;
 
 
 
 
 
-[^1]: 
+[^1]:

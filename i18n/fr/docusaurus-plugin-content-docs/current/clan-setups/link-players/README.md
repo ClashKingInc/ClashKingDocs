@@ -1,35 +1,33 @@
-# 🔗 Link Players
+# 🔗 Lier les joueurs
 
-The goal
+Le but
 
-To run correctly, the bot needs to know which discord users own each CoC account of your clan. This will for example allow it to give the member access to specific channel or ping them automatically with [reminders.md](../../server-setups/reminders.md "mention")you set.
+Pour fonctionner correctement, le bot doit savoir quels utilisateurs Discord possèdent chaque compte CoC de votre clan. Cela lui permettra par exemple de donner au membre l'accès à un canal spécifique ou de lui envoyer un ping automatiquement avec [reminders.md](../../server-setups/reminders.md "mention") que vous avez défini.
 
-## The command
+## La commande
 
-For this, you need to run the `/link` command
-
+Pour cela, vous devez exécuter la commande `/link`
 :::info
-If you link someone by mistake, you can use the [unlink-players.md](unlink-players.md "mention") command.
+Si vous associez quelqu'un par erreur, vous pouvez utiliser la commande [unlink-players.md](unlink-players.md "mention").
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-`player` : This corresponds to the tag of the player you want to linked. You can find this tag in their profile in game. It should look like that : #PVJ98GL.
+`player` : Cela correspond au tag du joueur que vous souhaitez lier. Vous pouvez trouver ce tag dans leur profil en jeu. Cela devrait ressembler à ça : #PVJ98GL.
 
 
 
-### Optional
+### Facultatif
 
-`user`: This is the discord user you want to link the CoC account with. If you run the command for yourself, you do not need to use this option. It is useful only if you want to link an account to someone else.
+`user` : Il s'agit de l'utilisateur Discord avec lequel vous souhaitez associer le compte CoC. Si vous exécutez la commande vous-même, vous n'avez pas besoin d'utiliser cette option. Ceci n'est utile que si vous souhaitez lier un compte à quelqu'un d'autre.
 
-`api_token` : This is to prove that the account is yours. You can find this in the parameters of Clash Of Clans.&#x20;
-
+`api_token` : Ceci sert à prouver que le compte vous appartient. Vous pouvez le trouver dans les paramètres de Clash Of Clans.&#x20;
 :::warning
-The API token is required only if set by the clan staff (see [setup-a-server.md](../../server-setups/setup-a-server.md "mention")), or if the account is already linked to someone else.
+Le jeton API n'est requis que s'il est défini par le personnel du clan (voir [setup-a-server.md](../../server-setups/setup-a-server.md "mention")) ou si le compte est déjà lié à quelqu'un d'autre.
 :::
 
-`greet`: This is to send a greeting message to the user once linked.
+`greet` : Il s'agit d'envoyer un message de bienvenue à l'utilisateur une fois lié.
 
 <figure><img src="/img/gitbook/image (129).png" alt="" /><figcaption></figcaption></figure>

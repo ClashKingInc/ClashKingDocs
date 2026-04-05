@@ -1,17 +1,16 @@
-# 🏆 League Roles
+# 🏆 Rôles de la ligue
 
-## The goal
+## Le but
 
-Gives a specific role to users depending on their current league.
+Donne un rôle spécifique aux utilisateurs en fonction de leur ligue actuelle.
 
 <figure><img src="/img/gitbook/image (125).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles league` command.
-
+Pour cela, vous devez utiliser la commande `/roles league`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 
 

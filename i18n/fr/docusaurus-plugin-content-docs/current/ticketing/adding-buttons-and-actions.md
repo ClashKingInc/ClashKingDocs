@@ -1,58 +1,55 @@
 ---
 description: Adding more functionality to your tickets!
 ---
+# ✅ Ajout de boutons et d'actions
 
-# ✅ Adding Buttons & Actions
-
-If you are in this section, you should have at minimum - 1 embed created (`/embed create`) and 1 ticket panel created (`/ticket panel-create`). \
+Si vous êtes dans cette section, vous devez avoir au minimum 1 intégration créée (`/embed create`) et 1 panneau de tickets créé (`/ticket panel-create`). \
 \
-Assuming you do, you can now add some more functionality to your tickets. This guide will be broken down into 3 main pieces:
+En supposant que ce soit le cas, vous pouvez désormais ajouter des fonctionnalités supplémentaires à vos tickets. Ce guide sera décomposé en 3 parties principales :
 
-* adding & editing buttons
-* account applications
+* ajout et modification de boutons
+* demandes de compte
 * questions
 
-## Adding & Editing Buttons
+## Ajout et modification de boutons
 
-For this, use `/ticket button-add,` which has 4 options:
+Pour cela, utilisez `/ticket button-add,` qui propose 4 options :
 
-* `{panel_name}`: the panel you want to add the button to
-* `{button_text}`: the text you want on the button
-* `{button_color}`: what color you want the button (only blue, green, grey, or red)
-* `{button_emoji}`: an emoji for the button (you can use custom emojis as long as they are on the server)
+* `{panel_name}` : le panneau auquel vous souhaitez ajouter le bouton
+* `{button_text}` : le texte que vous souhaitez sur le bouton
+* `{button_color}` : de quelle couleur souhaitez-vous le bouton (uniquement bleu, vert, gris ou rouge)
+* `{button_emoji}` : un emoji pour le bouton (vous pouvez utiliser des emojis personnalisés tant qu'ils sont sur le serveur)
 
-Once ran, you will have a brand new button for your panel.&#x20;
-
+Une fois exécuté, vous aurez un tout nouveau bouton pour votre panneau.
 :::info
-You will need to rerun `/ticket panel-post` when new buttons are added
+Vous devrez réexécuter `/ticket panel-post` lorsque de nouveaux boutons seront ajoutés
 :::
 
-Editing buttons works very similarly, `/ticket button-edit`, same options, except it will ask for which button on the panel to edit.
+L'édition des boutons fonctionne de manière très similaire, `/ticket button-edit`, mêmes options, sauf qu'il demandera quel bouton du panneau modifier.
 
-And lastly, you can delete a button with `/ticket button-remove`
+Et enfin, vous pouvez supprimer un bouton avec `/ticket button-remove`
 
-## Clash Account Applications
+## Demandes de compte Clash
 
-Now we are getting into the stuff this ticketing can do that others can't. By now you can edit & create embeds, edit & create panels, and even add & edit buttons, but it is still a pertty basic ticketing system. Let's change that!
+Nous abordons maintenant les choses que cette billetterie peut faire et que d'autres ne peuvent pas faire. À présent, vous pouvez modifier et créer des intégrations, modifier et créer des panneaux et même ajouter et modifier des boutons, mais il s'agit toujours d'un système de billetterie de base. Changeons ça !
 
-Run /ticket apply. Here you will be presented with 4 options:
+Exécutez /ticket appliquer. Ici, 4 options vous seront présentées :
 
-* &#x20;\# of accounts allowed to apply (how many accounts can people apply with in a ticket)
-* Minimum Townhall Allowed
-* On/Off (this turns the entire setting on/off, if green (on), will ask people to apply with an account)
-*   Send Player Info (if green (on), will send a breakdown of the player's info when the ticket opens)\
+* &#x20;\# de comptes autorisés à postuler (avec combien de comptes les personnes peuvent-elles postuler dans un ticket)
+* Assemblée publique minimale autorisée
+* On/Off (cela active tout le paramètre /off, s'il est vert (allumé), demandera aux gens de postuler avec un compte)
+* Envoyer les informations sur le joueur (si vert (allumé), enverra une ventilation des informations sur le joueur à l'ouverture du ticket)\
 
 
     <figure><img src="/img/gitbook/image (1) (1) (1) (1) (1).png" alt="" /><figcaption><p>/ticket apply</p></figcaption></figure>
-
 :::warning
-One caveat to the entire ticket apply process is that it does require people's accounts to be linked to them. The bot does inform users of this if they end up trying to apply with no accounts, but it is on the server's side to set up a robust linking system using things like link buttons or the such. Not as a big a deal these days however, as a surprising amount of people are discord linked :smile:&#x20;
+Une mise en garde concernant l'ensemble du processus de demande de ticket est qu'il nécessite que les comptes des personnes y soient liés. Le bot en informe les utilisateurs s'ils finissent par essayer de postuler sans compte, mais il appartient au serveur de mettre en place un système de liaison robuste en utilisant des éléments tels que des boutons de lien ou autres. Ce n'est cependant pas si grave de nos jours, car un nombre surprenant de personnes sont liées à Discord :smile:&#x20;
 :::
 
-We can go further though, /ticket apply-rules allows us to filter out applicants on more than just townhall level. You can filter out by individual hero levels or war stars. This command explains how it works pretty well when ran, but here is what it looks like. Copy past the requirements, keeping the same format, edit them, just upload back (the one given is just a sample and not actually the default everyone is set to)
+Nous pouvons cependant aller plus loin : les règles d'application /ticket nous permettent de filtrer les candidats au-delà du simple niveau de la mairie. Vous pouvez filtrer par niveaux de héros individuels ou par étoiles de guerre. Cette commande explique assez bien son fonctionnement une fois exécutée, mais voici à quoi elle ressemble. Copiez les exigences, en conservant le même format, modifiez-les, puis téléchargez-les à nouveau (celui donné n'est qu'un exemple et pas réellement la valeur par défaut sur laquelle tout le monde est défini)
 
 <figure><img src="/img/gitbook/image (2) (1) (1) (1) (1).png" alt="" width="479" /><figcaption></figcaption></figure>
 
-## Questions
+##Questions
 
-You may have more questions for an applicant than just what is their clash account. And this is where modal questions comes in. Using /ticket settings & picking the relevant panel & button, with the choice "Questions", run the command. A modal will open & you can set what questions you would like the bot to ask when they apply.&#x20;
+Vous pourriez avoir plus de questions à poser à un candidat que simplement quel est son compte de conflit. Et c'est là que les questions modales entrent en jeu. En utilisant les paramètres /ticket et en sélectionnant le panneau et le bouton appropriés, avec le choix "Questions", exécutez la commande. Un modal s'ouvrira et vous pourrez définir les questions que vous souhaitez que le bot pose lorsqu'il postule.

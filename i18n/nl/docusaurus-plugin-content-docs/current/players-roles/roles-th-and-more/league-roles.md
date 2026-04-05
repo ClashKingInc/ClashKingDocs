@@ -1,17 +1,17 @@
-# 🏆 League Roles
+# 🏆 Competitierollen
 
-## The goal
+## Het doel
 
-Gives a specific role to users depending on their current league.
+Geeft een specifieke rol aan gebruikers, afhankelijk van hun huidige competitie.
 
 <figure><img src="/img/gitbook/image (125).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## Het commando
 
-For that, you must use the `/roles league` command.
+Daarvoor moet u de opdracht `/roles league` gebruiken.
 
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Voordat u die opdracht uitvoert, moet u de rollen aanmaken die u wilt instellen in de instellingen van uw Discord-server.
 :::
 
 

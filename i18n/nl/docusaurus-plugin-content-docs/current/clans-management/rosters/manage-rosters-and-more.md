@@ -1,6 +1,6 @@
-# ⚒️ Manage rosters & more
+# ⚒️ Beheer roosters en meer
 
-Here is what you'll find on this page:
+Dit is wat je op deze pagina kunt vinden:
 
 [#clear-or-delete-a-roster](manage-rosters-and-more.md#clear-or-delete-a-roster "mention")
 
@@ -16,101 +16,100 @@ Here is what you'll find on this page:
 
 
 
-## Clear or delete a roster
+## Een rooster wissen of verwijderen
 
-### The command
+### Het commando
 
 &#x20;`/roster delete`&#x20;
 
-### The parameters
+### De parameters
 
-* roster: name of the roster&#x20;
-* type : Choose between Clear Members so you can reuse the roster or Delete roster to delete completely the roster
-
+* roster: naam van het roster&#x20;
+* type: Kies tussen Leden wissen zodat u het rooster opnieuw kunt gebruiken of Rooster verwijderen om het rooster volledig te verwijderen
 :::danger
-A roster that have been deleted can't be recover so be careful
+Een rooster dat is verwijderd, kan niet worden hersteld, dus wees voorzichtig
 :::
 
 
 
-## Roster refresh
+## Rooster vernieuwen
 
-### The command
+### Het commando
 
-`/roster refresh` refresh data displayed in the roster
+`/roster refresh` vernieuwen gegevens weergegeven in het rooster
 
 
 
-## List the rosters
+## Maak een lijst van de roosters
 
-Show a list of every rosters active on the server.
+Toon een lijst met alle roosters die actief zijn op de server.
 
 <figure><img src="/img/gitbook/image (111).png" alt="" /><figcaption></figcaption></figure>
 
-### The command
+### Het commando
 
-Use `/roster list`
+Gebruik `/roster list`
 
 
 
-## Roster roles
+## Roosterrollen
 
-Roster roles are a great utility and do exactly as you expect, give a role to all people in a roster. You can assign a role to a roster by doing `/roster role {roster} {role}`. Note the role must be created beforehand.
+Roosterrollen zijn een geweldig hulpmiddel en doen precies wat u verwacht: geef een rol aan alle mensen in een rooster. U kunt een rol aan een rooster toekennen door `/roster role {roster} {role}` uit te voeren. Let op: de rol moet vooraf worden aangemaakt.
 
 
 :::info
-If the roles haven't updated then you can force update them using `/roster role-refresh`
+Als de rollen niet zijn bijgewerkt, kunt u ze geforceerd bijwerken met `/roster role-refresh`
 :::
 
-### The command
+### Het commando
 
-Use `/roster role`
+Gebruik `/roster role`
 
-### The parameters
+### De parameters
 
-#### Required
+#### Vereist
 
-* `roster`: name of the roster
-* `role`: role you want to set to the players in the roster
+* `roster`: naam van het roster
+* `role`: rol die je wilt toekennen aan de spelers in het roster
 
-#### Optional
+#### Optioneel
 
-* `group`: only set the role to the players in a specific role
-* `remove_role`: If you want to remove the role instead of adding it
+* `group`: stel de rol alleen in voor de spelers in een specifieke rol
+* `remove_role`: als u de rol wilt verwijderen in plaats van toevoegen
 
 
 
-## Export/Import rosters {#export-import-rosters}
+## Export/Import-roosters {#export-import-rosters}
 
-Do not fear, you do not have to remake rosters settings for every roster.&#x20;
+Wees niet bang, je hoeft niet voor elk rooster de roosterinstellingen opnieuw te maken.&#x20;
 
-### The command
+### Het commando
 
 `/roster copy`
 
-### The parameters
+### De parameters
 
-The command  is your friend with the two optional flags::
+Het commando is je vriend met de twee optionele vlaggen::
 
-* `export_roster` : Gives an import code that can be inputted into the `{import_code}` flag in order to copy over the roster settings
-* `import_code` : gives a field to enter an import code retrieved from `{export_roster}`
+* `export_roster`: Geeft een importcode die kan worden ingevoerd in de `{import_code}`-vlag om de roosterinstellingen te kopiëren
+* `import_code`: geeft een veld om een importcode in te voeren die is opgehaald uit `{export_roster}`
 
 
 
-## Player search
+## Speler zoeken
 
-You are able to search for a list of rosters that a discord user or specific account.
+U kunt zoeken naar een lijst met roosters van een onenigheidsgebruiker of een specifiek account.
 
-### The command
+### Het commando
 
-Use `/roster search`&#x20;
+Gebruik `/roster search`&#x20;
 
-### The parameters
+### De parameters
 
-* `user` : Discord username. Displays all the rosters the user is currently in.
+* `user`: Discord-gebruikersnaam. Toont alle roosters waarin de gebruiker zich momenteel bevindt.
 
 <figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.27.13.png" alt="" width="365" /><figcaption></figcaption></figure>
 
-* `player`:Player tag or name. Displays all the rosters the player is currently in.
+* `player`: Spelertag of naam. Toont alle roosters waarin de speler zich momenteel bevindt.
 
 <figure><img src="/img/gitbook/Screenshot 2023-09-09 at 22.31.01.png" alt="" /><figcaption></figcaption></figure>

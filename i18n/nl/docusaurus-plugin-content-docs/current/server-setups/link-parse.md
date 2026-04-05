@@ -1,47 +1,47 @@
-# 🏹 Link parse
+# 🏹Link parseren
 
-## The goal
+## Het doel
 
-You can configure link parsing so that every message containing a link will be replaced with visual embeds, allowing you to see exactly what each link contains. To do this, use the `/setup link-parse` command.
+U kunt het parseren van links zo configureren dat elk bericht met een link wordt vervangen door visuele insluitingen, zodat u precies kunt zien wat elke link bevat. Gebruik hiervoor de opdracht `/setup link-parse`.
 
 :::info
-You can also do it manually for army links and base links (see [army-links.md](../utility/army-links.md "mention"))
+Je kunt het ook handmatig doen voor legerlinks en basislinks (zie [army-links.md](../utility/army-links.md "mention"))
 :::
 
-## The command
+## Het commando
 
 `/setup link-parse`
 
-## The Parameters
+## De parameters
 
-### Optional
+### Optioneel
 
-* `{army_links}`: replace the army link by an embed.
-* `{player_links}`: replace the player link by an embed.&#x20;
-* `{clan_links}`: replace the clan link by an embed.&#x20;
-* `{base_links}`: replace the base link with an embed. This requires an image and optionally a description text.
-* `{show_parse}`: if turned on, it allows you to use -show PartOfTheNameOfOneOfYourClans to see an overview of this clan.
-* `{manage_whitelist}`:  enable the link-parsing only in certain channels.
+* `{army_links}`: vervang de legerlink door een insluiting.
+* `{player_links}`: vervang de spelerlink door een embed.&#x20;
+* `{clan_links}`: vervang de clanlink door een embed.&#x20;
+* `{base_links}`: vervang de basislink door een instortvoorziening. Hiervoor is een afbeelding en optioneel een beschrijvende tekst nodig.
+* `{show_parse}`: indien ingeschakeld, kunt u -show PartOfTheNameOfOneOfYourClans gebruiken om een ​​overzicht van deze clan te zien.
+* `{manage_whitelist}`: schakel het parseren van links alleen in bepaalde kanalen in.
 
-## Examples
+## Voorbeelden
 
 <details>
 
-<summary>Army links</summary>
+<summary>Legerlinks</summary>
 
-An army link will automatically convert into an embedded format, as shown in the example below.
+Een legerlink wordt automatisch omgezet naar een ingesloten formaat, zoals weergegeven in het onderstaande voorbeeld.
 
 ![](</img/gitbook/image (146).png>)
 
-You can also do this manually with the [`/army link`](../utility/army-links.md) command.
+U kunt dit ook handmatig doen met de opdracht [ZXQPH8QXZ](../utility/army-links.md).
 
 </details>
 
 <details>
 
-<summary>Player links</summary>
+<summary>Spelerlinks</summary>
 
-A player link will automatically convert into an embedded format, as illustrated in the example below.
+Een spelerlink wordt automatisch omgezet naar een ingesloten formaat, zoals geïllustreerd in het onderstaande voorbeeld.
 
 ![](</img/gitbook/image (140).png>)
 
@@ -49,9 +49,9 @@ A player link will automatically convert into an embedded format, as illustrated
 
 <details>
 
-<summary>Clan link</summary>
+<summary>Clanlink</summary>
 
-Clan links will automatically convert into an embedded format, as demonstrated below.
+Clanlinks worden automatisch omgezet in een ingesloten indeling, zoals hieronder wordt gedemonstreerd.
 
 ![](</img/gitbook/image (139).png>)
 
@@ -59,23 +59,23 @@ Clan links will automatically convert into an embedded format, as demonstrated b
 
 <details>
 
-<summary>Base links</summary>
+<summary>Basislinks</summary>
 
-Do you have a great base you'd like to share? Simply post a picture of the base along with the base link in a single message. Link parsing will transform it into a message, as shown in the example below. You can also include regular text in the message to appear above the embed, for example, mentioning the required Clan Castle defense!
+Heb jij een mooie basis die je graag wilt delen? Plaats eenvoudigweg een foto van de basis samen met de basislink in één bericht. Door het parseren van links wordt het omgezet in een bericht, zoals weergegeven in het onderstaande voorbeeld. Je kunt ook gewone tekst in het bericht opnemen dat boven de insluiting wordt weergegeven, bijvoorbeeld met vermelding van de vereiste verdediging van het clankasteel!
 
 ![](</img/gitbook/image (141).png>)
 
-You can also use the [/base](../utility/base-links.md) command for creating such embeds!&#x20;
+U kunt ook de opdracht [/base](../utility/base-links.md) gebruiken om dergelijke insluitingen te maken!&#x20;
 
-Base links will remain active for 90 days from the date of the last click.
+Basislinks blijven 90 dagen actief vanaf de datum van de laatste klik.
 
 </details>
 
 <details>
 
-<summary>Show parse</summary>
+<summary>Toon parse</summary>
 
-Have you added your clan to your Discord server (using [/addclan](../clan-setups/add-a-clan.md)) and want to quickly display an embed of your clan? You can do this with -shown NameOfTheClan. An embed will appear below the message, as illustrated in the example below.
+Heb je je clan toegevoegd aan je Discord-server (met behulp van [/addclan](../clan-setups/add-a-clan.md)) en wil je snel een insluiting van je clan weergeven? Je kunt dit doen met -showd NameOfTheClan. Er verschijnt een insluiting onder het bericht, zoals geïllustreerd in het onderstaande voorbeeld.
 
 ![](</img/gitbook/image (142).png>)
 
@@ -83,13 +83,13 @@ Have you added your clan to your Discord server (using [/addclan](../clan-setups
 
 <details>
 
-<summary>Manage whitelist</summary>
+<summary>Beheer witte lijst</summary>
 
-Do you want to enable link-parsing only in certain channels? Use the optional `manage_whitelist` parameter to manage the whitelist. Link-parsing will only function in the channels you have added.
+Wilt u het parseren van links alleen in bepaalde kanalen inschakelen? Gebruik de optionele parameter `manage_whitelist` om de witte lijst te beheren. Het parseren van links werkt alleen in de kanalen die u heeft toegevoegd.
 
 ![](</img/gitbook/image (143).png>)
 
-The red button will remove all whitelisted channels. To add a specific channel again, you will need to reselect all the whitelisted channels.
+Met de rode knop worden alle kanalen op de witte lijst verwijderd. Als u een specifiek kanaal opnieuw wilt toevoegen, moet u alle kanalen op de witte lijst opnieuw selecteren.
 
 </details>
 

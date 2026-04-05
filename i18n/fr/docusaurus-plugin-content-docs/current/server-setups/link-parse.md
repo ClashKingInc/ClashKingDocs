@@ -1,47 +1,46 @@
-# 🏹 Link parse
+# 🏹 Analyse de lien
 
-## The goal
+## Le but
 
-You can configure link parsing so that every message containing a link will be replaced with visual embeds, allowing you to see exactly what each link contains. To do this, use the `/setup link-parse` command.
-
+Vous pouvez configurer l'analyse des liens afin que chaque message contenant un lien soit remplacé par des intégrations visuelles, vous permettant de voir exactement ce que contient chaque lien. Pour ce faire, utilisez la commande `/setup link-parse`.
 :::info
-You can also do it manually for army links and base links (see [army-links.md](../utility/army-links.md "mention"))
+Vous pouvez également le faire manuellement pour les liens d'armée et les liens de base (voir [army-links.md](../utility/army-links.md "mention"))
 :::
 
-## The command
+## La commande
 
 `/setup link-parse`
 
-## The Parameters
+## Les paramètres
 
-### Optional
+### Facultatif
 
-* `{army_links}`: replace the army link by an embed.
-* `{player_links}`: replace the player link by an embed.&#x20;
-* `{clan_links}`: replace the clan link by an embed.&#x20;
-* `{base_links}`: replace the base link with an embed. This requires an image and optionally a description text.
-* `{show_parse}`: if turned on, it allows you to use -show PartOfTheNameOfOneOfYourClans to see an overview of this clan.
-* `{manage_whitelist}`:  enable the link-parsing only in certain channels.
+* `{army_links}` : remplacement du lien army par un embed.
+* `{player_links}` : remplacez le lien du lecteur par un embed.&#x20;
+* `{clan_links}` : remplacez le lien du clan par un embed.&#x20;
+* `{base_links}` : remplacez le lien de base par un embed. Cela nécessite une image et éventuellement un texte de description.
+* `{show_parse}` : s'il est activé, il vous permet d'utiliser -show PartOfTheNameOfOneOfYourClans pour voir un aperçu de ce clan.
+* `{manage_whitelist}` : activez l'analyse des liens uniquement dans certains canaux.
 
-## Examples
+## Exemples
 
 <details>
 
-<summary>Army links</summary>
+<summary>Liens avec l'armée</summary>
 
-An army link will automatically convert into an embedded format, as shown in the example below.
+Un lien d'armée sera automatiquement converti en un format intégré, comme le montre l'exemple ci-dessous.
 
 ![](</img/gitbook/image (146).png>)
 
-You can also do this manually with the [`/army link`](../utility/army-links.md) command.
+Vous pouvez également le faire manuellement avec la commande [ZXQPH8QXZ](../utility/army-links.md).
 
 </details>
 
 <details>
 
-<summary>Player links</summary>
+<summary>Liens des joueurs</summary>
 
-A player link will automatically convert into an embedded format, as illustrated in the example below.
+Un lien de lecteur sera automatiquement converti en un format intégré, comme illustré dans l'exemple ci-dessous.
 
 ![](</img/gitbook/image (140).png>)
 
@@ -49,9 +48,9 @@ A player link will automatically convert into an embedded format, as illustrated
 
 <details>
 
-<summary>Clan link</summary>
+<summary>Lien de clan</summary>
 
-Clan links will automatically convert into an embedded format, as demonstrated below.
+Les liens de clan seront automatiquement convertis dans un format intégré, comme démontré ci-dessous.
 
 ![](</img/gitbook/image (139).png>)
 
@@ -59,23 +58,23 @@ Clan links will automatically convert into an embedded format, as demonstrated b
 
 <details>
 
-<summary>Base links</summary>
+<summary>Liens de base</summary>
 
-Do you have a great base you'd like to share? Simply post a picture of the base along with the base link in a single message. Link parsing will transform it into a message, as shown in the example below. You can also include regular text in the message to appear above the embed, for example, mentioning the required Clan Castle defense!
+Avez-vous une bonne base que vous aimeriez partager ? Publiez simplement une photo de la base avec le lien de la base dans un seul message. L'analyse du lien le transformera en message, comme le montre l'exemple ci-dessous. Vous pouvez également inclure du texte normal dans le message qui apparaîtra au-dessus de l'intégration, par exemple en mentionnant la défense requise du château de clan !
 
 ![](</img/gitbook/image (141).png>)
 
-You can also use the [/base](../utility/base-links.md) command for creating such embeds!&#x20;
+Vous pouvez également utiliser la commande [/base](../utility/base-links.md) pour créer de telles intégrations !&#x20;
 
-Base links will remain active for 90 days from the date of the last click.
+Les liens de base resteront actifs pendant 90 jours à compter de la date du dernier clic.
 
 </details>
 
 <details>
 
-<summary>Show parse</summary>
+<summary>Afficher l'analyse</summary>
 
-Have you added your clan to your Discord server (using [/addclan](../clan-setups/add-a-clan.md)) and want to quickly display an embed of your clan? You can do this with -shown NameOfTheClan. An embed will appear below the message, as illustrated in the example below.
+Vous avez ajouté votre clan à votre serveur Discord (en utilisant [/addclan](../clan-setups/add-a-clan.md)) et souhaitez afficher rapidement une intégration de votre clan ? Vous pouvez le faire avec -shown NameOfTheClan. Une intégration apparaîtra sous le message, comme illustré dans l'exemple ci-dessous.
 
 ![](</img/gitbook/image (142).png>)
 
@@ -83,13 +82,13 @@ Have you added your clan to your Discord server (using [/addclan](../clan-setups
 
 <details>
 
-<summary>Manage whitelist</summary>
+<summary>Gérer la liste blanche</summary>
 
-Do you want to enable link-parsing only in certain channels? Use the optional `manage_whitelist` parameter to manage the whitelist. Link-parsing will only function in the channels you have added.
+Souhaitez-vous activer l’analyse des liens uniquement dans certains canaux ? Utilisez le paramètre facultatif `manage_whitelist` pour gérer la liste blanche. L'analyse des liens ne fonctionnera que dans les chaînes que vous avez ajoutées.
 
 ![](</img/gitbook/image (143).png>)
 
-The red button will remove all whitelisted channels. To add a specific channel again, you will need to reselect all the whitelisted channels.
+Le bouton rouge supprimera toutes les chaînes de la liste blanche. Pour ajouter à nouveau une chaîne spécifique, vous devrez resélectionner toutes les chaînes sur la liste blanche.
 
 </details>
 

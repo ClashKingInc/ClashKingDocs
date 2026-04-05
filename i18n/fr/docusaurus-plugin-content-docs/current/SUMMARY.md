@@ -1,11 +1,11 @@
-# Table of contents
+# Table des matières
 
 * [👋 Welcome to ClashKing!](README.md)
 * [Quick start](quick-start.md)
 * [📱 Get the mobile app !](get-the-mobile-app.md)
 * [❓ FAQ](faq.md)
 
-## Clan Setups
+## Configurations de clan
 
 * [➕ Add a Clan](clan-setups/add-a-clan.md)
 * [⚙️ Setup a clan](clan-setups/setup-a-clan.md)
@@ -14,7 +14,7 @@
   * [👋 Unlink Players](clan-setups/link-players/unlink-players.md)
 * [ℹ️ Others](clan-setups/others.md)
 
-## Server Setups
+## Configurations de serveur
 
 * [⚙️ Setup a server](server-setups/setup-a-server.md)
 * [⬜ Whitelist](server-setups/whitelist.md)
@@ -25,7 +25,7 @@
 * [🏗️ Autoboards](server-setups/autoboards.md)
 * [ℹ️ Others](server-setups/others.md)
 
-## Players Roles
+## Rôles des joueurs
 
 * [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
   * [👨‍👩‍👧‍👧 Family Roles](players-roles/roles-th-and-more/family-roles.md)
@@ -38,7 +38,7 @@
 * [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
 * [🤓 Auto-refresh](players-roles/auto-refresh.md)
 
-## Clans Management
+## Gestion des clans
 
 * [🚪 Bans](clans-management/bans.md)
 * [😠 Strikes](clans-management/strikes/README.md)
@@ -54,7 +54,7 @@
   * [❓ Missing players](clans-management/rosters/missing-players.md)
   * [⚒️ Manage rosters & more](clans-management/rosters/manage-rosters-and-more.md)
 
-## Clan & Family Commands
+## Commandes de clan et de famille
 
 * [🏛️ Clan Commands](clan-and-family-commands/clan-commands.md)
 * [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
@@ -63,13 +63,13 @@
 * [📈 Graphs](clan-and-family-commands/graphs.md)
 * [🆙 Boosted Super Troops](clan-and-family-commands/boosted-super-troops.md)
 
-## Ticketing
+## Billetterie
 
 * [🔨 Creating a Ticket panel](ticketing/creating-a-ticket-panel.md)
 * [✅ Adding Buttons & Actions](ticketing/adding-buttons-and-actions.md)
 * [🎫 Inside the Ticket](ticketing/inside-the-ticket.md)
 
-## Player Commands
+## Commandes du joueur
 
 * [🔍 Lookup](player-commands/lookup.md)
 * [🟣 Legends](player-commands/legends/README.md)
@@ -83,7 +83,7 @@
 * [🤔 To-do](player-commands/to-do.md)
 * [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
 
-## Utility
+## Utilitaire
 
 * [🆘 Help](utility/help.md)
 * [🔘 Buttons](utility/buttons.md)
@@ -93,7 +93,7 @@
 * [🖼️ Base links](utility/base-links.md)
 * [🎁 Giveaways](utility/giveaways.md)
 
-## 🤖 Custom Bots
+## 🤖 Bots personnalisés
 
 * [🤖 Custom bot](custom-bots/custom-bot.md)
 * [💻 Developer Portal](custom-bots/developer-portal.md)

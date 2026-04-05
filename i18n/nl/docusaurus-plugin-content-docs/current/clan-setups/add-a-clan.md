@@ -1,43 +1,41 @@
 ---
 description: Adding a clan is easy! Here is how to get started!
 ---
-
-# ➕ Add a Clan
-
+# ➕ Voeg een clan toe
 :::danger
-Before adding a clan, make sure you [invited ClashKing Bot](https://invite.clashk.ing) first and give it admin perms.
+Voordat je een clan toevoegt, zorg ervoor dat je eerst [invited ClashKing Bot](https://invite.clashk.ing) hebt en hem beheerdersrechten geeft.
 :::
 
-## The goal
+## Het doel
 
-Adding a clan to your server allows you to manage it directly from Discord. Once your clan is added, it will be tracked by our system, giving you clear insights into what’s happening within your clan and providing powerful tools to manage it efficiently.
+Door een clan aan uw server toe te voegen, kunt u deze rechtstreeks vanuit Discord beheren. Zodra uw clan is toegevoegd, wordt deze door ons systeem gevolgd, waardoor u duidelijk inzicht krijgt in wat er binnen uw clan gebeurt en krachtige hulpmiddelen worden geboden om deze efficiënt te beheren.
 
-## The command
+## Het commando
 
-For that, you must use the `/addclan` command.
+Daarvoor moet u de opdracht `/addclan` gebruiken.
 
 :::info
-Before running that command, you need to create a membership role (and optionally a leadership role) from your discord server if you do not have one already. For example : @/member (and @/coleader)
+Voordat u dat commando uitvoert, moet u een lidmaatschapsrol (en optioneel een leiderschapsrol) aanmaken op uw onenigheidsserver als u er nog geen heeft. Bijvoorbeeld: @/member (en @/coleader)
 :::
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `clan_tag` : This is the unique tag used to identify a clan. It can be found in-game underneath the clan name.&#x20;
-* `category`: This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or Event clans. You can use one of the preset options (**General, Feeder, War, Esport**) or type your own.
-* `member_role`: The role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.
-* `clan_channel`: This channel should be one of the channel your clan mates has access to. This is where the bot will send welcome messages.
+* `clan_tag`: Dit is de unieke tag die wordt gebruikt om een ​​clan te identificeren. Je vindt deze in het spel onder de clannaam.&#x20;
+* `category`: dit is een manier om je clans te organiseren. Veel clanfamilies hebben 5 of meer clans. Soms zijn sommige alleen voor CWL- of Event-clans. Je kunt een van de vooraf ingestelde opties gebruiken (**Algemeen, Feeder, Oorlog, Esport**) of je eigen opties typen.
+* `member_role`: De rol die de leden van deze clan moeten krijgen. Dus als je het oneens bent, als de bot de rollen beheert, zou elke persoon in deze clan deze rol krijgen. Handig als je clanspecifieke kanalen maakt.
+* `clan_channel`: dit kanaal zou een van de kanalen moeten zijn waartoe je clangenoten toegang hebben. Dit is waar de bot welkomstberichten zal sturen.
 
-### Optional
+### Optioneel
 
-`leadership_role`: The role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.
+`leadership_role`: De rol die eventuele medeleiders en leiders in deze clan zullen krijgen. Bij een typische onenigheid heb je misschien een leadchat voor een clan of een cumulatieve leiderchat voor alle clans. Deze rol kan hier nuttig zijn.
 
 :::info
-You can remove a clan from the server with the `/removeclan` command!
+Je kunt een clan van de server verwijderen met het commando `/removeclan`!
 :::
 
-## Once you're done
+## Zodra je klaar bent
 
-After filling these in, you should get a success message showing what you have set up. \
-You can continue with setting up some logs or other setups, but this alone will let you use a large portion of the "static" commands & will start tracking wars, donations, activity & more for your clan!
+Nadat u deze heeft ingevuld, ontvangt u een succesbericht waarin wordt weergegeven wat u hebt ingesteld. \
+Je kunt doorgaan met het opzetten van enkele logs of andere instellingen, maar hierdoor alleen al kun je een groot deel van de "statische" commando's gebruiken en oorlogen, donaties, activiteiten en meer voor je clan gaan volgen!

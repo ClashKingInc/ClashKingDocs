@@ -1,32 +1,32 @@
-# 👨‍👩‍👧‍👧 Family Roles
+# 👨‍👩‍👧‍👧 Familierollen
 
-## The goal
+## Het doel
 
-Gives a specific role to users whether they are in your clans or not, but also based on their rank in the clan.
+Geeft een specifieke rol aan gebruikers, ongeacht of ze in je clans zitten of niet, maar ook op basis van hun rang in de clan.
 
 <figure><img src="/img/gitbook/image (117).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## Het commando
 
-For that, you must use the `/roles family` command.
-
-:::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
-:::
-
-## The parameters
-
-### Required
-
-`type` : Choose the type of the role you want to set between Family roles (Member, Elders, Co-Leader, Leader) and Non Family Roles (Member).
+Daarvoor moet u de opdracht `/roles family` gebruiken.
 
 :::info
-"Family" roles will be given to users that have an account in one of the clans you added to your server (see [add-a-clan.md](../../clan-setups/add-a-clan.md "mention")), while "Non Family" roles will be given to those who aren't in one of your clans.
-
-"Ignored Roles"&#x20;
+Voordat u die opdracht uitvoert, moet u de rollen aanmaken die u wilt instellen in de instellingen van uw Discord-server.
 :::
 
-### Optional
+## De parameters
 
-* `add`: Role to add
-* `remove`: Role to remove
+### Vereist
+
+`type`: Kies het type rol dat u wilt instellen tussen Familierollen (Lid, Ouderlingen, Co-leider, Leider) en Niet-familierollen (Lid).
+
+:::info
+"Familie"-rollen worden gegeven aan gebruikers die een account hebben in een van de clans die u aan uw server hebt toegevoegd (zie [add-a-clan.md](../../clan-setups/add-a-clan.md "mention")), terwijl "Niet-familie"-rollen worden gegeven aan degenen die niet in een van uw clans zitten.
+
+"Genegeerde rollen"&#x20;
+:::
+
+### Optioneel
+
+* `add`: Rol om toe te voegen
+* `remove`: rol die moet worden verwijderd

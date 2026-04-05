@@ -1,21 +1,21 @@
-# ⚔️ Create a roster
+# ⚔️Maak een rooster
 
-## The goal
+## Het doel
 
-Roster a super useful tool to use for tournament events, regular wars and CWL. They can feel a bit overwhelming but take your time and it will be worth it.
+Roster een superhandige tool om te gebruiken voor toernooi-evenementen, reguliere oorlogen en CWL. Ze kunnen een beetje overweldigend aanvoelen, maar neem de tijd en het zal de moeite waard zijn.
 
-## The command
+## Het commando
 
-To begin simply use `/roster create`
+Gebruik om te beginnen gewoon `/roster create`
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* &#x20;`clan`: Choose what clan the roster is linked to
-* `roster_alias`: Display name when viewing the roster such as 'Clan1 CWL'
+* &#x20;`clan`: Kies aan welke clan de selectie is gekoppeld
+* `roster_alias`: weergavenaam bij het bekijken van de selectie, zoals 'Clan1 CWL'
 
-### Optional
+### Optioneel
 
-`add_members_to_roster`:  It will simply add all clan members automatically
+`add_members_to_roster`: Het voegt eenvoudigweg alle clanleden automatisch toe
 

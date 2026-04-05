@@ -11,10 +11,9 @@ layout:
   pagination:
     visible: true
 ---
+# 🟣 Legendes
 
-# 🟣 Legends
-
-Verry useful commands for Legend League players. Discover detailed analyses of all Legend League player attacks! It consists of the following commands:
+Zeer nuttige commando's voor Legend League-spelers. Ontdek gedetailleerde analyses van alle Legend League-speleraanvallen! Het bestaat uit de volgende opdrachten:
 
 * `/legends search {player}`
 * `/legends clan {clan}`
@@ -24,7 +23,7 @@ Verry useful commands for Legend League players. Discover detailed analyses of a
 
 ## Details
 
-See the following pages for all the details:
+Zie de volgende pagina's voor alle details:
 
 [legends-search.md](legends-search.md)
 

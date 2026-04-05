@@ -1,7 +1,6 @@
-# 🛎️ Auto strikes
-
+# 🛎️ Automatische stakingen
 :::danger
-Auto strike are not available for now, but will be in an upcoming update.
+Automatische waarschuwingen zijn momenteel niet beschikbaar, maar zullen in een komende update beschikbaar zijn.
 :::
 
 

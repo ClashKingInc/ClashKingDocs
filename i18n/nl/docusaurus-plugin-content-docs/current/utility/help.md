@@ -1,5 +1,5 @@
-# 🆘 Help
+# 🆘 Hulp
 
-The `/help {command} {category}` command displays quick documentation for a specific command directly in Discord. You can search for a specific command or category, or navigate through the full documentation using the dropdown menu.
+De opdracht `/help {command} {category}` geeft snelle documentatie voor een specifieke opdracht rechtstreeks in Discord weer. U kunt zoeken naar een specifieke opdracht of categorie, of door de volledige documentatie navigeren met behulp van het vervolgkeuzemenu.
 
 <figure><img src="/img/gitbook/image (110).png" alt="" width="312" /><figcaption><p>Dropdown menu of the /help command</p></figcaption></figure>

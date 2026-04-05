@@ -1,42 +1,42 @@
-# 🤓 Auto-refresh
+# 🤓 Automatisch vernieuwen
 
-## The goal
+## Het doel
 
-Automatically refresh roles and nickname when the status of a user changes in game.
+Ververs automatisch rollen en bijnaam wanneer de status van een gebruiker in het spel verandert.
 
-## The commands
+## De commando's
 
-`/autorefresh triggers` allows you to choose in which scenario the refresh will happen
+Met `/autorefresh triggers` kunt u kiezen in welk scenario de vernieuwing zal plaatsvinden
 
 <figure><img src="/img/gitbook/image (94).png" alt="" /><figcaption></figcaption></figure>
 
-`/autorefresh option` allows you to choose what will be refreshed when a trigger is activated.
+Met `/autorefresh option` kunt u kiezen wat er wordt vernieuwd wanneer een trigger wordt geactiveerd.
 
 <figure><img src="/img/gitbook/image (116).png" alt="" /><figcaption></figcaption></figure>
 
 :::info
-If you want to refresh manually, please use `/refresh`
+Als u handmatig wilt vernieuwen, gebruik dan `/refresh`
 :::
 
-## Autorefresh Trigger&#x20;
+## Autorefresh-trigger&#x20;
 
 ### Parameters
 
-No parameters needed.
+Geen parameters nodig.
 
-### Trigger types
+### Triggertypen
 
-* Member Join
-* Member Leave
-* TownHall Change
-* League Change
-* Role Change
+* Lid worden
+* Ledenverlof
+* Stadhuiswijziging
+* Ligawijziging
+* Rolverandering
 
-## Autorefresh options
+## Opties voor automatisch vernieuwen
 
-* `state` : set autorefresh to ON/OFF
-* `role_treatment` : It will add and/or remove a role depending on the role you set up in [Roles (TH & More)](roles-th-and-more/README.md).
-* `nickname_change` : It will change the nickname depending on the nicknames you set in [Set up a server](../server-setups/setup-a-server.md).
-* `blacklist_role_add` : A person with a blacklisted role will not be impacted by autorefresh (they'll keep their roles and nicknames)
-* `blacklist_role_remove` : You can remove a role that has been setup in `blacklist_role_add`.
-* `change_log` : If you want to see the changes the bot makes, you can set a channel where it will send logs of its activities.
+* `state`: stel automatisch vernieuwen in op ON/OFF
+* `role_treatment`: Er wordt een rol toegevoegd en /or verwijderd, afhankelijk van de rol die u hebt ingesteld in [Roles (TH & More)](roles-th-and-more/README.md).
+* `nickname_change`: de bijnaam verandert afhankelijk van de bijnamen die u instelt in [Set up a server](../server-setups/setup-a-server.md).
+* `blacklist_role_add`: een persoon met een rol op de zwarte lijst heeft geen last van automatisch vernieuwen (ze behouden hun rollen en bijnamen)
+* `blacklist_role_remove`: u kunt een rol verwijderen die is ingesteld in `blacklist_role_add`.
+* `change_log`: Als u de wijzigingen wilt zien die de bot aanbrengt, kunt u een kanaal instellen waarnaar de bot logs van zijn activiteiten verzendt.

@@ -1,24 +1,23 @@
-# 👵 Tenure Role
+# 👵 Rôle titulaire
 
-## The goal
+## Le but
 
-Gives a specific role to users depending on their joining date on the server.
+Donne un rôle spécifique aux utilisateurs en fonction de leur date d'adhésion sur le serveur.
 
 <figure><img src="/img/gitbook/image (126).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles tenure` command.
-
+Pour cela, vous devez utiliser la commande `/roles tenure`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `mode` : add/remove role
-* `months` : Number of months the user must be on the server
-* `role`: Role you want to set
+* `mode` : ajout du rôle /remove
+* `months` : Nombre de mois pendant lesquels l'utilisateur doit être sur le serveur
+* `role` : rôle que vous souhaitez définir
 

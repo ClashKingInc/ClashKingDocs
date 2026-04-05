@@ -1,58 +1,58 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Volgende",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Clan Setups": {
-    "message": "Clan Setups",
+    "message": "Clan-opstellingen",
     "description": "The label for category 'Clan Setups' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Link Players": {
-    "message": "Link Players",
+    "message": "Spelers koppelen",
     "description": "The label for category 'Link Players' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Server Setups": {
-    "message": "Server Setups",
+    "message": "Serverinstellingen",
     "description": "The label for category 'Server Setups' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Players Roles": {
-    "message": "Players Roles",
+    "message": "Spelers rollen",
     "description": "The label for category 'Players Roles' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Roles (TH & More)": {
-    "message": "Roles (TH & More)",
+    "message": "Rollen (TH en meer)",
     "description": "The label for category 'Roles (TH & More)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Clans Management": {
-    "message": "Clans Management",
+    "message": "Clansbeheer",
     "description": "The label for category 'Clans Management' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Strikes": {
-    "message": "Strikes",
+    "message": "Stakingen",
     "description": "The label for category 'Strikes' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Rosters": {
-    "message": "Rosters",
+    "message": "Roosters",
     "description": "The label for category 'Rosters' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Clan & Family Commands": {
-    "message": "Clan & Family Commands",
+    "message": "Clan- en familieopdrachten",
     "description": "The label for category 'Clan & Family Commands' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Ticketing": {
-    "message": "Ticketing",
+    "message": "Kaartverkoop",
     "description": "The label for category 'Ticketing' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Player Commands": {
-    "message": "Player Commands",
+    "message": "Speleropdrachten",
     "description": "The label for category 'Player Commands' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Legends": {
-    "message": "Legends",
+    "message": "Legenden",
     "description": "The label for category 'Legends' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Utility": {
-    "message": "Utility",
+    "message": "Nutsvoorziening",
     "description": "The label for category 'Utility' in sidebar 'tutorialSidebar'"
   }
 }

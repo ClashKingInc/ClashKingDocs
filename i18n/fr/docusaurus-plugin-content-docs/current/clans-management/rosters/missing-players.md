@@ -1,20 +1,20 @@
-# ❓ Missing players
+# ❓ Joueurs manquants
 
-## The goal
+## Le but
 
-A very useful command that allow you to see who's missing in the clan compared to a specific roster, who is in the clan but isn't registered, and even ping those people!
+Une commande très utile qui vous permet de voir qui manque dans le clan par rapport à une liste spécifique, qui est dans le clan mais n'est pas enregistré, et même de pinger ces personnes !
 
-You can then spot & ping people who forgot to register, or who are still not in the right clan before your event start.
+Vous pouvez ensuite repérer et envoyer un ping aux personnes qui ont oublié de s'inscrire ou qui ne sont toujours pas dans le bon clan avant le début de votre événement.
 
-## The command
+## La commande
 
-* `roster`: name of the roster you want to check players
-* `message`: Message that will be sent if you decide to ping the players
-* `reverse:` if set to true, it will show the list of people that are in the clan but are not on a roster tied to the clan. If set to false (which is the default value), it will show the list of the people that are on a roster tied to the clan but that aren't currently in the clan.
+* `roster` : nom du roster sur lequel vous souhaitez consulter les joueurs
+* `message` : Message qui sera envoyé si vous décidez de pinger les joueurs
+* `reverse:` s'il est défini sur true, il affichera la liste des personnes qui font partie du clan mais ne figurent pas sur une liste liée au clan. S'il est défini sur false (qui est la valeur par défaut), il affichera la liste des personnes qui figurent sur une liste liée au clan mais qui ne font pas actuellement partie du clan.
 
-## Once sent
+## Une fois envoyé
 
-Once the command has been sent, you'll see the list of the player, but also a "Ping Misiing" button, which will ping the missing players with the message you set on the command.
+Une fois la commande envoyée, vous verrez la liste des joueurs, mais aussi un bouton "Ping Misiing", qui pingera les joueurs manquants avec le message que vous avez défini sur la commande.
 
 <figure><img src="/img/gitbook/image (10) (1).png" alt="" /><figcaption></figcaption></figure>
 

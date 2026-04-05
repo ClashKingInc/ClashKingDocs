@@ -1,18 +1,18 @@
-# 👀 View strikes
+# 👀 Bekijk waarschuwingen
 
-## The goal
+## Het doel
 
-You might be upset by a member who seems to repetedly not follow the clan rules. By viewing the strikes, you can have a summary of everything that have been reproached to them.
+Het kan zijn dat u van streek raakt als een lid herhaaldelijk de clanregels niet lijkt te volgen. Door de stakingen te bekijken, kunt u een overzicht krijgen van alles wat hen is verweten.
 
-## The command
+## Het commando
 
-There are lots of customisable ways to view strikes but all start with the base command `/strike list` .
+Er zijn veel aanpasbare manieren om aanvallen te bekijken, maar ze beginnen allemaal met het basiscommando `/strike list`.
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `view`: It has 2 options, player and strike. Player will show a list of accounts with strikes and then a list of the strikes they have. Where as strike will show a detailed list of strikes individually. Images bellow display difference.
+* `view`: Het heeft 2 opties: speler en aanval. De speler toont een lijst met accounts met waarschuwingen en vervolgens een lijst met de waarschuwingen die hij heeft. Waar als staking wordt een gedetailleerde lijst van stakingen afzonderlijk weergegeven. Afbeeldingen hieronder geven het verschil weer.
 
 
 
@@ -26,11 +26,11 @@ There are lots of customisable ways to view strikes but all start with the base 
 
 </div>
 
-### Optional
+### Optioneel
 
-* `clan` : It will show the strikes for a specific clan
-* `player` : It will show only the strikes of a specific player. It can be combined with `clan`.
-* `strike_amount` :  Only show players with more strikes than this amount. It must be combined with player view.
+* `clan`: het toont de aanvallen voor een specifieke clan
+* `player`: Het toont alleen de slagen van een specifieke speler. Het kan worden gecombineerd met `clan`.
+* `strike_amount`: Toon alleen spelers met meer strikes dan dit aantal. Het moet worden gecombineerd met de spelersweergave.
 * `view_expired_strikes`: `view strike that have rolled over.`
-* `view_non_family`: see the strikes you set for a player that are not in your clan anymore.
+* `view_non_family`: bekijk de aanvallen die je hebt ingesteld voor een speler die niet meer in je clan zit.
 

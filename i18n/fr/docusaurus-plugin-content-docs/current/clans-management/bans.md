@@ -1,33 +1,31 @@
-# 🚪 Bans
+# 🚪 Interdictions
 
-## The goal
+## Le but
 
-The ban command can be very useful to create a list of members that you would not want to return.
+La commande ban peut être très utile pour créer une liste de membres que vous ne voudriez pas renvoyer.
 
-Once you add a ban, the ban will be sent in the channel you set in [setup-a-server.md](../server-setups/setup-a-server.md "mention"), so no need to run the command on a specific channel !
+Une fois que vous avez ajouté un ban, le ban sera envoyé dans le canal que vous avez défini dans [setup-a-server.md](../server-setups/setup-a-server.md "mention"), donc pas besoin d'exécuter la commande sur un canal spécifique !
 
-If a banned player join one of your clan, a warning will be sent to the channel you set in [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")
-
+Si un joueur banni rejoint l'un de vos clans, un avertissement sera envoyé au canal que vous avez défini dans [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention").
 :::warning
-Using the ban command will not ban them from joining your clan. This is out of the bots control.
+L’utilisation de la commande bannir ne leur interdira pas de rejoindre votre clan. Ceci est hors du contrôle des robots.
 :::
 
-## The command
+## La commande
 
-To add a user to the list use `/ban add` (this supports "smart search" so a username can work).&#x20;
-
+Pour ajouter un utilisateur à la liste, utilisez `/ban add` (cela prend en charge la "recherche intelligente" afin qu'un nom d'utilisateur puisse fonctionner).
 :::info
-All bans can be viewed using `/ban list` and a ban can be removed using `/ban remove`
+Toutes les interdictions peuvent être consultées à l'aide de `/ban list` et une interdiction peut être supprimée à l'aide de `/ban remove`.
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-`player` : player username or tag. If you can't find the player name in the list, you can use their player tag, even if it's not on the list.
+`player` : nom d'utilisateur ou tag du joueur. Si vous ne trouvez pas le nom du joueur dans la liste, vous pouvez utiliser son tag de joueur, même s'il ne figure pas dans la liste.
 
-### Optional
+### Facultatif
 
-* `reason`: So you can remember why you ban them.
-* `dm_player`: If you add a text, the bot will send a dm to the player with this text.
+* `reason` : Vous pouvez ainsi vous rappeler pourquoi vous les interdisez.
+* `dm_player` : Si vous ajoutez un texte, le bot enverra un DM au joueur avec ce texte.
 

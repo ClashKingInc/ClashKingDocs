@@ -11,34 +11,32 @@ layout:
   pagination:
     visible: true
 ---
+# 🤝 Reddit Recruit Feed (en anglais uniquement)
 
-# 🤝 Reddit Recruit Feed (English speaking only)
+## Le but
 
-## The goal
-
-Reddit is one of the main 2-3 external recruiting sources for Clash of Clans. For anyone unfamiliar, there is a subreddit - [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) - where people post when they are looking for a clan. This feed will post and optionally ping a role when activated. This let's you get a leg up and be one of the first to message or comment on a user's post which can significantly boost your recruiting chances, all things considered.
-
+Reddit est l'une des 2-3 principales sources de recrutement externes pour Clash of Clans. Pour ceux qui ne sont pas familiers, il existe un sous-reddit – [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) – où les gens publient lorsqu'ils recherchent un clan. Ce flux publiera et éventuellement cinglera un rôle une fois activé. Cela vous permet d'avoir une longueur d'avance et d'être l'un des premiers à envoyer un message ou à commenter la publication d'un utilisateur, ce qui peut augmenter considérablement vos chances de recrutement, tout bien considéré.
 
 
-## The command
 
-To add this feed -> `/setup reddit-recruit-feed` & to remove - use the `remove` flag in the same command. Below is an example of a feed post.
+## La commande
 
+Pour ajouter ce flux -> `/setup reddit-recruit-feed` & pour supprimer - utilisez l'indicateur `remove` dans la même commande. Vous trouverez ci-dessous un exemple de publication de fil d'actualité.
 :::info
-The Player Profile Button pops up when a "recruit" has shared their player tag, and the bot provides a quick way to view their account details
+Le bouton de profil du joueur apparaît lorsqu'une « recrue » a partagé son tag de joueur, et le bot fournit un moyen rapide d'afficher les détails de son compte.
 :::
 
 &#x20;![](</img/gitbook/image (14) (1) (1).png>)
 
 
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `channel` : set the channel where you want the posts to be sent to
+* `channel` : définissez le canal vers lequel vous souhaitez que les publications soient envoyées
 
-### Optional
+### Facultatif
 
-* `role_to_ping`  : role you want to ping when there's a new post&#x20;
-* `remove`  : to remove the feed.
+* `role_to_ping` : rôle auquel vous souhaitez envoyer un ping lorsqu'il y a un nouveau message&#x20;
+* `remove` : pour supprimer le flux.

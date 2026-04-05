@@ -1,43 +1,40 @@
 ---
 description: Adding a clan is easy! Here is how to get started!
 ---
-
-# ➕ Add a Clan
+# ➕ Ajouter un clan
 
 :::danger
-Before adding a clan, make sure you [invited ClashKing Bot](https://invite.clashk.ing) first and give it admin perms.
+Avant d'ajouter un clan, assurez-vous d'abord d'avoir [invited ClashKing Bot](https://invite.clashk.ing) et donnez-lui les autorisations d'administrateur.
 :::
 
-## The goal
+## Le but
 
-Adding a clan to your server allows you to manage it directly from Discord. Once your clan is added, it will be tracked by our system, giving you clear insights into what’s happening within your clan and providing powerful tools to manage it efficiently.
+Ajouter un clan à votre serveur vous permet de le gérer directement depuis Discord. Une fois votre clan ajouté, il sera suivi par notre système, vous donnant un aperçu clair de ce qui se passe au sein de votre clan et vous fournissant des outils puissants pour le gérer efficacement.
 
-## The command
+## La commande
 
-For that, you must use the `/addclan` command.
-
+Pour cela, vous devez utiliser la commande `/addclan`.
 :::info
-Before running that command, you need to create a membership role (and optionally a leadership role) from your discord server if you do not have one already. For example : @/member (and @/coleader)
+Avant d'exécuter cette commande, vous devez créer un rôle de membre (et éventuellement un rôle de leadership) à partir de votre serveur Discord si vous n'en avez pas déjà un. Par exemple : @/member (et @/coleader)
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `clan_tag` : This is the unique tag used to identify a clan. It can be found in-game underneath the clan name.&#x20;
-* `category`: This is a way to organize your clans. Many clan families have 5 or more clans. Sometimes some are only for CWL or Event clans. You can use one of the preset options (**General, Feeder, War, Esport**) or type your own.
-* `member_role`: The role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.
-* `clan_channel`: This channel should be one of the channel your clan mates has access to. This is where the bot will send welcome messages.
+* `clan_tag` : C'est le tag unique utilisé pour identifier un clan. Il peut être trouvé dans le jeu sous le nom du clan.&#x20;
+* `category` : C'est une façon d'organiser vos clans. De nombreuses familles claniques comptent 5 clans ou plus. Parfois, certains sont uniquement destinés aux clans CWL ou Event. Vous pouvez utiliser l'une des options prédéfinies (**Général, Feeder, War, Esport**) ou saisir la vôtre.
+* `member_role` : Le rôle que devraient recevoir les membres de ce clan. Donc sur votre discord, si le bot gérait les rôles, chaque personne de ce clan obtiendrait ce rôle. Utile si vous créez des chaînes spécifiques à un clan.
+* `clan_channel` : cette chaîne doit être l'une des chaînes auxquelles vos membres de clan ont accès. C'est ici que le bot enverra des messages de bienvenue.
 
-### Optional
+### Facultatif
 
-`leadership_role`: The role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.
-
+`leadership_role` : Le rôle que recevront tous les co-leaders et leaders de ce clan. Dans une discorde typique, vous pouvez avoir une discussion principale pour un clan ou une discussion de chef cumulative pour tous les clans - ce rôle peut être utile ici.
 :::info
-You can remove a clan from the server with the `/removeclan` command!
+Vous pouvez supprimer un clan du serveur avec la commande `/removeclan` !
 :::
 
-## Once you're done
+## Une fois que vous avez terminé
 
-After filling these in, you should get a success message showing what you have set up. \
-You can continue with setting up some logs or other setups, but this alone will let you use a large portion of the "static" commands & will start tracking wars, donations, activity & more for your clan!
+Après les avoir remplis, vous devriez recevoir un message de réussite indiquant ce que vous avez configuré. \
+Vous pouvez continuer à configurer certains journaux ou d'autres configurations, mais cela seul vous permettra d'utiliser une grande partie des commandes "statiques" et commencera à suivre les guerres, les dons, les activités et plus encore pour votre clan !

@@ -1,80 +1,79 @@
-# 🔘 Buttons
+# 🔘 Knoppen
 
-## The goal
+## Het doel
 
-This command provides a way to add one or more buttons under an embeds. It can also allows you to send a specific embed when people join one of your clan, so you don't have to do it yourself ! There is currently 5 buttons available and you can select up to 4 buttons.
+Deze opdracht biedt een manier om een ​​of meer knoppen onder een insluiting toe te voegen. Je kunt er ook een specifieke embed mee sturen als mensen lid worden van een van je clans, zodat je dat niet zelf hoeft te doen! Er zijn momenteel 5 knoppen beschikbaar en u kunt maximaal 4 knoppen selecteren.
 
 :::info
-If you don't know what is an embed and how to create one with ClashKing, check [embeds.md](embeds.md "mention")
+Als je niet weet wat een embed is en hoe je er een kunt maken met ClashKing, controleer dan [embeds.md](embeds.md "mention")
 :::
 
-## The command
+## Het commando
 
-The command is `/buttons`
+Het commando is `/buttons`
 
 <figure><img src="/img/gitbook/image (5).png" alt="" /><figcaption></figcaption></figure>
 
 :::info
-Before running that command, you need to create an [embeds.md](embeds.md "mention")
+Voordat u die opdracht uitvoert, moet u een [embeds.md](embeds.md "mention") maken
 :::
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-No parameters is required.
+Er zijn geen parameters vereist.
 
-### Optionnal
+### Optioneel
 
-* **embed :** Choose the [embeds.md](embeds.md "mention") you want to add buttons to. If you don't select an embed, an embed will be created depending on what buttons you chose.
+* **embed :** Kies de [embeds.md](embeds.md "mention") waaraan je knoppen wilt toevoegen. Als u geen insluiting selecteert, wordt er een insluiting gemaakt, afhankelijk van de knoppen die u kiest.
 
 <figure><img src="/img/gitbook/image (1) (1).png" alt="" width="563" /><figcaption><p>Embed by default for Link account buttons</p></figcaption></figure>
 
-* **button\_color :** Choose between blue, green, grey and red. Default color is grey.
-* **on\_welcome\_channel :** you can choose a channel on which the embed (with buttons or not) will be sent to every time someone join your Discord server. Only one embed can be set, so if you set a new one, it will replace the current one.&#x20;
+* **button\_color :** Kies tussen blauw, groen, grijs en rood. Standaardkleur is grijs.
+* **op\_welcome\_channel :** je kunt een kanaal kiezen waarnaar de embed (met of zonder knoppen) wordt verzonden elke keer dat iemand zich bij je Discord-server aansluit. Er kan slechts één insluiting worden ingesteld, dus als u een nieuwe invoegt, wordt de huidige vervangen.&#x20;
 
 <figure><img src="/img/gitbook/image (2) (1).png" alt="" width="563" /><figcaption><p>Example of embeds sent every time a user join the discord server</p></figcaption></figure>
-
 :::danger
-For now there is no way to de activate the welcom message. If you want to remove it, create a new channel, set a welcom message on it, and delete the channel.
+Voorlopig is er geen manier om het welkomstbericht te deactiveren. Als je het wilt verwijderen, maak dan een nieuw kanaal aan, stel er een welkomstbericht in en verwijder het kanaal.
 :::
 
-## Buttons type
+## Knoppentype
 
-Once you sent the command, you will be able to choose up to 4 buttons between those 5.
+Nadat u de opdracht heeft verzonden, kunt u tussen deze vijf maximaal vier knoppen kiezen.
 
 <figure><img src="/img/gitbook/image (3) (1).png" alt="" /><figcaption></figcaption></figure>
 
-### Link Button
+### Link-knop
 
-This button allows you to link a CoC account to your discord account (see [link-players](../clan-setups/link-players/ "mention"))
+Met deze knop kunt u een CoC-account koppelen aan uw discord-account (zie [link-players](../clan-setups/link-players/ "mention"))
 
 <figure><img src="/img/gitbook/image (83).png" alt="" width="416" /><figcaption><p>Link account pop up</p></figcaption></figure>
 
-### Link help button
+### Help-knop koppelen
 
-This button displays a tutorial to show how to link a player and how to find the API token.
+Deze knop geeft een tutorial weer waarin wordt getoond hoe u een speler kunt koppelen en hoe u het API-token kunt vinden.
 
 <figure><img src="/img/gitbook/image (84).png" alt="" width="322" /><figcaption></figcaption></figure>
 
-### Refresh roles
+### Rollen vernieuwen
 
-The title is pretty clear, it allows you to refresh your roles if the bot didn't gave you a new role (yet).&#x20;
+De titel is vrij duidelijk, je kunt hiermee je rollen vernieuwen als de bot je (nog) geen nieuwe rol heeft gegeven.&#x20;
 
-### To-Do List
+### Takenlijst
 
-Shows what you have to do today on all your accounts. This includes Legends hits, Raids hits, Clan Games points, Season Pass points, Capital donations and Inactivity.
+Toont wat u vandaag moet doen op al uw rekeningen. Dit omvat Legends-hits, Raids-hits, Clan Games-punten, Season Pass-punten, Kapitaaldonaties en Inactiviteit.
 
 <figure><img src="/img/gitbook/image (86).png" alt="" /><figcaption></figcaption></figure>
 
-### Roster
+### Rooster
 
-Shows all the rosters your accounts are currently in.
+Toont alle roosters waarin uw accounts zich momenteel bevinden.
 
 <figure><img src="/img/gitbook/image (87).png" alt="" /><figcaption></figcaption></figure>
 
-## Once your done
+## Zodra je klaar bent
 
-Once you selected the buttons, if you didn't set `on_welcome_channel`, the embed will automatically be sent to the channel you run the command.
+Nadat u de knoppen heeft geselecteerd en u `on_welcome_channel` niet hebt ingesteld, wordt de insluiting automatisch verzonden naar het kanaal waarop u de opdracht uitvoert.
 
 <figure><img src="/img/gitbook/image (4) (1).png" alt="" width="563" /><figcaption></figcaption></figure>

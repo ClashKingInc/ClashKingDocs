@@ -1,81 +1,77 @@
 ---
 description: There are currently 5 reminder types
 ---
+# 📳 Rappels
 
-# 📳 Reminders
+## Le but
 
-## The goal
-
-Remind your clanmates about the tasks they need to complete in game!
-
+Rappelez à vos membres de clan les tâches qu'ils doivent accomplir dans le jeu !
 :::info
-If you are curious what these reminders look like, they are all on demo in the [support server.](https://discord.gg/clashking) You can also click on the name of the log type to be redirected to an example.
+Si vous êtes curieux de savoir à quoi ressemblent ces rappels, ils sont tous en démo dans le [support server.](https://discord.gg/clashking). Vous pouvez également cliquer sur le nom du type de journal pour être redirigé vers un exemple.
 :::
 
-## The commands
+## Les commandes
 
-To create new reminders, you must use the `/reminders create` command.
+Pour créer de nouveaux rappels, vous devez utiliser la commande `/reminders create`.
 
 <figure><img src="/img/gitbook/image (113).png" alt="" /><figcaption></figcaption></figure>
 
-You can also use :&#x20;
+Vous pouvez également utiliser :&#x20;
 
-* `/reminders list` to see the reminders you already set.
-* `/reminders edit` to modify or delete a reminder you already created.
-* `/reminders manual` to ping your clan mate right now!
+* `/reminders list` pour voir les rappels que vous avez déjà définis.
+* `/reminders edit` pour modifier ou supprimer un rappel que vous avez déjà créé.
+* `/reminders manual` pour envoyer un ping à votre partenaire de clan dès maintenant !
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `type:` choose between war & CWL, Clan Capital, Inactivity, Clan Games and Roster.
-* `time_left`: time remaining before pinging your clan mates. Use commas to enter multiple times.
+* `type:` choisissez entre guerre et CWL, Clan Capital, Inactivité, Clan Games et Roster.
+* `time_left` : temps restant avant d'envoyer un ping à vos camarades de clan. Utilisez des virgules pour saisir plusieurs fois.
 
-### Optional
+### Facultatif
 
-`channel:` The channel you want the ping to be sent to.If you don't set a channel, the ping will be sent in the channel the command was run in.
+`channel:` Le canal auquel vous souhaitez que le ping soit envoyé. Si vous ne définissez pas de canal, le ping sera envoyé dans le canal dans lequel la commande a été exécutée.
 
-## Reminders types
+## Types de rappels
 
-On this section we will explain the different reminders types.
+Dans cette section, nous expliquerons les différents types de rappels.
 
 :::danger
-For now only the war & CWL reminders are working. Other reminders will be reactivated soon. Stay tuned!
+Pour l'instant seuls les rappels de guerre et CWL fonctionnent. D'autres rappels seront réactivés prochainement. Restez à l'écoute!
 :::
 
-#### War & CWL
+#### Guerre et CWL
 
-Ping users that have remaining attacks X hours before the end of the war (48h max). A Gif can also be used!
-
+Pingez les utilisateurs qui ont des attaques restantes X heures avant la fin de la guerre (48h max). Un Gif peut également être utilisé !
 :::info
-Your war log should be set to 'public' in game, otherwise you won't get a reminder
+Votre journal de guerre doit être défini sur « public » dans le jeu, sinon vous ne recevrez pas de rappel.
 :::
 
 <figure><img src="/img/gitbook/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
 
-#### **Use cases :**&#x20;
+#### **Cas d'utilisation :**&#x20;
 
-* Remind them during prep days to fill clan castles,&#x20;
-* Inform them that the war started,
-* Remind them to attack when there's only a few hour left.
-
+* Rappelez-leur pendant les jours de préparation de remplir les châteaux du clan,&#x20;
+* Informez-les que la guerre a commencé,
+* Rappelez-leur d'attaquer quand il ne reste que quelques heures.
 :::warning
-The reminder types below are currently not working
+Les types de rappel ci-dessous ne fonctionnent actuellement pas
 :::
 
-### Clan capital
+### Capitale du clan
 
-Remind people to use their raids attacks if not done yet.
+Rappelez aux gens d'utiliser leurs attaques de raids s'ils ne l'ont pas encore fait.
 
-### Inactivity
+### Inactivité
 
-Ping people who has been inactive for X days.
+Pingez aux personnes inactives depuis X jours.
 
-### Clan Games
+### Jeux de clans
 
-Remind people to participate to the clan game if they are under a certain amount of points.
+Rappelez aux gens de participer au jeu de clan s’ils ont moins d’un certain nombre de points.
 
-### Roster
+### Liste
 
-Ping people when a roster is about to end (see [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
+Envoyez un ping aux personnes lorsqu'une liste est sur le point de se terminer (voir [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
 

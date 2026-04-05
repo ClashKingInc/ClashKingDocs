@@ -1,42 +1,41 @@
-# 🤓 Auto-refresh
+# 🤓 Actualisation automatique
 
-## The goal
+## Le but
 
-Automatically refresh roles and nickname when the status of a user changes in game.
+Actualisez automatiquement les rôles et le surnom lorsque le statut d'un utilisateur change dans le jeu.
 
-## The commands
+## Les commandes
 
-`/autorefresh triggers` allows you to choose in which scenario the refresh will happen
+`/autorefresh triggers` vous permet de choisir dans quel scénario le rafraîchissement aura lieu
 
 <figure><img src="/img/gitbook/image (94).png" alt="" /><figcaption></figcaption></figure>
 
-`/autorefresh option` allows you to choose what will be refreshed when a trigger is activated.
+`/autorefresh option` permet de choisir ce qui sera rafraîchi lorsqu'un déclencheur est activé.
 
 <figure><img src="/img/gitbook/image (116).png" alt="" /><figcaption></figcaption></figure>
-
 :::info
-If you want to refresh manually, please use `/refresh`
+Si vous souhaitez actualiser manuellement, veuillez utiliser `/refresh`
 :::
 
-## Autorefresh Trigger&#x20;
+## Déclencheur d'actualisation automatique&#x20;
 
-### Parameters
+### Paramètres
 
-No parameters needed.
+Aucun paramètre requis.
 
-### Trigger types
+### Types de déclencheurs
 
-* Member Join
-* Member Leave
-* TownHall Change
-* League Change
-* Role Change
+* Rejoindre un membre
+* Congé des membres
+* Changement de mairie
+* Changement de ligue
+* Changement de rôle
 
-## Autorefresh options
+## Options d'actualisation automatique
 
-* `state` : set autorefresh to ON/OFF
-* `role_treatment` : It will add and/or remove a role depending on the role you set up in [Roles (TH & More)](roles-th-and-more/README.md).
-* `nickname_change` : It will change the nickname depending on the nicknames you set in [Set up a server](../server-setups/setup-a-server.md).
-* `blacklist_role_add` : A person with a blacklisted role will not be impacted by autorefresh (they'll keep their roles and nicknames)
-* `blacklist_role_remove` : You can remove a role that has been setup in `blacklist_role_add`.
-* `change_log` : If you want to see the changes the bot makes, you can set a channel where it will send logs of its activities.
+* `state` : définir l'actualisation automatique sur ON/OFF
+* `role_treatment` : Il ajoutera et /or supprimera un rôle en fonction du rôle que vous avez défini dans [Roles (TH & More)](roles-th-and-more/README.md).
+* `nickname_change` : Cela changera le surnom en fonction des surnoms que vous avez définis dans [Set up a server](../server-setups/setup-a-server.md).
+* `blacklist_role_add` : Une personne ayant un rôle sur liste noire ne sera pas impactée par l'autorefresh (elle conservera ses rôles et pseudos)
+* `blacklist_role_remove` : Vous pouvez supprimer un rôle qui a été configuré dans `blacklist_role_add`.
+* `change_log` : Si vous souhaitez voir les modifications apportées par le bot, vous pouvez définir un canal sur lequel il enverra les journaux de ses activités.

@@ -1,16 +1,16 @@
-# ⚒️ Builder Hall Roles
+# ⚒️ Rollen van bouwershallen
 
-## The goal
+## Het doel
 
-Gives a specific role to users depending on their builderhall level.
+Geeft een specifieke rol aan gebruikers, afhankelijk van hun bouwerniveau.
 
 <figure><img src="/img/gitbook/image (120).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## Het commando
 
-For that, you must use the `/roles builderhall` command.
+Daarvoor moet u de opdracht `/roles builderhall` gebruiken.
 
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Voordat u die opdracht uitvoert, moet u de rollen aanmaken die u wilt instellen in de instellingen van uw Discord-server.
 :::
 

@@ -1,44 +1,42 @@
-# ⚙️ Setup a server
-
+# ⚙️ Configurer un serveur
 :::warning
-You need to turn on `/autorefresh options {state}` to let the bot run correctly.
+Vous devez activer `/autorefresh options {state}` pour permettre au bot de fonctionner correctement.
 
-If the bot do not update content correctly, please check that the state is turned on.
+Si le bot ne met pas à jour le contenu correctement, veuillez vérifier que l'état est activé.
 :::
 
-## The goal
+## Le but
 
-This command will allow you to set the basis on how the bot will behave on your server.
+Cette commande vous permettra de définir les bases du comportement du bot sur votre serveur.
 
-## The command
+## La commande
 
 `/setup server`
 
 <figure><img src="/img/gitbook/image (128).png" alt="" /><figcaption></figcaption></figure>
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-No required parameters.
+Aucun paramètre requis.
 
-### Optional
+### Facultatif
 
-* `ban_log_channel`: When you ban someone with the `/ban` command (see [bans.md](../clans-management/bans.md "mention")), it will automatically send a message in the channel you choose.
-* `strike_log_channel`: As for the ban command, when you want to add a strike to someone with the `/strike` command (see [strikes](../clans-management/strikes/ "mention")), it will automatically send a message in the channel you choose.
-* `change_nicknames`: By choosing yes or no, you allow or not the bot to manage the nicknames of your clan members. You can set the nicknames with `family_nickname_convention` and `non family_nickname_convention.`
-* `family_nickname_convention`: If you allowed the bot to change the nickname of the members of you server , you can choose how the members of your clans family will be renamed.
-* `non_family_nickname_convention`:  This is the same thing that `family_nickname_convetion` but for members of your server that are not in one of your clans.
-
+* `ban_log_channel` : Lorsque vous bannissez quelqu'un avec la commande `/ban` (voir [bans.md](../clans-management/bans.md "mention")), il enverra automatiquement un message dans le canal que vous choisissez.
+* `strike_log_channel` : Quant à la commande de bannissement, lorsque vous souhaitez ajouter un avertissement à quelqu'un avec la commande `/strike` (voir [strikes](../clans-management/strikes/ "mention")), elle enverra automatiquement un message dans le canal que vous choisissez.
+* `change_nicknames` : En choisissant oui ou non, vous autorisez ou non le bot à gérer les pseudos des membres de votre clan. Vous pouvez définir les surnoms avec `family_nickname_convention` et `non family_nickname_convention.`
+* `family_nickname_convention` : Si vous avez autorisé le bot à changer le pseudo des membres de votre serveur, vous pouvez choisir comment les membres de votre famille de clans seront renommés.
+* `non_family_nickname_convention` : C'est la même chose que `family_nickname_convetion` mais pour les membres de votre serveur qui ne font pas partie d'un de vos clans.
 :::info
-**Nickname Conventions**
+**Conventions sur les surnoms**
 
 * `{discord_name}`
 * `{discord_display_name}`
 * `{player_name}`
 * `{player_tag}`
 * `{player_townhall}`
-* `{player_townhall_small}` (this is a superscript like ¹⁶)
+* `{player_townhall_small}` (c'est un exposant comme ¹⁶)
 * `{player_warstars}`
 * `{player_role}`
 * `{player_clan}`
@@ -46,9 +44,9 @@ No required parameters.
 * `{player_clan_abbreviation}`
 :::
 
-* `flair_non_family` : You can choose whether or not to give “flair” roles (townhall, league, etc) to non family members.
-* `api_token`: Choose if player has to give an api\_token when they use the `/link command` ([link-players](../clan-setups/link-players/ "mention")).
-* `leadership_eval`: You can choose if leader and co-leader should be excluded from eval settings (see [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention") & [auto-refresh.md](../players-roles/auto-refresh.md "mention"))
-* `full_whitelist_role`: Give the right to the users having this special role to run every bot commands. Use it with caution : "With great power comes great responsibility".
-* `embed_color`:  Choose the colors of the embed sent by the bot.
-* `followed_reddit_accounts`: You can get log posts for comments by certain users on the recruitment subreddit. You ust have reddit feed setup (see [reddit-recruit-feed-english-speaking-only.md](reddit-recruit-feed-english-speaking-only.md "mention")) and can use a comma to add several accounts to follow.
+* `flair_non_family` : Vous pouvez choisir de donner ou non des rôles « flair » (mairie, ligue, etc) à des personnes non membres de la famille.
+* `api_token` : Choisissez si le joueur doit donner un api\_token lorsqu'il utilise le `/link command` ([link-players](../clan-setups/link-players/ "mention")).
+* `leadership_eval` : vous pouvez choisir si le leader et le co-leader doivent être exclus des paramètres d'évaluation (voir [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention") et [auto-refresh.md](../players-roles/auto-refresh.md "mention")).
+* `full_whitelist_role` : Donnez le droit aux utilisateurs ayant ce rôle spécial d'exécuter toutes les commandes du bot. Utilisez-le avec prudence : « Un grand pouvoir implique de grandes responsabilités ».
+* `embed_color` : Choisissez les couleurs de l'intégration envoyée par le bot.
+* `followed_reddit_accounts` : vous pouvez obtenir des articles de journal pour les commentaires de certains utilisateurs sur le subreddit de recrutement. Vous devez avoir configuré le flux Reddit (voir [reddit-recruit-feed-english-speaking-only.md](reddit-recruit-feed-english-speaking-only.md "mention")) et pouvez utiliser une virgule pour ajouter plusieurs comptes à suivre.

@@ -1,21 +1,20 @@
 ---
 hidden: true
 ---
+# 🤖 Aangepaste bot
 
-# 🤖 Custom bot
+## Wat is een aangepaste bot?
 
-## What is a custom bot?
-
-A custom bot is a bot that functions like the ClashKing bot, but you can rename it and change its profile picture.
-
-
-
-## Who can get a custom bot?
-
-Anyone with a server that has more than 250 members and 2+ clans. If you don't meet those requirements, you can subscribe on our Discord server (starting at $2.99 a month), which will unlock the custom bot for you, regardless of your server's member count and clans.
+Een aangepaste bot is een bot die functioneert als de ClashKing-bot, maar u kunt de naam ervan wijzigen en de profielfoto wijzigen.
 
 
 
-## **How do I set it up?**
+## Wie kan een aangepaste bot krijgen?
 
-Follow the step in [developer-portal.md](developer-portal.md "mention"). If you have any problems during the setup, please contact us on [Discord](https://invite.clashk.ing/).
+Iedereen met een server met meer dan 250 leden en 2+ clans. Als u niet aan deze vereisten voldoet, kunt u zich abonneren op onze Discord-server (vanaf $ 2,99 per maand), waardoor de aangepaste bot voor u wordt ontgrendeld, ongeacht het aantal leden en clans van uw server.
+
+
+
+## **Hoe stel ik het in?**
+
+Volg de stap in [developer-portal.md](developer-portal.md "mention"). Als u problemen ondervindt tijdens de installatie, neem dan contact met ons op via [Discord](https://invite.clashk.ing/).

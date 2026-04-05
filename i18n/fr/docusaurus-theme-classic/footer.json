@@ -1,26 +1,26 @@
 {
   "link.title.Docs": {
-    "message": "Docs",
+    "message": "Documents",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "Communauté",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Plus",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Quick Start": {
-    "message": "Quick Start",
+    "message": "Démarrage rapide",
     "description": "The label of footer link with label=Quick Start linking to /quick-start"
   },
   "link.item.label.Discord": {
-    "message": "Discord",
+    "message": "Discorde",
     "description": "The label of footer link with label=Discord linking to https://discord.com/invite/clashking"
   },
   "link.item.label.Mobile App": {
-    "message": "Mobile App",
+    "message": "Application mobile",
     "description": "The label of footer link with label=Mobile App linking to /get-the-mobile-app"
   },
   "link.item.label.GitHub": {
@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/ClashKingInc/ClashKingDocs"
   },
   "copyright": {
-    "message": "Copyright © 2026 ClashKing. Built with Docusaurus.",
+    "message": "Copyright © 2026 ClashKing. Construit avec Docusaurus.",
     "description": "The footer copyright"
   }
 }

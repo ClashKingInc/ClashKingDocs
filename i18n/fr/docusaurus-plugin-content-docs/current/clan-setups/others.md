@@ -1,19 +1,19 @@
-# ℹ️ Others
+# ℹ️ Autres
 
-## Members threshold warning
+## Avertissement concernant le seuil de membres
 
-If you want to be warned when the number of members in the clan reaches a threshold, either above or below a specified number, you can use the `/setup member count warning {clan} {below} {above} {channel}` command.
+Si vous souhaitez être averti lorsque le nombre de membres du clan atteint un seuil, supérieur ou inférieur à un nombre spécifié, vous pouvez utiliser la commande `/setup member count warning {clan} {below} {above} {channel}`.
 
-## Show linked player
+## Afficher le joueur lié
 
-Use `/discord-links {clan}` to display a list of members of a clan with their discord username.
+Utilisez `/discord-links {clan}` pour afficher une liste des membres d'un clan avec leur nom d'utilisateur Discord.
 
 <figure><img src="/img/gitbook/image (91).png" alt="" /><figcaption><p>Shows which Coc player corrspond to which Discord user</p></figcaption></figure>
 
-You can use [/players account](#user-content-fn-1)[^1] to see all the clash of clans accounts linked to a discord user.&#x20;
+Vous pouvez utiliser [/players account](#user-content-fn-1)[^1] pour voir tous les comptes Clash of Clans liés à un utilisateur Discord.&#x20;
 
 
 
 
 
-[^1]: 
+[^1] :

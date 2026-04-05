@@ -3,66 +3,61 @@ description: >-
   This guide goals is to be shared with your clan members so they can understand
   how they can sign up on a roster
 ---
+# 🙋‍♀️ Inscription sur une liste
 
-# 🙋‍♀️ Signing up on a roster
-
-Your clan leaders dropped a roster sign up pannel? It's time to sign up!
+Vos chefs de clan ont lancé un panel d'inscription sur la liste ? Il est temps de vous inscrire !
 
 <figure><img src="/img/gitbook/image (33).png" alt="" /><figcaption></figcaption></figure>
 
-On the pannel, you'll see :&#x20;
+Sur le panneau, vous verrez :&#x20;
 
-* The name of the roster,&#x20;
-* The start date of the event or the registration deadline,&#x20;
-* The different groups available,&#x20;
-* The town hall level requirements,
-* The number of player that can register.
+* Le nom de la liste,&#x20;
+* La date de début de l'événement ou la date limite d'inscription,&#x20;
+* Les différents groupes disponibles,&#x20;
+* Les exigences au niveau de la mairie,
+* Le nombre de joueurs pouvant s'inscrire.
 
-Let's learn how to interact with this pannel!
+Apprenons à interagir avec ce panneau !
 
-## Sign up
+## S'inscrire
 
-To sign up, you firstly need to touch the "Join" button.
+Pour vous inscrire, vous devez d'abord appuyer sur le bouton "Rejoindre".
 
-Once you clicked on it, ClashKing Bot will send a message **on the bottom** of the channel, which will allow you to choose one or several account to add.&#x20;
-
+Une fois que vous aurez cliqué dessus, ClashKing Bot enverra un message **en bas** de la chaîne, qui vous permettra de choisir un ou plusieurs comptes à ajouter.&#x20;
 :::info
-Only the accounts that fit the requirements of the roster will be shown in the list. Those requirements are set by your clan leaders and are visible at the bottom of the roster.<img src="/img/gitbook/image (31).png" alt="" data-size="original" />
+Seuls les comptes répondant aux exigences de la liste seront affichés dans la liste. Ces exigences sont définies par les chefs de votre clan et sont visibles au bas de la liste.<img src="/img/gitbook/image (31).png" alt="" data-size="original" />
 :::
 
 <figure><img src="/img/gitbook/image (26).png" alt="" /><figcaption></figcaption></figure>
 
-You can also choose a group you want to sign up in. For example, you could have a "Main Group" and a "Sub group". Except for "Main Group", all those groups are created by your clan leaders, so feel free to ask them about those groups.
+Vous pouvez également choisir un groupe auquel vous souhaitez vous inscrire. Par exemple, vous pouvez avoir un « Groupe principal » et un « Sous-groupe ». À l'exception du "Groupe principal", tous ces groupes sont créés par les chefs de votre clan, alors n'hésitez pas à leur poser des questions sur ces groupes.
 
-Once you click on submit, you must have a confirmation message.
+Une fois que vous avez cliqué sur soumettre, vous devez avoir un message de confirmation.
 
 <figure><img src="/img/gitbook/image (28).png" alt="" /><figcaption></figcaption></figure>
-
 :::info
-Once you registered, your name MUST appear on the roster list. If it doesn't, use the refresh (🔄) button. If it still doesn't, then try register again, or ask your clan staff for help.
+Une fois inscrit, votre nom DOIT apparaître sur la liste des joueurs. Si ce n'est pas le cas, utilisez le bouton Actualiser (🔄). Si ce n'est toujours pas le cas, essayez de vous inscrire à nouveau ou demandez de l'aide au personnel de votre clan.
 :::
-
 :::warning
-You can be registered on several rosters at the same time, so be careful not to register for two events that happen at the same time!
+Vous pouvez être inscrit sur plusieurs rosters en même temps, alors attention à ne pas vous inscrire à deux événements qui se déroulent en même temps !
 :::
 
-## Unregister
+## Se désinscrire
 
-You changed your mind and don't want to participate? You can easily unregister your account with the "Remove" button.
+Vous avez changé d'avis et ne souhaitez pas participer ? Vous pouvez facilement désenregistrer votre compte avec le bouton "Supprimer".
 
 <figure><img src="/img/gitbook/image (29).png" alt="" /><figcaption></figcaption></figure>
 
-Once you selected the account, you'll have a confirmation message.
+Une fois le compte sélectionné, vous recevrez un message de confirmation.
 
 <figure><img src="/img/gitbook/image (30).png" alt="" /><figcaption></figcaption></figure>
-
 :::info
-Once you unregistered, your name MUST disappear from the roster list. If it doesn't, use the refresh (🔄) button. If it still doesn't, then try again, or ask your clan staff for help.
+Une fois que vous vous êtes désinscrit, votre nom DOIT disparaître de la liste des membres. Si ce n'est pas le cas, utilisez le bouton Actualiser (🔄). Si ce n'est toujours pas le cas, réessayez ou demandez de l'aide au personnel de votre clan.
 :::
 
-## Join the clan
+## Rejoignez le clan
 
-It's time for you to join the clan for the event! Just click on the "Open clan" button, it will lead you to the clan description in game and you'll just have to join
+Il est temps pour vous de rejoindre le clan pour l'événement ! Cliquez simplement sur le bouton "Ouvrir le clan", cela vous mènera à la description du clan en jeu et vous n'aurez plus qu'à le rejoindre
 
 
 

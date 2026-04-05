@@ -1,34 +1,33 @@
 ---
 description: Command to show general legend statistics.
 ---
+# Legends-statistieken
 
-# Legends stats
-
-## The command
+## Het commando
 
 `/legends stats {type}`
 
-## The parameter
+## De parameter
 
-* `type:` has 4 different options:&#x20;
-  * Rank Cutoff
-  * Triple Streaks, with an option to `{limit}` the number of results between 1-50
-  * Trophy Buckets
-  * EOS Finishers
+* `type:` heeft 4 verschillende opties:&#x20;
+  * Ranglimiet
+  * Triple Streaks, met een optie voor `{limit}` het aantal resultaten tussen 1-50
+  * Trofee-emmers
+  * EOS-afwerkeenheden
 
-## Explanation
+## Uitleg
 
-This shows basic stats about the legend league:
+Dit toont basisstatistieken over de Legend League:
 
 ![](</img/gitbook/image (69).png>)
 
-The available stat types are:
+De beschikbare statistische typen zijn:
 
 <details>
 
-<summary>Rank Cutoff</summary>
+<summary>Ranggrens</summary>
 
-The number of trophies held by player #.
+Het aantal trofeeën in handen van speler #.
 
 ![](/img/gitbook/image.png)
 
@@ -36,9 +35,9 @@ The number of trophies held by player #.
 
 <details>
 
-<summary>Triple streaks</summary>
+<summary>Drievoudige strepen</summary>
 
-Displays legendary players with the highest triple-star streak. Optionally, you can limit the results using the `{limit}` parameter (a number between 1-50).
+Toont legendarische spelers met de hoogste triple-star streak. Optioneel kunt u de resultaten beperken met behulp van de parameter `{limit}` (een getal tussen 1-50).
 
 ![](</img/gitbook/image (3).png>)
 
@@ -46,9 +45,9 @@ Displays legendary players with the highest triple-star streak. Optionally, you 
 
 <details>
 
-<summary>Trophy Buckets</summary>
+<summary>Trofeemmers</summary>
 
-The current trophy buckets: how the players are divided within the legend league.&#x20;
+De huidige trofee-emmers: hoe de spelers zijn verdeeld binnen de Legend League.&#x20;
 
 ![](</img/gitbook/image (72).png>)
 
@@ -56,9 +55,9 @@ The current trophy buckets: how the players are divided within the legend league
 
 <details>
 
-<summary>EOS Finishers</summary>
+<summary>EOS-afwerkeenheden</summary>
 
-Top player with the most trophies each season (data from May 2020 onwards).
+Topspeler met de meeste trofeeën per seizoen (gegevens vanaf mei 2020).
 
 ![](</img/gitbook/image (73).png>)
 

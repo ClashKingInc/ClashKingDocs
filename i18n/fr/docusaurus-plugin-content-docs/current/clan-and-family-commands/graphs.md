@@ -1,15 +1,14 @@
-# 📈 Graphs
-
+# 📈 Graphiques
 :::info
-Graphs will be reworked soon.
+Les graphiques seront retravaillés prochainement.
 :::
 
-If you want to have graphical representation of the results of the commands in [clan-commands.md](clan-commands.md "mention") and [family-commands.md](family-commands.md "mention"), you can use the `/graph` commands
+Si vous souhaitez avoir une représentation graphique des résultats des commandes dans [clan-commands.md](clan-commands.md "mention") et [family-commands.md](family-commands.md "mention"), vous pouvez utiliser les commandes `/graph`
 
-**You have the choice between :**&#x20;
+**Vous avez le choix entre :**&#x20;
 
-* `/graph daily` : Loot, Upgrades, Activity, Roles, Names, League, Exp Level, Defenses Wins, Caln Capital Contribution, Clan, War Preference & Best trophies
-* /`graph over-time` : Activity, Clan Games, Attack Wins, Donations, Received, CWL Leagues, Capital Leagues & Capital Trophies
-* `/graph month` : Compare clans to a daily attribute .
+* `/graph daily` : butin, améliorations, activité, rôles, noms, ligue, niveau d'expérience, victoires en défense, contribution au capital Caln, clan, préférence de guerre et meilleurs trophées
+* /ZXQPH2QXZ : Activité, Jeux de Clan, Victoires d'Attaques, Dons, Reçus, Ligues CWL, Ligues de la Capitale et Trophées de la Capitale
+* `/graph month` : Comparez les clans à un attribut quotidien.
 
 <figure><img src="/img/gitbook/image (95).png" alt="" /><figcaption></figcaption></figure>

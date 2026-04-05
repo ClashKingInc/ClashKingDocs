@@ -1,12 +1,12 @@
-# 🏛️ Clan Commands
+# 🏛️ Commandes de clan
 
-The are a selection of commands to view a clan giving different statistics and data, you wont remember them all but the ones you'll need will stick with you.&#x20;
+Il s'agit d'une sélection de commandes permettant d'afficher un clan donnant différentes statistiques et données. Vous ne vous en souviendrez pas toutes, mais celles dont vous aurez besoin resteront avec vous.
 
 <details>
 
-<summary><code>/clan activity `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary><code>Activité /clan `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
-Shows a leaderboard of players activity with last seen date and a graph with additions of all the players activity. The graphs will be reworked soon.
+Affiche un classement de l'activité des joueurs avec la date de la dernière vue et un graphique avec les ajouts de toutes les activités des joueurs. Les graphiques seront retravaillés prochainement.
 
 ![](</img/gitbook/image (32) (1).png>)
 
@@ -14,9 +14,9 @@ Shows a leaderboard of players activity with last seen date and a graph with add
 
 <details>
 
-<summary><code>/clan capital `{clan}` `{weekend}`</code></summary>
+<summary><code>/clan majuscule `{clan}` `{weekend}`</code></summary>
 
-Show a complete overview of the last raid weekend .
+Afficher un aperçu complet du dernier week-end de raid.
 
 ![](</img/gitbook/image (36) (1).png>)![](</img/gitbook/image (37) (1).png>)
 
@@ -26,31 +26,31 @@ Show a complete overview of the last raid weekend .
 
 <details>
 
-<summary><code>/clan compo `{clan}` `{type}`</code></summary>
+<summary><code>Compo /clan `{clan}` `{type}`</code></summary>
 
 
 
-This command can show stats about the members of a clan :&#x20;
+Cette commande peut afficher des statistiques sur les membres d'un clan :&#x20;
 
 ![](</img/gitbook/image (22) (1).png>)
 
-* By townhalls
+* Par les mairies
 
 ![](</img/gitbook/image (23) (1).png>)
 
-* By trophies&#x20;
+* Par trophées&#x20;
 
 ![](</img/gitbook/image (25) (1).png>)
 
-* By country (if set in user profile)
+* Par pays (si défini dans le profil utilisateur)
 
 ![](</img/gitbook/image (26) (1).png>)
 
-* By roles
+* Par rôles
 
 ![](</img/gitbook/image (27) (1).png>)
 
-* By league
+* Par ligue
 
 ![](</img/gitbook/image (28) (1).png>)\
 
@@ -59,7 +59,7 @@ This command can show stats about the members of a clan :&#x20;
 
 <details>
 
-<summary><code>/clan donations `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary><code>Dons /clan `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
 ![](</img/gitbook/image (21) (1).png>)
 
@@ -67,18 +67,18 @@ This command can show stats about the members of a clan :&#x20;
 
 <details>
 
-<summary><code>/clan games `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary><code>Jeux /clan `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
 
-Show the number of clan games points done by members during a given season.\
+Afficher le nombre de points de jeux de clan réalisés par les membres au cours d'une saison donnée.\
 ![](</img/gitbook/image (39) (1).png>)
 
 </details>
 
 <details>
 
-<summary><code>/clan overview `{type}`</code></summary>
+<summary><code>Présentation de /clan `{type}`</code></summary>
 
-Show a complete overview of a clan.
+Afficher un aperçu complet d'un clan.
 
 ![](</img/gitbook/image (38) (1).png>)
 
@@ -86,13 +86,13 @@ Show a complete overview of a clan.
 
 <details>
 
-<summary><code>/clan progress `{clan}` `{type}`</code></summary>
+<summary><code>Progression de /clan `{clan}` `{type}`</code></summary>
 
-Shows progress for the current season or different when selected in `{season}`. Number of results can also be altered in `{limit} .`Below shows the different `{types}` .
+Affiche la progression pour la saison en cours ou différente lorsqu'elle est sélectionnée dans `{season}`. Le nombre de résultats peut également être modifié dans `{limit} .`. Ci-dessous montre les différents `{types}`.
 
-* Heroes & Pets\
+* Héros et animaux de compagnie
   ![](</img/gitbook/Screenshot 2023-09-12 at 12.39.33.png>)
-* Troops, Spells, & Sieges\
+* Troupes, sorts et sièges\
   ![](</img/gitbook/Screenshot 2023-09-12 at 12.39.02.png>)\
 
 
@@ -100,13 +100,13 @@ Shows progress for the current season or different when selected in `{season}`. 
 
 <details>
 
-<summary><code>/clan sorted `{clan}` `{sort_by}`</code></summary>
+<summary><code>/clan trié `{clan}` `{sort_by}`</code></summary>
 
-Show members of a clan sorted by a specific attribute. There is too many so I'll let you discover it in your server directly !
+Afficher les membres d'un clan triés selon un attribut spécifique. Il y en a trop donc je vous laisse le découvrir directement sur votre serveur !
 
 ![](</img/gitbook/image (29) (1).png>)
 
-Example for members sorted by attacks won :&#x20;
+Exemple pour les membres triés par attaques gagnées :&#x20;
 
 ![](</img/gitbook/image (30) (1).png>)
 
@@ -114,9 +114,9 @@ Example for members sorted by attacks won :&#x20;
 
 <details>
 
-<summary><code>/clan summary `{clan}` `{season}` `{limit}`</code></summary>
+<summary><code>Résumé /clan `{clan}` `{season}` `{limit}`</code></summary>
 
-Shows a leaderboard of the clan best players for loot, activity, trophies, donations, raids and war stars.
+Affiche un classement des meilleurs joueurs du clan pour le butin, l'activité, les trophées, les dons, les raids et les étoiles de guerre.
 
 ![](</img/gitbook/image (33) (1).png>)
 
@@ -124,9 +124,9 @@ Shows a leaderboard of the clan best players for loot, activity, trophies, donat
 
 <details>
 
-<summary><code>/clan war-log `{clan}` `{option}` `{limit}`</code></summary>
+<summary><code>Journal de guerre /clan `{clan}` `{option}` `{limit}`</code></summary>
 
-Show the results of the last wars :
+Montrez les résultats des dernières guerres :
 
 ![](</img/gitbook/image (34) (1).png>)
 
@@ -134,11 +134,11 @@ Show the results of the last wars :
 
 <details>
 
-<summary><code>/clan war-preference `{clan}` `{option}`</code></summary>
+<summary><code>/clan préférence de guerre `{clan}` `{option}`</code></summary>
 
-Show current war preferences for each members.\
+Afficher les préférences de guerre actuelles pour chaque membre.\
 ![](</img/gitbook/image (40) (1).png>)
 
-`{option}` allows you to see when was the last time a member participated in a war and when did they change their war status for the last time.
+`{option}` vous permet de voir à quand remonte la dernière fois qu'un membre a participé à une guerre et quand a-t-il changé son statut de guerre pour la dernière fois.
 
 </details>

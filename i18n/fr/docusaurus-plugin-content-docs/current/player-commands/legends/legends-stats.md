@@ -1,34 +1,33 @@
 ---
 description: Command to show general legend statistics.
 ---
+# Statistiques des légendes
 
-# Legends stats
-
-## The command
+## La commande
 
 `/legends stats {type}`
 
-## The parameter
+## Le paramètre
 
-* `type:` has 4 different options:&#x20;
-  * Rank Cutoff
-  * Triple Streaks, with an option to `{limit}` the number of results between 1-50
-  * Trophy Buckets
-  * EOS Finishers
+* `type:` propose 4 options différentes :&#x20;
+  * Seuil de classement
+  * Triple Streaks, avec une option pour `{limit}` le nombre de résultats entre 1 et 50
+  * Seaux de trophées
+  * Finisseurs EOS
 
-## Explanation
+## Explication
 
-This shows basic stats about the legend league:
+Cela montre les statistiques de base sur la ligue des légendes :
 
 ![](</img/gitbook/image (69).png>)
 
-The available stat types are:
+Les types de statistiques disponibles sont :
 
 <details>
 
-<summary>Rank Cutoff</summary>
+<summary>Seuil de classement</summary>
 
-The number of trophies held by player #.
+Le nombre de trophées détenus par le joueur #.
 
 ![](/img/gitbook/image.png)
 
@@ -36,9 +35,9 @@ The number of trophies held by player #.
 
 <details>
 
-<summary>Triple streaks</summary>
+<summary>Triples séquences</summary>
 
-Displays legendary players with the highest triple-star streak. Optionally, you can limit the results using the `{limit}` parameter (a number between 1-50).
+Affiche les joueurs légendaires avec la séquence de triples étoiles la plus élevée. Vous pouvez éventuellement limiter les résultats à l'aide du paramètre `{limit}` (un nombre compris entre 1 et 50).
 
 ![](</img/gitbook/image (3).png>)
 
@@ -46,9 +45,9 @@ Displays legendary players with the highest triple-star streak. Optionally, you 
 
 <details>
 
-<summary>Trophy Buckets</summary>
+<summary>Seaux trophées</summary>
 
-The current trophy buckets: how the players are divided within the legend league.&#x20;
+Les trophées actuels : comment les joueurs sont répartis au sein de la ligue des légendes.&#x20;
 
 ![](</img/gitbook/image (72).png>)
 
@@ -56,9 +55,9 @@ The current trophy buckets: how the players are divided within the legend league
 
 <details>
 
-<summary>EOS Finishers</summary>
+<summary>Finisseurs EOS</summary>
 
-Top player with the most trophies each season (data from May 2020 onwards).
+Meilleur joueur avec le plus de trophées chaque saison (données à partir de mai 2020).
 
 ![](</img/gitbook/image (73).png>)
 

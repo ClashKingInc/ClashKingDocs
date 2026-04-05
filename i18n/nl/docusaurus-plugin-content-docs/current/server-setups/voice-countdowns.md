@@ -1,30 +1,30 @@
-# 🎙️ Voice Countdowns
+# 🎙️ Stemaftellingen
 
-## The goal
+## Het doel
 
-Ever wonder when the next clash event is? Your server members will be able to tell easily with voice countdowns! Best way to think of them are timers, by using discord voice channels.&#x20;
+Heb je je ooit afgevraagd wanneer het volgende clash-evenement is? Uw serverleden kunnen het gemakkelijk vertellen met stemaftellingen! De beste manier om hieraan te denken zijn timers, door gebruik te maken van discord-stemkanalen.
 
-## The command
+## Het commando
 
-They are easy to set up - just use `/setup countdowns` and choose the types you would like. There are 5 types, all pictured below.
+Ze zijn eenvoudig in te stellen: gebruik gewoon `/setup countdowns` en kies de gewenste typen. Er zijn 5 soorten, allemaal hieronder afgebeeld.
 
 <figure><img src="/img/gitbook/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
 
 <figure><img src="/img/gitbook/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
 
 :::info
-A couple of notes:
+Een paar opmerkingen:
 
-* The bot requires admin for this, due to the fact of creating and setting permissions for the _@everyone_ role.
-* They update every 10 minutes
-* If a pipe -> `|` is added anything before it will stay, like the added sword emoji in the CWL example above
+* Hiervoor heeft de bot beheerder nodig, vanwege het aanmaken en instellen van machtigingen voor de rol _@everyone_.
+* Ze worden elke 10 minuten bijgewerkt
+* Als een pijp -> `|` iets wordt toegevoegd voordat het blijft staan, zoals de toegevoegde zwaard-emoji in het CWL-voorbeeld hierboven
 :::
 
-### The parameters
+### De parameters
 
-### Optional
+### Optioneel
 
-`clan`: if you want to set specific countdowns for a clan (war score and timer)
+`clan`: als je specifieke countdowns voor een clan wilt instellen (oorlogsscore en timer)
 
 <figure><img src="/img/gitbook/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
 

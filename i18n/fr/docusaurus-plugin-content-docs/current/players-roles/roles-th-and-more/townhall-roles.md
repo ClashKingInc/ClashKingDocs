@@ -1,16 +1,15 @@
-# 🏠 TownHall Roles
+# 🏠 Rôles de la mairie
 
-## The goal
+## Le but
 
-Gives a specific role to users depending on their current Town Hall Level.
+Donne un rôle spécifique aux utilisateurs en fonction de leur niveau actuel de mairie.
 
 <figure><img src="/img/gitbook/image (124).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles townhall` command.
-
+Pour cela, vous devez utiliser la commande `/roles townhall`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 

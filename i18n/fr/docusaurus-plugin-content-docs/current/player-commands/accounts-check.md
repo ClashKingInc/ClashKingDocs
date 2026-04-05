@@ -1,7 +1,7 @@
-# 🙎‍♀️ Accounts check
+# 🙎‍♀️ Vérification des comptes
 
-To quickly check your owns or someone else's accounts, you can use the`/player accounts {discord_user}` command.
+Pour vérifier rapidement votre propre compte ou celui de quelqu'un d'autre, vous pouvez utiliser la commande `/player accounts {discord_user}`.
 
-You will seethe war preferences of each accounts, in which clan they are, which role they have and how many trophies they currently have.
+Vous verrez les préférences de guerre de chaque compte, dans quel clan ils appartiennent, quel rôle ils ont et combien de trophées ils possèdent actuellement.
 
 <figure><img src="/img/gitbook/image (97).png" alt="" /><figcaption></figcaption></figure>

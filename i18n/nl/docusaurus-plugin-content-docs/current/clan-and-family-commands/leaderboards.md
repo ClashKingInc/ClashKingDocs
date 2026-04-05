@@ -1,16 +1,15 @@
 # 📋 Leaderboards
 
-Leader boards have a few options, some of these are ingames ones that become viewable on discord and some are leadersboards within your family.
-
+Leaderboards hebben een paar opties, sommige hiervan zijn ingames die zichtbaar worden bij onenigheid en sommige zijn leaderboards binnen je familie.
 :::warning
-/leaderboard legends, /leaderboard players and /leaderboard images are currently down.
+/leaderboard-legendes, /leaderboard-spelers en /leaderboard-afbeeldingen zijn momenteel offline.
 :::
 
 <details>
 
-<summary><code>/leaderboard family `{limit}`</code></summary>
+<summary><code>/leaderboard familie `{limit}`</code></summary>
 
-Gives a leaderboard for everyone in the family trophies
+Geeft een klassement voor iedereen in de familietrofeeën
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.58.33.png>)
 
@@ -18,9 +17,9 @@ Gives a leaderboard for everyone in the family trophies
 
 <details>
 
-<summary><code>/leaderboard legends</code></summary>
+<summary><code>/leaderboard legenda's</code></summary>
 
-Shows a legend leaderboard for everyone in legends within your family. Can be filter ordered using the attached filters.
+Toont een legenda-klassement voor iedereen in legendes binnen uw gezin. Filters kunnen worden besteld met behulp van de bijgevoegde filters.
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.58.51.png>)
 
@@ -28,9 +27,9 @@ Shows a legend leaderboard for everyone in legends within your family. Can be fi
 
 <details>
 
-<summary><code>/leaderboard clans</code></summary>
+<summary><code>/leaderboard-clans</code></summary>
 
-Shows the ingame leaderboard for the selected country
+Toont het in-game klassement voor het geselecteerde land
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.59.00.png>)
 
@@ -38,9 +37,9 @@ Shows the ingame leaderboard for the selected country
 
 <details>
 
-<summary><code>/leaderboard capital</code></summary>
+<summary><code>/leaderboard kapitaal</code></summary>
 
-Shows the leaderboard for clan capital in the selected country.
+Toont het klassement voor clanhoofdstad in het geselecteerde land.
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.59.13.png>)
 
@@ -48,9 +47,9 @@ Shows the leaderboard for clan capital in the selected country.
 
 <details>
 
-<summary><code>/leaderboard players</code></summary>
+<summary><code>/leaderboard spelers</code></summary>
 
-Shows the player leaderboard from ingame in the selected country
+Toont het spelersklassement van ingame in het geselecteerde land
 
 ![](</img/gitbook/Screenshot 2023-10-02 at 20.59.30.png>)
 
@@ -58,9 +57,9 @@ Shows the player leaderboard from ingame in the selected country
 
 <details>
 
-<summary><code>/leaderboard image `{clan}` `{server}` `{limit}`</code></summary>
+<summary><code>/leaderboard afbeelding `{clan}` `{server}` `{limit}`</code></summary>
 
-Create a beautiful image with the results of the following options :
+Maak een mooie afbeelding met de resultaten van de volgende opties:
 
 ![](</img/gitbook/image (59).png>)
 

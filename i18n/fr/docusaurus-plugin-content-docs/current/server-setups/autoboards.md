@@ -1,67 +1,64 @@
-# 🏗️ Autoboards
-
+# 🏗️ Planches automatiques
 :::warning
-This feature is currently in **BETA**. We need to activate it on your server before you can use it. If you're interested in trying it out, you can request access in the **Discord** [**support**](https://discord.com/channels/923764211845312533/923786531876003850) **channel**. To activate it, we will need your **server ID** or **server name**.
+Cette fonctionnalité est actuellement en **BETA**. Nous devons l'activer sur votre serveur avant que vous puissiez l'utiliser. Si vous souhaitez l'essayer, vous pouvez demander l'accès sur la **chaîne** **Discord** [**support**](https://discord.com/channels/923764211845312533/923786531876003850). Pour l'activer, nous aurons besoin de votre **ID de serveur** ou de votre **nom de serveur**.
 :::
 
-## The goal
+## Le but
 
-Autoboards are commands that are automatically triggered at a specific time of the day or during an event of the season.
-
+Les autoboards sont des commandes qui se déclenchent automatiquement à un moment précis de la journée ou lors d'un événement de la saison.
 :::info
-Here are the currently available commands:
+Voici les commandes actuellement disponibles :
 
-* /legends clan
-* /clan search
-* /clan compo
-* /clan donations
-* /clan activity
-* /clan capital
-* /family clans
+*Clan /legends
+* Recherche /clan
+* Composition /clan
+*Dons /clan
+* Activité /clan
+* Capitale /clan
+*Clans /family
 
-More commands will be added in the future, so feel free to suggest new ones!
+D'autres commandes seront ajoutées à l'avenir, alors n'hésitez pas à en suggérer de nouvelles !
 :::
 
-### How to set it up
+### Comment le configurer
 
-1. First, run the command you want to automate. For example: `/legends clan`.
+1. Tout d’abord, exécutez la commande que vous souhaitez automatiser. Par exemple : `/legends clan`.
 
 <figure><img src="/img/gitbook/image (149).png" alt="" /><figcaption></figcaption></figure>
 
-2. Then, click on **...** > **More** on the message.
+2. Cliquez ensuite sur **...** > **Plus** sur le message.
 
 &#x20;
 
 <figure><img src="/img/gitbook/image (150).png" alt="" /><figcaption></figcaption></figure>
 
-3. Next, go to **Apps** > **Automation**.
+3. Ensuite, accédez à **Applications** > **Automation**.
 
 <figure><img src="/img/gitbook/image (151).png" alt="" /><figcaption></figcaption></figure>
 
 
 
-A settings message will appear:
+Un message de paramètres apparaîtra :
 
 <figure><img src="/img/gitbook/image (152).png" alt="" /><figcaption></figcaption></figure>
 
-#### Auto Post
+#### Publication automatique
 
-A message will be sent at the specific time you choose. You can select particular days of the week or trigger it during events like **End of Season**.
+Un message sera envoyé à l’heure précise que vous choisirez. Vous pouvez sélectionner des jours particuliers de la semaine ou le déclencher lors d'événements comme la **Fin de saison**.
 
 <figure><img src="/img/gitbook/image (154).png" alt="" /><figcaption></figcaption></figure>
 
-Once set, the command will automatically run in the channel where you configured the Autoboard at the scheduled time. For example, if you choose **End of Season**, the following message will automatically be sent at **5 AM UTC**:
+Une fois définie, la commande s'exécutera automatiquement dans le canal où vous avez configuré l'Autoboard à l'heure programmée. Par exemple, si vous choisissez **Fin de saison**, le message suivant sera automatiquement envoyé à **5 heures UTC** :
 
 <figure><img src="/img/gitbook/image (155).png" alt="" /><figcaption></figcaption></figure>
-
 :::warning
-There is currently no way to remove the Auto Post of autoboard with automation. A command will be added later. You can ask to remove an Auto Post automation in the discord support server.&#x20;
+Il n'existe actuellement aucun moyen de supprimer la publication automatique de l'autoboard avec automatisation. Une commande sera ajoutée ultérieurement. Vous pouvez demander la suppression d’une automatisation de publication automatique sur le serveur de support Discord.
 :::
 
 
 
-#### Auto Refresh
+#### Actualisation automatique
 
-An embed message will be sent and automatically refreshed every **30 to 60 minutes**. You’ll also see a timestamp at the bottom indicating when it was last updated.
+Un message intégré sera envoyé et automatiquement actualisé toutes les **30 à 60 minutes**. Vous verrez également un horodatage en bas indiquant la date de la dernière mise à jour.
 
 <figure><img src="/img/gitbook/image (153).png" alt="" /><figcaption></figcaption></figure>

@@ -1,8 +1,8 @@
-# 🆙 Boosted Super Troops
+# 🆙 Super Troupes Boostées
 
-`/boosts {clan} {super_troop}` allows you to see who has boosted which troops in a specific clan.
+`/boosts {clan} {super_troop}` vous permet de voir qui a boosté quelles troupes dans un clan spécifique.
 
-* `{clan}` lets you choose which clan you want to focus on.
-* `{super_troop}` gives you the opportunity to select which troop you want to focus on.
+* `{clan}` vous permet de choisir sur quel clan vous souhaitez vous concentrer.
+* `{super_troop}` vous donne la possibilité de sélectionner la troupe sur laquelle vous souhaitez vous concentrer.
 
 <figure><img src="/img/gitbook/image (80).png" alt="" /><figcaption></figcaption></figure>

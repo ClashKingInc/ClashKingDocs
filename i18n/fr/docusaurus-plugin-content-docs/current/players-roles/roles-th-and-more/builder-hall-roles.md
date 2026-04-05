@@ -1,16 +1,15 @@
-# ⚒️ Builder Hall Roles
+# ⚒️ Rôles du constructeur de salle
 
-## The goal
+## Le but
 
-Gives a specific role to users depending on their builderhall level.
+Donne un rôle spécifique aux utilisateurs en fonction de leur niveau de constructeur.
 
 <figure><img src="/img/gitbook/image (120).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles builderhall` command.
-
+Pour cela, vous devez utiliser la commande `/roles builderhall`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 

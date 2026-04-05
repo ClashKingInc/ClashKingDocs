@@ -1,80 +1,78 @@
-# 🔘 Buttons
+# 🔘 Boutons
 
-## The goal
+## Le but
 
-This command provides a way to add one or more buttons under an embeds. It can also allows you to send a specific embed when people join one of your clan, so you don't have to do it yourself ! There is currently 5 buttons available and you can select up to 4 buttons.
-
+Cette commande permet d'ajouter un ou plusieurs boutons sous une intégration. Il peut également vous permettre d'envoyer un embed spécifique lorsque des personnes rejoignent un de votre clan, vous n'avez donc pas à le faire vous-même ! Il y a actuellement 5 boutons disponibles et vous pouvez sélectionner jusqu'à 4 boutons.
 :::info
-If you don't know what is an embed and how to create one with ClashKing, check [embeds.md](embeds.md "mention")
+Si vous ne savez pas ce qu'est une intégration et comment en créer une avec ClashKing, consultez [embeds.md](embeds.md "mention")
 :::
 
-## The command
+## La commande
 
-The command is `/buttons`
+La commande est `/buttons`
 
 <figure><img src="/img/gitbook/image (5).png" alt="" /><figcaption></figcaption></figure>
-
 :::info
-Before running that command, you need to create an [embeds.md](embeds.md "mention")
+Avant d'exécuter cette commande, vous devez créer un [embeds.md](embeds.md "mention")
 :::
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-No parameters is required.
+Aucun paramètre n'est requis.
 
-### Optionnal
+### Facultatif
 
-* **embed :** Choose the [embeds.md](embeds.md "mention") you want to add buttons to. If you don't select an embed, an embed will be created depending on what buttons you chose.
+* **embed :** Choisissez le [embeds.md](embeds.md "mention") auquel vous souhaitez ajouter des boutons. Si vous ne sélectionnez pas d'intégration, une intégration sera créée en fonction des boutons que vous avez choisis.
 
 <figure><img src="/img/gitbook/image (1) (1).png" alt="" width="563" /><figcaption><p>Embed by default for Link account buttons</p></figcaption></figure>
 
-* **button\_color :** Choose between blue, green, grey and red. Default color is grey.
-* **on\_welcome\_channel :** you can choose a channel on which the embed (with buttons or not) will be sent to every time someone join your Discord server. Only one embed can be set, so if you set a new one, it will replace the current one.&#x20;
+* **button\_color :** Choisissez entre bleu, vert, gris et rouge. La couleur par défaut est le gris.
+* **on\_welcome\_channel :** vous pouvez choisir un canal sur lequel l'intégration (avec boutons ou non) sera envoyée à chaque fois que quelqu'un rejoindra votre serveur Discord. Une seule intégration peut être définie, donc si vous en définissez une nouvelle, elle remplacera l'actuelle.
 
 <figure><img src="/img/gitbook/image (2) (1).png" alt="" width="563" /><figcaption><p>Example of embeds sent every time a user join the discord server</p></figcaption></figure>
 
 :::danger
-For now there is no way to de activate the welcom message. If you want to remove it, create a new channel, set a welcom message on it, and delete the channel.
+Pour l'instant il n'y a aucun moyen de désactiver le message de bienvenue. Si vous souhaitez le supprimer, créez une nouvelle chaîne, définissez-y un message de bienvenue et supprimez la chaîne.
 :::
 
-## Buttons type
+## Types de boutons
 
-Once you sent the command, you will be able to choose up to 4 buttons between those 5.
+Une fois la commande envoyée, vous pourrez choisir jusqu'à 4 boutons parmi ces 5.
 
 <figure><img src="/img/gitbook/image (3) (1).png" alt="" /><figcaption></figcaption></figure>
 
-### Link Button
+### Bouton de lien
 
-This button allows you to link a CoC account to your discord account (see [link-players](../clan-setups/link-players/ "mention"))
+Ce bouton permet de lier un compte CoC à votre compte discord (voir [link-players](../clan-setups/link-players/ "mention"))
 
 <figure><img src="/img/gitbook/image (83).png" alt="" width="416" /><figcaption><p>Link account pop up</p></figcaption></figure>
 
-### Link help button
+### Bouton d'aide du lien
 
-This button displays a tutorial to show how to link a player and how to find the API token.
+Ce bouton affiche un didacticiel expliquant comment lier un lecteur et comment trouver le jeton API.
 
 <figure><img src="/img/gitbook/image (84).png" alt="" width="322" /><figcaption></figcaption></figure>
 
-### Refresh roles
+### Actualiser les rôles
 
-The title is pretty clear, it allows you to refresh your roles if the bot didn't gave you a new role (yet).&#x20;
+Le titre est assez clair, il vous permet de rafraîchir vos rôles si le bot ne vous a pas (encore) donné de nouveau rôle.
 
-### To-Do List
+### Liste de tâches
 
-Shows what you have to do today on all your accounts. This includes Legends hits, Raids hits, Clan Games points, Season Pass points, Capital donations and Inactivity.
+Montre ce que vous devez faire aujourd'hui sur tous vos comptes. Cela inclut les succès des Légendes, les succès des Raids, les points des Jeux de Clan, les points du Season Pass, les dons de capital et l'inactivité.
 
 <figure><img src="/img/gitbook/image (86).png" alt="" /><figcaption></figcaption></figure>
 
-### Roster
+### Liste
 
-Shows all the rosters your accounts are currently in.
+Affiche toutes les listes dans lesquelles se trouvent actuellement vos comptes.
 
 <figure><img src="/img/gitbook/image (87).png" alt="" /><figcaption></figcaption></figure>
 
-## Once your done
+## Une fois que vous avez terminé
 
-Once you selected the buttons, if you didn't set `on_welcome_channel`, the embed will automatically be sent to the channel you run the command.
+Une fois que vous avez sélectionné les boutons, si vous n'avez pas défini `on_welcome_channel`, l'intégration sera automatiquement envoyée au canal sur lequel vous exécutez la commande.
 
 <figure><img src="/img/gitbook/image (4) (1).png" alt="" width="563" /><figcaption></figcaption></figure>

@@ -1,22 +1,22 @@
-# ⬜ Whitelist
+# ⬜ Witte lijst
 
-## The goal
+## Het doel
 
-Gives a specific user or role access to one command.
+Geeft een specifieke gebruiker of rol toegang tot één opdracht.
 
 :::info
-You can give access to every commands to a role in [setup-a-server.md](setup-a-server.md "mention") (full\_whitelist\_role).
+U kunt toegang geven tot alle opdrachten aan een rol in [setup-a-server.md](setup-a-server.md "mention") (full\_whitelist\_role).
 :::
 
-## The command
+## Het commando
 
-For that, you must use the `/whitelist add` command to add a role, the `/whitelist remove` command to remove a role, and the `/whitelist list` to display the list of commands that have whitelist overrides.
+Daarvoor moet u de opdracht `/whitelist add` gebruiken om een ​​rol toe te voegen, de opdracht `/whitelist remove` om een ​​rol te verwijderen en de opdracht `/whitelist list` om de lijst met opdrachten weer te geven die overschrijvingen op de witte lijst hebben.
 
 <figure><img src="/img/gitbook/image (127).png" alt="" /><figcaption></figcaption></figure>
 
-## The parameters
+## De parameters
 
-### Optional
+### Optioneel
 
-* `ping`: The role you want to give access to a command
-* `command`:  The command you want to give acces to
+* `ping`: De rol die u toegang wilt geven tot een opdracht
+* `command`: Het commando waartoe u toegang wilt geven

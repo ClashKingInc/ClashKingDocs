@@ -1,9 +1,9 @@
-# 😠 Strikes
+# 😠 Grèves
 
-Strikes is a way to warn members and keep track of those warnings. It's very useful to see if a member follows your clan rules. You can manage strikes following thoses pages :
+Les grèves sont un moyen d'avertir les membres et de suivre ces avertissements. C'est très utile pour voir si un membre suit les règles de votre clan. Vous pouvez gérer les avertissements en suivant ces pages :
 
 [add-a-strike.md](add-a-strike.md "mention")
 
 [view-strikes.md](view-strikes.md "mention")
 
-[auto-strikes.md](auto-strikes.md "mention") (not available yet)
+[auto-strikes.md](auto-strikes.md "mention") (pas encore disponible)

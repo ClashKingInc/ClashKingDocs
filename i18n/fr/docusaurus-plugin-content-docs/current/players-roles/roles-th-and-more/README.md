@@ -1,8 +1,8 @@
-# ⏫ Roles (TH & More)
+# ⏫ Rôles (TH et plus)
 
-## The goal & Roles type
+## L'objectif et le type de rôles
 
-Give automatically a specific role to your server members so you can give them access to specific channel or ping easily. You can set up 8 differents roles type :&#x20;
+Donnez automatiquement un rôle spécifique aux membres de votre serveur afin de pouvoir leur donner accès à un canal spécifique ou à un ping facilement. Vous pouvez configurer 8 types de rôles différents :&#x20;
 
 [family-roles.md](family-roles.md "mention")
 
@@ -20,25 +20,25 @@ Give automatically a specific role to your server members so you can give them a
 
 
 
-## See set roles
+## Voir les rôles définis
 
-You can have an overview of the roles you set. The command is `/roles list`
+Vous pouvez avoir un aperçu des rôles que vous définissez. La commande est `/roles list`
 
 <figure><img src="/img/gitbook/image (6).png" alt="" /><figcaption></figcaption></figure>
 
-## Unset roles
+## Rôles non définis
 
-You can unset some of the roles you previously set by using `/roles remove`
+Vous pouvez annuler la définition de certains des rôles que vous avez définis précédemment en utilisant `/roles remove`.
 
 <figure><img src="/img/gitbook/image (42).png" alt="" /><figcaption></figcaption></figure>
 
-## Manage roles
+## Gérer les rôles
 
 <details>
 
-<summary>List of roles</summary>
+<summary>Liste des rôles</summary>
 
-See which roles are set with `/roles list`
+Voir quels rôles sont définis avec `/roles list`
 
 ![](</img/gitbook/image (18) (1).png>)
 
@@ -46,9 +46,9 @@ See which roles are set with `/roles list`
 
 <details>
 
-<summary>Type of members</summary>
+<summary>Type de membres</summary>
 
-Set type of server members who will get the roles you set with `/roles family {type} {add} {remove}`.
+Définissez le type de membres du serveur qui obtiendront les rôles que vous avez définis avec `/roles family {type} {add} {remove}`.
 
 ![](</img/gitbook/image (17) (1).png>)
 
@@ -56,7 +56,7 @@ Set type of server members who will get the roles you set with `/roles family {t
 
 <details>
 
-<summary>Remove roles</summary>
+<summary>Supprimer des rôles</summary>
 
 `/roles remove`
 
@@ -64,8 +64,8 @@ Set type of server members who will get the roles you set with `/roles family {t
 
 <details>
 
-<summary>Get longevity of a role</summary>
+<summary>Obtenir la longévité d'un rôle</summary>
 
-`/roles status` tells you when you set a role.
+`/roles status` vous indique quand vous définissez un rôle.
 
 </details>

@@ -1,22 +1,22 @@
-# 🐸 Pepe
+#🐸Pep
 
 ## Pepe
 
-Do you know pepe ? You can make him hold a sign with anything you want on it!&#x20;
+Ken jij pepe? Je kunt hem een ​​bordje laten vasthouden met alles wat je maar wilt erop!&#x20;
 
 <figure><img src="/img/gitbook/image (105).png" alt="" /><figcaption><p>Use code ClashKing &#x3C;3</p></figcaption></figure>
 
-## The command
+## Het commando
 
 `/pepe {sign_text} {hidden}`
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `sign_text`: text to write on the sign
-* `hidden`: if pepe is visible only to you or to everyone else in the chat.
+* `sign_text`: tekst die op het bord moet worden geschreven
+* `hidden`: als pepe alleen zichtbaar is voor jou of voor alle anderen in de chat.
 
-## Example
+## Voorbeeld
 
-Try it! `/pepe sign_text: use code clashking hidden: No`
+Probeer het! `/pepe sign_text: use code clashking hidden: No`

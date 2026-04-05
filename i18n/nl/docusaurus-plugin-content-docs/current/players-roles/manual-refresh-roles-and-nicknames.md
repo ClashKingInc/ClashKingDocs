@@ -11,26 +11,25 @@ layout:
   pagination:
     visible: true
 ---
+# 🔄 Handmatig vernieuwen (rollen en bijnamen)
 
-# 🔄 Manual Refresh (Roles & Nicknames)
+## Het doel
 
-## The goal
-
-You can manually refresh the roles ([roles-th-and-more](roles-th-and-more/ "mention") & [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) and nicknames ( [setup-a-server.md](../server-setups/setup-a-server.md "mention")) of a user if the [auto-refresh.md](auto-refresh.md "mention")is turned off, or if you did some modification on a user settings, and nothing triggered the auto refresh yet.&#x20;
+U kunt de rollen ([roles-th-and-more](roles-th-and-more/ "mention") & [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) en bijnamen ([setup-a-server.md](../server-setups/setup-a-server.md "mention")) van een gebruiker handmatig vernieuwen als de [auto-refresh.md](auto-refresh.md "mention") is uitgeschakeld, of als u een wijziging heeft aangebracht in de gebruikersinstellingen en er nog niets de automatische vernieuwing heeft geactiveerd.&#x20;
 
 :::info
-* Leadership roles are refreshed by default, want them to not? Changeable via `/setup server [leadership_refresh]`
+* Leiderschapsrollen worden standaard vernieuwd. Wil je dat niet? Wijzigbaar via `/setup server [leadership_refresh]`
 :::
 
-## The command
+## Het commando
 
-There is one main command to manually refresh roles -> `/refresh` with two main options for a basic experience:
+Er is één hoofdopdracht om rollen handmatig te vernieuwen -> `/refresh` met twee hoofdopties voor een basiservaring:
 
-## The parameters
+## De parameters
 
-### Optional
+### Optioneel
 
-* `role_or_user`: choose the role or user you want to refresh roles and/or nickname.
-* `test`:  or no option, default is no, but yes allows you to see what the bot will do without it actually doing it.
-* `advanced_mode`: choose what role to evaluate. This will only add/remove the roles you selected.
-* `role_treatment`: indicate if you want to add and/or remove roles to the user depending (for example if a player left one of your clan to join another clan from your family, you can give them new roles without removing the one from the irformer clan).
+* `role_or_user`: kies de rol of gebruiker waarvan u de rollen wilt vernieuwen en de /or-bijnaam.
+* `test`: of geen optie, standaard is nee, maar met ja kun je zien wat de bot gaat doen zonder dat hij het daadwerkelijk doet.
+* `advanced_mode`: kies welke rol u wilt evalueren. Hierdoor worden alleen /remove de rollen toegevoegd die u hebt geselecteerd.
+* `role_treatment`: geef aan of je rollen wilt toevoegen en /or wilt verwijderen voor de gebruiker, afhankelijk van (als een speler bijvoorbeeld een van je clan heeft verlaten om zich bij een andere clan uit je familie aan te sluiten, kun je hem nieuwe rollen geven zonder die van de vorige clan te verwijderen).

@@ -1,17 +1,17 @@
-# 🔨 Builder League Roles
+# 🔨Builder League-rollen
 
-## The goal
+## Het doel
 
-Gives a specific role to users depending on their current builder league.
+Geeft een specifieke rol aan gebruikers, afhankelijk van hun huidige bouwcompetitie.
 
 <figure><img src="/img/gitbook/image (119).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## Het commando
 
-For that, you must use the `/roles builder-league` command.
+Daarvoor moet u de opdracht `/roles builder-league` gebruiken.
 
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Voordat u die opdracht uitvoert, moet u de rollen aanmaken die u wilt instellen in de instellingen van uw Discord-server.
 :::
 
 

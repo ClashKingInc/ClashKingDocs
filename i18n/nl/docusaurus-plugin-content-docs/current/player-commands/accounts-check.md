@@ -1,7 +1,7 @@
-# 🙎‍♀️ Accounts check
+# 🙎‍♀️ Accountcontrole
 
-To quickly check your owns or someone else's accounts, you can use the`/player accounts {discord_user}` command.
+Om snel de accounts van uzelf of iemand anders te controleren, kunt u de opdracht `/player accounts {discord_user}` gebruiken.
 
-You will seethe war preferences of each accounts, in which clan they are, which role they have and how many trophies they currently have.
+Je ziet de oorlogsvoorkeuren van elk account, in welke clan ze zitten, welke rol ze hebben en hoeveel trofeeën ze momenteel hebben.
 
 <figure><img src="/img/gitbook/image (97).png" alt="" /><figcaption></figcaption></figure>

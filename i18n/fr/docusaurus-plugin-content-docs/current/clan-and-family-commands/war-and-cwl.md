@@ -1,19 +1,19 @@
-# ⚔️ War & CWL
+# ⚔️ Guerre & CWL
 
-CWL and war commands are a great utility to take advantage of. Information that could take a while to check ingame can now be accessed instantly.&#x20;
+CWL et les commandes de guerre sont un excellent utilitaire dont il faut profiter. Les informations dont la vérification dans le jeu pouvait prendre un certain temps sont désormais accessibles instantanément.
 
 <details>
 
-<summary><code>/cwl status</code></summary>
+<summary><code>Statut /cwl</code></summary>
 
-This is extremely useful for organising large families and making sure all clans are spinning CWL at the correct times and all goes smoothly.\
+Ceci est extrêmement utile pour organiser des familles nombreuses et s'assurer que tous les clans lancent CWL au bon moment et que tout se passe bien.\
 ![](</img/gitbook/Screenshot 2023-10-02 at 22.20.57.png>)
 
 </details>
 
 <details>
 
-<summary><code>/cwl ranking</code></summary>
+<summary><code>Classement /cwl</code></summary>
 
 
 
@@ -21,32 +21,32 @@ This is extremely useful for organising large families and making sure all clans
 
 <details>
 
-<summary><code>/cwl search</code></summary>
+<summary><code>Recherche /cwl</code></summary>
 
-See the current status of the CWL your clan is in.\
+Consultez l'état actuel de la CWL dans laquelle se trouve votre clan.\
 ![](</img/gitbook/image (103).png>)
 
-You can have differents stats such as :&#x20;
+Vous pouvez avoir différentes statistiques telles que :&#x20;
 
-* Star Leaderboard,&#x20;
-* Clan Ranking,&#x20;
-* Missed Hits,&#x20;
-* List of rounds with the results,
-* List of Members with heroes and TH levels.
-
-</details>
-
-<details>
-
-<summary><code>/war search</code></summary>
-
-
+* Classement des étoiles,&#x20;
+* Classement des clans,&#x20;
+* Coups manqués,&#x20;
+* Liste des tours avec les résultats,
+* Liste des membres avec héros et niveaux TH.
 
 </details>
 
 <details>
 
-<summary><code>/war plan</code></summary>
+<summary><code>Recherche /war</code></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><code>Plan /war</code></summary>
 
 
 

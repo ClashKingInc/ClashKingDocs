@@ -1,11 +1,11 @@
-# ℹ️ Others
+# ℹ️Anderen
 
-## Customize the bot
+## Pas de bot aan
 
-Do you want the bot to appear as one of your clan members? Use the `/set webhook-profile {picture} {name}` command to change its name and profile picture. It will use this name and profile picture each time it sends logs.
+Wil je dat de bot verschijnt als een van je clanleden? Gebruik de opdracht `/set webhook-profile {picture} {name}` om de naam en profielfoto te wijzigen. Elke keer dat er logbestanden worden verzonden, worden deze naam en profielfoto gebruikt.
 
 <figure><img src="/img/gitbook/image (102).png" alt="" /><figcaption></figcaption></figure>
 
-## Change the clans category order&#x20;
+## Verander de volgorde van de clancategorieën&#x20;
 
-If you want to change the default order of clans between General, War, and Esports, you can do so using the `/setup category-order` command.
+Als je de standaardvolgorde van clans tussen Algemeen, Oorlog en Esports wilt wijzigen, kun je dit doen met de opdracht `/setup category-order`.

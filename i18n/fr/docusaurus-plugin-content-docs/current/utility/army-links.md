@@ -1,30 +1,28 @@
 ---
 icon: image
 ---
+# Liens avec l'armée
 
-# Army links
+## Le but
 
-## The goal
-
-Sometimes you would like to share an army with your clanmates, and you maybe even have a specific channel to store them. But reading a link does not provide any infos on what's the content of it. We provide a way to show more infos on this content !
-
+Parfois, vous aimeriez partager une armée avec vos camarades de clan, et vous pourriez même avoir un canal spécifique pour les stocker. Mais la lecture d'un lien ne fournit aucune information sur son contenu. Nous proposons un moyen d'afficher plus d'informations sur ce contenu !
 :::info
-You can also turn on [link-parse.md](../server-setups/link-parse.md "mention") so the messages containing an army link will be automaticlly replaced by the embed (without nicknames and clan castle)
+Vous pouvez également activer [link-parse.md](../server-setups/link-parse.md "mention") pour que les messages contenant un lien vers une armée soient automatiquement remplacés par l'embed (sans pseudo ni château de clan)
 :::
 
-## The commands
+## Les commandes
 
 `/army links`
 
 <figure><img src="/img/gitbook/image (13).png" alt="" width="507" /><figcaption></figcaption></figure>
 
-## The parameters
+## Les paramètres
 
-### Required
+### Requis
 
-* `link` : the army link you want to parse
+* `link` : le lien d'armée que vous souhaitez analyser
 
-### Optional
+### Facultatif
 
-* `nickname` : How would you name your army ?
-* `clan_castle` : what should people put in their clan castle ?
+* `nickname` : Comment nommeriez-vous votre armée ?
+* `clan_castle` : que doivent mettre les gens dans leur château de clan ?

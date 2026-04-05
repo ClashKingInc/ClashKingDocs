@@ -1,31 +1,31 @@
-# ⚙️ Set up a roster
+# ⚙️Stel een rooster op
 
-## The goal
+## Het doel
 
-Once you created your roster ([create-a-roster.md](create-a-roster.md "mention")), you can set it up to add specific requirements, like requirements to sign on the roster.
+Nadat u uw rooster ([create-a-roster.md](create-a-roster.md "mention")) heeft gemaakt, kunt u deze instellen om specifieke vereisten toe te voegen, zoals vereisten om in het rooster te ondertekenen.
 
-## The commands
+## De commando's
 
-Firstly, you can create groups on which player will be able to choose (like a sub group for people who don't want to be on the main group) with `/roster groups.`
+Ten eerste kun je met `/roster groups.` groepen maken waaruit de speler kan kiezen (zoals een subgroep voor mensen die niet in de hoofdgroep willen zitten).
 
-Use`/roster settings`. Once sent, the bot will send you a link to set up the roster on a webpage, which can't be done on Discord.
+Gebruik`/roster settings`. Eenmaal verzonden, stuurt de bot je een link om het rooster op een webpagina in te stellen, wat niet mogelijk is op Discord.
 
 <figure><img src="/img/gitbook/image (20).png" alt="" /><figcaption></figcaption></figure>
 
-## The webpage
+## De webpagina
 
 <figure><img src="/img/gitbook/image (21).png" alt="" /><figcaption></figcaption></figure>
 
-## The options
+## De opties
 
-* &#x20;`Name`: Name of your roster
-* `TownHall Min`: Min Townhall level to sign up
-* `TownHall Max`: Max TownHall level to sign up
-* `Max roster size`: Number maximum of players that can sign up
-* `Description`: Add any info you want to share with the players
-* `Time`: Date on which registrations close, or on which the event starts
-* `Linked Clan`: The roster must be tied to a clan to use specific commands like roster missing
-* `Sort`: Sort the players depending on the filters
-* `Columns`: You can choose up to 4 columns to be displayed on the roster embed
-* `Signup groups`: You can add groups that you created with `/roster groups` so players can sign up to those groups (for example a main group and a sub group).&#x20;
-* `Image`: If you want to display an image at the bottom of the embed
+* &#x20;`Name`: Naam van je rooster
+* `TownHall Min`: minimaal gemeentehuisniveau om in te schrijven
+* `TownHall Max`: Max. TownHall-niveau om in te schrijven
+* `Max roster size`: Maximaal aantal spelers dat zich kan aanmelden
+* `Description`: voeg alle informatie toe die je met de spelers wilt delen
+* `Time`: Datum waarop de inschrijving sluit, of waarop het evenement begint
+* `Linked Clan`: het rooster moet aan een clan zijn gekoppeld om specifieke commando's te kunnen gebruiken, zoals rooster ontbreekt
+* `Sort`: Sorteer de spelers op basis van de filters
+* `Columns`: u kunt maximaal 4 kolommen kiezen die moeten worden weergegeven in de roosterinsluiting
+* `Signup groups`: Je kunt groepen toevoegen die je met `/roster groups` hebt gemaakt, zodat spelers zich bij die groepen kunnen aanmelden (bijvoorbeeld een hoofdgroep en een subgroep).&#x20;
+* `Image`: als u een afbeelding onder aan de insluiting wilt weergeven

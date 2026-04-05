@@ -1,8 +1,8 @@
-# ⏫ Roles (TH & More)
+# ⏫ Rollen (TH en meer)
 
-## The goal & Roles type
+## Het type doel en rollen
 
-Give automatically a specific role to your server members so you can give them access to specific channel or ping easily. You can set up 8 differents roles type :&#x20;
+Geef uw serverleden automatisch een specifieke rol, zodat u ze eenvoudig toegang kunt geven tot een specifiek kanaal of kunt pingen. Je kunt 8 verschillende rollen instellen, type:&#x20;
 
 [family-roles.md](family-roles.md "mention")
 
@@ -20,25 +20,25 @@ Give automatically a specific role to your server members so you can give them a
 
 
 
-## See set roles
+## Zie ingestelde rollen
 
-You can have an overview of the roles you set. The command is `/roles list`
+U kunt een overzicht krijgen van de rollen die u instelt. Het commando is `/roles list`
 
 <figure><img src="/img/gitbook/image (6).png" alt="" /><figcaption></figcaption></figure>
 
-## Unset roles
+## Rollen uitschakelen
 
-You can unset some of the roles you previously set by using `/roles remove`
+U kunt een aantal van de eerder ingestelde rollen ongedaan maken met behulp van `/roles remove`
 
 <figure><img src="/img/gitbook/image (42).png" alt="" /><figcaption></figcaption></figure>
 
-## Manage roles
+## Beheer rollen
 
 <details>
 
-<summary>List of roles</summary>
+<summary>Lijst met rollen</summary>
 
-See which roles are set with `/roles list`
+Bekijk welke rollen zijn ingesteld met `/roles list`
 
 ![](</img/gitbook/image (18) (1).png>)
 
@@ -46,9 +46,9 @@ See which roles are set with `/roles list`
 
 <details>
 
-<summary>Type of members</summary>
+<summary>Type leden</summary>
 
-Set type of server members who will get the roles you set with `/roles family {type} {add} {remove}`.
+Stel het type serverleden in die de rollen krijgen die u instelt met `/roles family {type} {add} {remove}`.
 
 ![](</img/gitbook/image (17) (1).png>)
 
@@ -56,7 +56,7 @@ Set type of server members who will get the roles you set with `/roles family {t
 
 <details>
 
-<summary>Remove roles</summary>
+<summary>Rollen verwijderen</summary>
 
 `/roles remove`
 
@@ -64,8 +64,8 @@ Set type of server members who will get the roles you set with `/roles family {t
 
 <details>
 
-<summary>Get longevity of a role</summary>
+<summary>Krijg de levensduur van een rol</summary>
 
-`/roles status` tells you when you set a role.
+`/roles status` vertelt je wanneer je een rol instelt.
 
 </details>

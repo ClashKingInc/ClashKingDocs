@@ -1,17 +1,16 @@
-# 🔨 Builder League Roles
+# 🔨 Rôles de la Ligue des Constructeurs
 
-## The goal
+## Le but
 
-Gives a specific role to users depending on their current builder league.
+Donne un rôle spécifique aux utilisateurs en fonction de leur ligue de constructeur actuelle.
 
 <figure><img src="/img/gitbook/image (119).png" alt="" /><figcaption></figcaption></figure>
 
-## The command
+## La commande
 
-For that, you must use the `/roles builder-league` command.
-
+Pour cela, vous devez utiliser la commande `/roles builder-league`.
 :::info
-Before running that command, you need to create the roles you want to set in your discord server settings.
+Avant d'exécuter cette commande, vous devez créer les rôles que vous souhaitez définir dans les paramètres de votre serveur Discord.
 :::
 
 

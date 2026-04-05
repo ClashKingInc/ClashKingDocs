@@ -1,24 +1,22 @@
-# 🔨 Creating a Ticket panel
+# 🔨 Création d'un panneau Ticket
 
-To start, what is a panel? A ticket panel is an embed that contains details along with buttons that open tickets. Below is an example.
+Pour commencer, qu’est-ce qu’un panneau ? Un panneau de tickets est une intégration qui contient des détails ainsi que des boutons permettant d'ouvrir les tickets. Ci-dessous un exemple.
 
 <figure><img src="/img/gitbook/image (109).png" alt="" width="313" /><figcaption><p>An Example ticket panel</p></figcaption></figure>
 
-So a panel consists of 2 parts - embeds & buttons. In this section, we are going to create the embed(s).
+Un panneau se compose donc de 2 parties : intégrations et boutons. Dans cette section, nous allons créer la ou les intégrations.
 
-So, find a channel you can run ClashKing commands in and open up `{/ticket panel-create}`. There is 2 options:
+Alors, trouvez un canal dans lequel vous pouvez exécuter des commandes ClashKing et ouvrez `{/ticket panel-create}`. Il y a 2 options :
 
-* `{panel_name}`: this is a unique name to identify your panel later
-* `{embed}`: this is an embed stored in the bot&#x20;
-
+* `{panel_name}` : il s'agit d'un nom unique pour identifier votre panneau ultérieurement
+* `{embed}` : il s'agit d'une intégration stockée dans le bot&#x20;
 :::warning
-For the embed field, if you have none created, you will need to go to [Embeds](../utility/embeds.md), there you can find a guide on how to create an embed you can use & edit.
+Pour le champ d'intégration, si vous n'en avez pas créé, vous devrez vous rendre sur [Embeds](../utility/embeds.md), vous y trouverez un guide sur la façon de créer une intégration que vous pouvez utiliser et modifier.
 :::
 
-Once you have an embed made, you can fill in both fields and you will have your very first ticket panel - your embed plus a default "Open Ticket" button.
-
+Une fois que vous avez effectué une intégration, vous pouvez remplir les deux champs et vous aurez votre tout premier panneau de ticket : votre intégration plus un bouton par défaut "Ouvrir le ticket".
 :::tip
-You can now run `/ticket panel-post` and see your new panel!
+Vous pouvez maintenant exécuter `/ticket panel-post` et voir votre nouveau panneau !
 :::
 
-The next section covers Adding Buttons & Actions
+La section suivante couvre l'ajout de boutons et d'actions

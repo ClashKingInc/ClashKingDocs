@@ -1,35 +1,34 @@
-# 🔗 Link Players
+# 🔗 Spelers koppelen
 
-The goal
+Het doel
 
-To run correctly, the bot needs to know which discord users own each CoC account of your clan. This will for example allow it to give the member access to specific channel or ping them automatically with [reminders.md](../../server-setups/reminders.md "mention")you set.
+Om correct te kunnen werken, moet de bot weten welke discord-gebruikers eigenaar zijn van elk CoC-account van je clan. Hierdoor kan het lid bijvoorbeeld toegang krijgen tot een specifiek kanaal of ze automatisch pingen met [reminders.md](../../server-setups/reminders.md "mention") die u hebt ingesteld.
 
-## The command
+## Het commando
 
-For this, you need to run the `/link` command
+Hiervoor moet u de opdracht `/link` uitvoeren
 
 :::info
-If you link someone by mistake, you can use the [unlink-players.md](unlink-players.md "mention") command.
+Als u per ongeluk iemand koppelt, kunt u de opdracht [unlink-players.md](unlink-players.md "mention") gebruiken.
 :::
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-`player` : This corresponds to the tag of the player you want to linked. You can find this tag in their profile in game. It should look like that : #PVJ98GL.
+`player`: Dit komt overeen met de tag van de speler die je wilt koppelen. Je kunt deze tag vinden in hun profiel in het spel. Het zou er zo uit moeten zien: #PVJ98GL.
 
 
 
-### Optional
+### Optioneel
 
-`user`: This is the discord user you want to link the CoC account with. If you run the command for yourself, you do not need to use this option. It is useful only if you want to link an account to someone else.
+`user`: Dit is de discord-gebruiker waarmee u het CoC-account wilt koppelen. Als u de opdracht voor uzelf uitvoert, hoeft u deze optie niet te gebruiken. Het is alleen nuttig als u een account aan iemand anders wilt koppelen.
 
-`api_token` : This is to prove that the account is yours. You can find this in the parameters of Clash Of Clans.&#x20;
-
+`api_token`: Dit is om te bewijzen dat het account van jou is. Je kunt dit vinden in de parameters van Clash Of Clans.&#x20;
 :::warning
-The API token is required only if set by the clan staff (see [setup-a-server.md](../../server-setups/setup-a-server.md "mention")), or if the account is already linked to someone else.
+Het API-token is alleen vereist als dit is ingesteld door het clanpersoneel (zie [setup-a-server.md](../../server-setups/setup-a-server.md "mention")), of als het account al aan iemand anders is gekoppeld.
 :::
 
-`greet`: This is to send a greeting message to the user once linked.
+`greet`: Hiermee wordt een begroetingsbericht naar de gebruiker verzonden zodra deze is gekoppeld.
 
 <figure><img src="/img/gitbook/image (129).png" alt="" /><figcaption></figcaption></figure>

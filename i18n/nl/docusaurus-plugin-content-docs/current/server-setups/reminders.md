@@ -1,81 +1,78 @@
 ---
 description: There are currently 5 reminder types
 ---
+# 📳 Herinneringen
 
-# 📳 Reminders
+## Het doel
 
-## The goal
-
-Remind your clanmates about the tasks they need to complete in game!
+Herinner je clangenoten aan de taken die ze in het spel moeten voltooien!
 
 :::info
-If you are curious what these reminders look like, they are all on demo in the [support server.](https://discord.gg/clashking) You can also click on the name of the log type to be redirected to an example.
+Mocht je benieuwd zijn hoe deze herinneringen er uit zien, ze staan allemaal op demo in de [support server.](https://discord.gg/clashking). Je kunt ook op de naam van het logtype klikken om naar een voorbeeld te worden doorverwezen.
 :::
 
-## The commands
+## De commando's
 
-To create new reminders, you must use the `/reminders create` command.
+Om nieuwe herinneringen aan te maken, moet u de opdracht `/reminders create` gebruiken.
 
 <figure><img src="/img/gitbook/image (113).png" alt="" /><figcaption></figcaption></figure>
 
-You can also use :&#x20;
+Je kunt ook gebruiken:&#x20;
 
-* `/reminders list` to see the reminders you already set.
-* `/reminders edit` to modify or delete a reminder you already created.
-* `/reminders manual` to ping your clan mate right now!
+* `/reminders list` om de herinneringen te zien die u al heeft ingesteld.
+* `/reminders edit` om een ​​herinnering die u al hebt gemaakt, te wijzigen of te verwijderen.
+* `/reminders manual` om je clangenoot nu te pingen!
 
-## The parameters
+## De parameters
 
-### Required
+### Vereist
 
-* `type:` choose between war & CWL, Clan Capital, Inactivity, Clan Games and Roster.
-* `time_left`: time remaining before pinging your clan mates. Use commas to enter multiple times.
+* `type:` kies tussen oorlog en CWL, clankapitaal, inactiviteit, clanspellen en rooster.
+* `time_left`: resterende tijd voordat je je clangenoten pingt. Gebruik komma's om meerdere keren in te voeren.
 
-### Optional
+### Optioneel
 
-`channel:` The channel you want the ping to be sent to.If you don't set a channel, the ping will be sent in the channel the command was run in.
+`channel:` Het kanaal waarnaar u de ping wilt verzenden. Als u geen kanaal instelt, wordt de ping verzonden in het kanaal waarin de opdracht is uitgevoerd.
 
-## Reminders types
+## Soorten herinneringen
 
-On this section we will explain the different reminders types.
-
+In dit gedeelte leggen we de verschillende soorten herinneringen uit.
 :::danger
-For now only the war & CWL reminders are working. Other reminders will be reactivated soon. Stay tuned!
+Voorlopig werken alleen de oorlogs- en CWL-herinneringen. Andere herinneringen worden binnenkort opnieuw geactiveerd. Blijf op de hoogte!
 :::
 
-#### War & CWL
+#### Oorlog & CWL
 
-Ping users that have remaining attacks X hours before the end of the war (48h max). A Gif can also be used!
+Ping gebruikers die X uur voor het einde van de oorlog nog aanvallen hebben (maximaal 48 uur). Een GIF kan ook!
 
 :::info
-Your war log should be set to 'public' in game, otherwise you won't get a reminder
+Je oorlogslogboek moet in het spel op 'openbaar' staan, anders krijg je geen herinnering
 :::
 
 <figure><img src="/img/gitbook/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
 
-#### **Use cases :**&#x20;
+#### **Gebruiksscenario's:**&#x20;
 
-* Remind them during prep days to fill clan castles,&#x20;
-* Inform them that the war started,
-* Remind them to attack when there's only a few hour left.
-
+* Herinner ze er tijdens de voorbereidingsdagen aan dat ze clankastelen moeten vullen,&#x20;
+* Vertel hen dat de oorlog is begonnen,
+* Herinner ze eraan om aan te vallen als er nog maar een paar uur over is.
 :::warning
-The reminder types below are currently not working
+De onderstaande herinneringstypen werken momenteel niet
 :::
 
-### Clan capital
+### Clanhoofdstad
 
-Remind people to use their raids attacks if not done yet.
+Herinner mensen eraan hun raid-aanvallen te gebruiken als ze dat nog niet hebben gedaan.
 
-### Inactivity
+### Inactiviteit
 
-Ping people who has been inactive for X days.
+Ping mensen die X dagen inactief zijn geweest.
 
-### Clan Games
+### Clanspellen
 
-Remind people to participate to the clan game if they are under a certain amount of points.
+Herinner mensen eraan om deel te nemen aan het clanspel als ze onder een bepaald aantal punten zitten.
 
-### Roster
+### Rooster
 
-Ping people when a roster is about to end (see [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
+Ping mensen wanneer een rooster bijna afloopt (zie [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
 

@@ -1,58 +1,56 @@
 ---
 description: Adding more functionality to your tickets!
 ---
+# ✅ Knoppen en acties toevoegen
 
-# ✅ Adding Buttons & Actions
-
-If you are in this section, you should have at minimum - 1 embed created (`/embed create`) and 1 ticket panel created (`/ticket panel-create`). \
+Als u zich in deze sectie bevindt, moet u minimaal - 1 insluiting hebben gemaakt (`/embed create`) en 1 ticketpaneel hebben gemaakt (`/ticket panel-create`). \
 \
-Assuming you do, you can now add some more functionality to your tickets. This guide will be broken down into 3 main pieces:
+Ervan uitgaande dat u dat doet, kunt u nu wat meer functionaliteit aan uw tickets toevoegen. Deze gids zal worden opgesplitst in 3 hoofdonderdelen:
 
-* adding & editing buttons
-* account applications
-* questions
+* knoppen toevoegen en bewerken
+* accountaanvragen
+* vragen
 
-## Adding & Editing Buttons
+## Knoppen toevoegen en bewerken
 
-For this, use `/ticket button-add,` which has 4 options:
+Gebruik hiervoor `/ticket button-add,`, dat 4 opties heeft:
 
-* `{panel_name}`: the panel you want to add the button to
-* `{button_text}`: the text you want on the button
-* `{button_color}`: what color you want the button (only blue, green, grey, or red)
-* `{button_emoji}`: an emoji for the button (you can use custom emojis as long as they are on the server)
+* `{panel_name}`: het paneel waaraan u de knop wilt toevoegen
+* `{button_text}`: de tekst die je op de knop wilt hebben
+* `{button_color}`: welke kleur u de knop wilt hebben (alleen blauw, groen, grijs of rood)
+* `{button_emoji}`: een emoji voor de knop (je kunt aangepaste emoji's gebruiken zolang ze op de server staan)
 
-Once ran, you will have a brand new button for your panel.&#x20;
+Eenmaal uitgevoerd, beschikt u over een gloednieuwe knop voor uw paneel.&#x20;
 
 :::info
-You will need to rerun `/ticket panel-post` when new buttons are added
+U moet `/ticket panel-post` opnieuw uitvoeren wanneer er nieuwe knoppen worden toegevoegd
 :::
 
-Editing buttons works very similarly, `/ticket button-edit`, same options, except it will ask for which button on the panel to edit.
+Het bewerken van knoppen werkt vrijwel hetzelfde, `/ticket button-edit`, dezelfde opties, behalve dat er wordt gevraagd welke knop op het paneel moet worden bewerkt.
 
-And lastly, you can delete a button with `/ticket button-remove`
+En ten slotte kun je een knop verwijderen met `/ticket button-remove`
 
-## Clash Account Applications
+## Clash-accountaanvragen
 
-Now we are getting into the stuff this ticketing can do that others can't. By now you can edit & create embeds, edit & create panels, and even add & edit buttons, but it is still a pertty basic ticketing system. Let's change that!
+Nu gaan we dieper in op de dingen die deze ticketverkoop kan doen, wat anderen niet kunnen. Inmiddels kun je insluitingen bewerken en maken, panelen bewerken en maken, en zelfs knoppen toevoegen en bewerken, maar het is nog steeds een eigenzinnig basisticketsysteem. Laten we dat veranderen!
 
-Run /ticket apply. Here you will be presented with 4 options:
+Voer /ticket uit. Hier krijgt u 4 opties te zien:
 
-* &#x20;\# of accounts allowed to apply (how many accounts can people apply with in a ticket)
-* Minimum Townhall Allowed
-* On/Off (this turns the entire setting on/off, if green (on), will ask people to apply with an account)
-*   Send Player Info (if green (on), will send a breakdown of the player's info when the ticket opens)\
+* &#x20;\# van accounts die mogen solliciteren (met hoeveel accounts kunnen mensen zich aanmelden in een ticket)
+* Minimaal gemeentehuis toegestaan
+* On/Off (hiermee wordt de hele instelling ingeschakeld/off, indien groen (aan), wordt mensen gevraagd zich aan te melden met een account)
+* Spelersinformatie verzenden (indien groen (aan), wordt een overzicht van de spelersinformatie verzonden wanneer het ticket wordt geopend)\
 
 
     <figure><img src="/img/gitbook/image (1) (1) (1) (1) (1).png" alt="" /><figcaption><p>/ticket apply</p></figcaption></figure>
-
 :::warning
-One caveat to the entire ticket apply process is that it does require people's accounts to be linked to them. The bot does inform users of this if they end up trying to apply with no accounts, but it is on the server's side to set up a robust linking system using things like link buttons or the such. Not as a big a deal these days however, as a surprising amount of people are discord linked :smile:&#x20;
+Een kanttekening bij het hele ticketaanvraagproces is dat de accounts van mensen eraan moeten worden gekoppeld. De bot informeert gebruikers hierover als ze uiteindelijk proberen zich aan te melden zonder account, maar het is aan de kant van de server om een ​​robuust koppelingssysteem op te zetten met behulp van zaken als linkknoppen en dergelijke. Tegenwoordig is dat echter niet zo'n groot probleem meer, aangezien een verrassend aantal mensen met onenigheid te maken hebben :smile:&#x20;
 :::
 
-We can go further though, /ticket apply-rules allows us to filter out applicants on more than just townhall level. You can filter out by individual hero levels or war stars. This command explains how it works pretty well when ran, but here is what it looks like. Copy past the requirements, keeping the same format, edit them, just upload back (the one given is just a sample and not actually the default everyone is set to)
+We kunnen echter nog verder gaan: de toepassingsregels van /ticket stellen ons in staat aanvragers op meer dan alleen gemeentehuisniveau uit te filteren. Je kunt filteren op individuele heldenniveaus of oorlogssterren. Deze opdracht legt uit hoe het redelijk goed werkt als het wordt uitgevoerd, maar zo ziet het eruit. Kopieer voorbij de vereisten, behoud hetzelfde formaat, bewerk ze, upload ze gewoon terug (de opgegeven versie is slechts een voorbeeld en niet de standaard waar iedereen op is ingesteld)
 
 <figure><img src="/img/gitbook/image (2) (1) (1) (1) (1).png" alt="" width="479" /><figcaption></figcaption></figure>
 
-## Questions
+## Vragen
 
-You may have more questions for an applicant than just what is their clash account. And this is where modal questions comes in. Using /ticket settings & picking the relevant panel & button, with the choice "Questions", run the command. A modal will open & you can set what questions you would like the bot to ask when they apply.&#x20;
+Het kan zijn dat u meer vragen heeft voor een sollicitant dan alleen wat zijn clash-account is. En dit is waar modale vragen om de hoek komen kijken. Gebruik de /ticket-instellingen en kies het relevante paneel en de knop, met de keuze "Vragen", voer de opdracht uit. Er wordt een modaal geopend en u kunt instellen welke vragen de bot moet stellen wanneer deze van toepassing zijn.&#x20;

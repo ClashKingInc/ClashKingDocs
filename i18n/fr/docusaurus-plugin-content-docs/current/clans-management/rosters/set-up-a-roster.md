@@ -1,31 +1,31 @@
-# ⚙️ Set up a roster
+# ⚙️ Mettre en place une liste
 
-## The goal
+## Le but
 
-Once you created your roster ([create-a-roster.md](create-a-roster.md "mention")), you can set it up to add specific requirements, like requirements to sign on the roster.
+Une fois que vous avez créé votre liste ([create-a-roster.md](create-a-roster.md "mention")), vous pouvez la configurer pour ajouter des exigences spécifiques, comme les exigences pour vous inscrire sur la liste.
 
-## The commands
+## Les commandes
 
-Firstly, you can create groups on which player will be able to choose (like a sub group for people who don't want to be on the main group) with `/roster groups.`
+Tout d'abord, vous pouvez créer des groupes sur lesquels le joueur pourra choisir (comme un sous-groupe pour les personnes qui ne souhaitent pas faire partie du groupe principal) avec `/roster groups.`
 
-Use`/roster settings`. Once sent, the bot will send you a link to set up the roster on a webpage, which can't be done on Discord.
+Utilisez `/roster settings`. Une fois envoyé, le bot vous enverra un lien pour configurer la liste sur une page Web, ce qui ne peut pas être fait sur Discord.
 
 <figure><img src="/img/gitbook/image (20).png" alt="" /><figcaption></figcaption></figure>
 
-## The webpage
+## La page Web
 
 <figure><img src="/img/gitbook/image (21).png" alt="" /><figcaption></figcaption></figure>
 
-## The options
+## Les options
 
-* &#x20;`Name`: Name of your roster
-* `TownHall Min`: Min Townhall level to sign up
-* `TownHall Max`: Max TownHall level to sign up
-* `Max roster size`: Number maximum of players that can sign up
-* `Description`: Add any info you want to share with the players
-* `Time`: Date on which registrations close, or on which the event starts
-* `Linked Clan`: The roster must be tied to a clan to use specific commands like roster missing
-* `Sort`: Sort the players depending on the filters
-* `Columns`: You can choose up to 4 columns to be displayed on the roster embed
-* `Signup groups`: You can add groups that you created with `/roster groups` so players can sign up to those groups (for example a main group and a sub group).&#x20;
-* `Image`: If you want to display an image at the bottom of the embed
+* &#x20;`Name` : Nom de votre roster
+* `TownHall Min` : niveau minimum de mairie pour s'inscrire
+* `TownHall Max` : niveau maximum de TownHall pour s'inscrire
+* `Max roster size` : Nombre maximum de joueurs pouvant s'inscrire
+* `Description` : ajoutez toutes les informations que vous souhaitez partager avec les joueurs
+* `Time` : Date de clôture des inscriptions ou de début de l'événement
+* `Linked Clan` : la liste doit être liée à un clan pour utiliser des commandes spécifiques comme la liste manquante
+* `Sort` : Trier les joueurs en fonction des filtres
+* `Columns` : vous pouvez choisir jusqu'à 4 colonnes à afficher sur la liste intégrée
+* `Signup groups` : vous pouvez ajouter des groupes que vous avez créés avec `/roster groups` afin que les joueurs puissent s'inscrire à ces groupes (par exemple un groupe principal et un sous-groupe).
+* `Image` : Si vous souhaitez afficher une image en bas de l'intégration

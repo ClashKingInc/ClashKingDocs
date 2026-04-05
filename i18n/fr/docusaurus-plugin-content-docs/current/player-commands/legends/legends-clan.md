@@ -1,19 +1,18 @@
 ---
 description: Displays the trophy counts of all legendary players in a clan.
 ---
+# Clan des Légendes
 
-# Legends clan
-
-## The command
+## La commande
 
 `/legends clan {clan}`
 
-## The parameter
+## Le paramètre
 
-* `clan:` enter the name or tag of the clan to search.
+* `clan:` saisissez le nom ou le tag du clan à rechercher.
 
-## Explanation
+## Explication
 
-Displays the trophy counts of all legendary players in a clan.
+Affiche le nombre de trophées de tous les joueurs légendaires d'un clan.
 
 ![](</img/gitbook/image (67).png>)

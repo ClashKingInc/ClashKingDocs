@@ -1,8 +1,8 @@
-# 👋 Unlink Players
+# 👋 Dissocier les joueurs
 
-## Unlink Command
+## Commande de dissociation
 
-To unlink a player, you just need to run the `/unlink` command with the player tag of the user you want to unlink.
+Pour dissocier un joueur, il vous suffit d'exécuter la commande `/unlink` avec le tag player de l'utilisateur que vous souhaitez dissocier.
 
 <figure><img src="/img/gitbook/image (1) (1) (1) (1).png" alt="" /><figcaption><p>Example of the use of /unlink command</p></figcaption></figure>
 
