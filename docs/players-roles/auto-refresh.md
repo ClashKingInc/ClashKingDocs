@@ -35,8 +35,8 @@ No parameters needed.
 ## Autorefresh options
 
 * `state` : set autorefresh to ON/OFF
-* `role_treatment` : It will add and/or remove a role depending on the role you set up in [Broken link](broken-reference "mention").
-* `nickname_change` : It will change the nickname depending on the nicknames you set in [Broken link](broken-reference "mention").
+* `role_treatment` : It will add and/or remove a role depending on the role you set up in [Roles (TH & More)](roles-th-and-more/README.md).
+* `nickname_change` : It will change the nickname depending on the nicknames you set in [Set up a server](../server-setups/setup-a-server.md).
 * `blacklist_role_add` : A person with a blacklisted role will not be impacted by autorefresh (they'll keep their roles and nicknames)
-* `blacklist_role_remove` : You can remove a role that has been setup in [#blacklist\_role\_add](auto-refresh.md#blacklist\_role\_add "mention")
+* `blacklist_role_remove` : You can remove a role that has been setup in `blacklist_role_add`.
 * `change_log` : If you want to see the changes the bot makes, you can set a channel where it will send logs of its activities.

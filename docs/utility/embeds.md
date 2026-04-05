@@ -6,7 +6,7 @@ description: Creating, Editing, Copying, Posting, & Deleting an Embed
 
 To put an embed onto the bot, there is 2 options. Option 1 is from scratch and Option 2 is if you have an embed already, but want the bot to use it (like if you have a ticket panel on another bot and want to use it on ClashKing)
 
-## Creating: Option 1  (creating a new embed)
+## Creating: Option 1 (creating a new embed) {#creating-option-1-creating-a-new-embed}
 
 Head to [discohook](https://discohook.app) and you will see something like this:
 

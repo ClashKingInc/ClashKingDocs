@@ -57,7 +57,7 @@ The logs update approximately every 5-10 minutes. This value may go down in the 
 If you want to add ban/strike/profile buttons to player joining/leaving logs, see [setup-a-clan.md](setup-a-clan.md "mention").
 :::
 
-### War/CWL Logs
+### War/CWL Logs {#war-cwl-logs}
 
 <figure><img src="/img/gitbook/image (39).png" alt="" /><figcaption></figcaption></figure>
 

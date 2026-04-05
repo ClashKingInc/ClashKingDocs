@@ -67,5 +67,5 @@ Allow specific users or roles to use specific commands.
 Change the bot’s name and picture for log messages.
 
 :::info
-Once you set up the bot, we suggest that you take a look at the [Broken link](broken-reference "mention") section.
+Once you set up the bot, we suggest that you take a look at the [FAQ](faq.md) section.
 :::

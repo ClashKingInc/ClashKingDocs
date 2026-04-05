@@ -80,7 +80,7 @@ Use `/roster role`
 
 
 
-## Export/Import rosters
+## Export/Import rosters {#export-import-rosters}
 
 Do not fear, you do not have to remake rosters settings for every roster.&#x20;
 

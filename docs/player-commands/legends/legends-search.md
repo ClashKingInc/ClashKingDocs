@@ -23,7 +23,7 @@ The "Today" button, which is the default view, will show you the number of attac
 ![](</img/gitbook/image (157).png>)
 
 :::info
-First read the FAQ if you think that the legend stats are wrong: [link](../../faq.md#the-legend-stats-are-wrong)
+First read the FAQ if you think that the legend stats are wrong: [FAQ](../../faq.md)
 :::
 
 The second button will display your daily results since the beginning of the season\
