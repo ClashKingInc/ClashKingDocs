@@ -92,14 +92,14 @@ const config: Config = {
       style: 'light',
       links: [
         {
-          title: 'Over',
+          title: 'About',
           items: [
             {
-              label: 'Functies',
+              label: 'Features',
               href: 'https://clashk.ing/features',
             },
             {
-              label: 'Hulp nodig?',
+              label: 'Need Help?',
               href: 'https://clashk.ing/help',
             },
             {
@@ -107,7 +107,7 @@ const config: Config = {
               href: 'https://clashk.ing/open-source',
             },
             {
-              label: 'Steun ons',
+              label: 'Support Us',
               href: 'https://clashk.ing/support',
             },
           ],
@@ -120,20 +120,20 @@ const config: Config = {
               href: 'https://clashk.ing/login',
             },
             {
-              label: 'Nodig Bot Uit',
+              label: 'Invite Bot',
               href: 'https://invite.clashk.ing/',
             },
           ],
         },
         {
-          title: 'Bronnen',
+          title: 'Resources',
           items: [
             {
-              label: 'Documentatie',
+              label: 'Documentation',
               href: 'https://docs.clashk.ing',
             },
             {
-              label: 'Snelstartgids',
+              label: 'Quick Start',
               href: 'https://docs.clashk.ing/quick-start',
             },
             {
@@ -141,11 +141,11 @@ const config: Config = {
               href: 'https://git.clashk.ing/',
             },
             {
-              label: 'Meld een bug',
+              label: 'Report a Bug',
               href: 'https://github.com/ClashKingInc/ClashKingBot/issues',
             },
             {
-              label: 'Vraag functie aan',
+              label: 'Request a Feature',
               href: 'https://github.com/ClashKingInc/ClashKingBot/issues',
             },
           ],
@@ -164,7 +164,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `De krachtigste Clash of Clans-bot voor Discord-communities.<br/>© ${new Date().getFullYear()} ClashKing. Alle rechten voorbehouden. · <a href="https://clashk.ing/privacy">Privacybeleid</a> · <a href="https://clashk.ing/terms">Servicevoorwaarden</a>`,
+      copyright: `The most powerful Clash of Clans bot for Discord communities.<br/>© ${new Date().getFullYear()} ClashKing. All rights reserved. · <a href="https://clashk.ing/privacy">Privacy Policy</a> · <a href="https://clashk.ing/terms">Terms of Service</a>`,
     },
     prism: {
       theme: prismThemes.github,

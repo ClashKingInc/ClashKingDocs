@@ -1,34 +1,74 @@
 {
-  "link.title.Docs": {
-    "message": "Documents",
-    "description": "The title of the footer links column with title=Docs in the footer"
+  "link.title.About": {
+    "message": "A propos",
+    "description": "The title of the footer links column with title=About in the footer"
   },
-  "link.title.Community": {
-    "message": "Communauté",
-    "description": "The title of the footer links column with title=Community in the footer"
+  "link.item.label.Features": {
+    "message": "Fonctionnalites",
+    "description": "The label of footer link with label=Features"
   },
-  "link.title.More": {
-    "message": "Plus",
-    "description": "The title of the footer links column with title=More in the footer"
+  "link.item.label.Need Help?": {
+    "message": "Besoin d'aide ?",
+    "description": "The label of footer link with label=Need Help?"
+  },
+  "link.item.label.Open Source": {
+    "message": "Open Source",
+    "description": "The label of footer link with label=Open Source"
+  },
+  "link.item.label.Support Us": {
+    "message": "Nous soutenir",
+    "description": "The label of footer link with label=Support Us"
+  },
+  "link.title.Bot": {
+    "message": "Bot",
+    "description": "The title of the footer links column with title=Bot in the footer"
+  },
+  "link.item.label.Dashboard": {
+    "message": "Tableau de bord",
+    "description": "The label of footer link with label=Dashboard"
+  },
+  "link.item.label.Invite Bot": {
+    "message": "Inviter le bot",
+    "description": "The label of footer link with label=Invite Bot"
+  },
+  "link.title.Resources": {
+    "message": "Ressources",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentation",
+    "description": "The label of footer link with label=Documentation"
   },
   "link.item.label.Quick Start": {
-    "message": "Démarrage rapide",
-    "description": "The label of footer link with label=Quick Start linking to /quick-start"
-  },
-  "link.item.label.Discord": {
-    "message": "Discorde",
-    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/clashking"
-  },
-  "link.item.label.Mobile App": {
-    "message": "Application mobile",
-    "description": "The label of footer link with label=Mobile App linking to /get-the-mobile-app"
+    "message": "Demarrage rapide",
+    "description": "The label of footer link with label=Quick Start"
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/ClashKingInc/ClashKingDocs"
+    "description": "The label of footer link with label=GitHub"
+  },
+  "link.item.label.Report a Bug": {
+    "message": "Signaler un bug",
+    "description": "The label of footer link with label=Report a Bug"
+  },
+  "link.item.label.Request a Feature": {
+    "message": "Demander une fonctionnalite",
+    "description": "The label of footer link with label=Request a Feature"
+  },
+  "link.title.Community": {
+    "message": "Communaute",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.item.label.Discord Server": {
+    "message": "Serveur Discord",
+    "description": "The label of footer link with label=Discord Server"
+  },
+  "link.item.label.X (Twitter)": {
+    "message": "X (Twitter)",
+    "description": "The label of footer link with label=X (Twitter)"
   },
   "copyright": {
-    "message": "Copyright © 2026 ClashKing. Construit avec Docusaurus.",
+    "message": "Le bot Clash of Clans le plus puissant pour les communautes Discord.<br/>© 2026 ClashKing. Tous droits reserves. · <a href=\"https://clashk.ing/privacy\">Politique de confidentialite</a> · <a href=\"https://clashk.ing/terms\">Conditions d'utilisation</a>",
     "description": "The footer copyright"
   }
 }

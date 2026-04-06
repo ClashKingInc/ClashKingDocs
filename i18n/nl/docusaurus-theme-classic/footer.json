@@ -1,34 +1,74 @@
 {
-  "link.title.Docs": {
-    "message": "Documenten",
-    "description": "The title of the footer links column with title=Docs in the footer"
+  "link.title.About": {
+    "message": "Over",
+    "description": "The title of the footer links column with title=About in the footer"
   },
-  "link.title.Community": {
-    "message": "Gemeenschap",
-    "description": "The title of the footer links column with title=Community in the footer"
+  "link.item.label.Features": {
+    "message": "Functies",
+    "description": "The label of footer link with label=Features"
   },
-  "link.title.More": {
-    "message": "Meer",
-    "description": "The title of the footer links column with title=More in the footer"
+  "link.item.label.Need Help?": {
+    "message": "Hulp nodig?",
+    "description": "The label of footer link with label=Need Help?"
+  },
+  "link.item.label.Open Source": {
+    "message": "Open Source",
+    "description": "The label of footer link with label=Open Source"
+  },
+  "link.item.label.Support Us": {
+    "message": "Steun ons",
+    "description": "The label of footer link with label=Support Us"
+  },
+  "link.title.Bot": {
+    "message": "Bot",
+    "description": "The title of the footer links column with title=Bot in the footer"
+  },
+  "link.item.label.Dashboard": {
+    "message": "Dashboard",
+    "description": "The label of footer link with label=Dashboard"
+  },
+  "link.item.label.Invite Bot": {
+    "message": "Nodig Bot Uit",
+    "description": "The label of footer link with label=Invite Bot"
+  },
+  "link.title.Resources": {
+    "message": "Bronnen",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Documentatie",
+    "description": "The label of footer link with label=Documentation"
   },
   "link.item.label.Quick Start": {
-    "message": "Snel beginnen",
-    "description": "The label of footer link with label=Quick Start linking to /quick-start"
-  },
-  "link.item.label.Discord": {
-    "message": "Meningsverschil",
-    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/clashking"
-  },
-  "link.item.label.Mobile App": {
-    "message": "Mobiele app",
-    "description": "The label of footer link with label=Mobile App linking to /get-the-mobile-app"
+    "message": "Snelstartgids",
+    "description": "The label of footer link with label=Quick Start"
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/ClashKingInc/ClashKingDocs"
+    "description": "The label of footer link with label=GitHub"
+  },
+  "link.item.label.Report a Bug": {
+    "message": "Meld een bug",
+    "description": "The label of footer link with label=Report a Bug"
+  },
+  "link.item.label.Request a Feature": {
+    "message": "Vraag functie aan",
+    "description": "The label of footer link with label=Request a Feature"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.item.label.Discord Server": {
+    "message": "Discord Server",
+    "description": "The label of footer link with label=Discord Server"
+  },
+  "link.item.label.X (Twitter)": {
+    "message": "X (Twitter)",
+    "description": "The label of footer link with label=X (Twitter)"
   },
   "copyright": {
-    "message": "Copyright © 2026 ClashKing. Gebouwd met Docusaurus.",
+    "message": "De krachtigste Clash of Clans-bot voor Discord-communities.<br/>© 2026 ClashKing. Alle rechten voorbehouden. · <a href=\"https://clashk.ing/privacy\">Privacybeleid</a> · <a href=\"https://clashk.ing/terms\">Servicevoorwaarden</a>",
     "description": "The footer copyright"
   }
 }
