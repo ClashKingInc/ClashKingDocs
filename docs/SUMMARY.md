@@ -22,26 +22,25 @@
 
 ## Bot commands
 
-* [📋 Roster commands](bot-commands/roster.md)
-* [📳 One-off reminders](bot-commands/reminders.md)
-* [🔗 Army & Base Sharing](use-the-dashboard/link-parsing.md)
-* [🔗 (Un)link players](bot-commands/link-players.md)
 * [🆘 Help](utility/help.md)
-* [📈 Graphs](bot-commands/graphs.md)
-* [⚔️ War & CWL](bot-commands/war-and-cwl.md)
-* [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
-* [🚪 Bans & strikes](bot-commands/bans-and-strikes.md)
+* [🔗 (Un)link players](bot-commands/link-players.md)
+* [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
+* [😎 User settings](player-commands/user-settings.md)
+* [🔍 Lookup](player-commands/lookup.md)
+* [🤔 To-do](player-commands/to-do.md)
+* [🔗 Army & Base Sharing](use-the-dashboard/link-parsing.md)
 * [🏛️ Clan Commands](clan-and-family-commands/clan-commands.md)
 * [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
+* [⚔️ War & CWL](bot-commands/war-and-cwl.md)
+* [📋 Roster commands](bot-commands/roster.md)
+* [🟣 Legends](player-commands/legends/README.md)
+* [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
 * [📋 Leaderboards](clan-and-family-commands/leaderboards.md)
+* [📈 Graphs](bot-commands/graphs.md)
+* [📳 One-off reminders](bot-commands/reminders.md)
+* [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
+* [🚪 Bans & strikes](bot-commands/bans-and-strikes.md)
 * [🎫 Tickets](bot-commands/tickets.md)
-* Player Commands
-  * [🔍 Lookup](player-commands/lookup.md)
-  * [🟣 Legends](player-commands/legends/README.md)
-  * [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
-  * [😎 User settings](player-commands/user-settings.md)
-  * [🤔 To-do](player-commands/to-do.md)
-  * [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
 
 ## 🤖 Custom Bots
 
