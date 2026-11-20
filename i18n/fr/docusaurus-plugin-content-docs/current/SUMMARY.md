@@ -28,13 +28,6 @@
 ## Rôles des joueurs
 
 * [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
-  * [👨‍👩‍👧‍👧 Family Roles](players-roles/roles-th-and-more/family-roles.md)
-  * [🔨 Builder League Roles](players-roles/roles-th-and-more/builder-league-roles.md)
-  * [⚒️ Builder Hall Roles](players-roles/roles-th-and-more/builder-hall-roles.md)
-  * [🥂 Clan Category Role](players-roles/roles-th-and-more/clan-category-role.md)
-  * [🏆 League Roles](players-roles/roles-th-and-more/league-roles.md)
-  * [👵 Tenure Role](players-roles/roles-th-and-more/tenure-role.md)
-  * [🏠 TownHall Roles](players-roles/roles-th-and-more/townhall-roles.md)
 * [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
 * [🤓 Auto-refresh](players-roles/auto-refresh.md)
 
@@ -46,13 +39,6 @@
   * [👀 View strikes](clans-management/strikes/view-strikes.md)
   * [🛎️ Auto strikes](clans-management/strikes/auto-strikes.md)
 * [Rosters](clans-management/rosters/README.md)
-  * [⚔️ Create a roster](clans-management/rosters/create-a-roster.md)
-  * [⚙️ Set up a roster](clans-management/rosters/set-up-a-roster.md)
-  * [📝 Post a roster (signup & more)](clans-management/rosters/post-a-roster-signup-and-more.md)
-  * [🙋‍♀️ Signing up on a roster](clans-management/rosters/signing-up-on-a-roster.md)
-  * [↔️ Manage players](clans-management/rosters/manage-players.md)
-  * [❓ Missing players](clans-management/rosters/missing-players.md)
-  * [⚒️ Manage rosters & more](clans-management/rosters/manage-rosters-and-more.md)
 
 ## Commandes de clan et de famille
 

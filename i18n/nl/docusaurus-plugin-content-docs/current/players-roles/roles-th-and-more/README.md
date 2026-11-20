@@ -1,71 +1,43 @@
-# ⏫ Rollen (TH en meer)
+# ⏫ Roles & Nicknames
 
-## Het type doel en rollen
+ClashKing kan Discord-rollen afstemmen op de zichtbare gekoppelde Clash of Clans-accounts van leden. De meeste roltypes stel je in onder **Roles & Nicknames** in het dashboard. [Koppel spelers](../../clan-setups/link-players/) en [voeg je clans toe](../../use-the-dashboard/add-a-clan.md) voordat je begint.
 
-Geef uw serverleden automatisch een specifieke rol, zodat u ze eenvoudig toegang kunt geven tot een specifiek kanaal of kunt pingen. Je kunt 8 verschillende rollen instellen, type:&#x20;
+:::info
+Maak de Discord-rollen eerst aan. ClashKing heeft **Rollen beheren** nodig en de botrol moet in de Discord-rollenlijst boven de te beheren rollen staan.
+:::
 
-[family-roles.md](family-roles.md "mention")
+## Automatisch verversen
 
-[builder-league-roles.md](builder-league-roles.md "mention")
+Open het dashboard, selecteer je server en kies **Roles & Nicknames**. Zet onder **Auto-Evaluation Settings** de automatische evaluatie aan om rollen bij veranderingen in spelergegevens bij te werken. Je kunt ook bijnaamupdates inschakelen, een vertraging na het verlaten van een clan instellen en zichtbare accounts buiten de family toestaan spelerrollen te verdienen.
 
-[builder-hall-roles.md](builder-hall-roles.md "mention")
+Alleen zichtbare gekoppelde accounts tellen mee; rollen die via meerdere zichtbare accounts worden verdiend, worden gecombineerd. Je kunt rollen ook handmatig [verversen](../manual-refresh-roles-and-nicknames.md).
 
-[clan-category-role.md](clan-category-role.md "mention")
+## Family- en leidersrollen
 
-[league-roles.md](league-roles.md "mention")
+Voeg onder **Family & Leadership** Discord-rollen toe aan deze groepen:
 
-[tenure-role.md](tenure-role.md "mention")
+- **Family**: leden met een account in een familyclan.
+- **Non-Family**: leden zonder account in een familyclan.
+- **Elder**, **Co-Leader** en **Leader**: leden met die rang in een familyclan.
 
-[townhall-roles.md](townhall-roles.md "mention")
+Geef bijvoorbeeld de Family-rol toegang tot een gedeeld Discord-kanaal. Met de knoppen naast een ingestelde rol wijzig je de toevoeg- of verwijdermodus of verwijder je de regel.
 
+## Speler- en categorierollen
 
+Klik onder **Player Roles** op **Add Role Type**, kies een type, de bijbehorende voorwaarde en een bestaande Discord-rol en klik op **Add Role**. Ingestelde regels staan eronder en kun je daar verwijderen.
 
-## Zie ingestelde rollen
+- **Town Hall** en **Builder Hall**: een rol voor een gekozen level, bijvoorbeeld TH16 of BH10.
+- **League** en **Builder League**: een rol voor een gekozen competitie.
+- **Clan Category**: een rol voor leden van clans in een gekozen categorie. Stel de categorie eerst in onder **Clans**; zie [Add / Setup a clan](../../use-the-dashboard/add-a-clan.md).
 
-U kunt een overzicht krijgen van de rollen die u instelt. Het commando is `/roles list`
+## Rollen voor één clan
 
-<figure><img src="/img/docs-media/image (6).png" alt="" /><figcaption></figcaption></figure>
+Kies onder **Management → Clans → Configure** een **Member Role** voor de leden en een **Leader Role** voor de leider en coleaders van die clan. Deze staan los van de rollen voor de hele family. Zie [Add / Setup a clan](../../use-the-dashboard/add-a-clan.md).
 
-## Rollen uitschakelen
+## Discord-tenurerollen
 
-U kunt een aantal van de eerder ingestelde rollen ongedaan maken met behulp van `/roles remove`
+Tenurerollen zijn een experimentele functie op basis van hoelang iemand op de Discord-server zit. Zet **Discord Tenure Roles** aan in **Lab** en open daarna **General settings → Discord Tenure Roles**. Klik op **Add Tenure Role**, vul het aantal maanden in en kies een Discord-rol. Geef bijvoorbeeld na zes maanden een rol. De hoogste rol waarvoor een lid in aanmerking komt, wordt gebruikt. Bij uitschakelen blijven opgeslagen regels en al toegekende rollen bestaan.
 
-<figure><img src="/img/docs-media/image (42).png" alt="" /><figcaption></figcaption></figure>
+## Bijnamen
 
-## Beheer rollen
-
-<details>
-
-<summary>Lijst met rollen</summary>
-
-Bekijk welke rollen zijn ingesteld met `/roles list`
-
-![](</img/docs-media/image (18) (1).png>)
-
-</details>
-
-<details>
-
-<summary>Type leden</summary>
-
-Stel het type serverleden in die de rollen krijgen die u instelt met `/roles family {type} {add} {remove}`.
-
-![](</img/docs-media/image (17) (1).png>)
-
-</details>
-
-<details>
-
-<summary>Rollen verwijderen</summary>
-
-`/roles remove`
-
-</details>
-
-<details>
-
-<summary>Krijg de levensduur van een rol</summary>
-
-`/roles status` vertelt je wanneer je een rol instelt.
-
-</details>
+Onder **Nicknames** op de pagina **Roles & Nicknames** stel je bijnaamformaten voor family- en niet-familyleden in. Automatische bijnaamupdates hebben een eigen schakelaar onder **Auto-Evaluation Settings**.

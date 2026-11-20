@@ -1,71 +1,43 @@
-# ⏫ Rôles (TH et plus)
+# ⏫ Roles & Nicknames
 
-## L'objectif et le type de rôles
+ClashKing peut synchroniser les rôles Discord avec les comptes Clash of Clans liés et visibles des membres. Configurez la plupart des rôles sous **Roles & Nicknames** dans le tableau de bord. [Associez les joueurs](../../clan-setups/link-players/) et [ajoutez vos clans](../../use-the-dashboard/add-a-clan.md) au préalable.
 
-Donnez automatiquement un rôle spécifique aux membres de votre serveur afin de pouvoir leur donner accès à un canal spécifique ou à un ping facilement. Vous pouvez configurer 8 types de rôles différents :&#x20;
+:::info
+Créez d'abord les rôles Discord. ClashKing doit avoir la permission **Gérer les rôles** et son rôle doit être placé au-dessus des rôles à gérer dans Discord.
+:::
 
-[family-roles.md](family-roles.md "mention")
+## Évaluation automatique
 
-[builder-league-roles.md](builder-league-roles.md "mention")
+Ouvrez le tableau de bord, sélectionnez votre serveur et choisissez **Roles & Nicknames**. Sous **Auto-Evaluation Settings**, activez l'évaluation automatique pour actualiser les rôles lorsque les données des joueurs changent. Vous pouvez également activer les surnoms automatiques, définir un délai après le départ d'un clan et permettre aux comptes visibles hors famille d'obtenir des rôles de joueur.
 
-[builder-hall-roles.md](builder-hall-roles.md "mention")
+Seuls les comptes liés visibles sont pris en compte ; les rôles obtenus par plusieurs comptes visibles sont combinés. Vous pouvez aussi [actualiser les rôles manuellement](../manual-refresh-roles-and-nicknames.md).
 
-[clan-category-role.md](clan-category-role.md "mention")
+## Rôles de famille et de direction
 
-[league-roles.md](league-roles.md "mention")
+Sous **Family & Leadership**, ajoutez des rôles Discord aux groupes suivants :
 
-[tenure-role.md](tenure-role.md "mention")
+- **Family** : membres ayant un compte dans un clan de la famille.
+- **Non-Family** : membres sans compte dans un clan de la famille.
+- **Elder**, **Co-Leader** et **Leader** : membres ayant ce rang dans un clan de la famille.
 
-[townhall-roles.md](townhall-roles.md "mention")
+Par exemple, attribuez un rôle Family pour donner accès à un salon Discord commun. Les commandes à côté d'un rôle configuré permettent de modifier son mode d'ajout ou de retrait, ou de supprimer la règle.
 
+## Rôles de joueur et de catégorie
 
+Sous **Player Roles**, cliquez sur **Add Role Type**, choisissez un type, son critère et un rôle Discord existant, puis cliquez sur **Add Role**. Les règles configurées apparaissent en dessous et peuvent y être supprimées.
 
-## Voir les rôles définis
+- **Town Hall** et **Builder Hall** : un rôle pour un niveau choisi, par exemple HDV16 ou MdO10.
+- **League** et **Builder League** : un rôle pour une ligue choisie.
+- **Clan Category** : un rôle pour les membres des clans d'une catégorie. Définissez d'abord la catégorie sous **Clans** ; voir [Add / Setup a clan](../../use-the-dashboard/add-a-clan.md).
 
-Vous pouvez avoir un aperçu des rôles que vous définissez. La commande est `/roles list`
+## Rôles d'un clan
 
-<figure><img src="/img/docs-media/image (6).png" alt="" /><figcaption></figcaption></figure>
+Sous **Management → Clans → Configure**, choisissez un **Member Role** pour les membres du clan et un **Leader Role** pour son chef et ses chefs adjoints. Ces rôles sont distincts des rôles de toute la famille. Voir [Add / Setup a clan](../../use-the-dashboard/add-a-clan.md).
 
-## Rôles non définis
+## Rôles d'ancienneté Discord
 
-Vous pouvez annuler la définition de certains des rôles que vous avez définis précédemment en utilisant `/roles remove`.
+Les rôles d'ancienneté sont une fonctionnalité expérimentale basée sur la durée de présence d'un membre sur le serveur Discord. Activez **Discord Tenure Roles** dans **Lab**, puis ouvrez **General settings → Discord Tenure Roles**. Cliquez sur **Add Tenure Role**, saisissez le nombre de mois et choisissez un rôle Discord. Par exemple, attribuez un rôle après six mois. Le rôle correspondant au seuil le plus élevé atteint est utilisé. La désactivation conserve les règles enregistrées et les rôles déjà attribués.
 
-<figure><img src="/img/docs-media/image (42).png" alt="" /><figcaption></figcaption></figure>
+## Surnoms
 
-## Gérer les rôles
-
-<details>
-
-<summary>Liste des rôles</summary>
-
-Voir quels rôles sont définis avec `/roles list`
-
-![](</img/docs-media/image (18) (1).png>)
-
-</details>
-
-<details>
-
-<summary>Type de membres</summary>
-
-Définissez le type de membres du serveur qui obtiendront les rôles que vous avez définis avec `/roles family {type} {add} {remove}`.
-
-![](</img/docs-media/image (17) (1).png>)
-
-</details>
-
-<details>
-
-<summary>Supprimer des rôles</summary>
-
-`/roles remove`
-
-</details>
-
-<details>
-
-<summary>Obtenir la longévité d'un rôle</summary>
-
-`/roles status` vous indique quand vous définissez un rôle.
-
-</details>
+La section **Nicknames** de **Roles & Nicknames** permet de définir des formats de surnom pour les membres de la famille et les autres membres. Les mises à jour automatiques des surnoms ont leur propre interrupteur sous **Auto-Evaluation Settings**.
