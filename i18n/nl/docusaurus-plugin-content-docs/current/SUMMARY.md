@@ -29,7 +29,6 @@
 
 * [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
 * [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
-* [🤓 Auto-refresh](players-roles/auto-refresh.md)
 
 ## Clansbeheer
 
@@ -37,7 +36,6 @@
 * [😠 Strikes](clans-management/strikes/README.md)
   * [🎳 Add a strike](clans-management/strikes/add-a-strike.md)
   * [👀 View strikes](clans-management/strikes/view-strikes.md)
-  * [🛎️ Auto strikes](clans-management/strikes/auto-strikes.md)
 * [Rosters](clans-management/rosters/README.md)
 
 ## Clan- en familieopdrachten
@@ -47,13 +45,6 @@
 * [📋 Leaderboards](clan-and-family-commands/leaderboards.md)
 * [⚔️ War & CWL](clan-and-family-commands/war-and-cwl.md)
 * [📈 Graphs](clan-and-family-commands/graphs.md)
-* [🆙 Boosted Super Troops](clan-and-family-commands/boosted-super-troops.md)
-
-## Kaartverkoop
-
-* [🔨 Creating a Ticket panel](ticketing/creating-a-ticket-panel.md)
-* [✅ Adding Buttons & Actions](ticketing/adding-buttons-and-actions.md)
-* [🎫 Inside the Ticket](ticketing/inside-the-ticket.md)
 
 ## Speleropdrachten
 
@@ -67,8 +58,6 @@
 ## Nutsvoorziening
 
 * [🆘 Help](utility/help.md)
-* [🔘 Buttons](utility/buttons.md)
-* [🔢 Embeds](utility/embeds.md)
 * [🐸 Pepe](utility/pepe.md)
 * [Army links](utility/army-links.md)
 * [🖼️ Base links](utility/base-links.md)

@@ -27,7 +27,7 @@ Configurez les journaux d'administration, les rôles, les noms par défaut et d'
 **Étape 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
 Soyez averti des guerres, de la CWL, de l'inactivité, des jeux de clan, des raids et des listes.
 
-**Étape 7** - 🔄 [**Enable auto-refresh**](players-roles/auto-refresh.md)\
+**Étape 7** - 🔄 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
 Attribuez automatiquement des rôles et des noms aux utilisateurs en fonction de leur statut de clan.
 
 **Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
@@ -37,8 +37,8 @@ Emmenez ClashKing partout où vous allez avec notre application mobile dédiée 
 
 ## **Facultatif mais vraiment utile**
 
-**Étape 8** - 🖼️ [**Set up a panel**](utility/buttons.md)\
-Aidez vos membres de clan à lier leurs comptes à l'aide d'un message statique ou de bienvenue.
+**Étape 8** - 🔗 [**Lier les comptes**](bot-commands/link-players.md)\
+Aidez les membres à lier leurs comptes Clash of Clans.
 
 **Étape 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
 Attribuez des rôles pour le niveau de la mairie, la ligue, les réalisations et bien plus encore.
@@ -46,7 +46,7 @@ Attribuez des rôles pour le niveau de la mairie, la ligue, les réalisations et
 **Étape 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
 Simplifiez la liaison des comptes grâce à l'analyse automatisée des liens.
 
-**Étape 11** - 🎟️ [**Create tickets**](ticketing/creating-a-ticket-panel.md)\
+**Étape 11** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
 Configurez des tickets pour les candidatures du clan ou d’autres besoins.
 
 **Étape 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\

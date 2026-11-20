@@ -5,5 +5,3 @@ Les grèves sont un moyen d'avertir les membres et de suivre ces avertissements.
 [add-a-strike.md](add-a-strike.md "mention")
 
 [view-strikes.md](view-strikes.md "mention")
-
-[auto-strikes.md](auto-strikes.md "mention") (pas encore disponible)

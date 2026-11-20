@@ -47,7 +47,7 @@ Geen vereiste parameters.
 
 * `flair_non_family`: Je kunt kiezen of je wel of niet “flair”-rollen (stadhuis, competitie, enz.) wilt geven aan niet-familieleden.
 * `api_token`: kies of de speler een api\_token moet geven wanneer hij de `/link command` ([link-players](../clan-setups/link-players/ "mention")) gebruikt.
-* `leadership_eval`: u kunt kiezen of leider en co-leider moeten worden uitgesloten van evaluatie-instellingen (zie [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention") & [auto-refresh.md](../players-roles/auto-refresh.md "mention"))
+* `leadership_eval`: u kunt kiezen of leider en co-leider moeten worden uitgesloten van evaluatie-instellingen (zie [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention"))
 * `full_whitelist_role`: Geef de gebruikers met deze speciale rol het recht om alle botopdrachten uit te voeren. Wees voorzichtig: "Met grote macht komt grote verantwoordelijkheid".
 * `embed_color`: Kies de kleuren van de insluiting die door de bot is verzonden.
 * `followed_reddit_accounts`: u kunt logposts ontvangen voor opmerkingen van bepaalde gebruikers op de rekruteringssubreddit. Je hebt gewoon een reddit-feed ingesteld (zie [reddit-recruit-feed.md](reddit-recruit-feed.md "mention")) en je kunt een komma gebruiken om verschillende accounts toe te voegen om te volgen.

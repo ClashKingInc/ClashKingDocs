@@ -55,26 +55,6 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
-    {
-      type: 'category',
-      label: 'Unused',
-      items: [
-        'utility/buttons',
-        'utility/embeds',
-        'clan-and-family-commands/boosted-super-troops',
-        'players-roles/auto-refresh',
-        'clans-management/strikes/auto-strikes',
-        {
-          type: 'category',
-          label: 'Ticketing',
-          items: [
-            'ticketing/creating-a-ticket-panel',
-            'ticketing/adding-buttons-and-actions',
-            'ticketing/inside-the-ticket',
-          ],
-        },
-      ],
-    },
   ],
 };
 

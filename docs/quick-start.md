@@ -28,7 +28,7 @@ Configure admin logs, roles, default names, and other server settings.
 **Step 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
 Get notified for wars, CWL, inactivity, clan games, raids, and rosters.
 
-**Step 7** - 🔄 [**Enable auto-refresh**](players-roles/auto-refresh.md)\
+**Step 7** - 🔄 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
 Automatically assign roles and names to users based on their clan status.
 
 **Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
@@ -38,8 +38,8 @@ Take ClashKing wherever you go with our dedicated mobile app!
 
 ## **Optional but Really Useful**
 
-**Step 8** - 🖼️ [**Set up a panel**](utility/buttons.md)\
-Help your clanmates link their accounts using a static or welcome message.
+**Step 8** - 🔗 [**Link accounts**](bot-commands/link-players.md)\
+Help clanmates link their Clash of Clans accounts.
 
 **Step 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
 Assign roles for Town Hall level, league, achievements, and more.
@@ -47,7 +47,7 @@ Assign roles for Town Hall level, league, achievements, and more.
 **Step 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
 Simplify account linking with automated link parsing.
 
-**Step 11** - 🎟️ [**Create tickets**](ticketing/creating-a-ticket-panel.md)\
+**Step 11** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
 Set up tickets for clan applications or other needs.
 
 **Step 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\

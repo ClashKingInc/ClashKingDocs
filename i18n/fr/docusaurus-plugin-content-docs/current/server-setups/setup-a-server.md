@@ -46,7 +46,7 @@ Aucun paramètre requis.
 
 * `flair_non_family` : Vous pouvez choisir de donner ou non des rôles « flair » (mairie, ligue, etc) à des personnes non membres de la famille.
 * `api_token` : Choisissez si le joueur doit donner un api\_token lorsqu'il utilise le `/link command` ([link-players](../clan-setups/link-players/ "mention")).
-* `leadership_eval` : vous pouvez choisir si le leader et le co-leader doivent être exclus des paramètres d'évaluation (voir [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention") et [auto-refresh.md](../players-roles/auto-refresh.md "mention")).
+* `leadership_eval` : vous pouvez choisir si le leader et le co-leader doivent être exclus des paramètres d'évaluation (voir [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention")).
 * `full_whitelist_role` : Donnez le droit aux utilisateurs ayant ce rôle spécial d'exécuter toutes les commandes du bot. Utilisez-le avec prudence : « Un grand pouvoir implique de grandes responsabilités ».
 * `embed_color` : Choisissez les couleurs de l'intégration envoyée par le bot.
 * `followed_reddit_accounts` : vous pouvez obtenir des articles de journal pour les commentaires de certains utilisateurs sur le subreddit de recrutement. Vous devez avoir configuré le flux Reddit (voir [reddit-recruit-feed.md](reddit-recruit-feed.md "mention")) et pouvez utiliser une virgule pour ajouter plusieurs comptes à suivre.

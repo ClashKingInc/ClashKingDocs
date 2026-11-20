@@ -26,7 +26,7 @@ Voordat u dat commando uitvoert, moet u een leiderschapsrol creëren vanaf uw on
 * `member_role`: De rol die de leden van deze clan moeten krijgen. Dus als je het oneens bent, als de bot de rollen beheert, zou elke persoon in deze clan deze rol krijgen. Handig als je clanspecifieke kanalen maakt.
 * `leadership_role`: de rol die eventuele medeleiders en leiders in deze clan zullen krijgen. Bij een typische onenigheid heb je misschien een leadchat voor een clan of een cumulatieve leiderchat voor alle clans. Deze rol kan hier nuttig zijn.
 * `clan_channel`: het kanaal dat u definieert, zal het standaardkanaal zijn waar de bot in zal schrijven. Dit is bijvoorbeeld waar nieuwe gebruikers geweldig zullen zijn als u de optie activeert.
-* `greeting`: je kunt een embed kiezen die de bot verzendt wanneer een nieuw lid lid wordt van je clan (als deze aan onenigheid is gekoppeld). Om een ​​insluiting te maken, kijk eens naar [embeds.md](../utility/embeds.md "mention")
+* `greeting`: je kunt een embed kiezen die de bot verzendt wanneer een nieuw lid lid wordt van je clan (als deze aan onenigheid is gekoppeld).
 
 :::info
 **Clanbegroetingsconventies**

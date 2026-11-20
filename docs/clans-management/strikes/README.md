@@ -5,5 +5,3 @@ Strikes is a way to warn members and keep track of those warnings. It's very use
 [add-a-strike.md](add-a-strike.md "mention")
 
 [view-strikes.md](view-strikes.md "mention")
-
-[auto-strikes.md](auto-strikes.md "mention") (not available yet)

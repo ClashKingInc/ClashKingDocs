@@ -27,7 +27,7 @@ Configureer beheerderslogboeken, rollen, standaardnamen en andere serverinstelli
 **Stap 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
 Ontvang meldingen voor oorlogen, CWL, inactiviteit, clanspellen, invallen en roosters.
 
-**Stap 7** - 🔄 [**Enable auto-refresh**](players-roles/auto-refresh.md)\
+**Stap 7** - 🔄 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
 Wijs automatisch rollen en namen toe aan gebruikers op basis van hun clanstatus.
 
 **Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
@@ -37,8 +37,8 @@ Neem ClashKing overal mee naartoe met onze speciale mobiele app!
 
 ## **Optioneel maar echt nuttig**
 
-**Stap 8** - 🖼️ [**Set up a panel**](utility/buttons.md)\
-Help je clangenoten hun accounts te koppelen met behulp van een statisch of welkomstbericht.
+**Stap 8** - 🔗 [**Accounts koppelen**](bot-commands/link-players.md)\
+Help clanleden hun Clash of Clans-accounts te koppelen.
 
 **Stap 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
 Wijs rollen toe voor stadhuisniveau, competitie, prestaties en meer.
@@ -46,7 +46,7 @@ Wijs rollen toe voor stadhuisniveau, competitie, prestaties en meer.
 **Stap 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
 Vereenvoudig het koppelen van accounts met geautomatiseerde koppelingsparsering.
 
-**Stap 11** - 🎟️ [**Create tickets**](ticketing/creating-a-ticket-panel.md)\
+**Stap 11** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
 Maak tickets aan voor clantoepassingen of andere behoeften.
 
 **Stap 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\

@@ -5,5 +5,3 @@ Strikes is een manier om leden te waarschuwen en deze waarschuwingen bij te houd
 [add-a-strike.md](add-a-strike.md "mention")
 
 [view-strikes.md](view-strikes.md "mention")
-
-[auto-strikes.md](auto-strikes.md "mention") (nog niet leverbaar)

@@ -27,7 +27,7 @@ Before running that command, you need to create a leadership role from your disc
 * `member_role`: The role that the members of this clan should receive. So on your discord, if the bot managed the roles, every person in this clan would get this role. Helpful if you are making clan specific channels.
 * `leadership_role`: The role that any co-leaders & leader in this clan will receive. In a typical discord, you might have a lead chat for a clan or cumulative leader chat for all clans - this role may find use here.
 * `clan_channel`: The channel you'll define will be the default channel for the bot will write in. For example, this is where it will great new users if you activate the option.
-* `greeting`: You can choose an embed that the bot will send when a new member join your clan (if they have been linked to discord). To create an embed, please take a look at [embeds.md](../utility/embeds.md "mention")
+* `greeting`: You can choose an embed that the bot will send when a new member join your clan (if they have been linked to discord).
 
 :::info
 **Clan Greeting Conventions**

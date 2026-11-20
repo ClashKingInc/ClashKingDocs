@@ -48,15 +48,3 @@
 * [🤖 Custom bot](custom-bots/custom-bot.md)
 * [💻 Developer Portal](custom-bots/developer-portal.md)
 * [🟢 Turn it on!](custom-bots/turn-it-on.md)
-
-## Unused
-
-* [🔘 Buttons](utility/buttons.md)
-* [🔢 Embeds](utility/embeds.md)
-* [🆙 Boosted Super Troops](clan-and-family-commands/boosted-super-troops.md)
-* [🤓 Auto-refresh](players-roles/auto-refresh.md)
-* [🛎️ Auto strikes](clans-management/strikes/auto-strikes.md)
-* [🎫 Ticketing](ticketing/creating-a-ticket-panel.md)
-  * [🔨 Creating a Ticket panel](ticketing/creating-a-ticket-panel.md)
-  * [✅ Adding Buttons & Actions](ticketing/adding-buttons-and-actions.md)
-  * [🎫 Inside the Ticket](ticketing/inside-the-ticket.md)

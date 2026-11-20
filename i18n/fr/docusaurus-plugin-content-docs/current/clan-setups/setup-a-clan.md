@@ -26,7 +26,7 @@ Avant d'exécuter cette commande, vous devez créer un rôle de leadership à pa
 * `member_role` : Le rôle que devraient recevoir les membres de ce clan. Donc sur votre discord, si le bot gérait les rôles, chaque personne de ce clan obtiendrait ce rôle. Utile si vous créez des chaînes spécifiques à un clan.
 * `leadership_role` : Le rôle que recevront tous les co-leaders et leaders de ce clan. Dans une discorde typique, vous pouvez avoir une discussion principale pour un clan ou une discussion de chef cumulative pour tous les clans - ce rôle peut être utile ici.
 * `clan_channel` : Le canal que vous définirez sera le canal par défaut dans lequel le bot écrira. Par exemple, c'est ici qu'il accueillera de nouveaux utilisateurs si vous activez l'option.
-* `greeting` : Vous pouvez choisir une intégration que le bot enverra lorsqu'un nouveau membre rejoindra votre clan (s'il a été lié à Discord). Pour créer une intégration, veuillez jeter un œil à [embeds.md](../utility/embeds.md "mention")
+* `greeting` : Vous pouvez choisir une intégration que le bot enverra lorsqu'un nouveau membre rejoindra votre clan (s'il a été lié à Discord).
 :::info
 **Conventions de salutation des clans**
 
