@@ -26,6 +26,14 @@
   * [🏆 League Roles](players-roles/roles-th-and-more/league-roles.md)
   * [👵 Tenure Role](players-roles/roles-th-and-more/tenure-role.md)
   * [🏠 TownHall Roles](players-roles/roles-th-and-more/townhall-roles.md)
+* [Rosters](clans-management/rosters/README.md)
+  * [⚔️ Create a roster](clans-management/rosters/create-a-roster.md)
+  * [⚙️ Set up a roster](clans-management/rosters/set-up-a-roster.md)
+  * [📝 Post a roster (signup & more)](clans-management/rosters/post-a-roster-signup-and-more.md)
+  * [🙋‍♀️ Signing up on a roster](clans-management/rosters/signing-up-on-a-roster.md)
+  * [↔️ Manage players](clans-management/rosters/manage-players.md)
+  * [❓ Missing players](clans-management/rosters/missing-players.md)
+  * [⚒️ Manage rosters & more](clans-management/rosters/manage-rosters-and-more.md)
 
 ## Bot commands
 
@@ -39,31 +47,18 @@
 * [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
 * [📋 Leaderboards](clan-and-family-commands/leaderboards.md)
 * [🎫 Tickets](bot-commands/tickets.md)
-
-## Clans Management
-
-* [Rosters](clans-management/rosters/README.md)
-  * [⚔️ Create a roster](clans-management/rosters/create-a-roster.md)
-  * [⚙️ Set up a roster](clans-management/rosters/set-up-a-roster.md)
-  * [📝 Post a roster (signup & more)](clans-management/rosters/post-a-roster-signup-and-more.md)
-  * [🙋‍♀️ Signing up on a roster](clans-management/rosters/signing-up-on-a-roster.md)
-  * [↔️ Manage players](clans-management/rosters/manage-players.md)
-  * [❓ Missing players](clans-management/rosters/missing-players.md)
-  * [⚒️ Manage rosters & more](clans-management/rosters/manage-rosters-and-more.md)
-
-## Player Commands
-
-* [🔍 Lookup](player-commands/lookup.md)
-* [🟣 Legends](player-commands/legends/README.md)
-  * [Legends search](player-commands/legends/legends-search.md)
-  * [Legends clan](player-commands/legends/legends-clan.md)
-  * [Legends stats](player-commands/legends/legends-stats.md)
-  * [Legends history](player-commands/legends/legends-history.md)
-  * [Legends poster](player-commands/legends/legends-poster.md)
-* [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
-* [😎 User settings](player-commands/user-settings.md)
-* [🤔 To-do](player-commands/to-do.md)
-* [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
+* Player Commands
+  * [🔍 Lookup](player-commands/lookup.md)
+  * [🟣 Legends](player-commands/legends/README.md)
+    * [Legends search](player-commands/legends/legends-search.md)
+    * [Legends clan](player-commands/legends/legends-clan.md)
+    * [Legends stats](player-commands/legends/legends-stats.md)
+    * [Legends history](player-commands/legends/legends-history.md)
+    * [Legends poster](player-commands/legends/legends-poster.md)
+  * [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
+  * [😎 User settings](player-commands/user-settings.md)
+  * [🤔 To-do](player-commands/to-do.md)
+  * [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
 
 ## 🤖 Custom Bots
 
