@@ -14,5 +14,5 @@ You can reach the dashboard in two ways:
 - Use the `/setup` command in a Discord server where ClashKing is installed
 
 :::info
-You need the ClashKing bot in your server and be an **admin** or the **server owner** to use the dashboard.
+ClashKing must be in your server. Access requires server ownership, **Manage Server**, **Administrator**, or a role granted [dashboard access](../server-setups/whitelist.md).
 :::

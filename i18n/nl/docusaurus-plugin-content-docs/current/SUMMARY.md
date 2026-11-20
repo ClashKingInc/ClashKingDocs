@@ -1,7 +1,7 @@
 # Inhoudsopgave
 
 * [👋 Welcome to ClashKing!](README.md)
-* [Quick start](quick-start.md)
+* [🚀 Quick start](quick-start.md)
 * [📱 Get the mobile app !](get-the-mobile-app.md)
 * [❓ FAQ](faq.md)
 

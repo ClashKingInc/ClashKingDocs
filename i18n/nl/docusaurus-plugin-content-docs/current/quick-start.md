@@ -1,70 +1,58 @@
 ---
 icon: flag-checkered
-description: Follow these steps to set up ClashKing for the first time on your server.
+description: Volg deze stappen om ClashKing voor het eerst op je server in te stellen.
 ---
-# Snelle start
 
-## Aanbevolen installatie
+# 🚀 Quick start
 
-**Stap 0** - 🟢 [**Add the bot**](https://invite.clashk.ing/)\
-Begin door ClashKing toe te voegen aan uw Discord-server.
+## Aanbevolen instellingen
 
-**Stap 1** - 🏰 [**Add your clan(s)**](clan-setups/add-a-clan.md)\
-Koppel je Clash of Clans-clan(s) aan de bot.
+**Stap 1** - 🟢 [**Voeg ClashKing toe**](https://invite.clashk.ing/)\
+Voeg de bot toe aan je Discord-server en geef hem de rechten die nodig zijn voor de functies die je wilt gebruiken.
 
-**Stap 2** - ⚙️[ **Set up your clan(s)**](clan-setups/setup-a-clan.md)\
-Configureer je clan(s) om het meeste uit ClashKing te halen.
+**Stap 2** - 🖥️ [**Open het dashboard**](use-the-dashboard/dashboard-explained.md)\
+Gebruik `/setup` in je server of log met Discord in op het dashboard en selecteer je server. Je hebt serverbeheerrechten of een rol met dashboardtoegang nodig.
 
-**Stap 3** - 🔗 [**Link your clanmates**](clan-setups/link-players/)\
-Wijs Discord-gebruikers toe aan Clash of Clans-spelers voor betere tracking.
+**Stap 3** - 🏰 [**Voeg je clans toe en stel ze in**](use-the-dashboard/add-a-clan.md)\
+Open **Management → Clans**, voeg elke clan met zijn tag toe en stel hem in. Verifieer een clan als je functies wilt gebruiken waarvoor verificatie nodig is.
 
-**Stap 4** - 📝 [**Set up clan logs**](clan-setups/log-setup.md)\
-Schakel logboeken in voor gebeurtenissen zoals raids, oorlogen, CWL, spelersactiviteit en meer.
+**Stap 4** - 🔗 [**Koppel spelersaccounts**](bot-commands/link-players.md)\
+Leden kunnen met `/link add` hun Clash of Clans-accounts aan Discord koppelen. Zo kan ClashKing leden herkennen voor rollen, reminders en andere functies.
 
-**Stap 5** - 🛠️ [**Set up your server**](server-setups/setup-a-server.md)\
-Configureer beheerderslogboeken, rollen, standaardnamen en andere serverinstellingen.
+**Stap 5** - 📝 [**Stel logs in**](use-the-dashboard/setup-logs.md)\
+Selecteer onder **Logs** een clan of je server, zet de gewenste logs aan en kies waar ze verschijnen. Stel bijvoorbeeld een warlog in voor een clankanaal.
 
-**Stap 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
-Ontvang meldingen voor oorlogen, CWL, inactiviteit, clanspellen, invallen en roosters.
+**Stap 6** - 🎭 [**Stel rollen en bijnamen in**](players-roles/roles-th-and-more/)\
+Maak Discord-rollen aan en configureer daarna de regels en automatische evaluatie onder **Roles & Nicknames**. Zorg dat de bot de juiste rechten en positie in de rollenlijst heeft.
 
-**Stap 7** - 🔄 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
-Wijs automatisch rollen en namen toe aan gebruikers op basis van hun clanstatus.
-
-**Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
-Neem ClashKing overal mee naartoe met onze speciale mobiele app!
+**Stap 7** - ⏰ [**Stel reminders in**](server-setups/reminders.md)\
+Maak reminders aan in het dashboard voor oorlogen, Clan Capital of Clan Games. Voor warreminders moet het oorlogslogboek openbaar zijn.
 
 ***
 
-## **Optioneel maar echt nuttig**
+## Optioneel maar handig
 
-**Stap 8** - 🔗 [**Accounts koppelen**](bot-commands/link-players.md)\
-Help clanleden hun Clash of Clans-accounts te koppelen.
+**Stap 8** - 📜 [**Zet link parsing aan**](server-setups/link-parse.md)\
+Kies welke ondersteunde Clash of Clans-links automatisch worden uitgebreid in Discord.
 
-**Stap 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
-Wijs rollen toe voor stadhuisniveau, competitie, prestaties en meer.
+**Stap 9** - 🎟️ [**Maak tickets aan**](bot-commands/tickets.md)\
+Stel een ticketpaneel in op het dashboard en publiceer het voor clanaanmeldingen of andere verzoeken.
 
-**Stap 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
-Vereenvoudig het koppelen van accounts met geautomatiseerde koppelingsparsering.
+**Stap 10** - ⏳ [**Stel voice countdowns in**](server-setups/voice-countdowns.md)\
+Toon timers voor evenementen of clanoorlogen in de namen van Discord-spraakkanalen.
 
-**Stap 11** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
-Maak tickets aan voor clantoepassingen of andere behoeften.
+**Stap 11** - 🏗️ [**Stel autoboards in**](server-setups/autoboards.md)\
+Maak een automatisch bijgewerkte donatie- of farmingranglijst. Autoboards zijn in open bèta.
 
-**Stap 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\
-Creëer timers voor game- of clanevenementen rechtstreeks in spraakkanalen.
+**Stap 12** - 🔒 [**Geef dashboardtoegang**](server-setups/whitelist.md)\
+Geef Discord-rollen toegang tot de dashboardonderdelen die ze nodig hebben.
 
-***
+**Stap 13** - 🔍 [**Stel de Reddit recruit feed in**](server-setups/reddit-recruit-feed.md)\
+Stuur wervingsberichten voor Engelstalige clans naar een Discord-kanaal.
 
-## **Om verder te gaan**
-
-**Stap 13** - 🔍[**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
-Stream rekruteringsposts van Reddit (alleen Engelssprekende clans).
-
-**Stap 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\
-Sta specifieke gebruikers of rollen toe om specifieke opdrachten te gebruiken.
-
-**Stap 15** - 🖌️ [**Customize the bot**](server-setups/others.md#customize-the-bot)\
-Wijzig de naam en afbeelding van de bot voor logberichten.
+**Bonus** - 📱 [**Download de mobiele app**](get-the-mobile-app.md)\
+Bekijk de ClashKing-app voor iOS en Android.
 
 :::info
-Nadat u de bot heeft ingesteld, raden we u aan de sectie [FAQ](faq.md) te bekijken.
+Bekijk de [FAQ](faq.md) voor antwoorden op veelgestelde vragen.
 :::

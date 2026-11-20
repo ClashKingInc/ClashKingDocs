@@ -1,4 +1,4 @@
-# 📱 Get the mobile app !
+# 📱 Get the mobile app!
 
 #### **📱 ClashKing Mobile App**
 

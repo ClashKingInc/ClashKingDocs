@@ -3,69 +3,56 @@ icon: flag-checkered
 description: Follow these steps to set up ClashKing for the first time on your server.
 ---
 
-# Quick start
+# 🚀 Quick start
 
-## Recommended Setup
+## Recommended setup
 
-**Step 0** - 🟢 [**Add the bot**](https://invite.clashk.ing/)\
-Start by adding ClashKing to your Discord server.
+**Step 1** - 🟢 [**Add ClashKing**](https://invite.clashk.ing/)\
+Add the bot to your Discord server and grant the permissions needed for the features you want to use.
 
-**Step 1** - 🏰 [**Add your clan(s)**](clan-setups/add-a-clan.md)\
-Link your Clash of Clans clan(s) to the bot.
+**Step 2** - 🖥️ [**Open the dashboard**](use-the-dashboard/dashboard-explained.md)\
+Run `/setup` in your server or sign in to the dashboard with Discord, then select your server. Access requires server management permissions or an assigned dashboard-access role.
 
-**Step 2** - ⚙️[ **Set up your clan(s)**](clan-setups/setup-a-clan.md)\
-Configure your clan(s) to get the most out of ClashKing.
+**Step 3** - 🏰 [**Add and configure your clans**](use-the-dashboard/add-a-clan.md)\
+Open **Management → Clans**, add each clan by tag, and configure its settings. Verify a clan if you need features that require verification.
 
-**Step 3** - 🔗 [**Link your clanmates**](clan-setups/link-players/)\
-Map Discord users to Clash of Clans players for better tracking.
+**Step 4** - 🔗 [**Link player accounts**](bot-commands/link-players.md)\
+Members can use `/link add` to link their Clash of Clans accounts to Discord. Linked accounts help ClashKing identify members for roles, reminders, and other features.
 
-**Step 4** - 📝 [**Set up clan logs**](clan-setups/log-setup.md)\
-Enable logs for events like raids, wars, CWL, player activity, and more.
+**Step 5** - 📝 [**Set up logs**](use-the-dashboard/setup-logs.md)\
+Under **Logs**, select a clan or your server, enable the logs you want, and choose where they should post. For example, set up a war log in a clan channel.
 
-**Step 5** - 🛠️ [**Set up your server**](server-setups/setup-a-server.md)\
-Configure admin logs, roles, default names, and other server settings.
+**Step 6** - 🎭 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
+Create Discord roles, then configure the rules and automatic evaluation under **Roles & Nicknames**. Make sure the bot has the required permissions and role hierarchy.
 
-**Step 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
-Get notified for wars, CWL, inactivity, clan games, raids, and rosters.
-
-**Step 7** - 🔄 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
-Automatically assign roles and names to users based on their clan status.
-
-**Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
-Take ClashKing wherever you go with our dedicated mobile app!
+**Step 7** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
+Create reminders in the dashboard for wars, Clan Capital, or Clan Games. A public war log is required for war reminders.
 
 ***
 
-## **Optional but Really Useful**
+## Optional but useful
 
-**Step 8** - 🔗 [**Link accounts**](bot-commands/link-players.md)\
-Help clanmates link their Clash of Clans accounts.
+**Step 8** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
+Choose which supported Clash of Clans links should be expanded automatically in Discord.
 
-**Step 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
-Assign roles for Town Hall level, league, achievements, and more.
+**Step 9** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
+Configure and publish a ticket panel from the dashboard for clan applications or other requests.
 
-**Step 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
-Simplify account linking with automated link parsing.
+**Step 10** - ⏳ [**Set up voice countdowns**](server-setups/voice-countdowns.md)\
+Show event or clan war timers in Discord voice channel names.
 
-**Step 11** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
-Set up tickets for clan applications or other needs.
+**Step 11** - 🏗️ [**Set up autoboards**](server-setups/autoboards.md)\
+Create an automatically updated donation or farming leaderboard. Autoboards are in open beta.
 
-**Step 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\
-Create timers for game or clan events directly in voice channels.
+**Step 12** - 🔒 [**Give dashboard access**](server-setups/whitelist.md)\
+Grant Discord roles access to the dashboard sections they need.
 
-***
+**Step 13** - 🔍 [**Set up the Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
+Send recruitment posts for English-speaking clans to a Discord destination.
 
-## **To Go Further**
-
-**Step 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
-Stream recruit posts from Reddit (English-speaking clans only).
-
-**Step 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\
-Allow specific users or roles to use specific commands.
-
-**Step 15** - 🖌️ [**Customize the bot**](server-setups/others.md#customize-the-bot)\
-Change the bot’s name and picture for log messages.
+**Bonus** - 📱 [**Get the mobile app**](get-the-mobile-app.md)\
+Find the ClashKing app for iOS and Android.
 
 :::info
-Once you set up the bot, we suggest that you take a look at the [FAQ](faq.md) section.
+For help with common questions, see the [FAQ](faq.md).
 :::

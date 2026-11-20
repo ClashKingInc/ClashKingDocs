@@ -1,69 +1,58 @@
 ---
 icon: flag-checkered
-description: Follow these steps to set up ClashKing for the first time on your server.
+description: Suivez ces étapes pour configurer ClashKing pour la première fois sur votre serveur.
 ---
-# Démarrage rapide
+
+# 🚀 Démarrage rapide
 
 ## Configuration recommandée
 
-**Étape 0** - 🟢 [**Add the bot**](https://invite.clashk.ing/)\
-Commencez par ajouter ClashKing à votre serveur Discord.
+**Étape 1** - 🟢 [**Ajouter ClashKing**](https://invite.clashk.ing/)\
+Ajoutez le bot à votre serveur Discord et accordez-lui les permissions nécessaires aux fonctions que vous souhaitez utiliser.
 
-**Étape 1** - 🏰 [**Add your clan(s)**](clan-setups/add-a-clan.md)\
-Liez votre (vos) clan(s) Clash of Clans au bot.
+**Étape 2** - 🖥️ [**Ouvrir le tableau de bord**](use-the-dashboard/dashboard-explained.md)\
+Utilisez `/setup` sur votre serveur ou connectez-vous au tableau de bord avec Discord, puis sélectionnez votre serveur. Il faut des permissions de gestion du serveur ou un rôle autorisé à accéder au tableau de bord.
 
-**Étape 2** - ⚙️[ **Set up your clan(s)**](clan-setups/setup-a-clan.md)\
-Configurez votre (vos) clan(s) pour tirer le meilleur parti de ClashKing.
+**Étape 3** - 🏰 [**Ajouter et configurer vos clans**](use-the-dashboard/add-a-clan.md)\
+Ouvrez **Management → Clans**, ajoutez chaque clan avec son tag et configurez ses paramètres. Vérifiez un clan si vous souhaitez utiliser des fonctions nécessitant une vérification.
 
-**Étape 3** - 🔗 [**Link your clanmates**](clan-setups/link-players/)\
-Mappez les utilisateurs de Discord aux joueurs de Clash of Clans pour un meilleur suivi.
+**Étape 4** - 🔗 [**Lier les comptes des joueurs**](bot-commands/link-players.md)\
+Les membres peuvent utiliser `/link add` pour lier leurs comptes Clash of Clans à Discord. ClashKing peut ainsi les reconnaître pour les rôles, les rappels et d'autres fonctions.
 
-**Étape 4** - 📝 [**Set up clan logs**](clan-setups/log-setup.md)\
-Activez les journaux pour les événements tels que les raids, les guerres, la CWL, l'activité des joueurs, etc.
+**Étape 5** - 📝 [**Configurer les logs**](use-the-dashboard/setup-logs.md)\
+Sous **Logs**, sélectionnez un clan ou votre serveur, activez les logs souhaités et choisissez leur destination. Par exemple, configurez un log de guerre dans un salon de clan.
 
-**Étape 5** - 🛠️ [**Set up your server**](server-setups/setup-a-server.md)\
-Configurez les journaux d'administration, les rôles, les noms par défaut et d'autres paramètres du serveur.
+**Étape 6** - 🎭 [**Configurer les rôles et surnoms**](players-roles/roles-th-and-more/)\
+Créez les rôles Discord, puis configurez les règles et l'évaluation automatique sous **Roles & Nicknames**. Assurez-vous que le bot dispose des permissions nécessaires et d'une position suffisante dans la hiérarchie des rôles.
 
-**Étape 6** - ⏰ [**Set up reminders**](server-setups/reminders.md)\
-Soyez averti des guerres, de la CWL, de l'inactivité, des jeux de clan, des raids et des listes.
-
-**Étape 7** - 🔄 [**Set up roles and nicknames**](players-roles/roles-th-and-more/)\
-Attribuez automatiquement des rôles et des noms aux utilisateurs en fonction de leur statut de clan.
-
-**Bonus** - 📱 [**Download our Mobile App**](get-the-mobile-app.md)\
-Emmenez ClashKing partout où vous allez avec notre application mobile dédiée !
+**Étape 7** - ⏰ [**Configurer les rappels**](server-setups/reminders.md)\
+Créez des rappels dans le tableau de bord pour les guerres, la capitale de clan ou les Jeux de clan. Les rappels de guerre nécessitent un journal de guerre public.
 
 ***
 
-## **Facultatif mais vraiment utile**
+## Options utiles
 
-**Étape 8** - 🔗 [**Lier les comptes**](bot-commands/link-players.md)\
-Aidez les membres à lier leurs comptes Clash of Clans.
+**Étape 8** - 📜 [**Activer Link parsing**](server-setups/link-parse.md)\
+Choisissez les liens Clash of Clans compatibles à développer automatiquement dans Discord.
 
-**Étape 9** - 🎭 [**Set up roles**](players-roles/roles-th-and-more/)\
-Attribuez des rôles pour le niveau de la mairie, la ligue, les réalisations et bien plus encore.
+**Étape 9** - 🎟️ [**Créer des tickets**](bot-commands/tickets.md)\
+Configurez et publiez un panneau de tickets depuis le tableau de bord pour les candidatures ou d'autres demandes.
 
-**Étape 10** - 📜 [**Enable link parsing**](server-setups/link-parse.md)\
-Simplifiez la liaison des comptes grâce à l'analyse automatisée des liens.
+**Étape 10** - ⏳ [**Configurer les comptes à rebours vocaux**](server-setups/voice-countdowns.md)\
+Affichez des minuteries d'événements ou de guerres dans les noms des salons vocaux Discord.
 
-**Étape 11** - 🎟️ [**Create tickets**](bot-commands/tickets.md)\
-Configurez des tickets pour les candidatures du clan ou d’autres besoins.
+**Étape 11** - 🏗️ [**Configurer les autoboards**](server-setups/autoboards.md)\
+Créez un classement de dons ou de farming mis à jour automatiquement. Les autoboards sont en bêta ouverte.
 
-**Étape 12** - ⏳ [**Use voice countdowns**](server-setups/voice-countdowns.md)\
-Créez des minuteries pour les événements de jeu ou de clan directement dans les canaux vocaux.
+**Étape 12** - 🔒 [**Accorder l'accès au tableau de bord**](server-setups/whitelist.md)\
+Donnez aux rôles Discord accès aux sections du tableau de bord dont ils ont besoin.
 
-***
+**Étape 13** - 🔍 [**Configurer le flux de recrutement Reddit**](server-setups/reddit-recruit-feed.md)\
+Envoyez les publications de recrutement des clans anglophones vers une destination Discord.
 
-## **Pour aller plus loin**
+**Bonus** - 📱 [**Obtenir l'application mobile**](get-the-mobile-app.md)\
+Découvrez l'application ClashKing pour iOS et Android.
 
-**Étape 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
-Diffusez les publications de recrues depuis Reddit (clans anglophones uniquement).
-
-**Étape 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\
-Autorisez des utilisateurs ou des rôles spécifiques à utiliser des commandes spécifiques.
-
-**Étape 15** - 🖌️ [**Customize the bot**](server-setups/others.md#customize-the-bot)\
-Modifiez le nom et l’image du bot pour les messages du journal.
 :::info
-Une fois le bot configuré, nous vous suggérons de jeter un œil à la section [FAQ](faq.md).
+Consultez la [FAQ](faq.md) pour les questions fréquentes.
 :::

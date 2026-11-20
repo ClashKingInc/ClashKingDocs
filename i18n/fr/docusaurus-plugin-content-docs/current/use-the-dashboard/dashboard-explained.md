@@ -14,7 +14,7 @@ Vous pouvez accéder au tableau de bord de deux façons :
 - Utilisez la commande `/setup` dans un serveur Discord où ClashKing est installé
 
 :::info
-Vous devez avoir le bot ClashKing dans votre serveur et être **administrateur** ou **propriétaire du serveur** pour utiliser le tableau de bord.
+ClashKing doit être présent sur votre serveur. L’accès nécessite la propriété du serveur, **Manage Server**, **Administrator** ou un rôle disposant d’un [accès au tableau de bord](../server-setups/whitelist.md).
 :::
 
 Utilisez le tableau de bord pour configurer vos paramètres Discord plus facilement.
