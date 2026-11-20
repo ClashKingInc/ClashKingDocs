@@ -1,4 +1,5 @@
 ---
+slug: /use-the-dashboard/add-setup-a-clan
 description: Ajoutez et configurez un clan depuis le tableau de bord.
 ---
 

@@ -1,4 +1,5 @@
 ---
+slug: /use-the-dashboard/add-setup-a-clan
 description: Add and configure a clan using the dashboard.
 ---
 

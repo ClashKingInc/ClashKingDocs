@@ -1,3 +1,7 @@
+---
+slug: /server-setups/dashboard-access
+---
+
 # ⬜ Dashboard access
 
 Use dashboard access settings to give Discord roles permission to view or manage specific sections of your server's ClashKing dashboard.

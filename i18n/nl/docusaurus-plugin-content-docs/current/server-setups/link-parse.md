@@ -1,3 +1,7 @@
+---
+slug: /server-setups/link-parsing
+---
+
 # 🏹 Link parsing
 
 Link parsing zet ondersteunde Clash of Clans-links om in visuele embeds in Discord.

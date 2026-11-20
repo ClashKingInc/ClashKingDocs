@@ -1,4 +1,5 @@
 ---
+slug: /use-the-dashboard/army-and-base-sharing
 description: Deel army- en baselinks in Discord.
 ---
 

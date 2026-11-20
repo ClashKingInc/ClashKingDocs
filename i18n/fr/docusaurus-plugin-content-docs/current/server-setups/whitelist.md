@@ -1,3 +1,7 @@
+---
+slug: /server-setups/dashboard-access
+---
+
 # ⬜ Accès au tableau de bord
 
 Les paramètres d'accès permettent d'autoriser des rôles Discord à consulter ou gérer certaines sections du tableau de bord ClashKing de votre serveur.

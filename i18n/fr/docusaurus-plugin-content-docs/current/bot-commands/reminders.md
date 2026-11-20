@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/one-off-reminders
+---
+
 # 📳 Rappels ponctuels
 
 Utilisez `/reminders` dans Discord pour envoyer immédiatement un seul rappel. Cette commande ne crée ni rappel enregistré ni planning. Pour les rappels automatiques, consultez les [rappels du tableau de bord](../server-setups/reminders.md).

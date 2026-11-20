@@ -1,4 +1,5 @@
 ---
+slug: /bot-commands/link-and-unlink-players
 description: Koppel Clash of Clans-accounts aan Discord en beheer accountlinks.
 ---
 

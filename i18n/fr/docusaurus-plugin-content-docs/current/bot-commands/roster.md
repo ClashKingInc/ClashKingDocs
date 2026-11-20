@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/roster-commands
+---
+
 # 📋 Commandes de roster
 
 Utilisez ces commandes Discord pour publier un roster existant ou trouver les rosters d'un joueur. Créez et gérez les rosters dans le [tableau de bord](../clans-management/rosters/README.md).

@@ -22,7 +22,7 @@ Leden kunnen met `/link add` hun Clash of Clans-accounts aan Discord koppelen. Z
 **Stap 5** - 📝 [**Stel logs in**](use-the-dashboard/setup-logs.md)\
 Selecteer onder **Logs** een clan of je server, zet de gewenste logs aan en kies waar ze verschijnen. Stel bijvoorbeeld een warlog in voor een clankanaal.
 
-**Stap 6** - 🎭 [**Stel rollen en bijnamen in**](players-roles/roles-th-and-more/)\
+**Stap 6** - 🎭 [**Stel rollen en bijnamen in**](players-roles/roles-th-and-more/README.md)\
 Maak Discord-rollen aan en configureer daarna de regels en automatische evaluatie onder **Roles & Nicknames**. Zorg dat de bot de juiste rechten en positie in de rollenlijst heeft.
 
 **Stap 7** - ⏰ [**Stel reminders in**](server-setups/reminders.md)\

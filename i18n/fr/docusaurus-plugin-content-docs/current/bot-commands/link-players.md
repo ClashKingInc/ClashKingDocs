@@ -1,4 +1,5 @@
 ---
+slug: /bot-commands/link-and-unlink-players
 description: Associez des comptes Clash of Clans à Discord et gérez les liens.
 ---
 

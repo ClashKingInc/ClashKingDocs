@@ -1,6 +1,6 @@
 # 🔄 Actualisation manuelle (rôles et surnoms)
 
-Utilisez `/refresh` sur un serveur Discord pour actualiser les rôles et surnoms selon les règles configurées. C'est utile après une modification des paramètres ou sans attendre l'évaluation automatique. Consultez [Roles & Nicknames](roles-th-and-more/) pour la configuration.
+Utilisez `/refresh` sur un serveur Discord pour actualiser les rôles et surnoms selon les règles configurées. C'est utile après une modification des paramètres ou sans attendre l'évaluation automatique. Consultez [Roles & Nicknames](roles-th-and-more/README.md) pour la configuration.
 
 ## Actualiser un membre ou un rôle
 

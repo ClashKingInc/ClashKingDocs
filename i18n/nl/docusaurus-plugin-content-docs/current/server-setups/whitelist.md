@@ -1,3 +1,7 @@
+---
+slug: /server-setups/dashboard-access
+---
+
 # ⬜ Dashboardtoegang
 
 Met de instellingen voor dashboardtoegang geef je Discord-rollen toegang om specifieke onderdelen van het ClashKing-dashboard van je server te bekijken of te beheren.

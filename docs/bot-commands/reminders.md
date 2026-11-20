@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/one-off-reminders
+---
+
 # 📳 One-off reminders
 
 Use `/reminders` in Discord to send a single reminder immediately. This does not create a saved reminder or schedule. For automatic reminders, see [dashboard reminders](../server-setups/reminders.md).

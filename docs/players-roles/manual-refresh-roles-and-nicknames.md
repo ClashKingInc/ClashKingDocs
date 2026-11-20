@@ -1,6 +1,6 @@
 # 🔄 Manual Refresh (Roles & Nicknames)
 
-Use `/refresh` in a Discord server to update roles and nicknames using the server's configured rules. This is useful after changing settings or when you want to refresh without waiting for automatic evaluation. See [Roles & Nicknames](roles-th-and-more/) for setup.
+Use `/refresh` in a Discord server to update roles and nicknames using the server's configured rules. This is useful after changing settings or when you want to refresh without waiting for automatic evaluation. See [Roles & Nicknames](roles-th-and-more/README.md) for setup.
 
 ## Refresh a member or role
 

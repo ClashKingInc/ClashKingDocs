@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/one-off-reminders
+---
+
 # 📳 Eenmalige reminders
 
 Gebruik `/reminders` in Discord om direct één herinnering te versturen. Hiermee maak je geen opgeslagen herinnering of schema aan. Zie [reminders via het dashboard](../server-setups/reminders.md) voor automatische herinneringen.

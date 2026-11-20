@@ -22,7 +22,7 @@ Les membres peuvent utiliser `/link add` pour lier leurs comptes Clash of Clans 
 **Étape 5** - 📝 [**Configurer les logs**](use-the-dashboard/setup-logs.md)\
 Sous **Logs**, sélectionnez un clan ou votre serveur, activez les logs souhaités et choisissez leur destination. Par exemple, configurez un log de guerre dans un salon de clan.
 
-**Étape 6** - 🎭 [**Configurer les rôles et surnoms**](players-roles/roles-th-and-more/)\
+**Étape 6** - 🎭 [**Configurer les rôles et surnoms**](players-roles/roles-th-and-more/README.md)\
 Créez les rôles Discord, puis configurez les règles et l'évaluation automatique sous **Roles & Nicknames**. Assurez-vous que le bot dispose des permissions nécessaires et d'une position suffisante dans la hiérarchie des rôles.
 
 **Étape 7** - ⏰ [**Configurer les rappels**](server-setups/reminders.md)\

@@ -1,3 +1,7 @@
+---
+slug: /players-roles/roles-and-nicknames
+---
+
 # ⏫ Roles & Nicknames
 
 ClashKing kan Discord-rollen afstemmen op de zichtbare gekoppelde Clash of Clans-accounts van leden. De meeste roltypes stel je in onder **Roles & Nicknames** in het dashboard. [Koppel spelers](../../clan-setups/link-players/) en [voeg je clans toe](../../use-the-dashboard/add-a-clan.md) voordat je begint.

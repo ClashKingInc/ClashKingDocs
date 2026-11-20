@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/roster-commands
+---
+
 # 📋 Rostercommando's
 
 Gebruik deze commando's in Discord om een bestaand roster te plaatsen of de rosters van een speler te vinden. Rosters aanmaken en beheren doe je via het [dashboard](../clans-management/rosters/README.md).

@@ -1,3 +1,7 @@
+---
+slug: /server-setups/link-parsing
+---
+
 # 🏹 Link parsing
 
 L'analyse des liens transforme les liens Clash of Clans pris en charge en embeds visuels dans Discord.
