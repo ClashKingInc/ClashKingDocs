@@ -90,3 +90,23 @@
     max-width: 100%;
   }
 }
+
+/* Footer follows the main ClashKing site's wordmark and navigation. */
+.ck-footer { padding: 3rem 0 2rem; background: var(--ifm-background-surface-color); color: var(--ifm-font-color-base); border-top: 1px solid var(--ifm-color-emphasis-200); }
+.ck-footer-inner { display: grid; grid-template-columns: minmax(180px, 1fr) minmax(0, 1.5fr); align-items: end; gap: 2rem; }
+.ck-footer-brand a { display: inline-block; }
+.ck-footer-logo { display: block; width: 168px; height: auto; }
+.ck-footer-logo--dark { display: none; }
+[data-theme='dark'] .ck-footer-logo--light { display: none; }
+[data-theme='dark'] .ck-footer-logo--dark { display: block; }
+.ck-footer-brand p { margin: 0.35rem 0 0; font-size: 0.85rem; }
+.ck-footer-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 0.75rem 1.5rem; }
+.ck-footer-links a { color: var(--ifm-font-color-base); font-size: 0.85rem; font-weight: 700; }
+.ck-footer-legal { grid-column: 1 / -1; color: var(--ifm-color-emphasis-700); font-size: 0.75rem; line-height: 1.5; }
+.ck-footer-legal p { margin: 0.35rem 0 0; }
+.ck-footer a:focus-visible { outline: 2px solid var(--ifm-color-primary); outline-offset: 3px; }
+@media (max-width: 767px) {
+  .ck-footer-inner { grid-template-columns: 1fr; align-items: start; gap: 1.5rem; }
+  .ck-footer-links { justify-content: flex-start; gap: 0.5rem 1.25rem; }
+  .ck-footer-links a { display: inline-flex; align-items: center; min-height: 44px; }
+}
