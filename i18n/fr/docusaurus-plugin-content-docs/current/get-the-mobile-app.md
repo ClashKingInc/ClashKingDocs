@@ -29,4 +29,4 @@ Vous pouvez nous aider en traduisant l'application dans votre langue sur [Crowdi
 
 #### **🔍 Et ensuite ?**
 
-Nous travaillons dur pour étendre l'application avec encore plus de fonctionnalités et d'outils dans les prochaines mises à jour. Vos commentaires sont inestimables : faites-nous savoir à [here](https://clashkingapp.features.vote/board) ce que vous aimeriez voir ensuite !
+Nous travaillons dur pour étendre l'application avec encore plus de fonctionnalités et d'outils dans les prochaines mises à jour.

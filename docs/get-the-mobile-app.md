@@ -29,4 +29,4 @@ You can help us by translating the app in your language on [Crowdin](https://cro
 
 #### **🔍 What’s Next?**
 
-We’re working hard to expand the app with even more features and tools in the coming updates. Your feedback is invaluable—let us know [here](https://clashkingapp.features.vote/board) what you’d like to see next!
+We’re working hard to expand the app with even more features and tools in the coming updates.

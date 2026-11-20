@@ -29,4 +29,4 @@ Je kunt ons helpen door de app in jouw taal te vertalen op [Crowdin](https://cro
 
 #### **🔍 Wat is het volgende?**
 
-We werken er hard aan om de app in de komende updates uit te breiden met nog meer functies en tools. Uw feedback is van onschatbare waarde. Laat ons [here](https://clashkingapp.features.vote/board) weten wat u hierna graag zou willen zien!
+We werken er hard aan om de app in de komende updates uit te breiden met nog meer functies en tools.
