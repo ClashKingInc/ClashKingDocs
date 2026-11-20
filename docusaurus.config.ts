@@ -66,6 +66,9 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/logos/bot-app-logo.png',
+    docs: {
+      sidebar: {hideable: false},
+    },
     colorMode: {
       respectPrefersColorScheme: true,
     },
