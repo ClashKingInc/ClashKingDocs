@@ -10,10 +10,4 @@ Use `/discord-links {clan}` to display a list of members of a clan with their di
 
 <figure><img src="/img/docs-media/image (91).png" alt="" /><figcaption><p>Shows which Coc player corrspond to which Discord user</p></figcaption></figure>
 
-You can use [/players account](#user-content-fn-1)[^1] to see all the clash of clans accounts linked to a discord user.&#x20;
-
-
-
-
-
-[^1]: 
+See [Accounts check](../player-commands/accounts-check.md) to view accounts linked to a Discord user.
