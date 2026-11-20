@@ -24,7 +24,7 @@
 
 * [📋 Roster commands](bot-commands/roster.md)
 * [📳 One-off reminders](bot-commands/reminders.md)
-* [🔗 Link parsing](use-the-dashboard/link-parsing.md)
+* [🔗 Army & Base Sharing](use-the-dashboard/link-parsing.md)
 * [🔗 (Un)link players](bot-commands/link-players.md)
 * [🆘 Help](utility/help.md)
 * [📈 Graphs](bot-commands/graphs.md)
