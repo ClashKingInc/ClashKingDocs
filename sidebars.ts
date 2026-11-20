@@ -8,37 +8,19 @@ const sidebars: SidebarsConfig = {
     'faq',
     {
       type: 'category',
-      label: 'Clan Setups',
+      label: 'Use the dashboard',
       items: [
-        'clan-setups/add-a-clan',
-        'clan-setups/setup-a-clan',
-        'clan-setups/log-setup',
-        {
-          type: 'category',
-          label: 'Link Players',
-          items: ['clan-setups/link-players/README', 'clan-setups/link-players/unlink-players'],
-        },
-        'clan-setups/others',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Server Setups',
-      items: [
-        'server-setups/setup-a-server',
+        'use-the-dashboard/dashboard-explained',
+        'use-the-dashboard/add-a-clan',
+        'use-the-dashboard/setup-logs',
+        'use-the-dashboard/link-parsing',
         'server-setups/whitelist',
-        'server-setups/reddit-recruit-feed-english-speaking-only',
+        'server-setups/reddit-recruit-feed',
         'server-setups/voice-countdowns',
         'server-setups/reminders',
         'server-setups/link-parse',
         'server-setups/autoboards',
-        'server-setups/others',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Players Roles',
-      items: [
+        'utility/giveaways',
         {
           type: 'category',
           label: 'Roles (TH & More)',
@@ -53,25 +35,17 @@ const sidebars: SidebarsConfig = {
             'players-roles/roles-th-and-more/townhall-roles',
           ],
         },
-        'players-roles/manual-refresh-roles-and-nicknames',
-        'players-roles/auto-refresh',
       ],
+    },
+    {
+      type: 'category',
+      label: 'Bot commands',
+      items: ['bot-commands/link-players', 'utility/help', 'bot-commands/graphs', 'bot-commands/war-and-cwl', 'players-roles/manual-refresh-roles-and-nicknames', 'bot-commands/bans-and-strikes', 'clan-and-family-commands/clan-commands', 'clan-and-family-commands/family-commands', 'clan-and-family-commands/leaderboards', 'bot-commands/tickets'],
     },
     {
       type: 'category',
       label: 'Clans Management',
       items: [
-        'clans-management/bans',
-        {
-          type: 'category',
-          label: 'Strikes',
-          items: [
-            'clans-management/strikes/README',
-            'clans-management/strikes/add-a-strike',
-            'clans-management/strikes/view-strikes',
-            'clans-management/strikes/auto-strikes',
-          ],
-        },
         {
           type: 'category',
           label: 'Rosters',
@@ -86,27 +60,6 @@ const sidebars: SidebarsConfig = {
             'clans-management/rosters/manage-rosters-and-more',
           ],
         },
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Clan & Family Commands',
-      items: [
-        'clan-and-family-commands/clan-commands',
-        'clan-and-family-commands/family-commands',
-        'clan-and-family-commands/leaderboards',
-        'clan-and-family-commands/war-and-cwl',
-        'clan-and-family-commands/graphs',
-        'clan-and-family-commands/boosted-super-troops',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Ticketing',
-      items: [
-        'ticketing/creating-a-ticket-panel',
-        'ticketing/adding-buttons-and-actions',
-        'ticketing/inside-the-ticket',
       ],
     },
     {
@@ -134,15 +87,22 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Utility',
+      label: 'Unused',
       items: [
-        'utility/help',
         'utility/buttons',
         'utility/embeds',
-        'utility/pepe',
-        'utility/army-links',
-        'utility/base-links',
-        'utility/giveaways',
+        'clan-and-family-commands/boosted-super-troops',
+        'players-roles/auto-refresh',
+        'clans-management/strikes/auto-strikes',
+        {
+          type: 'category',
+          label: 'Ticketing',
+          items: [
+            'ticketing/creating-a-ticket-panel',
+            'ticketing/adding-buttons-and-actions',
+            'ticketing/inside-the-ticket',
+          ],
+        },
       ],
     },
   ],

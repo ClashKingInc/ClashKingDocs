@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🤝 Reddit Recruit Feed (English speaking only)
+# 🤝 Reddit Recruit Feed
 
 ## The goal
 

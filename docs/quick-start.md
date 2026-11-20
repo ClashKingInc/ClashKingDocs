@@ -57,7 +57,7 @@ Create timers for game or clan events directly in voice channels.
 
 ## **To Go Further**
 
-**Step 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed-english-speaking-only.md)\
+**Step 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
 Stream recruit posts from Reddit (English-speaking clans only).
 
 **Step 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\

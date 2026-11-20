@@ -51,4 +51,4 @@ No required parameters.
 * `leadership_eval`: You can choose if leader and co-leader should be excluded from eval settings (see [manual-refresh-roles-and-nicknames.md](../players-roles/manual-refresh-roles-and-nicknames.md "mention") & [auto-refresh.md](../players-roles/auto-refresh.md "mention"))
 * `full_whitelist_role`: Give the right to the users having this special role to run every bot commands. Use it with caution : "With great power comes great responsibility".
 * `embed_color`:  Choose the colors of the embed sent by the bot.
-* `followed_reddit_accounts`: You can get log posts for comments by certain users on the recruitment subreddit. You ust have reddit feed setup (see [reddit-recruit-feed-english-speaking-only.md](reddit-recruit-feed-english-speaking-only.md "mention")) and can use a comma to add several accounts to follow.
+* `followed_reddit_accounts`: You can get log posts for comments by certain users on the recruitment subreddit. You ust have reddit feed setup (see [reddit-recruit-feed.md](reddit-recruit-feed.md "mention")) and can use a comma to add several accounts to follow.

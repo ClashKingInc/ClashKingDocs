@@ -56,7 +56,7 @@ Creëer timers voor game- of clanevenementen rechtstreeks in spraakkanalen.
 
 ## **Om verder te gaan**
 
-**Stap 13** - 🔍[**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed-english-speaking-only.md)\
+**Stap 13** - 🔍[**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
 Stream rekruteringsposts van Reddit (alleen Engelssprekende clans).
 
 **Stap 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\

@@ -18,7 +18,7 @@
 
 * [⚙️ Setup a server](server-setups/setup-a-server.md)
 * [⬜ Whitelist](server-setups/whitelist.md)
-* [🤝 Reddit Recruit Feed (English speaking only)](server-setups/reddit-recruit-feed-english-speaking-only.md)
+* [🤝 Reddit Recruit Feed (English speaking only)](server-setups/reddit-recruit-feed.md)
 * [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
 * [📳 Reminders](server-setups/reminders.md)
 * [🏹 Link parse](server-setups/link-parse.md)

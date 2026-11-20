@@ -24,7 +24,7 @@ Momenteel ontwikkelen we ook een **specifieke mobiele app** om de ClashKing-erva
 
 ## **Aan de slag met ClashKing**
 
-👉 **Ga hier aan de slag**: [Quick Start](https://docs.clashking.xyz/quick-start)\
+👉 **Ga hier aan de slag**: [Quick Start](https://docs.clashk.ing/quick-start)\
 🌟 Als je de bot- en app-ontwikkeling wilt ondersteunen, is de eenvoudigste manier door onze [creator code](https://link.clashofclans.com/en/?action=SupportCreator\&id=Clashking) te gebruiken!
 
 ***

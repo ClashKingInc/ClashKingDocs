@@ -4,14 +4,12 @@
 
 Nous sommes ravis d'annoncer que nous travaillons sur une **application mobile dédiée** pour apporter toutes les fonctionnalités que vous aimez du bot ClashKing directement sur votre smartphone !
 
-🚀 **Statut actuel** : l'application est désormais en **bêta publique** et nous ajoutons continuellement de nouvelles fonctionnalités et améliorations.
-
 ***
 
 #### **📥 Téléchargez l'application**
 
-* **iOS** : [Download via TestFlight](https://testflight.apple.com/join/6Q8dfnMX)
-* **Android** : [Join the beta on Google Play](https://play.google.com/apps/testing/com.clashking.clashkingapp)
+* **iOS** : [Télécharger sur l'App Store](https://apps.apple.com/us/app/clashking/id6502886269)
+* **Android** : [Télécharger sur Google Play](https://play.google.com/store/apps/details?id=com.clashking.clashkingapp)
 
 ***
 

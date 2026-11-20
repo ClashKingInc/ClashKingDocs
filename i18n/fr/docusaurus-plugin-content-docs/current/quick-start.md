@@ -56,7 +56,7 @@ Créez des minuteries pour les événements de jeu ou de clan directement dans l
 
 ## **Pour aller plus loin**
 
-**Étape 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed-english-speaking-only.md)\
+**Étape 13** - 🔍 [**Set up Reddit recruit feed**](server-setups/reddit-recruit-feed.md)\
 Diffusez les publications de recrues depuis Reddit (clans anglophones uniquement).
 
 **Étape 14** - 🔒 [**Customize command permissions**](server-setups/others.md#customize-the-bot)\

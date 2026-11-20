@@ -46,8 +46,8 @@ You can have differents stats such as :&#x20;
 
 <details>
 
-<summary><code>/war plan</code></summary>
+<summary><code>/war preference</code></summary>
 
-
+Use this command to see who is opted in or opted out of war for a clan.
 
 </details>

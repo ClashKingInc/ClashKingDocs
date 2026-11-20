@@ -5,28 +5,19 @@
 * [📱 Get the mobile app !](get-the-mobile-app.md)
 * [❓ FAQ](faq.md)
 
-## Clan Setups
+## Use the dashboard
 
-* [➕ Add a Clan](clan-setups/add-a-clan.md)
-* [⚙️ Setup a clan](clan-setups/setup-a-clan.md)
-* [📄 Log Setup](clan-setups/log-setup.md)
-* [🔗 Link Players](clan-setups/link-players/README.md)
-  * [👋 Unlink Players](clan-setups/link-players/unlink-players.md)
-* [ℹ️ Others](clan-setups/others.md)
-
-## Server Setups
-
-* [⚙️ Setup a server](server-setups/setup-a-server.md)
+* [🖥️ Dashboard explained](use-the-dashboard/dashboard-explained.md)
+* [➕ Add a clan](use-the-dashboard/add-a-clan.md)
+* [📄 Setup logs](use-the-dashboard/setup-logs.md)
+* [🔗 Link parsing](use-the-dashboard/link-parsing.md)
 * [⬜ Whitelist](server-setups/whitelist.md)
-* [🤝 Reddit Recruit Feed (English speaking only)](server-setups/reddit-recruit-feed-english-speaking-only.md)
+* [🤝 Reddit Recruit Feed](server-setups/reddit-recruit-feed.md)
 * [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
 * [📳 Reminders](server-setups/reminders.md)
 * [🏹 Link parse](server-setups/link-parse.md)
 * [🏗️ Autoboards](server-setups/autoboards.md)
-* [ℹ️ Others](server-setups/others.md)
-
-## Players Roles
-
+* [🎁 Giveaways](utility/giveaways.md)
 * [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
   * [👨‍👩‍👧‍👧 Family Roles](players-roles/roles-th-and-more/family-roles.md)
   * [🔨 Builder League Roles](players-roles/roles-th-and-more/builder-league-roles.md)
@@ -35,16 +26,22 @@
   * [🏆 League Roles](players-roles/roles-th-and-more/league-roles.md)
   * [👵 Tenure Role](players-roles/roles-th-and-more/tenure-role.md)
   * [🏠 TownHall Roles](players-roles/roles-th-and-more/townhall-roles.md)
+
+## Bot commands
+
+* [🔗 (Un)link players](bot-commands/link-players.md)
+* [🆘 Help](utility/help.md)
+* [📈 Graphs](bot-commands/graphs.md)
+* [⚔️ War & CWL](bot-commands/war-and-cwl.md)
 * [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
-* [🤓 Auto-refresh](players-roles/auto-refresh.md)
+* [🚪 Bans & strikes](bot-commands/bans-and-strikes.md)
+* [🏛️ Clan Commands](clan-and-family-commands/clan-commands.md)
+* [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
+* [📋 Leaderboards](clan-and-family-commands/leaderboards.md)
+* [🎫 Tickets](bot-commands/tickets.md)
 
 ## Clans Management
 
-* [🚪 Bans](clans-management/bans.md)
-* [😠 Strikes](clans-management/strikes/README.md)
-  * [🎳 Add a strike](clans-management/strikes/add-a-strike.md)
-  * [👀 View strikes](clans-management/strikes/view-strikes.md)
-  * [🛎️ Auto strikes](clans-management/strikes/auto-strikes.md)
 * [Rosters](clans-management/rosters/README.md)
   * [⚔️ Create a roster](clans-management/rosters/create-a-roster.md)
   * [⚙️ Set up a roster](clans-management/rosters/set-up-a-roster.md)
@@ -53,21 +50,6 @@
   * [↔️ Manage players](clans-management/rosters/manage-players.md)
   * [❓ Missing players](clans-management/rosters/missing-players.md)
   * [⚒️ Manage rosters & more](clans-management/rosters/manage-rosters-and-more.md)
-
-## Clan & Family Commands
-
-* [🏛️ Clan Commands](clan-and-family-commands/clan-commands.md)
-* [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
-* [📋 Leaderboards](clan-and-family-commands/leaderboards.md)
-* [⚔️ War & CWL](clan-and-family-commands/war-and-cwl.md)
-* [📈 Graphs](clan-and-family-commands/graphs.md)
-* [🆙 Boosted Super Troops](clan-and-family-commands/boosted-super-troops.md)
-
-## Ticketing
-
-* [🔨 Creating a Ticket panel](ticketing/creating-a-ticket-panel.md)
-* [✅ Adding Buttons & Actions](ticketing/adding-buttons-and-actions.md)
-* [🎫 Inside the Ticket](ticketing/inside-the-ticket.md)
 
 ## Player Commands
 
@@ -83,18 +65,20 @@
 * [🤔 To-do](player-commands/to-do.md)
 * [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
 
-## Utility
-
-* [🆘 Help](utility/help.md)
-* [🔘 Buttons](utility/buttons.md)
-* [🔢 Embeds](utility/embeds.md)
-* [🐸 Pepe](utility/pepe.md)
-* [Army links](utility/army-links.md)
-* [🖼️ Base links](utility/base-links.md)
-* [🎁 Giveaways](utility/giveaways.md)
-
 ## 🤖 Custom Bots
 
 * [🤖 Custom bot](custom-bots/custom-bot.md)
 * [💻 Developer Portal](custom-bots/developer-portal.md)
 * [🟢 Turn it on!](custom-bots/turn-it-on.md)
+
+## Unused
+
+* [🔘 Buttons](utility/buttons.md)
+* [🔢 Embeds](utility/embeds.md)
+* [🆙 Boosted Super Troops](clan-and-family-commands/boosted-super-troops.md)
+* [🤓 Auto-refresh](players-roles/auto-refresh.md)
+* [🛎️ Auto strikes](clans-management/strikes/auto-strikes.md)
+* [🎫 Ticketing](ticketing/creating-a-ticket-panel.md)
+  * [🔨 Creating a Ticket panel](ticketing/creating-a-ticket-panel.md)
+  * [✅ Adding Buttons & Actions](ticketing/adding-buttons-and-actions.md)
+  * [🎫 Inside the Ticket](ticketing/inside-the-ticket.md)
