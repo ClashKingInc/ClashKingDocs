@@ -1,41 +1,32 @@
 ---
-description: Manage bans and strikes with the record commands.
+description: Manage player bans and strikes in Discord or the dashboard.
 ---
 
 # 🚪 Bans & strikes
 
-Bans and strikes help you keep track of members you do not want to return, or members who broke clan rules.
+Bans and strikes help your server keep track of player moderation records. A ban records that a player should not return; a strike records a warning, such as a rule violation.
 
-## /record list
+:::info
+A ClashKing ban does **not** prevent a player from joining a clan. To receive a warning when a banned player joins, enable **Ban Alerts** for that clan under **Logs**. See [Setup logs](../use-the-dashboard/setup-logs.md).
+:::
 
-Use `/record list` to view all records. You can optionally filter by type:
+## Add a record
 
-- `strike`
-- `ban`
+Use `/record add` in your Discord server and provide:
 
-## /record add
+- **player_tag**: the Clash of Clans player tag.
+- **type**: choose **Ban** or **Strike**.
 
-Use `/record add` and provide:
+In the form, enter a **Reason**. For a strike, you can also set a **Strike weight** (default 1) and an optional expiry in days. For example, use weight 2 for a more serious warning. Leave expiry blank for no expiry. For either type, you can optionally attach one evidence image: PNG, JPEG, GIF, or WebP up to 10 MB.
 
-- **player tag**: the player you want to add a record for.
-- **type**: `strike` or `ban`.
+## View and remove records
 
-### Strike
+Use `/record list` to see bans and strikes. Optionally choose **type** to show only bans or only strikes. The result includes controls for navigating, refreshing, and removing records.
 
-If you choose `strike`, a form opens where you can enter:
+To remove one directly, use `/record remove`, choose its **type**, and select the **record** from the suggestions. These Discord commands require **Manage Server** or **Administrator** permission.
 
-- **Reason**: why the strike is given.
-- **Strike weight**: how serious the warning is (default: 1).
-- **Rollover days** (optional): after how many days the strike becomes inactive.
-- **Evidence** (optional): photos as proof.
+## Manage records in the dashboard
 
-### Ban
+Open the dashboard, select your server, and choose **Bans & Strikes** under **Management**. The **Bans** and **Strikes** tabs let you search, sort, add, and remove records; strikes can also be viewed by player.
 
-If you choose `ban`, you only need to provide:
-
-- **Reason**: why the player is banned.
-- **Evidence** (optional): photos as proof.
-
-## /record remove
-
-Use `/record remove` to remove a ban or strike record.
+When adding a record in the dashboard, enter a player tag and reason. Strikes also have a weight and optional expiry. An optional evidence image can be provided as a publicly accessible image URL.

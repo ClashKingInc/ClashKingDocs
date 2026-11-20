@@ -1,24 +1,19 @@
 # 🏆 Rangen en EOS
 
-## Ken al je rangen
+Gebruik de Ranked-commando's in Discord om het huidige toernooi, de groepsstand en de geregistreerde seizoensgeschiedenis van een speler te bekijken. EOS betekent end of season: het einde van het seizoen.
 
-Met `/rank {user}` kunt u de wereldwijde, land- en clanrangschikking van elke opgegeven gebruiker zien.
+## Bekijk een Ranked-speler
 
-<figure><img src="/img/docs-media/image (106).png" alt="" /><figcaption><p>My worlwide, country and clan rank. I'm first in each of them</p></figcaption></figure>
+Gebruik `/ranked player` en selecteer een **player** of voer de spelerstag in. Standaard toont het commando het huidige Ranked-toernooi: de league, trofeeën, positie in de groep, geregistreerde aanvallen en verdedigingen en een seizoensafbeelding. De speler moet voor deze weergave aan een huidig Ranked-toernooi deelnemen.
 
-## Huidige EOS-mogelijkheden
+Vul optioneel een numeriek **season**-ID in om een geregistreerd eerder toernooi van die speler te bekijken. De historische informatie hangt af van de beschikbare gegevens voor dat seizoen.
 
-De opdracht `/ranked best` neemt al je gezinsleden mee en regelt ze om de beste 5 clans te creëren als EOS nu was.
+Wissel met **Player** en **Group** onder het resultaat tussen het spelersoverzicht en de groepsstand. De groepsstand toont posities, trofeeën en aanvallen; gebruik de navigatieknoppen voor langere lijsten. De promotie- en degradatiegrenzen in de afbeelding van het huidige seizoen zijn de huidige groepsgrenzen en geen gegarandeerde eindresultaten.
 
-<figure><img src="/img/docs-media/image (107).png" alt="" /><figcaption><p>Shows the arrangement to create 2 best clans if EOS was now</p></figcaption></figure>
+## Bekijk de Ranked-seizoensgeschiedenis
 
-## Ranking van clanregio's
+Gebruik `/ranked history` en selecteer een **player** of voer de spelerstag in om geregistreerde Ranked-seizoenen te bekijken, inclusief league, trofeeën, eindpositie en aantal aanvallen. Gebruik de navigatieknoppen als de geschiedenis meerdere pagina's heeft.
 
-De opdracht `/ranked clans` laat zien welke clans momenteel in de top 200 van jouw clanregio staan.
+## Andere ranglijsten
 
-## Spelersregioranglijst
-
-Met de opdracht `/ranked players` wordt weergegeven welke leden van uw groep momenteel in hun regio zijn gerangschikt.
-
-<figure><img src="/img/docs-media/image (108).png" alt="" /><figcaption><p>Show a player being ranked in France. Do not invite him I'll know it.</p></figcaption></figure>
-
+Gebruik `/leaderboard location` voor officiële wereldwijde of landelijke ranglijsten; zie [Leaderboards](../clan-and-family-commands/leaderboards.md). Voor Legend League-statistieken en seizoensresultaten, zie [Legends](legends/README.md).

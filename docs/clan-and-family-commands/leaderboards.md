@@ -1,67 +1,37 @@
 # 📋 Leaderboards
 
-Leader boards have a few options, some of these are ingames ones that become viewable on discord and some are leadersboards within your family.
+Use `/leaderboard location` to view official Clash of Clans player and clan rankings in Discord.
 
-:::warning
-/leaderboard legends, /leaderboard players and /leaderboard images are currently down.
-:::
+## Choose a leaderboard
+
+Run `/leaderboard location` and provide:
+
+- **type** (required): choose **Players**, **Clans**, **Builder Base Players**, **Builder Base Clans**, or **Clan Capital**.
+- **location** (required): select **Global** or a supported country from the suggestions. **International** is also available for clan leaderboards.
+- **limit** (optional): choose **1–200** entries. The default is **200**.
+
+For example, choose **Clans** and a country to see its clan rankings. Use the navigation buttons for longer results and the refresh button to reload them.
+
+## Examples
+
+These older examples show country rankings for clans and Clan Capital. The current layout and values may differ.
 
 <details>
 
-<summary><code>/leaderboard family `{limit}`</code></summary>
+<summary>View clan leaderboard example</summary>
 
-Gives a leaderboard for everyone in the family trophies
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.58.33.png>)
+![Older example of a clan leaderboard](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
 
 </details>
 
 <details>
 
-<summary><code>/leaderboard legends</code></summary>
+<summary>View Clan Capital leaderboard example</summary>
 
-Shows a legend leaderboard for everyone in legends within your family. Can be filter ordered using the attached filters.
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.58.51.png>)
+![Older example of a Clan Capital leaderboard](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
 
 </details>
 
-<details>
+## Other rankings
 
-<summary><code>/leaderboard clans</code></summary>
-
-Shows the ingame leaderboard for the selected country
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard capital</code></summary>
-
-Shows the leaderboard for clan capital in the selected country.
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard players</code></summary>
-
-Shows the player leaderboard from ingame in the selected country
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.30.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard image `{clan}` `{server}` `{limit}`</code></summary>
-
-Create a beautiful image with the results of the following options :
-
-![](</img/docs-media/image (59).png>)
-
-</details>
+To rank members of the family clans linked to your server, use `/family sorted` and choose a statistic in the result menu. For Legend League information, use `/legends clan` or `/legends stats`. See [Family commands](family-commands.md) and [Legend stats](../player-commands/legends/README.md).

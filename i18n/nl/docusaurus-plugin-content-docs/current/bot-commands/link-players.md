@@ -1,33 +1,40 @@
 ---
-description: Koppel Clash of Clans-accounts aan Discord-gebruikers met /link.
+description: Koppel Clash of Clans-accounts aan Discord en beheer accountlinks.
 ---
 
 # 🔗 (Un)link players
 
-## /link add
+Koppel je Clash of Clans-accounts aan Discord zodat ClashKing je spelers herkent voor onder andere rollen, reminders en rosteraanmeldingen. Iedere speler kan zijn eigen accounts koppelen met de onderstaande commando’s.
 
-Gebruik `/link add` om een account te koppelen. Er opent een venster waarin je invult:
+## Je account koppelen
 
-- **Player tag**: de tag van het Clash of Clans-account dat je wilt koppelen.
-- **API token**: de API-token van je Clash of Clans-account.
+1. Gebruik `/link add` op je Discord-server.
+2. Vul je **spelertag** (bijvoorbeeld `#PVJ98GL`) en je Clash of Clans-**API-token** in het formulier in. Je vindt de spelertag op je profiel in het spel en de API-token in de spelinstellingen.
+3. Verstuur het formulier en controleer de bevestiging. Herhaal dit voor elk account dat je wilt koppelen.
 
 :::info
-Je API-token is veilig te delen met de bot. De bot gebruikt deze slechts één keer om te controleren of de Discord-gebruiker daadwerkelijk eigenaar is van het account. Dit verbetert de privacy en helpt misbruik te voorkomen.
+De API-token bevestigt dat het spelersaccount van jou is. Vul de token in het formulier van de bot in; de bot bewaart de token niet.
 :::
 
-## /link remove
+## Een koppeling verwijderen
 
-Gebruik `/link remove` en geef de speler als argument om een gekoppeld account te verwijderen.
+Gebruik `/link remove` en selecteer een van je gekoppelde accounts als **player**. Hiermee verwijder je je eigen koppeling.
 
-## /link set-main
+## Een hoofdaccount kiezen
 
-Gebruik `/link set-main` met een **player**-argument om dat account als je hoofdaccount in te stellen. Veel Discord-botcommando's gebruiken dit hoofdaccount als eerste.
+Gebruik `/link set-main` en selecteer een van je zichtbaar gekoppelde accounts. Deze keuze geldt voor de huidige Discord-server en wordt onder andere gebruikt bij het verversen van bijnamen.
 
-## /link list
+## Gekoppelde accounts bekijken
 
-Gebruik `/link list` om gekoppelde accounts te bekijken. Er zijn twee optionele inputs:
+Gebruik `/link list` om je eigen zichtbare gekoppelde accounts te zien. Voor een ander overzicht geef je één van deze optionele velden op:
 
-- **clan**: filter de resultaten op een specifieke clan.
-- **discord_user**: filter de resultaten op een specifieke Discord-gebruiker.
+- **discord_user**: toont de zichtbaar gekoppelde accounts van die gebruiker.
+- **clan**: toont koppelingen voor een clan die aan deze server is toegevoegd, waaronder gekoppelde en niet-gekoppelde spelers en verborgen of buiten de server gekoppelde accounts.
 
-Als je geen van beide opgeeft, toont het commando alle gekoppelde accounts die je kunt zien.
+Kies een gebruiker óf een clan, niet allebei. De zichtbaarheid van verborgen koppelingen hangt af van de privacyinstellingen van de eigenaar en clanverificatie.
+
+## Ongeverifieerde clanlinks beheren
+
+Een serverbeheerder of een rol met **Links → Manage**-toegang in het dashboard kan `/modlink add` of `/modlink remove` gebruiken voor spelers die momenteel in een geverifieerde familyclan zitten. Kies bij toevoegen de **player** en een huidig Discord-serverlid; de nieuwe koppeling is ongeverifieerd. Alleen de eigenaar kan geverifieerde spelerlinks wijzigen. Zie [Add / Setup a clan](../use-the-dashboard/add-a-clan.md) voor clanverificatie.
+
+Via **Management → Links** in het dashboard kun je ook accounts en clanrosters bekijken. Op het tabblad **Clans** kunnen Links-beheerders toegestane ongeverifieerde koppelingen voor geverifieerde clans toevoegen of verwijderen.

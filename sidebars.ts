@@ -46,18 +46,7 @@ const sidebars: SidebarsConfig = {
           label: 'Player Commands',
           items: [
             'player-commands/lookup',
-            {
-              type: 'category',
-              label: 'Legends',
-              items: [
-                'player-commands/legends/README',
-                'player-commands/legends/legends-search',
-                'player-commands/legends/legends-clan',
-                'player-commands/legends/legends-stats',
-                'player-commands/legends/legends-history',
-                'player-commands/legends/legends-poster',
-              ],
-            },
+            'player-commands/legends/README',
             'player-commands/accounts-check',
             'player-commands/user-settings',
             'player-commands/to-do',

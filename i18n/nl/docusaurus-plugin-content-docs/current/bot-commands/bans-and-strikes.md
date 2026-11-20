@@ -1,41 +1,32 @@
 ---
-description: Beheer bans en strikes met de record-commando's.
+description: Beheer bans en strikes in Discord of via het dashboard.
 ---
 
 # 🚪 Bans & strikes
 
-Bans en strikes helpen je bij het bijhouden van leden die je niet terug wilt of leden die clanregels hebben gebroken.
+Met bans en strikes houd je moderatienotities over spelers bij op je server. Een ban legt vast dat een speler niet terug mag komen; een strike legt een waarschuwing vast, bijvoorbeeld voor een overtreding van de clanregels.
 
-## /record list
+:::info
+Een ClashKing-ban voorkomt **niet** dat een speler een clan kan joinen. Wil je een waarschuwing ontvangen wanneer een gebande speler joint, zet dan **Ban Alerts** aan voor die clan onder **Logs**. Zie [Logs instellen](../use-the-dashboard/setup-logs.md).
+:::
 
-Gebruik `/record list` om alle records te bekijken. Je kunt optioneel filteren op type:
+## Een record toevoegen
 
-- `strike`
-- `ban`
+Gebruik `/record add` op je Discord-server en geef op:
 
-## /record add
+- **player_tag**: de Clash of Clans-spelertag.
+- **type**: kies **Ban** of **Strike**.
 
-Gebruik `/record add` en geef op:
+Vul in het formulier een **Reason** in. Bij een strike kun je ook een **Strike weight** (standaard 1) en een optionele vervaltijd in dagen instellen. Gebruik bijvoorbeeld gewicht 2 voor een ernstigere waarschuwing. Laat de vervaltijd leeg als de strike niet hoeft te verlopen. Bij beide types kun je één bewijsafbeelding toevoegen: PNG, JPEG, GIF of WebP van maximaal 10 MB.
 
-- **player tag**: de speler voor wie je een record wilt toevoegen.
-- **type**: `strike` of `ban`.
+## Records bekijken en verwijderen
 
-### Strike
+Gebruik `/record list` om bans en strikes te bekijken. Kies eventueel **type** om alleen bans of alleen strikes te tonen. Het resultaat heeft knoppen om te navigeren, te verversen en records te verwijderen.
 
-Als je `strike` kiest, opent er een formulier waarin je kunt invullen:
+Wil je direct één record verwijderen, gebruik dan `/record remove`, kies het **type** en selecteer het **record** uit de suggesties. Voor deze Discord-commando’s heb je **Server beheren** of **Beheerder** nodig.
 
-- **Reason**: waarom de strike wordt gegeven.
-- **Strike weight**: hoe serieus de waarschuwing is (standaard: 1).
-- **Rollover days** (optioneel): na hoeveel dagen de strike inactief wordt.
-- **Evidence** (optioneel): foto's als bewijs.
+## Records beheren in het dashboard
 
-### Ban
+Open het dashboard, selecteer je server en kies **Bans & Strikes** onder **Management**. Op de tabbladen **Bans** en **Strikes** kun je records zoeken, sorteren, toevoegen en verwijderen; strikes kun je ook per speler bekijken.
 
-Als je `ban` kiest, hoef je alleen in te vullen:
-
-- **Reason**: waarom de speler wordt geband.
-- **Evidence** (optioneel): foto's als bewijs.
-
-## /record remove
-
-Gebruik `/record remove` om een ban- of strike-record te verwijderen.
+Vul bij het toevoegen in het dashboard een spelertag en reden in. Voor strikes kun je ook een gewicht en optionele vervaltijd instellen. Als bewijs kun je eventueel de URL van een openbaar toegankelijke afbeelding toevoegen.

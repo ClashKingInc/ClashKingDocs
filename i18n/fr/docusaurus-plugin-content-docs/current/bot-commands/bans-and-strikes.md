@@ -1,41 +1,32 @@
 ---
-description: Gérez les bans et strikes avec les commandes record.
+description: Gérez les bans et strikes dans Discord ou le tableau de bord.
 ---
 
 # 🚪 Bans & strikes
 
-Les bans et strikes aident à suivre les membres que vous ne voulez pas voir revenir, ou les membres qui ont enfreint les règles du clan.
+Les bans et strikes permettent de conserver les notes de modération des joueurs sur votre serveur. Un ban indique qu'un joueur ne doit pas revenir ; un strike enregistre un avertissement, par exemple pour une infraction aux règles du clan.
 
-## /record list
+:::info
+Un ban ClashKing n'empêche **pas** un joueur de rejoindre un clan. Pour recevoir un avertissement lorsqu'un joueur banni rejoint un clan, activez **Ban Alerts** pour ce clan sous **Logs**. Consultez [Configurer les logs](../use-the-dashboard/setup-logs.md).
+:::
 
-Utilisez `/record list` pour voir tous les records. Vous pouvez filtrer optionnellement par type :
+## Ajouter un dossier
 
-- `strike`
-- `ban`
+Utilisez `/record add` sur votre serveur Discord et indiquez :
 
-## /record add
+- **player_tag** : le tag du joueur Clash of Clans.
+- **type** : choisissez **Ban** ou **Strike**.
 
-Utilisez `/record add` et indiquez :
+Saisissez une **Reason** dans le formulaire. Pour un strike, vous pouvez également définir un **Strike weight** (1 par défaut) et une expiration facultative en jours. Par exemple, utilisez un poids de 2 pour un avertissement plus grave. Laissez l'expiration vide si le strike ne doit pas expirer. Pour les deux types, vous pouvez joindre une image de preuve : PNG, JPEG, GIF ou WebP jusqu'à 10 Mo.
 
-- **player tag** : le joueur pour lequel vous voulez ajouter un record.
-- **type** : `strike` ou `ban`.
+## Consulter et supprimer les dossiers
 
-### Strike
+Utilisez `/record list` pour afficher les bans et strikes. Choisissez éventuellement **type** pour filtrer les bans ou les strikes. Le résultat propose des commandes pour naviguer, actualiser et supprimer des dossiers.
 
-Si vous choisissez `strike`, un formulaire s'ouvre où vous pouvez saisir :
+Pour en supprimer un directement, utilisez `/record remove`, choisissez son **type** et sélectionnez le **record** parmi les suggestions. Ces commandes Discord nécessitent **Gérer le serveur** ou **Administrateur**.
 
-- **Reason** : pourquoi le strike est donné.
-- **Strike weight** : la gravité de l'avertissement (par défaut : 1).
-- **Rollover days** (optionnel) : après combien de jours le strike devient inactif.
-- **Evidence** (optionnel) : photos comme preuve.
+## Gérer les dossiers dans le tableau de bord
 
-### Ban
+Ouvrez le tableau de bord, sélectionnez votre serveur et choisissez **Bans & Strikes** sous **Management**. Les onglets **Bans** et **Strikes** permettent de rechercher, trier, ajouter et supprimer des dossiers ; les strikes peuvent aussi être affichés par joueur.
 
-Si vous choisissez `ban`, vous n'avez qu'à fournir :
-
-- **Reason** : pourquoi le joueur est banni.
-- **Evidence** (optionnel) : photos comme preuve.
-
-## /record remove
-
-Utilisez `/record remove` pour supprimer un record de ban ou de strike.
+Pour ajouter un dossier dans le tableau de bord, saisissez un tag et une raison. Les strikes ont aussi un poids et une expiration facultative. Vous pouvez ajouter l'URL d'une image de preuve accessible publiquement.

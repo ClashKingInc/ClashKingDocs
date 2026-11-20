@@ -1,144 +1,137 @@
 # 🏛️ Commandes de clan
 
-Il s'agit d'une sélection de commandes permettant d'afficher un clan donnant différentes statistiques et données. Vous ne vous en souviendrez pas toutes, mais celles dont vous aurez besoin resteront avec vous.
+Utilisez les commandes de clan dans Discord pour consulter le profil, les membres et les statistiques enregistrées d'un clan. Chaque commande ci-dessous nécessite un **clan** à sélectionner par nom ou tag. Les options varient selon la commande ; certains résultats proposent aussi des menus ou un bouton d'actualisation.
+
+Les images sont d'anciens exemples. La présentation, les données et les commandes actuelles peuvent différer.
+
+## Aperçu du clan
+
+Utilisez `/clan search` pour afficher le profil d'un clan. Choisissez éventuellement le **type** : Detailed (par défaut), Basic ou Minimalistic.
 
 <details>
 
-<summary><code>Activité /clan `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Affiche un classement de l'activité des joueurs avec la date de la dernière vue et un graphique avec les ajouts de toutes les activités des joueurs. Les graphiques seront retravaillés prochainement.
-
-![](</img/docs-media/image (32) (1).png>)
+![Aperçu du clan](</img/docs-media/image (38) (1).png>)
 
 </details>
 
+## Activité
+
+Utilisez `/clan activity` pour consulter l'activité enregistrée des membres actuels. Choisissez éventuellement **season** (`YYYY-MM`), **limit**, **sort_by** et **sort_order**. Le tri par dernière connexion est disponible pour la saison actuelle. L'ancien exemple contient un graphique qui ne figure plus dans ce rapport ; utilisez [Graphs](../bot-commands/graphs.md) pour les graphiques.
+
 <details>
 
-<summary><code>/clan majuscule `{clan}` `{weekend}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Afficher un aperçu complet du dernier week-end de raid.
-
-![](</img/docs-media/image (36) (1).png>)![](</img/docs-media/image (37) (1).png>)
-
-
+![Activité](</img/docs-media/image (32) (1).png>)
 
 </details>
 
+## Dons
+
+Utilisez `/clan donations` pour consulter les troupes données et reçues. Choisissez éventuellement **season** (`YYYY-MM`), **current_members** et **limit**. Modifiez le tri avec les commandes sous le résultat.
+
 <details>
 
-<summary><code>Compo /clan `{clan}` `{type}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-
-
-Cette commande peut afficher des statistiques sur les membres d'un clan :&#x20;
-
-![](</img/docs-media/image (22) (1).png>)
-
-* Par les mairies
-
-![](</img/docs-media/image (23) (1).png>)
-
-* Par trophées&#x20;
-
-![](</img/docs-media/image (25) (1).png>)
-
-* Par pays (si défini dans le profil utilisateur)
-
-![](</img/docs-media/image (26) (1).png>)
-
-* Par rôles
-
-![](</img/docs-media/image (27) (1).png>)
-
-* Par ligue
-
-![](</img/docs-media/image (28) (1).png>)\
-
+![Dons](</img/docs-media/image (21) (1).png>)
 
 </details>
 
+## Jeux de clan
+
+Utilisez `/clan games` pour consulter les points actuels des membres. L'option **limit** règle le nombre de joueurs affichés. L'ancien exemple peut contenir des champs différents du rapport actuel.
+
 <details>
 
-<summary><code>Dons /clan `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-![](</img/docs-media/image (21) (1).png>)
+![Jeux de clan](</img/docs-media/image (39) (1).png>)
 
 </details>
 
+## Capitale de clan
+
+Utilisez `/clan capital` pour consulter un week-end de raids. Sélectionnez éventuellement **weekend** avec une date de vendredi (`YYYY-MM-DD`) ; le dernier week-end est utilisé par défaut. Le menu permet d'afficher l'aperçu, les participants ou les dons enregistrés.
+
 <details>
 
-<summary><code>Jeux /clan `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Afficher le nombre de points de jeux de clan réalisés par les membres au cours d'une saison donnée.\
-![](</img/docs-media/image (39) (1).png>)
+![Capitale de clan](</img/docs-media/image (36) (1).png>)
+
+![Capitale de clan](</img/docs-media/image (37) (1).png>)
 
 </details>
 
+## Composition du clan
+
+Utilisez `/clan compo` pour regrouper les membres actuels par hôtel de ville, rôle dans le clan ou ligue classée. Choisissez le regroupement dans le menu du résultat.
+
 <details>
 
-<summary><code>Présentation de /clan `{type}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Afficher un aperçu complet d'un clan.
+![Composition du clan](</img/docs-media/image (23) (1).png>)
 
-![](</img/docs-media/image (38) (1).png>)
+![Composition du clan](</img/docs-media/image (27) (1).png>)
+
+![Composition du clan](</img/docs-media/image (28) (1).png>)
 
 </details>
 
+## Trier les membres
+
+Utilisez `/clan sorted` pour classer les membres actuels selon une statistique. Définissez éventuellement **limit**, puis choisissez la statistique dans le menu du résultat. Comparez par exemple les hôtels de ville ou les étoiles de guerre.
+
+## Progression des améliorations
+
+Utilisez `/clan progress` pour voir les améliorations d'unités enregistrées des membres actuels. Indiquez éventuellement une **season** (`YYYY-MM`) ; sinon, le rapport utilise les 30 derniers jours. Choisissez le type d'amélioration dans le menu. Les anciens exemples montrent des présentations précédentes.
+
 <details>
 
-<summary><code>Progression de /clan `{clan}` `{type}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Affiche la progression pour la saison en cours ou différente lorsqu'elle est sélectionnée dans `{season}`. Le nombre de résultats peut également être modifié dans `{limit} .`. Ci-dessous montre les différents `{types}`.
+![Progression des améliorations](</img/docs-media/Screenshot 2023-09-12 at 12.39.33.png>)
 
-* Héros et animaux de compagnie
-  ![](</img/docs-media/Screenshot 2023-09-12 at 12.39.33.png>)
-* Troupes, sorts et sièges\
-  ![](</img/docs-media/Screenshot 2023-09-12 at 12.39.02.png>)\
-
+![Progression des améliorations](</img/docs-media/Screenshot 2023-09-12 at 12.39.02.png>)
 
 </details>
 
+## Résumé de saison
+
+Utilisez `/clan summary` pour afficher les classements de saison des membres actuels. Définissez éventuellement **season** (`YYYY-MM`) et **limit**.
+
 <details>
 
-<summary><code>/clan trié `{clan}` `{sort_by}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Afficher les membres d'un clan triés selon un attribut spécifique. Il y en a trop donc je vous laisse le découvrir directement sur votre serveur !
-
-![](</img/docs-media/image (29) (1).png>)
-
-Exemple pour les membres triés par attaques gagnées :&#x20;
-
-![](</img/docs-media/image (30) (1).png>)
+![Résumé de saison](</img/docs-media/image (33) (1).png>)
 
 </details>
 
+## Historique de guerre
+
+Utilisez `/clan war-log` pour consulter l'historique des guerres ou des saisons CWL. Choisissez éventuellement **view** et **limit**. Un journal privé ou des données manquantes peuvent limiter les résultats.
+
 <details>
 
-<summary><code>Résumé /clan `{clan}` `{season}` `{limit}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Affiche un classement des meilleurs joueurs du clan pour le butin, l'activité, les trophées, les dons, les raids et les étoiles de guerre.
-
-![](</img/docs-media/image (33) (1).png>)
+![Historique de guerre](</img/docs-media/image (34) (1).png>)
 
 </details>
 
-<details>
+## Préférences de guerre
 
-<summary><code>Journal de guerre /clan `{clan}` `{option}` `{limit}`</code></summary>
-
-Montrez les résultats des dernières guerres :
-
-![](</img/docs-media/image (34) (1).png>)
-
-</details>
+Utilisez `/war preference` pour voir les membres inscrits ou non pour la guerre. Consultez [War & CWL](../bot-commands/war-and-cwl.md) pour cette commande et les autres commandes de guerre.
 
 <details>
 
-<summary><code>/clan préférence de guerre `{clan}` `{option}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Afficher les préférences de guerre actuelles pour chaque membre.\
-![](</img/docs-media/image (40) (1).png>)
-
-`{option}` vous permet de voir à quand remonte la dernière fois qu'un membre a participé à une guerre et quand a-t-il changé son statut de guerre pour la dernière fois.
+![Préférences de guerre](</img/docs-media/image (40) (1).png>)
 
 </details>

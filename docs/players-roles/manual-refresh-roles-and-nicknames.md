@@ -1,36 +1,24 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔄 Manual Refresh (Roles & Nicknames)
 
-## The goal
+Use `/refresh` in a Discord server to update roles and nicknames using the server's configured rules. This is useful after changing settings or when you want to refresh without waiting for automatic evaluation. See [Roles & Nicknames](roles-th-and-more/) for setup.
 
-You can manually refresh the roles ([roles-th-and-more](roles-th-and-more/ "mention") & [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) and nicknames ( [setup-a-server.md](../server-setups/setup-a-server.md "mention")) of a user if the [auto-refresh.md](auto-refresh.md "mention")is turned off, or if you did some modification on a user settings, and nothing triggered the auto refresh yet.&#x20;
+## Refresh a member or role
+
+Run `/refresh` without options to refresh yourself. The following options are available:
+
+- **role_or_user**: choose a Discord member or role. When omitted, the command refreshes you.
+- **test**: preview the proposed changes without applying them.
+- **role_treatment**: choose **Both**, **Add only**, or **Remove only**. The default is **Both**; nickname changes are controlled separately.
+- **advanced_mode**: open a menu to select which role categories and whether the nickname should be refreshed. Without it, the command evaluates all supported categories.
+
+For example, select **Add only** when you want to add currently earned roles without removing configured roles the member no longer qualifies for. Use **test** first to review the proposed changes.
+
+The bot shows progress and a result report, including changes it could not apply. Only configured roles are managed; unrelated Discord roles are left alone. Nicknames are updated only when nickname changes are configured and the nickname category is included.
+
+## Permissions and account data
+
+Members can refresh themselves. To refresh another member or a role, you need **Manage Server**, **Administrator**, server ownership, or the configured **Role refresh delegate** role. See [Dashboard access](../server-setups/whitelist.md) for the delegate setting.
 
 :::info
-* Leadership roles are refreshed by default, want them to not? Changeable via `/setup server [leadership_refresh]`
+ClashKing needs permission to manage roles and nicknames, and its bot role must be above the roles and members it needs to change. Only visible linked accounts are used; see [Link players](../bot-commands/link-players.md).
 :::
-
-## The command
-
-There is one main command to manually refresh roles -> `/refresh` with two main options for a basic experience:
-
-## The parameters
-
-### Optional
-
-* `role_or_user`: choose the role or user you want to refresh roles and/or nickname.
-* `test`:  or no option, default is no, but yes allows you to see what the bot will do without it actually doing it.
-* `advanced_mode`: choose what role to evaluate. This will only add/remove the roles you selected.
-* `role_treatment`: indicate if you want to add and/or remove roles to the user depending (for example if a player left one of your clan to join another clan from your family, you can give them new roles without removing the one from the irformer clan).

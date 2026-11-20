@@ -1,20 +1,47 @@
-# 🔍 Recherche
+# 🔍 Lookup
 
-`/player lookup` vous permet de voir les statistiques de base d'un profil de joueur.
+Utilisez `/player lookup` dans Discord pour consulter le profil, les troupes, la progression et l'historique de clan d'un joueur.
 
-**Il y a 2 paramètres :**&#x20;
+## Rechercher un joueur
 
-* `{player}` qui est le tag de joueur du compte que vous souhaitez rechercher
-* `{discord_user}` qui est le nom d'utilisateur Discord de l'utilisateur que vous souhaitez rechercher.
+Les deux options sont facultatives :
 
-Si vous n'entrez aucun paramètre, il affichera votre meilleur aperçu de compte.
+- **player** : sélectionnez un joueur ou saisissez un tag. Si ce champ est renseigné, ce compte est affiché.
+- **discord_user** : sélectionnez un utilisateur Discord pour consulter ses comptes liés visibles.
 
-<figure><img src="/img/docs-media/image (60).png" alt="" width="311" /><figcaption><p>Example of /player lookup</p></figcaption></figure>
+Sans option, ClashKing consulte vos comptes liés visibles et ouvre celui dont l'hôtel de ville est le plus élevé. Si aucun compte lié n'est visible, indiquez un tag ou [associez un compte](../bot-commands/link-players.md). Si les deux options sont indiquées, **player** est prioritaire.
 
-Au bas de l’intégration, vous pouvez choisir ce que vous souhaitez y afficher.
+Par exemple, sélectionnez un camarade dans **discord_user** pour voir ses comptes liés, ou saisissez directement son tag.
 
-<figure><img src="/img/docs-media/image (61).png" alt="" width="289" /><figcaption><p>Example of /player lookup - choose what to display</p></figcaption></figure>
+## Parcourir le profil
 
-Mais aussi quel compte vous souhaitez afficher :&#x20;
+Utilisez **Choose a page** sous le résultat pour passer entre :
 
-<figure><img src="/img/docs-media/image (62).png" alt="" width="287" /><figcaption><p>Example of /player lookup - choose account</p></figcaption></figure>
+- **Overview** : profil et statistiques disponibles du joueur.
+- **Troops** : niveaux des troupes, sorts, héros, familiers, équipements, engins de siège et éléments de la base des ouvriers lorsqu'ils sont disponibles.
+- **Progress** : progression des améliorations et niveaux, temps et coûts restants lorsqu'ils sont disponibles.
+- **Clan History** : historique enregistré, avec des boutons pour passer de ClashKing à Clash of Stats.
+
+Lors d'une recherche par utilisateur Discord, **Choose an account** apparaît si cet utilisateur possède plusieurs comptes liés visibles et permet de changer de compte. Certaines pages proposent aussi des boutons de navigation pour les résultats longs.
+
+## Exemples
+
+Ces anciens exemples illustrent le profil et les menus ; la présentation et les noms des pages actuels peuvent différer.
+
+<details>
+
+<summary>Voir un exemple de profil</summary>
+
+<img src="/img/docs-media/image (60).png" alt="Ancien exemple de profil de joueur" width="311" />
+
+</details>
+
+<details>
+
+<summary>Voir des exemples des menus de page et de compte</summary>
+
+<img src="/img/docs-media/image (61).png" alt="Ancien exemple du menu de page" width="289" />
+
+<img src="/img/docs-media/image (62).png" alt="Ancien exemple du menu de compte" width="287" />
+
+</details>

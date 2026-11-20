@@ -1,144 +1,137 @@
-# 🏛️ Clanopdrachten
+# 🏛️ Clan commands
 
-Dit is een selectie van commando's om een ​​clan te bekijken met verschillende statistieken en gegevens. Je zult ze niet allemaal onthouden, maar de commando's die je nodig hebt, blijven bij je.
+Gebruik de clancommando’s in Discord om het profiel, de leden en geregistreerde statistieken van een clan te bekijken. Voor ieder commando hieronder is een **clan** nodig; selecteer die op naam of tag. De optionele velden verschillen per commando en sommige resultaten hebben extra menu’s of een vernieuwknop.
+
+De afbeeldingen zijn oudere voorbeelden. De huidige indeling, gegevens en bediening kunnen verschillen.
+
+## Clanoverzicht
+
+Gebruik `/clan search` voor het clanprofiel. Kies eventueel bij **type** voor Detailed (standaard), Basic of Minimalistic.
 
 <details>
 
-<summary><code>/clan activiteit `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toont een scorebord van spelersactiviteit met de datum voor het laatst gezien en een grafiek met toevoegingen van alle spelersactiviteit. De grafieken zullen binnenkort worden herwerkt.
-
-![](</img/docs-media/image (32) (1).png>)
+![Clanoverzicht](</img/docs-media/image (38) (1).png>)
 
 </details>
 
+## Activiteit
+
+Gebruik `/clan activity` voor geregistreerde activiteit van huidige clanleden. Kies eventueel **season** (`YYYY-MM`), **limit**, **sort_by** en **sort_order**. Sorteren op laatst online is beschikbaar voor het huidige seizoen. Het oudere voorbeeld bevat een grafiek die niet meer in dit rapport staat; gebruik [Graphs](../bot-commands/graphs.md) voor grafieken.
+
 <details>
 
-<summary><code>/clan kapitaal `{clan}` `{weekend}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toon een compleet overzicht van het afgelopen raidweekend.
-
-![](</img/docs-media/image (36) (1).png>)![](</img/docs-media/image (37) (1).png>)
-
-
+![Activiteit](</img/docs-media/image (32) (1).png>)
 
 </details>
 
+## Donaties
+
+Gebruik `/clan donations` voor gedoneerde en ontvangen troepen. Kies eventueel **season** (`YYYY-MM`), **current_members** en **limit**. Pas de sortering aan met de knoppen onder het resultaat.
+
 <details>
 
-<summary><code>/clan compo `{clan}` `{type}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-
-
-Dit commando kan statistieken tonen over de leden van een clan:&#x20;
-
-![](</img/docs-media/image (22) (1).png>)
-
-* Via gemeentehuizen
-
-![](</img/docs-media/image (23) (1).png>)
-
-* Op trofeeën&#x20;
-
-![](</img/docs-media/image (25) (1).png>)
-
-* Per land (indien ingesteld in gebruikersprofiel)
-
-![](</img/docs-media/image (26) (1).png>)
-
-* Op rollen
-
-![](</img/docs-media/image (27) (1).png>)
-
-* Per competitie
-
-![](</img/docs-media/image (28) (1).png>)\
-
+![Donaties](</img/docs-media/image (21) (1).png>)
 
 </details>
 
+## Clan Games
+
+Gebruik `/clan games` om de huidige Clan Games-punten van clanleden te bekijken. Met **limit** bepaal je optioneel hoeveel spelers worden getoond. Het oudere voorbeeld kan velden tonen die afwijken van het huidige rapport.
+
 <details>
 
-<summary><code>/clan donaties `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-![](</img/docs-media/image (21) (1).png>)
+![Clan Games](</img/docs-media/image (39) (1).png>)
 
 </details>
 
+## Clan Capital
+
+Gebruik `/clan capital` voor informatie over Raid Weekend. Selecteer eventueel **weekend** met een vrijdagdatum (`YYYY-MM-DD`); standaard wordt het laatste weekend gebruikt. Via het menu bekijk je het overzicht, de raiders of geregistreerde donaties.
+
 <details>
 
-<summary><code>/clan spellen `{clan}` `{season}` `{townhall}` `{limit}` `{sort_by}` `{sort_order}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toon het aantal clanspelpunten dat leden tijdens een bepaald seizoen hebben behaald.\
-![](</img/docs-media/image (39) (1).png>)
+![Clan Capital](</img/docs-media/image (36) (1).png>)
+
+![Clan Capital](</img/docs-media/image (37) (1).png>)
 
 </details>
 
+## Clansamenstelling
+
+Gebruik `/clan compo` om huidige clanleden te groeperen op Town Hall, clanrol of ranked league. Kies de indeling via het menu bij het resultaat.
+
 <details>
 
-<summary><code>/clan overzicht `{type}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toon een compleet overzicht van een clan.
+![Clansamenstelling](</img/docs-media/image (23) (1).png>)
 
-![](</img/docs-media/image (38) (1).png>)
+![Clansamenstelling](</img/docs-media/image (27) (1).png>)
+
+![Clansamenstelling](</img/docs-media/image (28) (1).png>)
 
 </details>
 
+## Leden sorteren
+
+Gebruik `/clan sorted` om huidige leden op een statistiek te rangschikken. Stel eventueel **limit** in en kies de statistiek via het menu onder het resultaat. Vergelijk bijvoorbeeld leden op Town Hall of oorlogssterren.
+
+## Upgradevoortgang
+
+Gebruik `/clan progress` om geregistreerde unitupgrades van huidige leden te bekijken. Geef eventueel een **season** (`YYYY-MM`) op; zonder seizoen gebruikt het rapport de laatste 30 dagen. Kies het upgradetype via het menu. De oudere voorbeelden tonen vorige indelingen.
+
 <details>
 
-<summary><code>/clan voortgang `{clan}` `{type}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toont de voortgang voor het huidige seizoen of anders indien geselecteerd in `{season}`. Aantal resultaten kan ook worden gewijzigd in `{limit} .`Hieronder ziet u de verschillende `{types}`.
+![Upgradevoortgang](</img/docs-media/Screenshot 2023-09-12 at 12.39.33.png>)
 
-* Helden en huisdieren\
-  ![](</img/docs-media/Screenshot 2023-09-12 at 12.39.33.png>)
-* Troepen, spreuken en belegeringen\
-  ![](</img/docs-media/Screenshot 2023-09-12 at 12.39.02.png>)\
-
+![Upgradevoortgang](</img/docs-media/Screenshot 2023-09-12 at 12.39.02.png>)
 
 </details>
 
+## Seizoensoverzicht
+
+Gebruik `/clan summary` voor seizoensranglijsten van huidige leden. Stel eventueel **season** (`YYYY-MM`) en **limit** in.
+
 <details>
 
-<summary><code>/clan gesorteerd `{clan}` `{sort_by}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toon leden van een clan gesorteerd op een specifiek kenmerk. Er zijn er te veel, dus ik laat je het direct op je server ontdekken!
-
-![](</img/docs-media/image (29) (1).png>)
-
-Voorbeeld voor leden gesorteerd op gewonnen aanvallen:&#x20;
-
-![](</img/docs-media/image (30) (1).png>)
+![Seizoensoverzicht](</img/docs-media/image (33) (1).png>)
 
 </details>
 
+## Oorlogsgeschiedenis
+
+Gebruik `/clan war-log` voor oorlogsgeschiedenis of CWL-seizoensgeschiedenis. Kies eventueel **view** en **limit**. Een privé-oorlogslogboek of ontbrekende registratie kan de resultaten beperken.
+
 <details>
 
-<summary><code>/clan samenvatting `{clan}` `{season}` `{limit}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toont een klassement van de beste spelers van de clan voor buit, activiteit, trofeeën, donaties, invallen en oorlogssterren.
-
-![](</img/docs-media/image (33) (1).png>)
+![Oorlogsgeschiedenis](</img/docs-media/image (34) (1).png>)
 
 </details>
 
-<details>
+## War preferences
 
-<summary><code>/clan oorlogslog `{clan}` `{option}` `{limit}`</code></summary>
-
-Toon de resultaten van de laatste oorlogen:
-
-![](</img/docs-media/image (34) (1).png>)
-
-</details>
+Gebruik `/war preference` om te zien welke clanleden wel of niet voor oorlog zijn aangemeld. Zie [War & CWL](../bot-commands/war-and-cwl.md) voor dit en andere oorlogscommando’s.
 
 <details>
 
-<summary><code>/clan oorlogsvoorkeur `{clan}` `{option}`</code></summary>
+<summary>Bekijk ouder voorbeeld</summary>
 
-Toon huidige oorlogsvoorkeuren voor elk lid.\
-![](</img/docs-media/image (40) (1).png>)
-
-Met `{option}` kunt u zien wanneer een lid voor het laatst aan een oorlog heeft deelgenomen en wanneer zijn of haar oorlogsstatus voor de laatste keer is gewijzigd.
+![War preferences](</img/docs-media/image (40) (1).png>)
 
 </details>

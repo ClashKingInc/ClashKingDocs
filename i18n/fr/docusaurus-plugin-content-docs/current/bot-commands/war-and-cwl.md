@@ -1,43 +1,35 @@
----
-description: Commandes de guerre et CWL.
----
-
 # ⚔️ War & CWL
 
-Les commandes CWL et war sont très utiles. Les informations qui peuvent prendre du temps à vérifier en jeu sont désormais accessibles instantanément.
+Utilisez les commandes de guerre et de CWL dans Discord pour consulter les guerres, les compositions et les résultats de ligue d'un clan.
 
-<details>
+## Consulter une guerre
 
-<summary><code>/cwl status</code></summary>
+Utilisez `/war search` et sélectionnez un **clan** par nom ou tag. Pour consulter une guerre enregistrée, choisissez éventuellement une suggestion **war_end** ; sinon, la guerre actuelle est affichée.
 
-Très utile pour organiser de grandes familles et s'assurer que tous les clans lancent la CWL aux bons moments.
+Le menu sous le résultat permet de passer entre l'aperçu de guerre, les compositions du clan et de l'adversaire, les attaques, les défenses et les informations sur l'adversaire. Vous pouvez actualiser le résultat ou ouvrir la guerre dans l'application.
 
-</details>
+## Consulter les préférences de guerre
 
-<details>
+Utilisez `/war preference` et sélectionnez un **clan** pour voir les membres inscrits ou non pour la guerre. Le menu permet d'afficher le dernier changement de préférence, la dernière guerre ou le minuteur de guerre lorsque ces données sont enregistrées. Les données indisponibles sont indiquées séparément.
 
-<summary><code>/cwl ranking</code></summary>
+## Consulter la CWL d'un clan
 
-</details>
+Utilisez `/cwl search` et sélectionnez un **clan**. Choisissez éventuellement une **season** au format `YYYY-MM` ; la saison actuelle est utilisée par défaut.
 
-<details>
+Les menus permettent de choisir une page CWL, une manche et un clan du groupe. Les vues comprennent notamment les manches et compositions actuelles et suivantes, les attaques et défenses, les classements des joueurs et clans, les attaques manquées, toutes les manches et les membres. Vous pouvez actualiser le résultat ou l'ouvrir dans l'application.
 
-<summary><code>/cwl search</code></summary>
+L'image ci-dessous illustre un aperçu CWL ; la présentation actuelle peut différer.
 
-Voir le statut actuel de la CWL de votre clan.
+<img src="/img/docs-media/image (103).png" alt="Exemple d'aperçu CWL" width="420" />
 
-</details>
+## Comparer les classements CWL de la famille
 
-<details>
+Utilisez `/cwl rankings` sur votre serveur Discord pour consulter le statut et le classement CWL des clans de famille ajoutés à ce serveur. Choisissez éventuellement une **season** ; la saison actuelle est utilisée par défaut. Actualisez le rapport avec le bouton prévu.
 
-<summary><code>/war search</code></summary>
+L'image suivante montre un ancien exemple de statut CWL familial ; le rapport actuel peut être différent.
 
-</details>
+<img src="/img/docs-media/Screenshot 2023-10-02 at 22.20.57.png" alt="Ancien exemple de statut CWL familial" width="360" />
 
-<details>
-
-<summary><code>/war preference</code></summary>
-
-Utilisez cette commande pour voir qui est opt in ou opt out de la guerre pour un clan.
-
-</details>
+:::info
+Les vues de guerre et de CWL dépendent des données de jeu et des données enregistrées disponibles. Un journal de guerre privé peut limiter les informations accessibles pour un clan.
+:::

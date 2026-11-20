@@ -1,43 +1,35 @@
----
-description: War- en CWL-commando's.
----
-
 # ⚔️ War & CWL
 
-CWL- en war-commando's zijn een handige utility. Informatie die in-game lang kan duren om te controleren, is nu direct beschikbaar.
+Gebruik de war- en CWL-commando’s in Discord om oorlogen, opstellingen en Clan War League-resultaten van een clan te bekijken.
 
-<details>
+## Een oorlog bekijken
 
-<summary><code>/cwl status</code></summary>
+Gebruik `/war search` en selecteer een **clan** op naam of tag. Kies eventueel een suggestie bij **war_end** om een geregistreerde eerdere oorlog te bekijken; anders wordt de huidige oorlog getoond.
 
-Dit is zeer nuttig voor het organiseren van grote families en om ervoor te zorgen dat alle clans CWL op de juiste tijden draaien.
+Met het menu onder het resultaat wissel je tussen het oorlogsoverzicht, de opstellingen van de clan en tegenstander, aanvallen, verdedigingen en informatie over de tegenstander. Je kunt het resultaat verversen of de oorlog in de app openen.
 
-</details>
+## War preferences bekijken
 
-<details>
+Gebruik `/war preference` en selecteer een **clan** om leden te zien die wel of niet voor oorlog zijn aangemeld. Via het menu kun je de laatste wijziging van de voorkeur, de laatste oorlog of de oorlogstimer bekijken als die gegevens zijn geregistreerd. Niet-beschikbare gegevens worden apart aangegeven.
 
-<summary><code>/cwl ranking</code></summary>
+## CWL van een clan bekijken
 
-</details>
+Gebruik `/cwl search` en selecteer een **clan**. Kies eventueel een **season** in het formaat `YYYY-MM`; standaard wordt het huidige seizoen gebruikt.
 
-<details>
+Met de menu’s kies je een CWL-pagina, ronde en clan uit de groep. Er zijn onder andere overzichten voor huidige en volgende rondes en opstellingen, aanvallen en verdedigingen, spelers- en clanranglijsten, gemiste aanvallen, alle rondes en leden. Je kunt het resultaat verversen of in de app openen.
 
-<summary><code>/cwl search</code></summary>
+De afbeelding hieronder is een voorbeeld van het CWL-overzicht; de huidige indeling kan verschillen.
 
-Bekijk de huidige status van de CWL waar je clan in zit.
+<img src="/img/docs-media/image (103).png" alt="Voorbeeld van een CWL-overzicht" width="420" />
 
-</details>
+## CWL-ranglijsten van de family vergelijken
 
-<details>
+Gebruik `/cwl rankings` op je Discord-server om de CWL-status en ranglijsten van de familyclans op die server te bekijken. Kies eventueel een **season**; standaard is dit het huidige seizoen. Met de vernieuwknop werk je het overzicht bij.
 
-<summary><code>/war search</code></summary>
+De volgende afbeelding toont een ouder voorbeeld van de CWL-status van een family; het huidige overzicht kan er anders uitzien.
 
-</details>
+<img src="/img/docs-media/Screenshot 2023-10-02 at 22.20.57.png" alt="Ouder voorbeeld van de CWL-status van een family" width="360" />
 
-<details>
-
-<summary><code>/war preference</code></summary>
-
-Gebruik dit commando om te zien wie er in of uit war staat voor een clan.
-
-</details>
+:::info
+War- en CWL-overzichten zijn afhankelijk van beschikbare spelgegevens en geregistreerde gegevens. Een privé-oorlogslogboek kan beperken welke informatie beschikbaar is.
+:::

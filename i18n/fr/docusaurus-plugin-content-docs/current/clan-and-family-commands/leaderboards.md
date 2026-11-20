@@ -1,66 +1,37 @@
 # 📋 Classements
 
-Les classements ont quelques options, certaines d'entre elles sont des classements intégrés aux jeux qui deviennent visibles sur Discord et d'autres sont des classements au sein de votre famille.
-:::warning
-Les légendes /leaderboard, les lecteurs /leaderboard et les images /leaderboard sont actuellement en panne.
-:::
+Utilisez `/leaderboard location` pour consulter les classements officiels Clash of Clans des joueurs et des clans dans Discord.
+
+## Choisir un classement
+
+Exécutez `/leaderboard location` et indiquez :
+
+- **type** (obligatoire) : choisissez **Players**, **Clans**, **Builder Base Players**, **Builder Base Clans** ou **Clan Capital**.
+- **location** (obligatoire) : sélectionnez **Global** ou un pays pris en charge parmi les suggestions. **International** est aussi disponible pour les classements de clans.
+- **limit** (facultatif) : choisissez de **1 à 200** résultats. La valeur par défaut est **200**.
+
+Par exemple, choisissez **Clans** et un pays pour voir son classement des clans. Utilisez les boutons de navigation pour les résultats longs et le bouton d'actualisation pour les recharger.
+
+## Exemples
+
+Ces anciens exemples montrent les classements nationaux des clans et de la capitale. La présentation et les valeurs actuelles peuvent différer.
 
 <details>
 
-<summary><code>Famille /leaderboard `{limit}`</code></summary>
+<summary>Voir un exemple de classement des clans</summary>
 
-Donne un classement pour tout le monde dans les trophées familiaux
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.58.33.png>)
+![Ancien exemple de classement des clans](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
 
 </details>
 
 <details>
 
-<summary><code>Légendes /leaderboard</code></summary>
+<summary>Voir un exemple de classement de capitale</summary>
 
-Affiche un classement des légendes pour toutes les légendes de votre famille. Peut être commandé par filtre à l’aide des filtres ci-joints.
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.58.51.png>)
+![Ancien exemple de classement de capitale](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
 
 </details>
 
-<details>
+## Autres classements
 
-<summary><code>Clans /leaderboard</code></summary>
-
-Affiche le classement en jeu pour le pays sélectionné
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard capital</code></summary>
-
-Affiche le classement de la capitale du clan dans le pays sélectionné.
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
-
-</details>
-
-<details>
-
-<summary><code>Joueurs /leaderboard</code></summary>
-
-Affiche le classement des joueurs du jeu dans le pays sélectionné
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.30.png>)
-
-</details>
-
-<details>
-
-<summary><code>Image /leaderboard `{clan}` `{server}` `{limit}`</code></summary>
-
-Créez une belle image avec les résultats des options suivantes :
-
-![](</img/docs-media/image (59).png>)
-
-</details>
+Pour classer les membres des clans de famille associés au serveur, utilisez `/family sorted` et choisissez une statistique dans le menu du résultat. Pour les informations de ligue Légende, utilisez `/legends clan` ou `/legends stats`. Consultez [Commandes de famille](family-commands.md) et [Legend stats](../player-commands/legends/README.md).

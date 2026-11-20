@@ -1,24 +1,19 @@
 # 🏆 Rangs et EOS
 
-## Connaissez tous vos classements
+Utilisez les commandes Ranked dans Discord pour consulter le tournoi actuel d'un joueur, le classement de son groupe et son historique de saisons enregistré. EOS signifie end of season : fin de saison.
 
-Avec `/rank {user}`, vous pouvez voir le classement mondial, national et clanique de tout utilisateur spécifié.
+## Consulter un joueur Ranked
 
-<figure><img src="/img/docs-media/image (106).png" alt="" /><figcaption><p>My worlwide, country and clan rank. I'm first in each of them</p></figcaption></figure>
+Lancez `/ranked player` et sélectionnez un **player** ou saisissez son tag. Par défaut, la commande affiche le tournoi Ranked actuel : ligue, trophées, position dans le groupe, attaques et défenses enregistrées et image de saison. Le joueur doit participer à un tournoi Ranked actuel pour utiliser cette vue.
 
-## Possibilités EOS actuelles
+Vous pouvez saisir un identifiant numérique **season** pour consulter un ancien tournoi enregistré pour ce joueur. Les informations historiques dépendent des données disponibles pour cette saison.
 
-La commande `/ranked best` prend tous les membres de votre famille et les organise pour créer les 5 meilleurs clans si EOS l'était maintenant.
+Utilisez **Player** et **Group** sous le résultat pour passer de la vue du joueur au classement du groupe. Celui-ci affiche les positions, les trophées et les attaques ; utilisez les boutons de navigation pour les longues listes. Les seuils de promotion et de relégation de l'image de la saison actuelle correspondent aux seuils actuels du groupe et ne garantissent pas les résultats finaux.
 
-<figure><img src="/img/docs-media/image (107).png" alt="" /><figcaption><p>Shows the arrangement to create 2 best clans if EOS was now</p></figcaption></figure>
+## Consulter l'historique Ranked
 
-## Classement des régions du clan
+Lancez `/ranked history` et sélectionnez un **player** ou saisissez son tag pour voir les saisons Ranked enregistrées, avec la ligue, les trophées, la position et le nombre d'attaques. Utilisez les boutons de navigation si l'historique comporte plusieurs pages.
 
-La commande `/ranked clans` indique quels clans se trouvent actuellement dans le top 200 de votre région de clans.
+## Autres classements
 
-## Classement des régions des joueurs
-
-La commande `/ranked players` affiche quels membres de votre groupe sont actuellement classés dans leur région.
-
-<figure><img src="/img/docs-media/image (108).png" alt="" /><figcaption><p>Show a player being ranked in France. Do not invite him I'll know it.</p></figcaption></figure>
-
+Utilisez `/leaderboard location` pour les classements officiels mondiaux ou nationaux ; consultez [Leaderboards](../clan-and-family-commands/leaderboards.md). Pour les statistiques et les résultats de saison en ligue Légende, consultez [Legends](legends/README.md).

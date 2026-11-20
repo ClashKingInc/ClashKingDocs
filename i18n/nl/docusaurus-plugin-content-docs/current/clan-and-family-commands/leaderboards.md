@@ -1,66 +1,37 @@
 # 📋 Leaderboards
 
-Leaderboards hebben een paar opties, sommige hiervan zijn ingames die zichtbaar worden bij onenigheid en sommige zijn leaderboards binnen je familie.
-:::warning
-/leaderboard-legendes, /leaderboard-spelers en /leaderboard-afbeeldingen zijn momenteel offline.
-:::
+Gebruik `/leaderboard location` om officiële Clash of Clans-ranglijsten van spelers en clans in Discord te bekijken.
+
+## Een leaderboard kiezen
+
+Gebruik `/leaderboard location` en geef op:
+
+- **type** (verplicht): kies **Players**, **Clans**, **Builder Base Players**, **Builder Base Clans** of **Clan Capital**.
+- **location** (verplicht): selecteer **Global** of een ondersteund land uit de suggesties. Voor clanleaderboards is ook **International** beschikbaar.
+- **limit** (optioneel): kies **1–200** resultaten. Standaard is dit **200**.
+
+Kies bijvoorbeeld **Clans** en een land om de clanranglijst van dat land te bekijken. Gebruik de navigatieknoppen voor langere resultaten en de vernieuwknop om ze opnieuw op te halen.
+
+## Voorbeelden
+
+Deze oudere voorbeelden tonen landenranglijsten voor clans en Clan Capital. De huidige indeling en waarden kunnen verschillen.
 
 <details>
 
-<summary><code>/leaderboard familie `{limit}`</code></summary>
+<summary>Bekijk een voorbeeld van een clanleaderboard</summary>
 
-Geeft een klassement voor iedereen in de familietrofeeën
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.58.33.png>)
+![Ouder voorbeeld van een clanleaderboard](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
 
 </details>
 
 <details>
 
-<summary><code>/leaderboard legenda's</code></summary>
+<summary>Bekijk een voorbeeld van een Clan Capital-leaderboard</summary>
 
-Toont een legenda-klassement voor iedereen in legendes binnen uw gezin. Filters kunnen worden besteld met behulp van de bijgevoegde filters.
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.58.51.png>)
+![Ouder voorbeeld van een Clan Capital-leaderboard](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
 
 </details>
 
-<details>
+## Andere ranglijsten
 
-<summary><code>/leaderboard-clans</code></summary>
-
-Toont het in-game klassement voor het geselecteerde land
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.00.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard kapitaal</code></summary>
-
-Toont het klassement voor clanhoofdstad in het geselecteerde land.
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.13.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard spelers</code></summary>
-
-Toont het spelersklassement van ingame in het geselecteerde land
-
-![](</img/docs-media/Screenshot 2023-10-02 at 20.59.30.png>)
-
-</details>
-
-<details>
-
-<summary><code>/leaderboard afbeelding `{clan}` `{server}` `{limit}`</code></summary>
-
-Maak een mooie afbeelding met de resultaten van de volgende opties:
-
-![](</img/docs-media/image (59).png>)
-
-</details>
+Gebruik `/family sorted` om leden van de familyclans op je server te rangschikken en kies een statistiek in het resultaatmenu. Gebruik `/legends clan` of `/legends stats` voor Legend League-informatie. Zie [Family commands](family-commands.md) en [Legend stats](../player-commands/legends/README.md).

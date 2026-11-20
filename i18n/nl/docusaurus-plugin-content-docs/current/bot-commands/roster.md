@@ -2,9 +2,9 @@
 
 Gebruik deze commando's in Discord om een bestaand roster te plaatsen of de rosters van een speler te vinden. Rosters aanmaken en beheren doe je via het [dashboard](../clans-management/rosters/README.md).
 
-## `/roster post`
+## Een roster plaatsen
 
-Plaats een bestaand roster in het huidige kanaal. Kies het **roster** en een **type**:
+Gebruik `/roster post` om een bestaand roster in het huidige kanaal te plaatsen. Kies het **roster** en een **type**:
 
 - **Signup**: met knoppen om spelers aan of af te melden.
 - **Post**: toont het roster zonder aanmeldknoppen.
@@ -12,6 +12,6 @@ Plaats een bestaand roster in het huidige kanaal. Kies het **roster** en een **t
 
 Voor dit commando heb je **Server beheren** of **Beheerder** nodig. Je kunt ook via het dashboard plaatsen en daar de bestemming kiezen.
 
-## `/roster search`
+## Rosters zoeken
 
-Zoek in de rosters van deze server naar een **player** (selecteer een spelertag) of **user** (selecteer een Discord-gebruiker). Kies een van beide; laat je ze allebei leeg, dan doorzoekt het commando je eigen zichtbare gekoppelde accounts.
+Gebruik `/roster search` om in de rosters van deze server te zoeken naar een **player** (selecteer een spelertag) of **user** (selecteer een Discord-gebruiker). Kies een van beide; laat je ze allebei leeg, dan doorzoekt het commando je eigen zichtbare gekoppelde accounts.

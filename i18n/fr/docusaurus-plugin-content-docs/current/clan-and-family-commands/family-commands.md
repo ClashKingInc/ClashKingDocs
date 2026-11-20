@@ -1,185 +1,111 @@
-# 👩‍👩‍👧‍👦 Commandes familiales
+# 👩‍👩‍👧‍👦 Commandes de famille
 
-Les commandes familiales sont très similaires aux commandes de clan mais à plus grande échelle, elles permettent de visualiser toute la famille des clans sur votre serveur.
+Utilisez les commandes de famille sur votre serveur Discord pour consulter les clans ajoutés à ce serveur. [Ajoutez d'abord vos clans dans le tableau de bord](../use-the-dashboard/add-a-clan.md). Les options varient selon la commande ; certains résultats proposent aussi des menus et un bouton d'actualisation.
 
-## Top 50
+Les images sont d'anciens exemples. La présentation, les données et les commandes actuelles peuvent différer.
 
-Il existe plusieurs options différentes qui vous permettent de visualiser les 50 meilleurs membres de toute la famille et qui peuvent être utiles pour une compétition amicale.
+## Clans de la famille
 
-**Il y a jusqu'à 6 paramètres :**&#x20;
-
-* `{season}` se comporte légèrement différemment pour chaque commande. La saison peut faire référence au mois (jeux de clan) ou à la saison du jeu (dons), les week-ends de raid ont également `{weekend}` à la place.
-* `{limit}` affichera uniquement ce nombre d'utilisateurs
-* `{townhall}` affichera uniquement les résultats à cette mairie
-* `{sort_by}` permet de choisir quels paramètres doivent être pris en compte pour faire le top 50
-* `{sort_order}` affichera le résultat par ordre croissant ou décroissant
-* `{server}` affichera le résultat pour une famille liée à un serveur spécifique **dans lequel vous vous trouvez**.
+Utilisez `/family clans` pour parcourir le répertoire des clans. Le menu permet de les regrouper par catégorie, ligue CWL, ligue de capitale ou emplacement, ou d'afficher l'aperçu.
 
 <details>
 
-<summary><code>Activité /family</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Affichez les 50 principaux membres actifs de la famille avec un graphique montrant l'activité totale par clan.
-
-![](</img/docs-media/image (43) (1).png>)
+![Clans de la famille](</img/docs-media/image (51).png>)
 
 </details>
 
+## Activité
+
+Utilisez `/family activity` pour consulter l'activité enregistrée des joueurs et les totaux par clan. Choisissez éventuellement **season** (`YYYY-MM`), **limit**, **sort_by** et **sort_order**. Le tri par dernière connexion est disponible pour la saison actuelle. L'ancien exemple contient un graphique qui ne figure plus dans ce rapport ; utilisez [Graphs](../bot-commands/graphs.md) pour les graphiques.
+
 <details>
 
-<summary><code>Dons /family</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-![](</img/docs-media/image (44).png>)
+![Activité](</img/docs-media/image (43) (1).png>)
 
 </details>
 
+## Dons
+
+Utilisez `/family donations` pour voir les contributions des joueurs et les totaux par clan. Choisissez éventuellement **season** (`YYYY-MM`), **limit**, **sort_by** et **current_members**. L'ancien exemple contient un graphique absent du rapport actuel.
+
 <details>
 
-<summary><code>Raids /family</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Affiche l'état actuel des raids de capitale dans chaque clan où les raids sont actuellement ouverts.
-
-![](</img/docs-media/image (48).png>)
+![Dons](</img/docs-media/image (44).png>)
 
 </details>
 
+## Jeux de clan
+
+Utilisez `/family games` pour voir les points actuels des joueurs de la famille et les totaux des clans associés. Choisissez éventuellement **limit**. L'ancien exemple peut contenir des champs différents du rapport actuel.
+
 <details>
 
-<summary><code>Progression de /family</code> </summary>
+<summary>Voir un ancien exemple</summary>
 
-Disponible pour les héros et les animaux de compagnie, mais aussi pour les troupes, les sorts et les sièges.\
-Il indiquera le nombre de niveaux améliorés au cours d'une saison par les membres mais également au total.
-
-* Héros et animaux de compagnie
-
-![](</img/docs-media/image (49).png>)
-
-* Troupes, sorts et sièges
-
-![](</img/docs-media/image (50).png>)
+![Jeux de clan](</img/docs-media/image (53).png>)
 
 </details>
 
+## Guerres et raids en cours
+
+Utilisez `/family ongoing` et choisissez le **type** obligatoire : **Wars** ou **Raids**. Le rapport montre l'activité actuelle des clans associés ; les journaux de guerre privés ou les données manquantes peuvent limiter les résultats.
+
 <details>
 
-<summary><code>Jeux /family</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Afficher le nombre de points de jeux de clan réalisés par les membres d'une famille au cours d'une saison donnée.![](</img/docs-media/image (53).png>)
+![Guerres et raids en cours](</img/docs-media/Screenshot 2023-09-12 at 21.32.30.png>)
+
+![Guerres et raids en cours](</img/docs-media/image (48).png>)
 
 </details>
 
-## Autres
+## Progression des améliorations
+
+Utilisez `/family progress` pour voir les améliorations d'unités enregistrées des membres actuels. Choisissez éventuellement une **season** (`YYYY-MM`) ; sinon, le rapport couvre les 30 derniers jours. Choisissez le type d'amélioration dans le menu du résultat.
 
 <details>
 
-<summary><code>Clans /family</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Cela affichera un nombre général de membres pour tous les clans du serveur. Vous pouvez choisir entre plusieurs paramètres pour décider de ce qui sera affiché sur le tableau :&#x20;
+![Progression des améliorations](</img/docs-media/image (49).png>)
 
-![](</img/docs-media/image (52).png>)
-
-* Sans paramètres, il affichera "Aperçu" par défaut : &#x20;
-
-![](</img/docs-media/image (51).png>)
+![Progression des améliorations](</img/docs-media/image (50).png>)
 
 </details>
 
+## Composition de la famille
+
+Utilisez `/family compo` pour regrouper les membres actuels par hôtel de ville, rôle de clan, ligue classée ou emplacement de classement public. Choisissez le regroupement dans le menu du résultat.
+
 <details>
 
-<summary><code>Compo /family `{type}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Montrera que TH s'effondre au sein d'une famille. Hitrate donne également une répartition du pourcentage d'attaques qui obtiennent 0, 1, 2 et 3 étoiles par rapport à leur propre niveau de mairie. Ci-dessous montre les différents `{types}`.
-
-* Totaux\
-  ![](</img/docs-media/Screenshot 2023-09-12 at 21.29.06.png>)
-* Hitrate\
-  ![](</img/docs-media/Screenshot 2023-09-12 at 21.28.34.png>)
+![Composition de la famille](</img/docs-media/Screenshot 2023-09-12 at 21.29.06.png>)
 
 </details>
 
-<details>
+## Trier les membres
 
-<summary><code>Guerres /family</code></summary>
+Utilisez `/family sorted` pour classer les membres actuels selon une statistique. Définissez éventuellement **limit** et choisissez la statistique dans le menu du résultat. Comparez par exemple les niveaux d'hôtel de ville ou les étoiles de guerre.
 
-Affichera toutes les guerres en cours et en cours avec un bref aperçu
+## Résumé de saison
 
-![](</img/docs-media/Screenshot 2023-09-12 at 21.32.30.png>)
-
-</details>
+Utilisez `/family summary` et choisissez le **type** obligatoire : **Player** ou **Clan**. Choisissez éventuellement **season** (`YYYY-MM`) et **limit**. Le résumé des joueurs classe les membres actuels ; celui des clans compare les clans de la famille.
 
 <details>
 
-<summary><code>Carte /family `{board}`</code></summary>
+<summary>Voir un ancien exemple</summary>
 
-Les tableaux de clan sont un excellent moyen d'avoir une vue d'ensemble des membres de la famille de différentes manières, ceux-ci peuvent être actualisés avec le bouton d'actualisation. Chaque carte `{board}` est présentée ci-dessous
+![Résumé de saison](</img/docs-media/image (56).png>)
 
-* Activité\
-  ![](/img/docs-media/peak\_dynasty\_activitydonation\_board.png)
-* Légendes\
-  ![](/img/docs-media/peak\_dynasty\_legend\_board.png)
-*Trophée\
-  ![](/img/docs-media/peak\_dynasty\_trophy\_board.png)
-
-</details>
-
-<details>
-
-<summary><code>Ligues /family</code></summary>
-
-Cela peut vous montrer à quelle ligue appartient chaque clan, vous pouvez basculer entre les ligues CWL et la capitale du clan à l'aide des boutons\
-![](</img/docs-media/Screenshot 2023-09-12 at 22.00.52.png>)![](</img/docs-media/Screenshot 2023-09-12 at 22.01.04.png>)
-
-</details>
-
-<details>
-
-<summary><code>Historique de /family</code></summary>
-
-Cette commande est très utile pour vérifier si des clans perdent beaucoup de joueurs. Gardez à l'esprit qu'il enregistre chaque départ et chaque arrivée, il ne prend pas en compte si quelqu'un quitte et rejoint\
-\
-![](</img/docs-media/Screenshot 2023-10-02 at 18.36.39.png>)
-
-</details>
-
-<details>
-
-<summary><code>Trophées /family</code></summary>
-
-Un moyen de visualiser le total des trophées dans la capitale principale, de constructeur ou de clan\
-![](</img/docs-media/Screenshot 2023-10-02 at 18.41.43.png>)
-
-</details>
-
-<details>
-
-<summary><code>/family trié `{townhall}` `{limit}` `{server}`</code></summary>
-
-Afficher les membres d'une famille de clans triés selon un attribut spécifique. Il y en a trop donc je vous laisse le découvrir directement sur votre serveur !
-
-![](</img/docs-media/image (42) (1).png>)
-
-Exemple pour les membres triés par attaques gagnées :&#x20;
-
-![](</img/docs-media/image (41) (1).png>)
-
-</details>
-
-<details>
-
-<summary><code>Résumé /family `{season}` `{limit}` `{server}`</code></summary>
-
-Affiche un classement des meilleurs joueurs de la famille pour le butin, l'activité, les trophées, les dons, les raids et les étoiles de guerre.
-
-![](</img/docs-media/image (56).png>)![](</img/docs-media/image (57).png>)
-
-</details>
-
-<details>
-
-<summary>Statistiques /family `{types}`</summary>
-
-Cette commande est en construction pour l'instant mais devrait être capable de donner des statistiques sur les membres d'une famille pour les dons, l'activité, les trophées, par rapport aux trophées et aux trophées capitaux.
-
-![](</img/docs-media/image (58).png>)
+![Résumé de saison](</img/docs-media/image (57).png>)
 
 </details>

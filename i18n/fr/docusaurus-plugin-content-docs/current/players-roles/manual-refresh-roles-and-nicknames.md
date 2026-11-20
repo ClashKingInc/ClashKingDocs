@@ -1,34 +1,24 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 # 🔄 Actualisation manuelle (rôles et surnoms)
 
-## Le but
+Utilisez `/refresh` sur un serveur Discord pour actualiser les rôles et surnoms selon les règles configurées. C'est utile après une modification des paramètres ou sans attendre l'évaluation automatique. Consultez [Roles & Nicknames](roles-th-and-more/) pour la configuration.
 
-Vous pouvez actualiser manuellement les rôles ([roles-th-and-more](roles-th-and-more/ "mention") et [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) et les surnoms ([setup-a-server.md](../server-setups/setup-a-server.md "mention")) d'un utilisateur si le [auto-refresh.md](auto-refresh.md "mention") est éteint ou si vous avez modifié les paramètres d'un utilisateur et que rien n'a encore déclenché l'actualisation automatique.
+## Actualiser un membre ou un rôle
+
+Exécutez `/refresh` sans option pour vous actualiser. Les options suivantes sont disponibles :
+
+- **role_or_user** : choisissez un membre Discord ou un rôle. Sans choix, la commande vous actualise.
+- **test** : prévisualisez les modifications proposées sans les appliquer.
+- **role_treatment** : choisissez **Both**, **Add only** ou **Remove only**. La valeur par défaut est **Both** ; les surnoms sont gérés séparément.
+- **advanced_mode** : ouvrez un menu pour choisir les catégories de rôles et éventuellement le surnom à actualiser. Sans cette option, toutes les catégories prises en charge sont évaluées.
+
+Par exemple, choisissez **Add only** pour ajouter les rôles actuellement mérités sans retirer les rôles configurés auxquels le membre n'est plus admissible. Utilisez d'abord **test** pour examiner les modifications proposées.
+
+Le bot affiche la progression et un rapport, y compris les modifications qu'il n'a pas pu appliquer. Seuls les rôles configurés sont gérés ; les autres rôles Discord ne sont pas modifiés. Les surnoms ne sont modifiés que si leur changement est configuré et si leur catégorie est incluse.
+
+## Permissions et comptes
+
+Les membres peuvent s'actualiser eux-mêmes. Pour actualiser un autre membre ou un rôle, il faut **Gérer le serveur**, **Administrateur**, être propriétaire du serveur ou disposer du rôle **Role refresh delegate** configuré. Consultez [Accès au tableau de bord](../server-setups/whitelist.md) pour ce paramètre.
+
 :::info
-* Les rôles de leadership sont actualisés par défaut, souhaitez-vous qu'ils ne le soient pas ? Modifiable via `/setup server [leadership_refresh]`
+ClashKing doit pouvoir gérer les rôles et les surnoms. Son rôle doit être placé au-dessus des rôles et membres à modifier. Seuls les comptes liés visibles sont utilisés ; consultez [Associer les joueurs](../bot-commands/link-players.md).
 :::
-
-## La commande
-
-Il existe une commande principale pour actualiser manuellement les rôles -> `/refresh` avec deux options principales pour une expérience de base :
-
-## Les paramètres
-
-### Facultatif
-
-* `role_or_user` : choisissez le rôle ou l'utilisateur dont vous souhaitez actualiser les rôles et le pseudo /or.
-* `test` : ou aucune option, la valeur par défaut est non, mais oui vous permet de voir ce que le bot fera sans qu'il le fasse réellement.
-* `advanced_mode` : choisissez le rôle à évaluer. Cela ajoutera uniquement les rôles que vous avez sélectionnés.
-* `role_treatment` : indiquez si vous souhaitez ajouter et/or supprimer des rôles à l'utilisateur en fonction (par exemple si un joueur a quitté un de votre clan pour rejoindre un autre clan de votre famille, vous pouvez lui donner de nouveaux rôles sans supprimer celui du clan des irformers).

@@ -1,35 +1,24 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-# 🔄 Handmatig vernieuwen (rollen en bijnamen)
+# 🔄 Handmatig verversen (rollen en bijnamen)
 
-## Het doel
+Gebruik `/refresh` op een Discord-server om rollen en bijnamen bij te werken volgens de ingestelde regels. Dit is handig na het aanpassen van instellingen of wanneer je niet op de automatische evaluatie wilt wachten. Zie [Roles & Nicknames](roles-th-and-more/) voor het instellen.
 
-U kunt de rollen ([roles-th-and-more](roles-th-and-more/ "mention") & [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention")) en bijnamen ([setup-a-server.md](../server-setups/setup-a-server.md "mention")) van een gebruiker handmatig vernieuwen als de [auto-refresh.md](auto-refresh.md "mention") is uitgeschakeld, of als u een wijziging heeft aangebracht in de gebruikersinstellingen en er nog niets de automatische vernieuwing heeft geactiveerd.&#x20;
+## Een lid of rol verversen
+
+Gebruik `/refresh` zonder opties om jezelf te verversen. Je kunt deze opties meegeven:
+
+- **role_or_user**: kies een Discord-lid of een rol. Zonder keuze wordt je eigen account ververst.
+- **test**: bekijk de voorgestelde wijzigingen zonder ze uit te voeren.
+- **role_treatment**: kies **Both**, **Add only** of **Remove only**. Standaard is dit **Both**; bijnaamwijzigingen worden afzonderlijk geregeld.
+- **advanced_mode**: open een menu om de te verversen rolcategorieën en eventueel de bijnaam te kiezen. Zonder deze optie worden alle ondersteunde categorieën geëvalueerd.
+
+Kies bijvoorbeeld **Add only** als je verdiende rollen wilt toevoegen zonder ingestelde rollen te verwijderen waarvoor iemand niet meer in aanmerking komt. Gebruik eerst **test** om de voorgestelde wijzigingen te bekijken.
+
+De bot toont de voortgang en een resultaat, inclusief wijzigingen die niet konden worden uitgevoerd. Alleen ingestelde rollen worden beheerd; andere Discord-rollen blijven ongemoeid. Bijnamen worden alleen aangepast als bijnaamwijzigingen zijn ingesteld en de bijnaamcategorie is geselecteerd.
+
+## Rechten en accountgegevens
+
+Leden kunnen zichzelf verversen. Om een ander lid of een rol te verversen heb je **Server beheren**, **Beheerder**, servereigenaarschap of de ingestelde rol **Role refresh delegate** nodig. Zie [Dashboardtoegang](../server-setups/whitelist.md) voor die instelling.
 
 :::info
-* Leiderschapsrollen worden standaard vernieuwd. Wil je dat niet? Wijzigbaar via `/setup server [leadership_refresh]`
+ClashKing heeft rechten nodig om rollen en bijnamen te beheren. De botrol moet boven de rollen en leden staan die de bot moet aanpassen. Alleen zichtbare gekoppelde accounts worden gebruikt; zie [Spelers koppelen](../bot-commands/link-players.md).
 :::
-
-## Het commando
-
-Er is één hoofdopdracht om rollen handmatig te vernieuwen -> `/refresh` met twee hoofdopties voor een basiservaring:
-
-## De parameters
-
-### Optioneel
-
-* `role_or_user`: kies de rol of gebruiker waarvan u de rollen wilt vernieuwen en de /or-bijnaam.
-* `test`: of geen optie, standaard is nee, maar met ja kun je zien wat de bot gaat doen zonder dat hij het daadwerkelijk doet.
-* `advanced_mode`: kies welke rol u wilt evalueren. Hierdoor worden alleen /remove de rollen toegevoegd die u hebt geselecteerd.
-* `role_treatment`: geef aan of je rollen wilt toevoegen en /or wilt verwijderen voor de gebruiker, afhankelijk van (als een speler bijvoorbeeld een van je clan heeft verlaten om zich bij een andere clan uit je familie aan te sluiten, kun je hem nieuwe rollen geven zonder die van de vorige clan te verwijderen).

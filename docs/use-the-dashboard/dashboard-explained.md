@@ -4,7 +4,7 @@ description: What the ClashKing dashboard is and how to reach it.
 
 # 🖥️ Dashboard explained
 
-The **dashboard** makes it easy to manage your Discord server settings for ClashKing in one place. Some settings that used to be configured through the Discord bot have moved to the dashboard.
+The **dashboard** makes it easy to manage your Discord server settings for ClashKing in one place.
 
 ## How to reach the dashboard
 
