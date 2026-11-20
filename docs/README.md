@@ -25,7 +25,7 @@ Currently, we are also developing a **dedicated mobile app** to bring the ClashK
 
 ## **Get Started with ClashKing**
 
-👉  **Get started here**: [Quick Start](https://docs.clashk.ing/quick-start)\
+👉  **Get started here**: [Quick Start](quick-start.md)\
 🌟 If you’d like to support the bot & the app development, the easiest way is by using our [creator code](https://link.clashofclans.com/en/?action=SupportCreator\&id=Clashking)!
 
 ***

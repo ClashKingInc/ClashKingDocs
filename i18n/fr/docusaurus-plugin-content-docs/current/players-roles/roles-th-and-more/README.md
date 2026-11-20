@@ -4,7 +4,7 @@ slug: /players-roles/roles-and-nicknames
 
 # ⏫ Roles & Nicknames
 
-ClashKing peut synchroniser les rôles Discord avec les comptes Clash of Clans liés et visibles des membres. Configurez la plupart des rôles sous **Roles & Nicknames** dans le tableau de bord. [Associez les joueurs](../../clan-setups/link-players/) et [ajoutez vos clans](../../use-the-dashboard/add-a-clan.md) au préalable.
+ClashKing peut synchroniser les rôles Discord avec les comptes Clash of Clans liés et visibles des membres. Configurez la plupart des rôles sous **Roles & Nicknames** dans le tableau de bord. [Associez les joueurs](../../bot-commands/link-players.md) et [ajoutez vos clans](../../use-the-dashboard/add-a-clan.md) au préalable.
 
 :::info
 Créez d'abord les rôles Discord. ClashKing doit avoir la permission **Gérer les rôles** et son rôle doit être placé au-dessus des rôles à gérer dans Discord.

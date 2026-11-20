@@ -4,7 +4,7 @@ slug: /players-roles/roles-and-nicknames
 
 # ⏫ Roles & Nicknames
 
-ClashKing can keep Discord roles in sync with members’ visible linked Clash of Clans accounts. Configure most role types under **Roles & Nicknames** in the dashboard. [Link players](../../clan-setups/link-players/) and [add your clans](../../use-the-dashboard/add-a-clan.md) first.
+ClashKing can keep Discord roles in sync with members’ visible linked Clash of Clans accounts. Configure most role types under **Roles & Nicknames** in the dashboard. [Link players](../../bot-commands/link-players.md) and [add your clans](../../use-the-dashboard/add-a-clan.md) first.
 
 :::info
 Create the Discord roles first. ClashKing needs **Manage Roles**, and its bot role must be above the roles it manages in the Discord role list.

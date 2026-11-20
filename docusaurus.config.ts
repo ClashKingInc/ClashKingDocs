@@ -21,7 +21,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs.clashking.xyz',
+  url: 'https://docs-clashking.orvionlab.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -39,6 +39,10 @@ const config: Config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'nl', 'fr'],
+    localeConfigs: {
+      nl: {baseUrl: '/nl/'},
+      fr: {baseUrl: '/fr/'},
+    },
   },
 
   presets: [
