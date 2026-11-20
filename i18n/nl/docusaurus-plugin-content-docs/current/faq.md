@@ -1,87 +1,69 @@
 ---
-description: Frequently Asked Questions
+description: Veelgestelde vragen
 ---
+
 # ❓ Veelgestelde vragen
 
 <details>
 
 <summary>Hoe stel ik de bot in?</summary>
 
-U kunt de bot eenvoudig instellen door deze stappen te volgen: [quick-start.md](quick-start.md "mention")
+Volg de [Quick Start](quick-start.md) om ClashKing toe te voegen, het dashboard te openen, clans toe te voegen en de eerste functies in te stellen.
 
 </details>
 
 <details>
 
-<summary>Waarom worden sommige statistieken niet nauwkeurig (of helemaal niet) weergegeven in hun opdrachten?</summary>
+<summary>Waarom ontbreken sommige statistieken of verschillen ze van het spel?</summary>
 
-ClashKing kan deze informatie alleen krijgen als de clan wordt gevolgd, wat kan worden gedaan door een clan te koppelen aan een server met `/addclan`. Dit komt omdat deze informatie niet door de API wordt gegeven en het niet haalbaar of mogelijk is om miljoenen clans willekeurig te volgen (tenminste voor meer gedetailleerde zaken).
-
-</details>
-
-<details>
-
-<summary>Wat blijft online &#x26; activiteitscontrole doen?</summary>
-
-controleer op wijzigingen in het volgende om te detecteren wanneer een speler voor het laatst online was:
-
-*naamswijziging
-* aanvalsoverwinning
-* raid-aanval
-* donatie van clankapitaal
-* oorlogsaanval
-*cc-donatie
-* oorlogssterwinst
-* verandering van oorlogsvoorkeur
-* obstakel verwijderd
-* Verandering van de basistrofee voor de bouwer
-* gouden paspunten verdiend
-* Clanspelpunten verdiend
-* goud, elixer of DE geplunderd
-
-Elke volgperiode (ongeveer 3 minuten) dat een van deze wordt gevonden, wordt +1 toegevoegd aan de activiteitsscore
+Sommige statistieken zijn gebaseerd op geregistreerde waarnemingen in plaats van rechtstreeks beschikbare Clash of Clans-gegevens. Gegevens kunnen vertraagd, niet beschikbaar of onvolledig zijn, vooral voor oudere periodes. Ontbrekende gegevens betekenen niet automatisch dat de waarde nul is. Voeg je clan toe via **Management → Clans** in het dashboard; zie [Add / Setup a clan](use-the-dashboard/add-a-clan.md).
 
 </details>
 
 <details>
 
-<summary>De emoji's van de bot werken niet?</summary>
+<summary>Wat betekenen last online en activity?</summary>
 
-De server _@/everyone_-rol moet de machtiging "externe emoji's gebruiken" hebben.
+**Last online** is het tijdstip van de meest recente geregistreerde aanwijzing van spelersactiviteit. Het is een schatting op basis van waargenomen spelgegevens, geen exacte online status. **Activity** telt geregistreerde waarnemingen in de geselecteerde periode en meet niet hoe lang iemand heeft gespeeld. Een ontbrekende waarneming bewijst niet dat een speler inactief was.
 
-</details>
-
-<details>
-
-<summary>De bot verzendt niets voor mijn feed of log?</summary>
-
-* Gebruik `/setup list` en bevestig dat deze (nog) is ingesteld
-* Geef het wat tijd, tot 10 minuten nadat een gebeurtenis in het spel heeft plaatsgevonden - vanwege looping- en API-cachetijden (vooral bij de eerste keer dat een clan is opgezet)
-* Controleer de rechten van je kanaal/bot, vooral als je ClashKing geen beheerder hebt gegeven. _Als u de bot geen beheerdersrechten heeft gegeven, bieden wij geen ondersteuning om uw machtigingen te herstellen._
+Als bijvoorbeeld de spelgegevens van een speler tussen twee waarnemingen veranderen, kan ClashKing activiteit registreren, maar niet precies zien hoe lang de speler online was. Zie [Clan commands](clan-and-family-commands/clan-commands.md) en [Family commands](clan-and-family-commands/family-commands.md) voor activiteitsrapporten.
 
 </details>
 
 <details>
 
-<summary>De legendastatistieken kloppen niet?</summary>
+<summary>Waarom zijn de emoji's van de bot niet zichtbaar?</summary>
 
-Nou, het hangt ervan af - het helpt om dieper te begrijpen hoe deze bot werkt. Zoals hierboven vermeld, kunnen er fouten optreden omdat de API niet rechtstreeks legendestatistieken geeft. \
-\
-Deze bot werkt door non-stop de trofeeën van spelers te controleren. Als de trofeeën omhoog gaan, is het een aanval. Als ze ten onder gaan, is het een verdediging. Klinkt goed, behalve dat de API niet _onmiddellijk_ wordt bijgewerkt - dit kan tot 5 minuten duren. In die paar minuten kunnen de trofeeën (hoe we hits/defenses controleren) op een paar manieren kunnen veranderen waardoor de bot kan struikelen. \
-\
-1\. Twee aanvallen in een kort tijdsbestek - in dit geval zie je statistieken als +68. Dat zijn twee treffers en het is 100% accuraat voor alle doeleinden. \
-2\. Twee verdedigingen vinden tegelijkertijd plaats, hetzelfde als hierboven, maar zoiets als -68. \
-3\. Waar we enige onnauwkeurigheid kunnen krijgen, vinden een verdediging en een aanval tegelijkertijd plaats. Je kunt zoiets als +4 krijgen als een +30 aanval en -26 verdediging tegelijkertijd plaatsvinden. \
-\
-Altijd: de nettowinst/loss voor de dag zal nauwkeurig zijn.
+Controleer of de emoji's in andere kanalen wel verschijnen en of de bot externe emoji's in het betreffende kanaal mag gebruiken. Controleer de server- en kanaalrechten, inclusief eventuele uitzonderingen per kanaal. Blijft het probleem bestaan, neem dan contact op via de [supportserver](https://discord.gg/clashking).
 
 </details>
 
 <details>
 
-<summary>Kan de bot laten zien waar Capital Gold is gedoneerd?</summary>
+<summary>Waarom plaatst mijn feed of log geen berichten?</summary>
 
-Nee, de API verstrekt deze informatie niet aan ClashKing om te kunnen delen
+1. Open **Logs** in het dashboard en selecteer de juiste server of clan. Controleer of de log aanstaat en de bestemming is opgeslagen.
+2. Controleer **Issues** op een niet beschikbaar kanaal, thread of forumbericht. Open een gearchiveerd forumbericht opnieuw voordat je het selecteert.
+3. Controleer of ClashKing webhooks mag aanmaken en berichten in de bestemming mag plaatsen. Logs worden periodiek bijgewerkt; geef een gebeurtenis dus even tijd om te verschijnen.
+
+Zie [Setup logs](use-the-dashboard/setup-logs.md) voor meer informatie. Controleer bij warreminders ook of het oorlogslogboek van de clan openbaar is; zie [Reminders](server-setups/reminders.md).
 
 </details>
 
+<details>
+
+<summary>Waarom verschillen mijn Legend-statistieken van het spel?</summary>
+
+Legend-weergaven gebruiken geregistreerde gevechtsgegevens. Recente resultaten kunnen even op zich laten wachten en ontbrekende waarnemingen kunnen dag- of seizoenstotalen onvolledig maken. Sommige afgesloten dagen bevatten geschatte automatische verdedigingen, aangeduid met **Auto** in de dagweergave; die waarden hangen af van beschikbare eerdere verdedigingen.
+
+Vergelijk de juiste dag met **Today** of **Yesterday** onder `/legends player` en voer het commando later opnieuw uit als resultaten nog worden geregistreerd. Bij onvolledige gegevens zijn totalen niet gegarandeerd gelijk aan het spel. Zie [Legends](player-commands/legends/README.md).
+
+</details>
+
+<details>
+
+<summary>Kan de bot laten zien waaraan Capital Gold is gedoneerd?</summary>
+
+ClashKing kan geregistreerde totalen van Capital Gold-donaties tonen, maar de spelgegevens geven niet aan welk gebouw of welke upgrade elke donatie heeft ontvangen.
+
+</details>
