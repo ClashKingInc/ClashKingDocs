@@ -1,44 +1,20 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🤝 Reddit Recruit Feed
 
-## The goal
+The Reddit Recruitment Feed shares posts from players looking for a clan on [r/ClashOfClansRecruit](https://www.reddit.com/r/ClashOfClansRecruit/) in your Discord server. **The feed is intended for English-speaking clans**: recruiting and conversations on the subreddit are primarily in English.
 
-Reddit is one of the main 2-3 external recruiting sources for Clash of Clans. For anyone unfamiliar, there is a subreddit - [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) - where people post when they are looking for a clan. This feed will post and optionally ping a role when activated. This let's you get a leg up and be one of the first to message or comment on a user's post which can significantly boost your recruiting chances, all things considered.
+## Set up the feed
 
+1. Open the ClashKing dashboard, select your Discord server, and open **Logs**.
+2. In **Server or clan**, select your **server**, then open the **Logs** tab.
+3. Find **Reddit Recruitment Feed** and turn it on.
+4. Select the destination channel. You can optionally select a thread; a forum channel requires a forum post.
+5. Optionally select a role to mention and a minimum Town Hall level. The Town Hall filter matches a player's Town Hall or an explicit Town Hall in the post title, not the description.
+6. Click **Save destination**. To stop the feed, return to the same card and turn it off.
 
-
-## The command
-
-To add this feed -> `/setup reddit-recruit-feed` & to remove - use the `remove` flag in the same command. Below is an example of a feed post.
+## Example
 
 :::info
-The Player Profile Button pops up when a "recruit" has shared their player tag, and the bot provides a quick way to view their account details
+When a player shares their player tag, the **Player Profile** button provides a quick way to view their account details.
 :::
 
-&#x20;![](</img/docs-media/image (14) (1) (1).png>)
-
-
-
-## The parameters
-
-### Required
-
-* `channel` : set the channel where you want the posts to be sent to
-
-### Optional
-
-* `role_to_ping`  : role you want to ping when there's a new post&#x20;
-* `remove`  : to remove the feed.
+![Example of a Reddit recruitment feed post](</img/docs-media/image (14) (1) (1).png>)

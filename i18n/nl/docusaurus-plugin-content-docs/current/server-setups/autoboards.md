@@ -1,65 +1,26 @@
-# 🏗️Autoborden
+# 🏗️ Autoboards
+
+Autoboards houden automatisch ranglijsten beschikbaar op je Discord-server.
+
 :::warning
-Deze functie bevindt zich momenteel in **BÈTA**. We moeten het op uw server activeren voordat u het kunt gebruiken. Als je het wilt uitproberen, kun je toegang aanvragen via het **Discord** [**support**](https://discord.com/channels/923764211845312533/923786531876003850) **kanaal**. Om het te activeren hebben we uw **server-ID** of **servernaam** nodig.
+Deze functie is in **open bèta**.
 :::
 
-## Het doel
+## Beschikbare ranglijsten
 
-Autoboards zijn commando's die automatisch worden geactiveerd op een specifiek tijdstip van de dag of tijdens een evenement van het seizoen.
+- **Donation leaderboard**: toon de top 1–50 donateurs van je family of geselecteerde clans. Je kunt één bericht vernieuwen of volgens een schema een nieuw bericht plaatsen.
+- **Farming leaderboard**: toon de top 1–5 huidige leden van één geselecteerde clan, op basis van geregistreerde farmingaanvallen. Kies het huidige spelseizoen of een doorlopende periode van 1–180 dagen. Dit board vernieuwt één bericht.
 
-:::info
-Dit zijn de momenteel beschikbare opdrachten:
+## Een autoboard aanmaken
 
-* /legends-clan
-* /clan zoeken
-* /clan comp
-* /clan donaties
-* /clan-activiteit
-* /clan kapitaal
-* /family-clans
+1. Open het ClashKing-dashboard, selecteer je server en open **Autoboards**.
+2. Klik op **Create AutoBoard** en kies het type ranglijst.
+3. Kies de family of clans die je wilt opnemen, afhankelijk van het board. Voeg clans eerst toe aan je server als je ze nog niet kunt selecteren.
+4. Kies een Discord-kanaal en indien nodig een thread of forumbericht. Bij een forum is een forumbericht verplicht.
+5. Stel het aantal spelers in. Kies voor farming ook de periode en bij een doorlopende periode het aantal dagen.
+6. Kies bij donations **Refresh** om hetzelfde bericht bij te werken, of **Scheduled send** om dagelijks, op geselecteerde weekdagen of op een gekozen dag van de maand een nieuw bericht te plaatsen. Geplande tijden zijn in UTC.
+7. Stel het vernieuwingsinterval in als het dashboard die optie biedt, kies of het board ingeschakeld is en klik op **Create AutoBoard**.
 
-In de toekomst zullen er meer commando's worden toegevoegd, dus voel je vrij om nieuwe voor te stellen!
-:::
+## Autoboards beheren
 
-### Hoe u het instelt
-
-1. Voer eerst de opdracht uit die u wilt automatiseren. Bijvoorbeeld: `/legends clan`.
-
-<figure><img src="/img/docs-media/image (149).png" alt="" /><figcaption></figcaption></figure>
-
-2. Klik vervolgens op **...** > **Meer** in het bericht.
-
-&#x20;
-
-<figure><img src="/img/docs-media/image (150).png" alt="" /><figcaption></figcaption></figure>
-
-3. Ga vervolgens naar **Apps** > **Automatisering**.
-
-<figure><img src="/img/docs-media/image (151).png" alt="" /><figcaption></figcaption></figure>
-
-
-
-Er verschijnt een instellingenbericht:
-
-<figure><img src="/img/docs-media/image (152).png" alt="" /><figcaption></figcaption></figure>
-
-#### Automatische post
-
-Er wordt een bericht verzonden op het door u gekozen tijdstip. Je kunt bepaalde dagen van de week selecteren of deze activeren tijdens evenementen zoals **Einde seizoen**.
-
-<figure><img src="/img/docs-media/image (154).png" alt="" /><figcaption></figcaption></figure>
-
-Eenmaal ingesteld, wordt de opdracht automatisch uitgevoerd in het kanaal waar u Autoboard op het geplande tijdstip hebt geconfigureerd. Als u bijvoorbeeld **Einde seizoen** kiest, wordt het volgende bericht automatisch verzonden om **5 AM UTC**:
-
-<figure><img src="/img/docs-media/image (155).png" alt="" /><figcaption></figcaption></figure>
-:::warning
-Er is momenteel geen manier om de Auto Post van autoboard geautomatiseerd te verwijderen. Een commando zal later worden toegevoegd. Je kunt vragen om een ​​Auto Post-automatisering te verwijderen op de discord-ondersteuningsserver.&#x20;
-:::
-
-
-
-#### Automatisch vernieuwen
-
-Er wordt een insluitbericht verzonden dat elke **30 tot 60 minuten** automatisch wordt vernieuwd. Je ziet onderaan ook een tijdstempel die aangeeft wanneer deze voor het laatst is bijgewerkt.
-
-<figure><img src="/img/docs-media/image (153).png" alt="" /><figcaption></figcaption></figure>
+Het dashboard toont je ingestelde boards; je kunt ze daar bewerken, uitschakelen of verwijderen. Een uitgeschakeld board bewaart zijn instellingen maar wordt niet uitgevoerd. Wil je zowel een vernieuwend donation board als geplande berichten, maak dan voor elk een apart board aan.

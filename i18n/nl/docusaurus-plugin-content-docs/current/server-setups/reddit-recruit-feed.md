@@ -1,43 +1,20 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-# 🤝 Reddit Recruit Feed (alleen Engelssprekend)
+# 🤝 Reddit Recruit Feed
 
-## Het doel
+De Reddit Recruitment Feed plaatst berichten van spelers die een clan zoeken op [r/ClashOfClansRecruit](https://www.reddit.com/r/ClashOfClansRecruit/) in je Discord-server. **De feed is bedoeld voor Engelstalige clans**: het werven en de gesprekken op deze subreddit zijn voornamelijk in het Engels.
 
-Reddit is een van de belangrijkste 2-3 externe rekruteringsbronnen voor Clash of Clans. Voor iedereen die niet bekend is, is er een subreddit - [r/clashofclansrecruit](https://www.reddit.com/r/ClashOfClansRecruit/) - waar mensen berichten plaatsen als ze op zoek zijn naar een clan. Deze feed zal een rol posten en optioneel pingen wanneer deze is geactiveerd. Hierdoor kunt u een voorsprong krijgen en een van de eersten zijn die berichten stuurt of commentaar geeft op de post van een gebruiker, wat uw kansen op rekrutering aanzienlijk kan vergroten, alles bij elkaar genomen.
+## De feed instellen
 
+1. Open het ClashKing-dashboard, selecteer je Discord-server en open **Logs**.
+2. Selecteer bij **Server or clan** je **server** en open het tabblad **Logs**.
+3. Zoek **Reddit Recruitment Feed** en zet de schakelaar aan.
+4. Kies het kanaal waar de berichten moeten komen. Je kunt eventueel een thread kiezen; bij een forumkanaal is een forumbericht verplicht.
+5. Kies eventueel een rol om te vermelden en een minimum Town Hall-level. Het Town Hall-filter kijkt naar de Town Hall van de speler of een expliciete Town Hall in de titel, niet in de beschrijving.
+6. Klik op **Save destination**. Wil je de feed stoppen, ga dan terug naar dezelfde kaart en zet de schakelaar uit.
 
-
-## Het commando
-
-Om deze feed toe te voegen -> `/setup reddit-recruit-feed` en om te verwijderen, gebruikt u de vlag `remove` in dezelfde opdracht. Hieronder ziet u een voorbeeld van een feedpost.
+## Voorbeeld
 
 :::info
-De knop Spelersprofiel verschijnt wanneer een "rekruut" zijn spelerstag heeft gedeeld, en de bot biedt een snelle manier om zijn accountgegevens te bekijken
+Als een speler zijn spelerstag deelt, kun je via de knop **Player Profile** snel de accountgegevens bekijken.
 :::
 
-&#x20;![](</img/docs-media/image (14) (1) (1).png>)
-
-
-
-## De parameters
-
-### Vereist
-
-* `channel`: stel het kanaal in waar u de berichten naartoe wilt sturen
-
-### Optioneel
-
-* `role_to_ping`: rol die u wilt pingen als er een nieuw bericht is&#x20;
-* `remove`: om het voer te verwijderen.
+![Voorbeeld van een bericht in de Reddit-recruitmentfeed](</img/docs-media/image (14) (1) (1).png>)

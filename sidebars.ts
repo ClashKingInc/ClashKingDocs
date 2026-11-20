@@ -13,7 +13,6 @@ const sidebars: SidebarsConfig = {
         'use-the-dashboard/dashboard-explained',
         'use-the-dashboard/add-a-clan',
         'use-the-dashboard/setup-logs',
-        'use-the-dashboard/link-parsing',
         'server-setups/whitelist',
         'server-setups/reddit-recruit-feed',
         'server-setups/voice-countdowns',
@@ -55,6 +54,8 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Bot commands',
       items: [
+        'bot-commands/reminders',
+        'use-the-dashboard/link-parsing',
         'bot-commands/link-players',
         'utility/help',
         'bot-commands/graphs',

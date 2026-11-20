@@ -8,14 +8,13 @@
 ## Use the dashboard
 
 * [🖥️ Dashboard explained](use-the-dashboard/dashboard-explained.md)
-* [➕ Add a clan](use-the-dashboard/add-a-clan.md)
+* [➕ Add / Setup a clan](use-the-dashboard/add-a-clan.md)
 * [📄 Setup logs](use-the-dashboard/setup-logs.md)
-* [🔗 Link parsing](use-the-dashboard/link-parsing.md)
 * [⬜ Whitelist](server-setups/whitelist.md)
 * [🤝 Reddit Recruit Feed](server-setups/reddit-recruit-feed.md)
 * [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
 * [📳 Reminders](server-setups/reminders.md)
-* [🏹 Link parse](server-setups/link-parse.md)
+* [🏹 Link parsing](server-setups/link-parse.md)
 * [🏗️ Autoboards](server-setups/autoboards.md)
 * [🎁 Giveaways](utility/giveaways.md)
 * [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
@@ -37,6 +36,8 @@
 
 ## Bot commands
 
+* [📳 One-off reminders](bot-commands/reminders.md)
+* [🔗 Link parsing](use-the-dashboard/link-parsing.md)
 * [🔗 (Un)link players](bot-commands/link-players.md)
 * [🆘 Help](utility/help.md)
 * [📈 Graphs](bot-commands/graphs.md)

@@ -1,31 +1,26 @@
-# 🎙️ Stemaftellingen
+# 🎙️ Voice Countdowns
 
-## Het doel
+Voice countdowns tonen Clash of Clans-eventtimers en oorlogsinformatie in de namen van Discord-spraakkanalen.
 
-Heb je je ooit afgevraagd wanneer het volgende clash-evenement is? Uw serverleden kunnen het gemakkelijk vertellen met stemaftellingen! De beste manier om hieraan te denken zijn timers, door gebruik te maken van discord-stemkanalen.
+## Countdowns instellen
 
-## Het commando
+1. Open het ClashKing-dashboard, selecteer je Discord-server en open **Logs**.
+2. Kies bij **Server or clan** waarvoor je een countdown wilt instellen:
+   - Selecteer **je server** voor Clan Games, Clan War League, Raid Weekend, Season end en Season day.
+   - Selecteer **een clan** voor de War score en War timer van die clan. Voeg de clan eerst toe aan de server als die niet in de lijst staat.
+3. Open het tabblad **Countdowns** en zet de gewenste countdowns aan. ClashKing maakt voor iedere ingeschakelde countdown een spraakkanaal aan.
+4. Wil je een countdown stoppen, selecteer dan dezelfde server of clan en zet de schakelaar uit.
 
-Ze zijn eenvoudig in te stellen: gebruik gewoon `/setup countdowns` en kies de gewenste typen. Er zijn 5 soorten, allemaal hieronder afgebeeld.
+### Voorbeelden van serverevents
 
-<figure><img src="/img/docs-media/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (9).png" alt="Voorbeelden van spraakkanalen met eventcountdowns" width="196" /><figcaption><p>Voorbeelden van eventcountdowns</p></figcaption></figure>
 
-<figure><img src="/img/docs-media/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
+### Voorbeelden van clanoorlogen
+
+<figure><img src="/img/docs-media/image (10).png" alt="Voorbeelden van spraakkanalen met clanoorlogcountdowns" width="210" /><figcaption><p>Voorbeelden van clancountdowns</p></figcaption></figure>
 
 :::info
-Een paar opmerkingen:
-
-* Hiervoor heeft de bot beheerder nodig, vanwege het aanmaken en instellen van machtigingen voor de rol _@everyone_.
-* Ze worden elke 10 minuten bijgewerkt
-* Als een pijp -> `|` iets wordt toegevoegd voordat het blijft staan, zoals de toegevoegde zwaard-emoji in het CWL-voorbeeld hierboven
+- ClashKing heeft rechten nodig om spraakkanalen en hun machtigingen aan te maken en te beheren.
+- Countdowns worden elke 10 minuten bijgewerkt.
+- Je kunt een voorvoegsel zoals een emoji in de kanaalnaam behouden door het vóór `|` te plaatsen.
 :::
-
-### De parameters
-
-### Optioneel
-
-`clan`: als je specifieke countdowns voor een clan wilt instellen (oorlogsscore en timer)
-
-<figure><img src="/img/docs-media/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
-
-<figure><img src="/img/docs-media/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>

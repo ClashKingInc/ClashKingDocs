@@ -1,30 +1,26 @@
 # 🎙️ Comptes à rebours vocaux
 
-## Le but
+Les comptes à rebours vocaux affichent les événements Clash of Clans et les informations de guerre dans les noms des salons vocaux Discord.
 
-Vous êtes-vous déjà demandé quand aurait lieu le prochain événement de choc ? Les membres de votre serveur pourront le savoir facilement grâce aux comptes à rebours vocaux ! La meilleure façon d’y penser sont les minuteries, en utilisant les canaux vocaux Discord.
+## Configurer les comptes à rebours
 
-## La commande
+1. Ouvrez le tableau de bord ClashKing, sélectionnez votre serveur Discord et ouvrez **Logs**.
+2. Dans **Server or clan**, choisissez le contexte du compte à rebours :
+   - Sélectionnez **votre serveur** pour Clan Games, Clan War League, Raid Weekend, Season end et Season day.
+   - Sélectionnez **un clan** pour son score de guerre et son compte à rebours de guerre. Ajoutez d'abord le clan au serveur s'il ne figure pas dans la liste.
+3. Ouvrez l'onglet **Countdowns** et activez les comptes à rebours souhaités. ClashKing crée un salon vocal pour chacun.
+4. Pour arrêter un compte à rebours, sélectionnez à nouveau le même serveur ou clan et désactivez son interrupteur.
 
-Ils sont faciles à configurer : utilisez simplement `/setup countdowns` et choisissez les types que vous souhaitez. Il existe 5 types, tous illustrés ci-dessous.
+### Exemples d'événements du serveur
 
-<figure><img src="/img/docs-media/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (9).png" alt="Exemples de salons vocaux pour les événements" width="196" /><figcaption><p>Exemples de comptes à rebours d'événements</p></figcaption></figure>
 
-<figure><img src="/img/docs-media/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
+### Exemples de guerres de clan
+
+<figure><img src="/img/docs-media/image (10).png" alt="Exemples de salons vocaux pour les guerres de clan" width="210" /><figcaption><p>Exemples de comptes à rebours de clan</p></figcaption></figure>
+
 :::info
-Quelques remarques :
-
-* Le bot nécessite un administrateur pour cela, en raison du fait de créer et de définir des autorisations pour le rôle _@everyone_.
-* Ils sont mis à jour toutes les 10 minutes
-* Si un tuyau -> `|` est ajouté avant qu'il ne reste, comme l'emoji d'épée ajouté dans l'exemple CWL ci-dessus
+- ClashKing doit disposer des permissions nécessaires pour créer et gérer les salons vocaux et leurs permissions.
+- Les comptes à rebours sont actualisés toutes les 10 minutes.
+- Vous pouvez conserver un préfixe, comme un emoji, dans le nom du salon en le plaçant avant `|`.
 :::
-
-### Les paramètres
-
-### Facultatif
-
-`clan` : si vous souhaitez définir des comptes à rebours spécifiques pour un clan (score de guerre et timer)
-
-<figure><img src="/img/docs-media/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
-
-<figure><img src="/img/docs-media/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>

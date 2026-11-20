@@ -1,27 +1,12 @@
-# 🏹 Link parse
+# 🏹 Link parsing
 
-## The goal
+Link parsing expands supported Clash of Clans links into visual Discord embeds.
 
-You can configure link parsing so that every message containing a link will be replaced with visual embeds, allowing you to see exactly what each link contains. To do this, use the `/setup link-parse` command.
+## Configure link parsing
 
-:::info
-You can also do it manually for army links and base links (see [army-links.md](../utility/army-links.md "mention"))
-:::
-
-## The command
-
-`/setup link-parse`
-
-## The Parameters
-
-### Optional
-
-* `{army_links}`: replace the army link by an embed.
-* `{player_links}`: replace the player link by an embed.&#x20;
-* `{clan_links}`: replace the clan link by an embed.&#x20;
-* `{base_links}`: replace the base link with an embed. This requires an image and optionally a description text.
-* `{show_parse}`: if turned on, it allows you to use -show PartOfTheNameOfOneOfYourClans to see an overview of this clan.
-* `{manage_whitelist}`:  enable the link-parsing only in certain channels.
+1. Open the ClashKing dashboard and select your server.
+2. Open **General settings** and find **Link parsing**.
+3. Turn each option on or off: **Clan links**, **Army links**, **Player links**, **Base links**, and **-show commands**. Changes are saved from the dashboard.
 
 ## Examples
 
@@ -33,7 +18,6 @@ An army link will automatically convert into an embedded format, as shown in the
 
 ![](</img/docs-media/image (146).png>)
 
-You can also do this manually with the [`/army link`](../utility/army-links.md) command.
 
 </details>
 
@@ -65,7 +49,6 @@ Do you have a great base you'd like to share? Simply post a picture of the base 
 
 ![](</img/docs-media/image (141).png>)
 
-You can also use the [/base](../utility/base-links.md) command for creating such embeds!&#x20;
 
 Base links will remain active for 90 days from the date of the last click.
 
@@ -75,21 +58,8 @@ Base links will remain active for 90 days from the date of the last click.
 
 <summary>Show parse</summary>
 
-Have you added your clan to your Discord server (using [/addclan](../clan-setups/add-a-clan.md)) and want to quickly display an embed of your clan? You can do this with -shown NameOfTheClan. An embed will appear below the message, as illustrated in the example below.
+When **-show commands** are enabled, you can display an embed for a linked clan, as illustrated below.
 
 ![](</img/docs-media/image (142).png>)
 
 </details>
-
-<details>
-
-<summary>Manage whitelist</summary>
-
-Do you want to enable link-parsing only in certain channels? Use the optional `manage_whitelist` parameter to manage the whitelist. Link-parsing will only function in the channels you have added.
-
-![](</img/docs-media/image (143).png>)
-
-The red button will remove all whitelisted channels. To add a specific channel again, you will need to reselect all the whitelisted channels.
-
-</details>
-

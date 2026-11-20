@@ -1,22 +1,18 @@
-# ⬜ Whitelist
+# ⬜ Dashboard access
 
-## The goal
+Use dashboard access settings to give Discord roles permission to view or manage specific sections of your server's ClashKing dashboard.
 
-Gives a specific user or role access to one command.
+## Give a role dashboard access
 
-:::info
-You can give access to every commands to a role in [setup-a-server.md](setup-a-server.md "mention") (full\_whitelist\_role).
-:::
+1. Open the ClashKing dashboard, select your server, and open **General settings**.
+2. Find **Dashboard access** under **Security & Permissions**. This section is available to server managers with full dashboard access.
+3. Select a Discord role and click **Add role**. A newly added role initially has **View** access to General settings.
+4. For each available dashboard section, choose **No access**, **View**, or **Manage**. Changes save automatically; check for the **Saved** status.
 
-## The command
+**View** allows members to see a section; **Manage** also allows them to change its settings. Access from multiple roles is combined. **No access** removes that role's grant for a section; another role can still grant access.
 
-For that, you must use the `/whitelist add` command to add a role, the `/whitelist remove` command to remove a role, and the `/whitelist list` to display the list of commands that have whitelist overrides.
+To remove all dashboard grants for a role, use the trash button next to it. To remove access to one section only, select **No access** for that section.
 
-<figure><img src="/img/docs-media/image (127).png" alt="" /><figcaption></figcaption></figure>
+## Role refresh delegate
 
-## The parameters
-
-### Optional
-
-* `ping`: The role you want to give access to a command
-* `command`:  The command you want to give acces to
+Under **Security & Permissions**, the separate **Role refresh delegate** setting lets you select a Discord role whose members may refresh other users' roles. Select **No Role** to clear it. This setting does not grant dashboard or moderation permissions, and dashboard access does not automatically grant this refresh permission.

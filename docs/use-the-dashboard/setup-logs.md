@@ -4,7 +4,19 @@ description: Set up logs from the dashboard.
 
 # 📄 Setup logs
 
-You can set up your logs from the dashboard. This gives you a visual way to choose which logs you want and where they should be sent.
+Logs post clan, player, and server activity to Discord. Configure each log in the dashboard so you can choose what to track and where it appears.
+
+## Set up a log
+
+1. Open the ClashKing dashboard, select your Discord server, and open **Logs**.
+2. In **Server or clan**, select a clan for its clan, war, capital, and player logs, or select your server for server-wide logs. Add a clan to the server first if it is not listed.
+3. Open the appropriate tab, find the log you want, and turn its switch on.
+4. Choose a destination channel. You can also choose a thread; a forum channel requires a forum post. Some logs have additional options, such as the Reddit feed's role and Town Hall filter.
+5. Click **Save destination**. Repeat for other logs and clans as needed.
+
+## Manage and troubleshoot logs
+
+Return to the same server or clan and log card to change the destination or turn a log off. The **Issues** section highlights enabled logs whose channel, thread, or forum post is unavailable; choose **Review** to find the affected log. If a forum post was archived, reopen it in Discord and refresh the dashboard before selecting it again. ClashKing needs permission to create webhooks and post in the chosen destination.
 
 ## Logs type
 
@@ -15,7 +27,7 @@ If you are curious what these logs look like, they are all on demo in the [suppo
 :::
 
 :::warning
-The logs update approximately every 5-10 minutes. This value may go down in the future but is never significantly higher.
+Logs are updated periodically, so activity may not appear immediately.
 :::
 
 ### Clan logs
@@ -25,22 +37,20 @@ The logs update approximately every 5-10 minutes. This value may go down in the 
 - [**Member donation**](https://discord.com/channels/923764211845312533/1128185494497398834)**:** Send a message every time someone receive/give troops
 - **Clan achievements:** Send a message when the clan move up.
 - **Clan Requirements:** Send a message when clan settings has been modified.
-- **Clan Desciption**: Send a message when the clan description has been modified
+- **Clan Description**: Send a message when the clan description has been modified
+- **Ban Alerts**: Send an alert when a banned player joins the clan.
 
-:::info
-If you want to add ban/strike/profile buttons to player joining/leaving logs, see [setup-a-clan.md](../clan-setups/setup-a-clan.md "mention").
-:::
 
 ### War/CWL Logs
 
 - [**War Log**](https://discord.com/channels/923764211845312533/1128186867825774672)**:** A continuous log of war changes posted in a channel - attacks, defenses, war start, end, etc.
-- [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Send an embed panel when a new war starts and update it in real time.
+- [**War Panel**](https://discord.com/channels/923764211845312533/1128884598609285121)**:** Send an embed panel when a new war starts and update it as the war progresses.
 - **CWL Lineup Change**
 
 Setting both war log and war panel will result in double images of the result of the war.
 
 :::warning
-If you set up the log during a war, the logs won't be send until the next war. Your war log should also be "public".
+Your clan’s war log must be public in Clash of Clans for war information to be available.
 :::
 
 ### Capital Logs
@@ -64,6 +74,10 @@ If you set up the log during a war, the logs won't be send until the next war. Y
 - Legend Attacks
 - Legend Defenses
 
-:::info
-For even more details, see [📄 Log Setup](../clan-setups/log-setup.md).
-:::
+### Server logs
+
+Select your server in **Server or clan** to configure these feeds:
+
+- **Clash of Clans maintenance**: posts when maintenance starts and ends.
+- **Reddit Recruitment Feed**: shares recruitment posts; see [Reddit Recruit Feed](../server-setups/reddit-recruit-feed.md).
+- **Reddit User Feed**: follows posts from up to two Reddit users, with optional comments on their posts.

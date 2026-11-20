@@ -21,7 +21,7 @@
 * [🤝 Reddit Recruit Feed (English speaking only)](server-setups/reddit-recruit-feed.md)
 * [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
 * [📳 Reminders](server-setups/reminders.md)
-* [🏹 Link parse](server-setups/link-parse.md)
+* [🏹 Link parsing](server-setups/link-parse.md)
 * [🏗️ Autoboards](server-setups/autoboards.md)
 * [ℹ️ Others](server-setups/others.md)
 

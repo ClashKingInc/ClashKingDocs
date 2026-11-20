@@ -1,78 +1,27 @@
----
-description: There are currently 5 reminder types
----
-# 📳 Herinneringen
+# 📳 Reminders
 
-## Het doel
+Stel via het dashboard automatische herinneringen in voor oorlogen, Raid Weekends en Clan Games. Wil je direct één herinnering versturen zonder schema, gebruik dan het [eenmalige remindercommando](../bot-commands/reminders.md).
 
-Herinner je clangenoten aan de taken die ze in het spel moeten voltooien!
+## Een automatische herinnering instellen
 
-:::info
-Mocht je benieuwd zijn hoe deze herinneringen er uit zien, ze staan allemaal op demo in de [support server.](https://discord.gg/clashking). Je kunt ook op de naam van het logtype klikken om naar een voorbeeld te worden doorverwezen.
-:::
-
-## De commando's
-
-Om nieuwe herinneringen aan te maken, moet u de opdracht `/reminders create` gebruiken.
-
-<figure><img src="/img/docs-media/image (113).png" alt="" /><figcaption></figcaption></figure>
-
-Je kunt ook gebruiken:&#x20;
-
-* `/reminders list` om de herinneringen te zien die u al heeft ingesteld.
-* `/reminders edit` om een ​​herinnering die u al hebt gemaakt, te wijzigen of te verwijderen.
-* `/reminders manual` om je clangenoot nu te pingen!
-
-## De parameters
-
-### Vereist
-
-* `type:` kies tussen oorlog en CWL, clankapitaal, inactiviteit, clanspellen en rooster.
-* `time_left`: resterende tijd voordat je je clangenoten pingt. Gebruik komma's om meerdere keren in te voeren.
-
-### Optioneel
-
-`channel:` Het kanaal waarnaar u de ping wilt verzenden. Als u geen kanaal instelt, wordt de ping verzonden in het kanaal waarin de opdracht is uitgevoerd.
+1. Open het ClashKing-dashboard, selecteer je server en open **Reminders**. Voeg je clan eerst toe aan de server als je die nog niet kunt selecteren.
+2. Klik op **Add Reminder** en kies **War**, **Clan Capital** of **Clan Games**.
+3. Selecteer de clan, het kanaal en hoeveel tijd voor het einde van het evenement de herinnering moet worden verstuurd. Je kunt ook een thread kiezen; bij een forumkanaal is een forumbericht verplicht.
+4. Voeg eventueel een eigen bericht toe. Kies bij oorlogen de gewenste oorlogstypes; stel bij Clan Capital of Clan Games de aanvals- of puntengrens in.
+5. Klik op **Add Reminder** om de herinnering op te slaan.
 
 ## Soorten herinneringen
 
-In dit gedeelte leggen we de verschillende soorten herinneringen uit.
-:::danger
-Voorlopig werken alleen de oorlogs- en CWL-herinneringen. Andere herinneringen worden binnenkort opnieuw geactiveerd. Blijf op de hoogte!
-:::
-
-#### Oorlog & CWL
-
-Ping gebruikers die X uur voor het einde van de oorlog nog aanvallen hebben (maximaal 48 uur). Een GIF kan ook!
+- **War**: herinner spelers tijdens gewone oorlogen, vriendschappelijke oorlogen of CWL. Selecteer de gewenste oorlogstypes.
+- **Clan Capital**: herinner spelers die tijdens Raid Weekend het ingestelde aantal aanvallen of meer over hebben.
+- **Clan Games**: herinner spelers die minder punten hebben dan de ingestelde grens.
 
 :::info
-Je oorlogslogboek moet in het spel op 'openbaar' staan, anders krijg je geen herinnering
+Het oorlogslogboek van je clan moet openbaar staan in Clash of Clans om war reminders te laten werken.
 :::
 
-<figure><img src="/img/docs-media/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
+Koppel de Clash of Clans-accounts van spelers aan hun Discord-accounts zodat ze vermeld kunnen worden in herinneringen. Zie [spelers koppelen](../clan-setups/link-players/).
 
-#### **Gebruiksscenario's:**&#x20;
+## Herinneringen beheren
 
-* Herinner ze er tijdens de voorbereidingsdagen aan dat ze clankastelen moeten vullen,&#x20;
-* Vertel hen dat de oorlog is begonnen,
-* Herinner ze eraan om aan te vallen als er nog maar een paar uur over is.
-:::warning
-De onderstaande herinneringstypen werken momenteel niet
-:::
-
-### Clanhoofdstad
-
-Herinner mensen eraan hun raid-aanvallen te gebruiken als ze dat nog niet hebben gedaan.
-
-### Inactiviteit
-
-Ping mensen die X dagen inactief zijn geweest.
-
-### Clanspellen
-
-Herinner mensen eraan om deel te nemen aan het clanspel als ze onder een bepaald aantal punten zitten.
-
-### Rooster
-
-Ping mensen wanneer een rooster bijna afloopt (zie [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
-
+Gebruik het clanfilter en de tabbladen om ingestelde herinneringen te vinden. Je kunt een herinnering bewerken, verwijderen, naar een andere clan kopiëren of met **Send now** direct een verzending van de huidige instellingen aanvragen. Het dashboard bevestigt dat het verzoek is aangenomen; de bezorging is niet gegarandeerd.

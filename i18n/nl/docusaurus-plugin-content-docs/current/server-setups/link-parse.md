@@ -1,27 +1,12 @@
-# 🏹Link parseren
+# 🏹 Link parsing
 
-## Het doel
+Link parsing zet ondersteunde Clash of Clans-links om in visuele embeds in Discord.
 
-U kunt het parseren van links zo configureren dat elk bericht met een link wordt vervangen door visuele insluitingen, zodat u precies kunt zien wat elke link bevat. Gebruik hiervoor de opdracht `/setup link-parse`.
+## Link parsing instellen
 
-:::info
-Je kunt het ook handmatig doen voor legerlinks en basislinks (zie [army-links.md](../utility/army-links.md "mention"))
-:::
-
-## Het commando
-
-`/setup link-parse`
-
-## De parameters
-
-### Optioneel
-
-* `{army_links}`: vervang de legerlink door een insluiting.
-* `{player_links}`: vervang de spelerlink door een embed.&#x20;
-* `{clan_links}`: vervang de clanlink door een embed.&#x20;
-* `{base_links}`: vervang de basislink door een instortvoorziening. Hiervoor is een afbeelding en optioneel een beschrijvende tekst nodig.
-* `{show_parse}`: indien ingeschakeld, kunt u -show PartOfTheNameOfOneOfYourClans gebruiken om een ​​overzicht van deze clan te zien.
-* `{manage_whitelist}`: schakel het parseren van links alleen in bepaalde kanalen in.
+1. Open het ClashKing-dashboard en selecteer je server.
+2. Open **General settings** en zoek **Link parsing**.
+3. Zet de opties afzonderlijk aan of uit: **Clan links**, **Army links**, **Player links**, **Base links** en **-show commands**. Wijzigingen worden via het dashboard opgeslagen.
 
 ## Voorbeelden
 
@@ -33,7 +18,6 @@ Een legerlink wordt automatisch omgezet naar een ingesloten formaat, zoals weerg
 
 ![](</img/docs-media/image (146).png>)
 
-U kunt dit ook handmatig doen met de opdracht [ZXQPH8QXZ](../utility/army-links.md).
 
 </details>
 
@@ -65,7 +49,6 @@ Heb jij een mooie basis die je graag wilt delen? Plaats eenvoudigweg een foto va
 
 ![](</img/docs-media/image (141).png>)
 
-U kunt ook de opdracht [/base](../utility/base-links.md) gebruiken om dergelijke insluitingen te maken!&#x20;
 
 Basislinks blijven 90 dagen actief vanaf de datum van de laatste klik.
 
@@ -75,21 +58,8 @@ Basislinks blijven 90 dagen actief vanaf de datum van de laatste klik.
 
 <summary>Toon parse</summary>
 
-Heb je je clan toegevoegd aan je Discord-server (met behulp van [/addclan](../clan-setups/add-a-clan.md)) en wil je snel een insluiting van je clan weergeven? Je kunt dit doen met -showd NameOfTheClan. Er verschijnt een insluiting onder het bericht, zoals geïllustreerd in het onderstaande voorbeeld.
+Als **-show commands** is ingeschakeld, kun je een embed van een gekoppelde clan tonen, zoals hieronder.
 
 ![](</img/docs-media/image (142).png>)
 
 </details>
-
-<details>
-
-<summary>Beheer witte lijst</summary>
-
-Wilt u het parseren van links alleen in bepaalde kanalen inschakelen? Gebruik de optionele parameter `manage_whitelist` om de witte lijst te beheren. Het parseren van links werkt alleen in de kanalen die u heeft toegevoegd.
-
-![](</img/docs-media/image (143).png>)
-
-Met de rode knop worden alle kanalen op de witte lijst verwijderd. Als u een specifiek kanaal opnieuw wilt toevoegen, moet u alle kanalen op de witte lijst opnieuw selecteren.
-
-</details>
-

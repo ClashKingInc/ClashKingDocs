@@ -1,81 +1,27 @@
----
-description: There are currently 5 reminder types
----
-
 # 📳 Reminders
 
-## The goal
+Set up automatic reminders in the dashboard for your clan's wars, Raid Weekends, and Clan Games. To send a reminder immediately without creating a schedule, use the [one-off reminder command](../bot-commands/reminders.md).
 
-Remind your clanmates about the tasks they need to complete in game!
+## Set up an automatic reminder
 
-:::info
-If you are curious what these reminders look like, they are all on demo in the [support server.](https://discord.gg/clashking) You can also click on the name of the log type to be redirected to an example.
-:::
+1. Open the ClashKing dashboard, select your server, and open **Reminders**. Add your clan to the server first if it is not available to select.
+2. Click **Add Reminder** and choose **War**, **Clan Capital**, or **Clan Games**.
+3. Select the clan, destination channel, and how long before the event ends to send the reminder. You can also select a thread; forum channels require a forum post.
+4. Add an optional custom message. For war reminders, select the applicable war types; for Clan Capital or Clan Games, choose the attack or point threshold.
+5. Click **Add Reminder** to save it.
 
-## The commands
+## Reminder types
 
-To create new reminders, you must use the `/reminders create` command.
-
-<figure><img src="/img/docs-media/image (113).png" alt="" /><figcaption></figcaption></figure>
-
-You can also use :&#x20;
-
-* `/reminders list` to see the reminders you already set.
-* `/reminders edit` to modify or delete a reminder you already created.
-* `/reminders manual` to ping your clan mate right now!
-
-## The parameters
-
-### Required
-
-* `type:` choose between war & CWL, Clan Capital, Inactivity, Clan Games and Roster.
-* `time_left`: time remaining before pinging your clan mates. Use commas to enter multiple times.
-
-### Optional
-
-`channel:` The channel you want the ping to be sent to.If you don't set a channel, the ping will be sent in the channel the command was run in.
-
-## Reminders types
-
-On this section we will explain the different reminders types.
-
-:::danger
-For now only the war & CWL reminders are working. Other reminders will be reactivated soon. Stay tuned!
-:::
-
-#### War & CWL
-
-Ping users that have remaining attacks X hours before the end of the war (48h max). A Gif can also be used!
+- **War**: remind players during regular wars, friendly wars, or CWL. Select the war types that apply.
+- **Clan Capital**: remind players who have the selected number of attacks or more remaining during Raid Weekend.
+- **Clan Games**: remind players whose points are below the selected threshold.
 
 :::info
-Your war log should be set to 'public' in game, otherwise you won't get a reminder
+Your clan’s war log must be public in Clash of Clans for war reminders to work.
 :::
 
-<figure><img src="/img/docs-media/image (115).png" alt="" width="563" /><figcaption><p>Reminder 30 min before the end of the war</p></figcaption></figure>
+Link players' Clash of Clans accounts to their Discord accounts so they can be mentioned in reminders. See [Link players](../clan-setups/link-players/).
 
-#### **Use cases :**&#x20;
+## Manage reminders
 
-* Remind them during prep days to fill clan castles,&#x20;
-* Inform them that the war started,
-* Remind them to attack when there's only a few hour left.
-
-:::warning
-The reminder types below are currently not working
-:::
-
-### Clan capital
-
-Remind people to use their raids attacks if not done yet.
-
-### Inactivity
-
-Ping people who has been inactive for X days.
-
-### Clan Games
-
-Remind people to participate to the clan game if they are under a certain amount of points.
-
-### Roster
-
-Ping people when a roster is about to end (see [manage-rosters-and-more.md](../clans-management/rosters/manage-rosters-and-more.md "mention")).
-
+Use the clan filter and type tabs to find configured reminders. You can edit or delete a reminder, clone it to another clan, or use **Send now** to request an immediate delivery of its current configuration. The dashboard reports that a send request was accepted; delivery is not guaranteed.

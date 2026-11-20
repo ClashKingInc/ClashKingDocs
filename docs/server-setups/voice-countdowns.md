@@ -1,31 +1,26 @@
 # 🎙️ Voice Countdowns
 
-## The goal
+Voice countdowns show Clash of Clans event timers and war information in the names of Discord voice channels.
 
-Ever wonder when the next clash event is? Your server members will be able to tell easily with voice countdowns! Best way to think of them are timers, by using discord voice channels.&#x20;
+## Set up countdowns
 
-## The command
+1. Open the ClashKing dashboard, select your Discord server, and open **Logs**.
+2. In **Server or clan**, choose the scope for the countdown you want:
+   - Select **your server** for Clan Games, Clan War League, Raid Weekend, Season end, and Season day.
+   - Select **a clan** for its War score and War timer. Add the clan to the server first if it is not listed.
+3. Open the **Countdowns** tab and turn on the countdowns you want. ClashKing creates a voice channel for each enabled countdown.
+4. To stop a countdown, return to the same server or clan and turn its switch off.
 
-They are easy to set up - just use `/setup countdowns` and choose the types you would like. There are 5 types, all pictured below.
+### Server event examples
 
-<figure><img src="/img/docs-media/image (8).png" alt="" width="452" /><figcaption><p>Options shown when clan parameters is NOT set</p></figcaption></figure>
+<figure><img src="/img/docs-media/image (9).png" alt="Examples of event countdown voice channels" width="196" /><figcaption><p>Examples of event countdowns</p></figcaption></figure>
 
-<figure><img src="/img/docs-media/image (9).png" alt="" width="196" /><figcaption><p>Example of event countdowns</p></figcaption></figure>
+### Clan war examples
+
+<figure><img src="/img/docs-media/image (10).png" alt="Examples of clan war countdown voice channels" width="210" /><figcaption><p>Examples of clan countdowns</p></figcaption></figure>
 
 :::info
-A couple of notes:
-
-* The bot requires admin for this, due to the fact of creating and setting permissions for the _@everyone_ role.
-* They update every 10 minutes
-* If a pipe -> `|` is added anything before it will stay, like the added sword emoji in the CWL example above
+- ClashKing needs permission to create and manage voice channels and their permissions.
+- Countdowns update every 10 minutes.
+- You can keep a prefix such as an emoji in a channel name by placing it before `|`.
 :::
-
-### The parameters
-
-### Optional
-
-`clan`: if you want to set specific countdowns for a clan (war score and timer)
-
-<figure><img src="/img/docs-media/image (7).png" alt="" width="419" /><figcaption><p>Options shown when clan parameters is set</p></figcaption></figure>
-
-<figure><img src="/img/docs-media/image (10).png" alt="" width="210" /><figcaption><p>Example of clan countdowns</p></figcaption></figure>

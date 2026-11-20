@@ -11,7 +11,7 @@ description: Analysez les liens d'armées et de bases en embeds lisibles.
 Parfois vous souhaitez partager une armée avec vos clanmates, mais un lien ne dit pas ce qu'il contient. Nous offrons un moyen d'afficher plus d'infos sur ce contenu.
 
 :::info
-Vous pouvez aussi activer [Link parse](../server-setups/link-parse.md) pour que les messages contenant un lien d'armée soient automatiquement remplacés par l'embed.
+Vous pouvez aussi activer [Link parsing](../server-setups/link-parse.md) pour que les messages contenant un lien d'armée soient automatiquement remplacés par l'embed.
 :::
 
 ### Les commandes
@@ -38,7 +38,7 @@ Parfois vous souhaitez partager une base avec vos clanmates, mais un lien ne dit
 Les gens peuvent ensuite télécharger la base et donner leur avis. Gardez une trace du nombre de personnes qui ont téléchargé votre base !
 
 :::info
-Vous pouvez aussi activer [Link parse](../server-setups/link-parse.md) pour que les messages contenant un lien de base soient automatiquement remplacés par l'embed.
+Vous pouvez aussi activer [Link parsing](../server-setups/link-parse.md) pour que les messages contenant un lien de base soient automatiquement remplacés par l'embed.
 :::
 
 ### Les commandes
@@ -53,6 +53,6 @@ Vous pouvez aussi activer [Link parse](../server-setups/link-parse.md) pour que 
 - `description` : donnez des détails sur cette base, comme pour quel HD ou pourquoi vous la partagez
 - `picture` : ajoutez une image de la base pour montrer à quoi elle ressemble
 
-## Link parse
+## Link parsing
 
-Pour l'analyse automatique des liens dans les messages, voir [Link parse](../server-setups/link-parse.md).
+Pour l'analyse automatique des liens dans les messages, voir [Link parsing](../server-setups/link-parse.md).

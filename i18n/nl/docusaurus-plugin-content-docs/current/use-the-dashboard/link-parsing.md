@@ -11,7 +11,7 @@ description: Parse army- en base-links naar leesbare embeds.
 Soms wil je een army delen met clanmates, maar een link zegt niet wat de inhoud is. Wij bieden een manier om meer info over die inhoud te tonen.
 
 :::info
-Je kunt ook [Link parse](../server-setups/link-parse.md) aanzetten zodat berichten met een army-link automatisch worden vervangen door de embed.
+Je kunt ook [Link parsing](../server-setups/link-parse.md) aanzetten zodat berichten met een army-link automatisch worden vervangen door de embed.
 :::
 
 ### De commando's
@@ -38,7 +38,7 @@ Soms wil je een base delen met clanmates, maar een link zegt niet wat de inhoud 
 Mensen kunnen de base daarna downloaden en feedback geven. Houd bij hoeveel mensen je base hebben gedownload!
 
 :::info
-Je kunt ook [Link parse](../server-setups/link-parse.md) aanzetten zodat berichten met een base-link automatisch worden vervangen door de embed.
+Je kunt ook [Link parsing](../server-setups/link-parse.md) aanzetten zodat berichten met een base-link automatisch worden vervangen door de embed.
 :::
 
 ### De commando's
@@ -53,6 +53,6 @@ Je kunt ook [Link parse](../server-setups/link-parse.md) aanzetten zodat bericht
 - `description`: geef details over deze base, zoals voor welke TH of waarom je hem deelt
 - `picture`: voeg een afbeelding van de base toe
 
-## Link parse
+## Link parsing
 
-Voor automatisch parsen van links in berichten, zie [Link parse](../server-setups/link-parse.md).
+Voor automatisch parsen van links in berichten, zie [Link parsing](../server-setups/link-parse.md).
