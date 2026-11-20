@@ -1,59 +1,21 @@
 # 🎁 Giveaways
 
-Do you want to give some things back to your community? Host now your own giveaways!&#x20;
+Give back to your community by hosting a giveaway. You can start one immediately or schedule it for later, and give selected roles extra entries.
 
-It is possible to schedule the giveaways beforehand! Weights can also be adjusted based on roles. For instance, long-term players can be given a higher chance ([/role tenure](../players-roles/roles-th-and-more/tenure-role.md) to set those up).
+## Create a giveaway
 
-:::info
-This feature is quite new! Report bugs or feature suggestions in [the discord!](https://discord.clashk.ing/)
-:::
+1. Open the ClashKing dashboard, select your server, and choose **Giveaways** under **Management**.
+2. Click the red **Create giveaway** button.
+3. Choose a prize and Discord channel, set the number of winners and an end time, and either start immediately or choose a start time.
+4. Optionally customize the text above the embed, the embed description, the end message, role mentions, and an image. Preview the giveaway and end message before creating it.
+5. Click **Create giveaway** to save it.
+
+### Entry restrictions and boosters
+
+You can require a Discord profile picture or a linked Clash of Clans account. You can also limit entry to selected roles or exclude selected roles. Entry boosters let you apply a multiplier to selected roles, giving their members more entries.
 
 ## Manage giveaways
 
-You can manage your giveaways using a webpage dashboard. You can get the link with the command `/giveaway dashboard`.  This link will expire 1 hour after you executed the command.
+The dashboard shows ongoing, upcoming, and ended giveaways, along with their entries and timing. You can open a giveaway in Discord, view its participants and their chances, edit an upcoming or ongoing giveaway, duplicate a giveaway, or delete it. Ended giveaways can be viewed but not edited.
 
-:::info
-You need the Manage Server perms to have acces to the dashboard. To grant access to others or a specific role (such as a giveaways manager), use the [**/whitelist add** ](../server-setups/whitelist.md)command
-:::
-
-<figure><img src="/img/docs-media/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
-
-Click on the **create giveaway** to create a new giveaway. Enter the details, such as the prize, start and end times, along with a custom message or image!
-
-<figure><img src="/img/docs-media/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
-
-### Giveaway requirements
-
-It is possible set certain requirements for the giveaways.  Those requirements will allow for assigning greater weighting to specific users based on their roles. Additionally, it helps to prevent bots from participating in giveaways. Currently we have the following requirements:
-
-* User must have a discord profile picture
-* User must have a Clash of Clans account linked to the ClashKing bot (using [/link](../clan-setups/link-players/))
-* Only allow users with a certain role to participate
-* Or adjust the odds for a certain role
-
-## Example of a giveaway
-
-<figure><img src="/img/docs-media/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
-
-:::info
-The participate button will update 60 seconds after the last click.&#x20;
-:::
-
-## Reroll giveaways
-
-It is also possible to reroll certain giveaway winners.
-
-### The command
-
-`/giveaway reroll {giveaway name} {users_to_replace}`
-
-#### The parameters
-
-#### Required
-
-* `giveaway name`:  name of the giveaway
-* `users_to_replace`: mention of the users to replace with a new winner.
-
-#### Optional
-
-* `reason`:  reason of the reroll.&#x20;
+To draw replacement winners, open **Reroll winners** for an ended giveaway, select the winners to replace, and confirm. New winners are drawn from eligible participants.

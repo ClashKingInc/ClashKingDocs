@@ -1,56 +1,21 @@
-# 🎁 Cadeaux
+# 🎁 Concours
 
-Voulez-vous redonner certaines choses à votre communauté? Organisez maintenant vos propres cadeaux !&#x20;
+Organisez un concours pour votre communauté. Vous pouvez le lancer immédiatement ou le programmer et accorder des participations supplémentaires à certains rôles.
 
-Il est possible de programmer les cadeaux à l'avance ! Les poids peuvent également être ajustés en fonction des rôles. Par exemple, les joueurs à long terme peuvent avoir une chance plus élevée ([/role tenure](../players-roles/roles-th-and-more/tenure-role.md) pour les configurer).
-:::info
-Cette fonctionnalité est assez nouvelle ! Signaler des bogues ou des suggestions de fonctionnalités dans [the discord!](https://discord.clashk.ing/)
-:::
+## Créer un concours
 
-## Gérer les cadeaux
+1. Ouvrez le tableau de bord ClashKing, sélectionnez votre serveur et choisissez **Giveaways** sous **Management**.
+2. Cliquez sur le bouton rouge **Create giveaway**.
+3. Choisissez un prix et un salon Discord, définissez le nombre de gagnants et l'heure de fin, puis lancez le concours immédiatement ou choisissez une heure de début.
+4. Personnalisez si vous le souhaitez le texte au-dessus de l'embed, sa description, le message de fin, les mentions de rôles et l'image. Prévisualisez le concours et le message de fin avant de le créer.
+5. Cliquez sur **Create giveaway** pour l'enregistrer.
 
-Vous pouvez gérer vos cadeaux à l'aide d'un tableau de bord de page Web. Vous pouvez obtenir le lien avec la commande `/giveaway dashboard`.  Ce lien expirera 1 heure après avoir exécuté la commande.
-:::info
-Vous avez besoin des autorisations de gestion du serveur pour accéder au tableau de bord. Pour accorder l'accès à d'autres personnes ou à un rôle spécifique (comme un gestionnaire de cadeaux), utilisez la commande [**/whitelist add** ](../server-setups/whitelist.md).
-:::
+### Conditions et bonus de participation
 
-<figure><img src="/img/docs-media/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
+Vous pouvez exiger une photo de profil Discord ou un compte Clash of Clans lié. Vous pouvez également réserver la participation à certains rôles ou exclure des rôles. Les bonus de participation appliquent un multiplicateur aux rôles sélectionnés et donnent ainsi plus de participations à leurs membres.
 
-Cliquez sur **créer un cadeau** pour créer un nouveau cadeau. Entrez les détails, tels que le prix, les heures de début et de fin, ainsi qu'un message ou une image personnalisée !
+## Gérer les concours
 
-<figure><img src="/img/docs-media/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
+Le tableau de bord affiche les concours en cours, à venir et terminés, ainsi que leurs participations et leurs horaires. Vous pouvez ouvrir un concours dans Discord, consulter les participants et leurs chances, modifier un concours en cours ou à venir, le dupliquer ou le supprimer. Les concours terminés peuvent être consultés, mais pas modifiés.
 
-### Conditions requises pour les cadeaux
-
-Il est possible de fixer certaines exigences pour les cadeaux.  Ces exigences permettront d’attribuer une plus grande pondération à des utilisateurs spécifiques en fonction de leurs rôles. De plus, cela permet d’empêcher les robots de participer à des cadeaux. Actuellement, nous avons les exigences suivantes :
-
-* L'utilisateur doit avoir une photo de profil Discord
-* L'utilisateur doit avoir un compte Clash of Clans lié au bot ClashKing (en utilisant [/link](../clan-setups/link-players/))
-* Autoriser uniquement les utilisateurs ayant un certain rôle à participer
-* Ou ajustez les chances pour un certain rôle
-
-## Exemple de cadeau
-
-<figure><img src="/img/docs-media/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
-:::info
-Le bouton de participation sera mis à jour 60 secondes après le dernier clic.
-:::
-
-## Relancez les cadeaux
-
-Il est également possible de relancer certains gagnants du concours.
-
-### La commande
-
-`/giveaway reroll {giveaway name} {users_to_replace}`
-
-#### Les paramètres
-
-#### Requis
-
-* `giveaway name` : nom du cadeau
-* `users_to_replace` : mention des utilisateurs à remplacer par un nouveau gagnant.
-
-#### Facultatif
-
-* `reason` : raison de la relance.&#x20;
+Pour tirer de nouveaux gagnants, ouvrez **Reroll winners** pour un concours terminé, sélectionnez les gagnants à remplacer et confirmez. Les nouveaux gagnants sont tirés parmi les participants éligibles.

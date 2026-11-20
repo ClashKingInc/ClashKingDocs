@@ -1,59 +1,21 @@
 # 🎁 Winacties
 
-Wil je iets teruggeven aan je gemeenschap? Organiseer nu je eigen weggeefacties!&#x20;
+Geef iets terug aan je community met een winactie. Je kunt een winactie direct starten of inplannen en geselecteerde rollen extra deelnames geven.
 
-Het is mogelijk om de winacties vooraf in te plannen! Gewichten kunnen ook worden aangepast op basis van rollen. Langetermijnspelers kunnen bijvoorbeeld een hogere kans krijgen ([/role tenure](../players-roles/roles-th-and-more/tenure-role.md) om deze op te zetten).
+## Een winactie aanmaken
 
-:::info
-Deze functie is vrij nieuw! Rapporteer bugs of functiesuggesties in [the discord!](https://discord.clashk.ing/)
-:::
+1. Open het ClashKing-dashboard, selecteer je server en kies **Giveaways** onder **Management**.
+2. Klik op de rode knop **Create giveaway**.
+3. Kies een prijs en Discord-kanaal, stel het aantal winnaars en een eindtijd in en laat de winactie direct beginnen of kies een starttijd.
+4. Pas eventueel de tekst boven de embed, de embedbeschrijving, het eindbericht, de rolvermeldingen en een afbeelding aan. Bekijk de voorbeelden van de winactie en het eindbericht voordat je de winactie aanmaakt.
+5. Klik op **Create giveaway** om de winactie op te slaan.
 
-## Beheer weggeefacties
+### Deelnamevoorwaarden en boosters
 
-U kunt uw weggeefacties beheren via een webpaginadashboard. U kunt de link verkrijgen met het commando `/giveaway dashboard`.  Deze link vervalt 1 uur nadat u de opdracht heeft uitgevoerd.
+Je kunt een Discord-profielfoto of een gekoppeld Clash of Clans-account verplicht stellen. Ook kun je deelname beperken tot geselecteerde rollen of rollen uitsluiten. Met entry boosters geef je geselecteerde rollen een vermenigvuldiger, zodat hun leden meer deelnames krijgen.
 
-:::info
-U heeft de machtiging Server beheren nodig om toegang te krijgen tot het dashboard. Om toegang te verlenen aan anderen of een specifieke rol (zoals een giveaways-manager), gebruikt u de opdracht [**/whitelist add** ](../server-setups/whitelist.md)
-:::
+## Winacties beheren
 
-<figure><img src="/img/docs-media/image (132).png" alt="" /><figcaption><p>Get the dashboard link using /giveaway dashboard</p></figcaption></figure>
+Het dashboard toont lopende, geplande en afgelopen winacties, inclusief hun deelnemers en tijden. Je kunt een winactie openen in Discord, deelnemers en hun kansen bekijken, een geplande of lopende winactie bewerken, een winactie dupliceren of verwijderen. Afgelopen winacties kun je bekijken, maar niet bewerken.
 
-Klik op **maak winactie** om een ​​nieuwe winactie aan te maken. Voer de details in, zoals de prijs, begin- en eindtijd, samen met een aangepast bericht of afbeelding!
-
-<figure><img src="/img/docs-media/image (135).png" alt="" width="261" /><figcaption><p>You can customize the giveaway with the dashboard!</p></figcaption></figure>
-
-### Vereisten voor weggeefacties
-
-Het is mogelijk om bepaalde eisen te stellen aan de winacties.  Deze vereisten zullen het mogelijk maken om meer gewicht toe te kennen aan specifieke gebruikers op basis van hun rollen. Bovendien helpt het om te voorkomen dat bots deelnemen aan weggeefacties. Momenteel hebben wij de volgende eisen:
-
-* Gebruiker moet een onenigheidsprofielfoto hebben
-* De gebruiker moet een Clash of Clans-account hebben dat is gekoppeld aan de ClashKing-bot (met behulp van [/link](../clan-setups/link-players/))
-* Sta alleen gebruikers met een bepaalde rol toe om deel te nemen
-*Of pas de odds voor een bepaalde rol aan
-
-## Voorbeeld van een winactie
-
-<figure><img src="/img/docs-media/image (147).png" alt="" width="275" /><figcaption><p>Example of a giveaway</p></figcaption></figure>
-
-:::info
-De deelnameknop wordt 60 seconden na de laatste klik bijgewerkt.&#x20;
-:::
-
-## Winacties opnieuw uitrollen
-
-Het is ook mogelijk om bepaalde winactiewinnaars opnieuw uit te schrijven.
-
-### Het commando
-
-`/giveaway reroll {giveaway name} {users_to_replace}`
-
-#### De parameters
-
-#### Vereist
-
-* `giveaway name`: naam van de winactie
-* `users_to_replace`: vermelding van de gebruikers die moeten worden vervangen door een nieuwe winnaar.
-
-#### Optioneel
-
-* `reason`: reden van de herroll.&#x20;
+Om vervangende winnaars te trekken, open je **Reroll winners** bij een afgelopen winactie, selecteer je de winnaars die je wilt vervangen en bevestig je de keuze. De nieuwe winnaars worden getrokken uit deelnemers die in aanmerking komen.
