@@ -82,7 +82,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          type: 'localeDropdown',
+          type: 'custom-settings',
           position: 'right',
         },
         {
