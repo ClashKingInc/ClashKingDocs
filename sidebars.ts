@@ -8,7 +8,7 @@ const sidebars: SidebarsConfig = {
     'faq',
     {
       type: 'category',
-      label: 'Use the dashboard',
+            collapsed: false,
       items: [
         'use-the-dashboard/dashboard-explained',
         'use-the-dashboard/add-a-clan',
@@ -23,7 +23,7 @@ const sidebars: SidebarsConfig = {
         'utility/giveaways',
         {
           type: 'category',
-          label: 'Roles (TH & More)',
+                collapsed: false,
           items: [
             'players-roles/roles-th-and-more/README',
             'players-roles/roles-th-and-more/family-roles',
@@ -37,7 +37,7 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
-          label: 'Rosters',
+                collapsed: false,
           items: [
             'clans-management/rosters/README',
             'clans-management/rosters/create-a-roster',
@@ -53,7 +53,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Bot commands',
+            collapsed: false,
       items: [
         'bot-commands/link-players',
         'utility/help',
@@ -67,12 +67,12 @@ const sidebars: SidebarsConfig = {
         'bot-commands/tickets',
         {
           type: 'category',
-          label: 'Player Commands',
+                collapsed: false,
           items: [
             'player-commands/lookup',
             {
               type: 'category',
-              label: 'Legends',
+                    collapsed: false,
               items: [
                 'player-commands/legends/README',
                 'player-commands/legends/legends-search',
@@ -92,7 +92,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Unused',
+            collapsed: false,
       items: [
         'utility/buttons',
         'utility/embeds',
@@ -101,7 +101,7 @@ const sidebars: SidebarsConfig = {
         'clans-management/strikes/auto-strikes',
         {
           type: 'category',
-          label: 'Ticketing',
+                collapsed: false,
           items: [
             'ticketing/creating-a-ticket-panel',
             'ticketing/adding-buttons-and-actions',
