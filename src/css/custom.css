@@ -114,3 +114,10 @@
   .ck-footer-links { justify-content: flex-start; gap: 0.5rem 1.25rem; }
   .ck-footer-links a { display: inline-flex; align-items: center; min-height: 44px; }
 }
+
+.ck-meme-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); gap: 1rem; }
+.ck-meme-gallery figure { margin: 0; padding: 0.75rem; border: 1px solid var(--ifm-color-emphasis-200); border-radius: 0.75rem; }
+.ck-meme-gallery__images { display: flex; align-items: center; justify-content: center; gap: 0.25rem; height: 180px; }
+.ck-meme-gallery__images img { min-width: 0; max-width: 100%; max-height: 100%; object-fit: contain; }
+.ck-meme-gallery__images img:nth-last-child(2), .ck-meme-gallery__images img:nth-last-child(2) ~ img { max-width: calc(50% - 0.125rem); }
+.ck-meme-gallery figcaption { margin-top: 0.75rem; font-weight: 600; }
