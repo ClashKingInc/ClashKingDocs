@@ -16,7 +16,7 @@ Follow the [Quick Start](quick-start.md) to add ClashKing, open the dashboard, a
 
 <summary>Why are some statistics missing or different from the game?</summary>
 
-Some statistics rely on recorded observations rather than values directly available from Clash of Clans. Data may be delayed, unavailable, or incomplete, especially for earlier periods. Missing data does not necessarily mean the value is zero. Add your clan through **Management → Clans** in the dashboard; see [Add / Setup a clan](use-the-dashboard/add-a-clan.md).
+Some statistics rely on recorded observations rather than values directly available from Clash of Clans. Data may be delayed, unavailable, or incomplete, especially for earlier periods. Missing data does not necessarily mean the value is zero. Add your clan through **Management → Clans** in the dashboard; see [Add / Setup a clan](dashboard/add-setup-a-clan.md).
 
 </details>
 
@@ -26,7 +26,7 @@ Some statistics rely on recorded observations rather than values directly availa
 
 **Last online** is the time of the most recent recorded indication of player activity. It is an estimate based on observed game data, not an exact online status. **Activity** counts recorded observations during the selected period; it does not measure time spent playing. An unavailable observation does not prove a player was inactive.
 
-For example, if a player's game data changes between observations, ClashKing may record activity, but it cannot tell exactly how long the player was online. See [Clan commands](clan-and-family-commands/clan-commands.md) and [Family commands](clan-and-family-commands/family-commands.md) for activity reports.
+For example, if a player's game data changes between observations, ClashKing may record activity, but it cannot tell exactly how long the player was online. See [Clan commands](bot-commands/clan-commands.md) and [Family commands](bot-commands/family-commands.md) for activity reports.
 
 </details>
 
@@ -46,7 +46,7 @@ Check whether the emojis appear in other channels and whether the bot can use ex
 2. Check **Issues** for an unavailable channel, thread, or forum post. Reopen an archived forum post before selecting it again.
 3. Check that ClashKing can create webhooks and post in the destination. Logs update periodically, so allow time for the event to appear.
 
-See [Setup logs](use-the-dashboard/setup-logs.md) for details. For war reminders, also check that the clan's war log is public; see [Reminders](server-setups/reminders.md).
+See [Setup logs](dashboard/setup-logs.md) for details. For war reminders, also check that the clan's war log is public; see [Reminders](dashboard/reminders.md).
 
 </details>
 
@@ -56,7 +56,7 @@ See [Setup logs](use-the-dashboard/setup-logs.md) for details. For war reminders
 
 Legend views use recorded battle data. Recent results may take time to appear, and missing observations can make a day's or season's totals incomplete. Some completed days include estimated automatic defenses, marked **Auto** in the day view; those values depend on available earlier defenses.
 
-Compare the correct day using **Today** or **Yesterday** under `/legends player`, and run the command again later if results are still being recorded. Totals are not guaranteed to match the game when data is incomplete. See [Legends](player-commands/legends/README.md).
+Compare the correct day using **Today** or **Yesterday** under `/legends player`, and run the command again later if results are still being recorded. Totals are not guaranteed to match the game when data is incomplete. See [Legends](bot-commands/legends.md).
 
 </details>
 

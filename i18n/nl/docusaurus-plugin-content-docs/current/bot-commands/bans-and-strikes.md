@@ -8,7 +8,7 @@ slug: /bot-commands/bans-and-strikes
 Met bans en strikes houd je moderatienotities over spelers bij op je server. Een ban legt vast dat een speler niet terug mag komen; een strike legt een waarschuwing vast, bijvoorbeeld voor een overtreding van de clanregels.
 
 :::info
-Een ClashKing-ban voorkomt **niet** dat een speler een clan kan joinen. Wil je een waarschuwing ontvangen wanneer een gebande speler joint, zet dan **Ban Alerts** aan voor die clan onder **Logs**. Zie [Logs instellen](../use-the-dashboard/setup-logs.md).
+Een ClashKing-ban voorkomt **niet** dat een speler een clan kan joinen. Wil je een waarschuwing ontvangen wanneer een gebande speler joint, zet dan **Ban Alerts** aan voor die clan onder **Logs**. Zie [Logs instellen](../dashboard/setup-logs.md).
 :::
 
 ## Een record toevoegen

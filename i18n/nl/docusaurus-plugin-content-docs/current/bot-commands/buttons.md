@@ -24,4 +24,4 @@ Kies één tot vier knoppen in het menu om af te ronden. Kies bijvoorbeeld **Lin
 - **To-Do Button**: toont de accounttaken van het lid privé.
 - **Roster Button**: toont de rosterindelingen van het lid privé.
 
-Elke knop werkt voor het lid dat erop klikt. Zie [Link players](link-players.md), [Manual refresh](../players-roles/manual-refresh-roles-and-nicknames.md) en [Rosters](../clans-management/rosters/README.md) voor meer informatie.
+Elke knop werkt voor het lid dat erop klikt. Zie [Link players](link-and-unlink-players.md), [Manual refresh](manual-refresh-roles-and-nicknames.md) en [Rosters](../dashboard/rosters.md) voor meer informatie.

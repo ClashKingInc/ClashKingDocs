@@ -8,7 +8,7 @@ slug: /bot-commands/bans-and-strikes
 Les bans et strikes permettent de conserver les notes de modération des joueurs sur votre serveur. Un ban indique qu'un joueur ne doit pas revenir ; un strike enregistre un avertissement, par exemple pour une infraction aux règles du clan.
 
 :::info
-Un ban ClashKing n'empêche **pas** un joueur de rejoindre un clan. Pour recevoir un avertissement lorsqu'un joueur banni rejoint un clan, activez **Ban Alerts** pour ce clan sous **Logs**. Consultez [Configurer les logs](../use-the-dashboard/setup-logs.md).
+Un ban ClashKing n'empêche **pas** un joueur de rejoindre un clan. Pour recevoir un avertissement lorsqu'un joueur banni rejoint un clan, activez **Ban Alerts** pour ce clan sous **Logs**. Consultez [Configurer les logs](../dashboard/setup-logs.md).
 :::
 
 ## Ajouter un dossier

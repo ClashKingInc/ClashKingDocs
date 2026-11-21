@@ -8,7 +8,7 @@ slug: /bot-commands/bans-and-strikes
 Bans and strikes help your server keep track of player moderation records. A ban records that a player should not return; a strike records a warning, such as a rule violation.
 
 :::info
-A ClashKing ban does **not** prevent a player from joining a clan. To receive a warning when a banned player joins, enable **Ban Alerts** for that clan under **Logs**. See [Setup logs](../use-the-dashboard/setup-logs.md).
+A ClashKing ban does **not** prevent a player from joining a clan. To receive a warning when a banned player joins, enable **Ban Alerts** for that clan under **Logs**. See [Setup logs](../dashboard/setup-logs.md).
 :::
 
 ## Add a record

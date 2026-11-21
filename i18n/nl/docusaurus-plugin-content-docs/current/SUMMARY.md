@@ -2,69 +2,51 @@
 
 * [👋 Welcome to ClashKing!](README.md)
 * [🚀 Quick start](quick-start.md)
-* [📱 Get the mobile app !](get-the-mobile-app.md)
+* [📱 Get the mobile app!](get-the-mobile-app.md)
 * [❓ FAQ](faq.md)
 
-## Clan-instellingen
+## Het dashboard
 
-* [➕ Add a Clan](clan-setups/add-a-clan.md)
-* [⚙️ Setup a clan](clan-setups/setup-a-clan.md)
-* [📄 Log Setup](clan-setups/log-setup.md)
-* [🔗 Link Players](clan-setups/link-players/README.md)
-  * [👋 Unlink Players](clan-setups/link-players/unlink-players.md)
-* [ℹ️ Others](clan-setups/others.md)
+* [🖥️ Dashboard explained](dashboard/dashboard-explained.md)
+* [🎨 Bot Appearance](dashboard/bot-appearance.md)
+* [👤 Account Settings](dashboard/account-settings.md)
+* [⬜ Dashboard access](dashboard/dashboard-access.md)
+* [➕ Add / Setup a clan](dashboard/add-setup-a-clan.md)
+* [📊 Analytics](dashboard/analytics.md)
+* [⏫ Roles & Nicknames](dashboard/roles-and-nicknames.md)
+* [📋 Rosters](dashboard/rosters.md)
+* [🗺️ Bases](dashboard/bases.md)
+* [📄 Setup logs](dashboard/setup-logs.md)
+* [📳 Reminders](dashboard/reminders.md)
+* [🎙️ Voice Countdowns](dashboard/voice-countdowns.md)
+* [🤝 Reddit Recruit Feed](dashboard/reddit-recruit-feed.md)
+* [🏗️ Autoboards](dashboard/autoboards.md)
+* [🎁 Giveaways](dashboard/giveaways.md)
+* [🏹 Link parsing](dashboard/link-parsing.md)
 
-## Serverinstellingen
+## Botcommando's
 
-* [⚙️ Setup a server](server-setups/setup-a-server.md)
-* [⬜ Whitelist](server-setups/whitelist.md)
-* [🤝 Reddit Recruit Feed (English speaking only)](server-setups/reddit-recruit-feed.md)
-* [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
-* [📳 Reminders](server-setups/reminders.md)
-* [🏹 Link parsing](server-setups/link-parse.md)
-* [🏗️ Autoboards](server-setups/autoboards.md)
-* [ℹ️ Others](server-setups/others.md)
-
-## Spelersrollen
-
-* [⏫ Roles (TH & More)](players-roles/roles-th-and-more/README.md)
-* [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
-
-## Clansbeheer
-
-* [🚪 Bans](clans-management/bans.md)
-* [😠 Strikes](clans-management/strikes/README.md)
-  * [🎳 Add a strike](clans-management/strikes/add-a-strike.md)
-  * [👀 View strikes](clans-management/strikes/view-strikes.md)
-* [Rosters](clans-management/rosters/README.md)
-
-## Clan- en familieopdrachten
-
-* [🏛️ Clan Commands](clan-and-family-commands/clan-commands.md)
-* [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
-* [📋 Leaderboards](clan-and-family-commands/leaderboards.md)
-* [⚔️ War & CWL](clan-and-family-commands/war-and-cwl.md)
-* [📈 Graphs](clan-and-family-commands/graphs.md)
-
-## Speleropdrachten
-
-* [🔍 Lookup](player-commands/lookup.md)
-* [🟣 Legends](player-commands/legends/README.md)
-* [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
-* [😎 User settings](player-commands/user-settings.md)
-* [🤔 To-do](player-commands/to-do.md)
-* [🏆 Ranks & EOS](player-commands/ranks-and-eos.md)
-
-## Nutsvoorziening
-
-* [🆘 Help](utility/help.md)
-* [🐸 Pepe](utility/pepe.md)
-* [Army links](utility/army-links.md)
-* [🖼️ Base links](utility/base-links.md)
-* [🎁 Giveaways](utility/giveaways.md)
-
-## 🤖 Aangepaste bots
-
-* [🤖 Custom bot](custom-bots/custom-bot.md)
-* [💻 Developer Portal](custom-bots/developer-portal.md)
-* [🟢 Turn it on!](custom-bots/turn-it-on.md)
+* [🆘 Help](bot-commands/help.md)
+* [🤖 Bot information](bot-commands/bot-info.md)
+* [🔗 (Un)link players](bot-commands/link-and-unlink-players.md)
+* [🙎‍♀️ Accounts check](bot-commands/accounts-check.md)
+* [😎 User settings](bot-commands/user-settings.md)
+* [🔍 Lookup](bot-commands/lookup.md)
+* [🤔 To-do](bot-commands/to-do.md)
+* [🔘 Member buttons](bot-commands/buttons.md)
+* [🔗 Army & Base Sharing](bot-commands/army-and-base-sharing.md)
+* [🎨 Fankit](bot-commands/fankit.md)
+* [🐸 Memes](bot-commands/meme.md)
+* [🏛️ Clan Commands](bot-commands/clan-commands.md)
+* [👩‍👩‍👧‍👦 Family Commands](bot-commands/family-commands.md)
+* [⚔️ War & CWL](bot-commands/war-and-cwl.md)
+* [📋 Roster commands](bot-commands/roster-commands.md)
+* [🟣 Legends](bot-commands/legends.md)
+* [🏆 Ranks & EOS](bot-commands/ranks-and-eos.md)
+* [📋 Leaderboards](bot-commands/leaderboards.md)
+* [📈 Graphs](bot-commands/graphs.md)
+* [📳 One-off reminders](bot-commands/one-off-reminders.md)
+* [🔄 Manual Refresh (Roles & Nicknames)](bot-commands/manual-refresh-roles-and-nicknames.md)
+* [👥 Role users](bot-commands/role-users.md)
+* [🚪 Bans & strikes](bot-commands/bans-and-strikes.md)
+* [🎫 Tickets](bot-commands/tickets.md)

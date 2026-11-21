@@ -24,4 +24,4 @@ Choose one to four buttons from the menu to finish. For example, choose **Link B
 - **To-Do Button**: shows the member's account tasks privately.
 - **Roster Button**: shows the member's roster memberships privately.
 
-Each button acts for the member who clicks it. See [Link players](link-players.md), [Manual refresh](../players-roles/manual-refresh-roles-and-nicknames.md), and [Rosters](../clans-management/rosters/README.md) for more information.
+Each button acts for the member who clicks it. See [Link players](link-and-unlink-players.md), [Manual refresh](manual-refresh-roles-and-nicknames.md), and [Rosters](../dashboard/rosters.md) for more information.

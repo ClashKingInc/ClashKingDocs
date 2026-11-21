@@ -16,7 +16,7 @@ Volg de [Quick Start](quick-start.md) om ClashKing toe te voegen, het dashboard 
 
 <summary>Waarom ontbreken sommige statistieken of verschillen ze van het spel?</summary>
 
-Sommige statistieken zijn gebaseerd op geregistreerde waarnemingen in plaats van rechtstreeks beschikbare Clash of Clans-gegevens. Gegevens kunnen vertraagd, niet beschikbaar of onvolledig zijn, vooral voor oudere periodes. Ontbrekende gegevens betekenen niet automatisch dat de waarde nul is. Voeg je clan toe via **Management → Clans** in het dashboard; zie [Add / Setup a clan](use-the-dashboard/add-a-clan.md).
+Sommige statistieken zijn gebaseerd op geregistreerde waarnemingen in plaats van rechtstreeks beschikbare Clash of Clans-gegevens. Gegevens kunnen vertraagd, niet beschikbaar of onvolledig zijn, vooral voor oudere periodes. Ontbrekende gegevens betekenen niet automatisch dat de waarde nul is. Voeg je clan toe via **Management → Clans** in het dashboard; zie [Add / Setup a clan](dashboard/add-setup-a-clan.md).
 
 </details>
 
@@ -26,7 +26,7 @@ Sommige statistieken zijn gebaseerd op geregistreerde waarnemingen in plaats van
 
 **Last online** is het tijdstip van de meest recente geregistreerde aanwijzing van spelersactiviteit. Het is een schatting op basis van waargenomen spelgegevens, geen exacte online status. **Activity** telt geregistreerde waarnemingen in de geselecteerde periode en meet niet hoe lang iemand heeft gespeeld. Een ontbrekende waarneming bewijst niet dat een speler inactief was.
 
-Als bijvoorbeeld de spelgegevens van een speler tussen twee waarnemingen veranderen, kan ClashKing activiteit registreren, maar niet precies zien hoe lang de speler online was. Zie [Clan commands](clan-and-family-commands/clan-commands.md) en [Family commands](clan-and-family-commands/family-commands.md) voor activiteitsrapporten.
+Als bijvoorbeeld de spelgegevens van een speler tussen twee waarnemingen veranderen, kan ClashKing activiteit registreren, maar niet precies zien hoe lang de speler online was. Zie [Clan commands](bot-commands/clan-commands.md) en [Family commands](bot-commands/family-commands.md) voor activiteitsrapporten.
 
 </details>
 
@@ -46,7 +46,7 @@ Controleer of de emoji's in andere kanalen wel verschijnen en of de bot externe 
 2. Controleer **Issues** op een niet beschikbaar kanaal, thread of forumbericht. Open een gearchiveerd forumbericht opnieuw voordat je het selecteert.
 3. Controleer of ClashKing webhooks mag aanmaken en berichten in de bestemming mag plaatsen. Logs worden periodiek bijgewerkt; geef een gebeurtenis dus even tijd om te verschijnen.
 
-Zie [Setup logs](use-the-dashboard/setup-logs.md) voor meer informatie. Controleer bij warreminders ook of het oorlogslogboek van de clan openbaar is; zie [Reminders](server-setups/reminders.md).
+Zie [Setup logs](dashboard/setup-logs.md) voor meer informatie. Controleer bij warreminders ook of het oorlogslogboek van de clan openbaar is; zie [Reminders](dashboard/reminders.md).
 
 </details>
 
@@ -56,7 +56,7 @@ Zie [Setup logs](use-the-dashboard/setup-logs.md) voor meer informatie. Controle
 
 Legend-weergaven gebruiken geregistreerde gevechtsgegevens. Recente resultaten kunnen even op zich laten wachten en ontbrekende waarnemingen kunnen dag- of seizoenstotalen onvolledig maken. Sommige afgesloten dagen bevatten geschatte automatische verdedigingen, aangeduid met **Auto** in de dagweergave; die waarden hangen af van beschikbare eerdere verdedigingen.
 
-Vergelijk de juiste dag met **Today** of **Yesterday** onder `/legends player` en voer het commando later opnieuw uit als resultaten nog worden geregistreerd. Bij onvolledige gegevens zijn totalen niet gegarandeerd gelijk aan het spel. Zie [Legends](player-commands/legends/README.md).
+Vergelijk de juiste dag met **Today** of **Yesterday** onder `/legends player` en voer het commando later opnieuw uit als resultaten nog worden geregistreerd. Bij onvolledige gegevens zijn totalen niet gegarandeerd gelijk aan het spel. Zie [Legends](bot-commands/legends.md).
 
 </details>
 

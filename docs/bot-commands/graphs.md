@@ -5,7 +5,7 @@ slug: /bot-commands/graphs
 
 # 📈 Graphs
 
-Use `/graph` in your Discord server to compare statistics across your family clans. [Add clans to the server](../use-the-dashboard/add-a-clan.md) first; you can also assign categories there.
+Use `/graph` in your Discord server to compare statistics across your family clans. [Add clans to the server](../dashboard/add-setup-a-clan.md) first; you can also assign categories there.
 
 ## Run the command
 

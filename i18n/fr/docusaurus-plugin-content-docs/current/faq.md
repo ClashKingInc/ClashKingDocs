@@ -16,7 +16,7 @@ Suivez le [guide de démarrage](quick-start.md) pour ajouter ClashKing, ouvrir l
 
 <summary>Pourquoi certaines statistiques manquent-elles ou diffèrent-elles du jeu ?</summary>
 
-Certaines statistiques reposent sur des observations enregistrées plutôt que sur des valeurs directement disponibles dans Clash of Clans. Les données peuvent être retardées, indisponibles ou incomplètes, en particulier pour les périodes anciennes. Une donnée manquante ne signifie pas nécessairement que sa valeur est zéro. Ajoutez votre clan sous **Management → Clans** dans le tableau de bord ; consultez [Add / Setup a clan](use-the-dashboard/add-a-clan.md).
+Certaines statistiques reposent sur des observations enregistrées plutôt que sur des valeurs directement disponibles dans Clash of Clans. Les données peuvent être retardées, indisponibles ou incomplètes, en particulier pour les périodes anciennes. Une donnée manquante ne signifie pas nécessairement que sa valeur est zéro. Ajoutez votre clan sous **Management → Clans** dans le tableau de bord ; consultez [Add / Setup a clan](dashboard/add-setup-a-clan.md).
 
 </details>
 
@@ -26,7 +26,7 @@ Certaines statistiques reposent sur des observations enregistrées plutôt que s
 
 **Last online** indique la dernière observation enregistrée d'une activité du joueur. Il s'agit d'une estimation fondée sur les données observées, pas d'un statut en ligne exact. **Activity** compte les observations enregistrées pendant la période sélectionnée ; ce n'est pas une durée de jeu. L'absence d'observation ne prouve pas qu'un joueur était inactif.
 
-Par exemple, si les données d'un joueur changent entre deux observations, ClashKing peut enregistrer une activité sans connaître la durée exacte de sa connexion. Consultez [Clan commands](clan-and-family-commands/clan-commands.md) et [Family commands](clan-and-family-commands/family-commands.md) pour les rapports d'activité.
+Par exemple, si les données d'un joueur changent entre deux observations, ClashKing peut enregistrer une activité sans connaître la durée exacte de sa connexion. Consultez [Clan commands](bot-commands/clan-commands.md) et [Family commands](bot-commands/family-commands.md) pour les rapports d'activité.
 
 </details>
 
@@ -46,7 +46,7 @@ Vérifiez si les emojis apparaissent dans d'autres salons et si le bot peut util
 2. Consultez **Issues** pour repérer un salon, un fil ou une publication de forum indisponible. Rouvrez une publication archivée avant de la sélectionner à nouveau.
 3. Vérifiez que ClashKing peut créer des webhooks et publier dans la destination. Les logs sont actualisés périodiquement : laissez à l'événement le temps d'apparaître.
 
-Consultez [Setup logs](use-the-dashboard/setup-logs.md) pour plus de détails. Pour les rappels de guerre, vérifiez aussi que le journal de guerre du clan est public ; consultez [Reminders](server-setups/reminders.md).
+Consultez [Setup logs](dashboard/setup-logs.md) pour plus de détails. Pour les rappels de guerre, vérifiez aussi que le journal de guerre du clan est public ; consultez [Reminders](dashboard/reminders.md).
 
 </details>
 
@@ -56,7 +56,7 @@ Consultez [Setup logs](use-the-dashboard/setup-logs.md) pour plus de détails. P
 
 Les vues Légende utilisent les données de combat enregistrées. Les résultats récents peuvent mettre du temps à apparaître et des observations manquantes peuvent rendre les totaux du jour ou de la saison incomplets. Certains jours terminés comprennent des défenses automatiques estimées, indiquées par **Auto** dans la vue du jour ; ces valeurs dépendent des défenses précédentes disponibles.
 
-Comparez le bon jour avec **Today** ou **Yesterday** sous `/legends player`, puis relancez la commande plus tard si les résultats sont encore en cours d'enregistrement. Des données incomplètes ne garantissent pas des totaux identiques à ceux du jeu. Consultez [Legends](player-commands/legends/README.md).
+Comparez le bon jour avec **Today** ou **Yesterday** sous `/legends player`, puis relancez la commande plus tard si les résultats sont encore en cours d'enregistrement. Des données incomplètes ne garantissent pas des totaux identiques à ceux du jeu. Consultez [Legends](bot-commands/legends.md).
 
 </details>
 

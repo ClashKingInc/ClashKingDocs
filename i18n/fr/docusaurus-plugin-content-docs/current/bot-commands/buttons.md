@@ -24,4 +24,4 @@ Choisissez un à quatre boutons dans le menu pour terminer. Par exemple, choisis
 - **To-Do Button** : affiche en privé les tâches des comptes du membre.
 - **Roster Button** : affiche en privé les inscriptions du membre aux rosters.
 
-Chaque bouton agit pour le membre qui clique dessus. Consultez [Link players](link-players.md), [Manual refresh](../players-roles/manual-refresh-roles-and-nicknames.md) et [Rosters](../clans-management/rosters/README.md) pour plus d'informations.
+Chaque bouton agit pour le membre qui clique dessus. Consultez [Link players](link-and-unlink-players.md), [Manual refresh](manual-refresh-roles-and-nicknames.md) et [Rosters](../dashboard/rosters.md) pour plus d'informations.
