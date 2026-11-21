@@ -23,12 +23,16 @@
 ## Bot commands
 
 * [🆘 Help](utility/help.md)
+* [🤖 Bot information](bot-commands/bot-info.md)
 * [🔗 (Un)link players](bot-commands/link-players.md)
 * [🙎‍♀️ Accounts check](player-commands/accounts-check.md)
 * [😎 User settings](player-commands/user-settings.md)
 * [🔍 Lookup](player-commands/lookup.md)
 * [🤔 To-do](player-commands/to-do.md)
+* [🔘 Member buttons](bot-commands/buttons.md)
 * [🔗 Army & Base Sharing](use-the-dashboard/link-parsing.md)
+* [🎨 Fankit](bot-commands/fankit.md)
+* [🐸 Memes](bot-commands/meme.md)
 * [🏛️ Clan Commands](clan-and-family-commands/clan-commands.md)
 * [👩‍👩‍👧‍👦 Family Commands](clan-and-family-commands/family-commands.md)
 * [⚔️ War & CWL](bot-commands/war-and-cwl.md)
@@ -39,6 +43,7 @@
 * [📈 Graphs](bot-commands/graphs.md)
 * [📳 One-off reminders](bot-commands/reminders.md)
 * [🔄 Manual Refresh (Roles & Nicknames)](players-roles/manual-refresh-roles-and-nicknames.md)
+* [👥 Role users](bot-commands/role-users.md)
 * [🚪 Bans & strikes](bot-commands/bans-and-strikes.md)
 * [🎫 Tickets](bot-commands/tickets.md)
 
