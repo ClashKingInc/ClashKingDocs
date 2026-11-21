@@ -39,3 +39,9 @@ Kies een gebruiker óf een clan, niet allebei. De zichtbaarheid van verborgen ko
 Een serverbeheerder of een rol met **Links → Manage**-toegang in het dashboard kan `/modlink add` of `/modlink remove` gebruiken voor spelers die momenteel in een geverifieerde familyclan zitten. Kies bij toevoegen de **player** en een huidig Discord-serverlid; de nieuwe koppeling is ongeverifieerd. Alleen de eigenaar kan geverifieerde spelerlinks wijzigen. Zie [Add / Setup a clan](../use-the-dashboard/add-a-clan.md) voor clanverificatie.
 
 Via **Management → Links** in het dashboard kun je ook accounts en clanrosters bekijken. Op het tabblad **Clans** kunnen Links-beheerders toegestane ongeverifieerde koppelingen voor geverifieerde clans toevoegen of verwijderen.
+
+## Bekijk links in het dashboard
+
+Gebruik onder **Management → Links** de tab **Clans** voor clanroosters, **Accounts** om serverleden en hun gekoppelde accounts te zoeken en **Stats** voor family- of servertotalen en verificatiestatistieken. Gebruik zoeken, filters en paginering om vermeldingen te vinden. Beschikbare acties hangen af van je Links-toegang en de verificatie en zichtbaarheid van het account.
+
+Onder **Accounts** is de in-game API-token van de speler vereist voor elke nieuwe koppeling. Onder **Clans** kunnen bevoegde Links-beheerders toegestane ongeverifieerde koppelingen voor geverifieerde familyclans beheren. Zie [Dashboard access](../server-setups/whitelist.md) voor rechten.

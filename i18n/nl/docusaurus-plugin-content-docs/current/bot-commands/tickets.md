@@ -30,3 +30,9 @@ Gebruik `/ticket add` in het ticket en selecteer een Discord-**member** om dat l
 ## Een gedeeld bericht versturen
 
 Maak eerst een bericht aan onder **Tickets → Shared messages** in het dashboard. Gebruik daarna `/ticket messages` in een ticket om het bericht te selecteren en te versturen. Vul eventuele aangepaste vragen van de template in wanneer daarom wordt gevraagd.
+
+## Beheer tickets in het dashboard
+
+Open onder **Management → Tickets** een paneel en selecteer de ticketgeschiedenis om bestaande tickets te vinden. Afhankelijk van het ticket en je rechten kun je details bekijken, de status van een open ticket wijzigen en beschikbare transcripten openen. Een ticket sluiten vereist bevestiging en verwijdert het Discord-kanaal; de beschikbaarheid van transcripten hangt af van de paneelinstellingen.
+
+Gebruik de andere tabs van het paneel om het bericht, ticketacties, categorieën, logkanalen en instellingen te beheren. Sla berichtwijzigingen op en publiceer ze wanneer je het live paneel wilt bijwerken.

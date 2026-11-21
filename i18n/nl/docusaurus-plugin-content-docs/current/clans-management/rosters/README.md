@@ -100,3 +100,15 @@ Plan via **Automations → Create Automation** in een roster acties zoals herinn
 ### Zoeken en vergelijken
 
 Zoek in de dashboardlijst op naam of clan. Met **Compare** selecteer je twee tot vier rosters en verplaats je spelers ertussen. In Discord vind je met `/roster search` de rosters van een speler of Discord-gebruiker op deze server; met `/roster post` plaats je een bestaand roster.
+
+## 🤖 Roster assistant
+
+Open vanuit **Management → Rosters** de roster assistant. Selecteer de rosters waarmee je wilt werken of gebruik de familyweergave en beschrijf wat je nodig hebt. Vraag bijvoorbeeld om beschikbare spelers te vergelijken of een line-up voor te stellen. Je kunt rosterweergaven opslaan en delen. Bekijk voorgestelde roosterwijzigingen en pas ze zelf toe; de assistant voert ze niet zonder jouw goedkeuring uit.
+
+## 🏅 CWL-bonussen
+
+Open **CWL Bonuses** vanaf de rosterpagina en kies een clan en geregistreerd seizoen. Het dashboard toont de league, stand, gewonnen oorlogen, beschikbare bonusplaatsen en aanvallen en sterren van spelers. Zodra de stand compleet is en beloningsinformatie beschikbaar is, selecteer je het vereiste aantal ontvangers en sla je de selectie op. Hiermee registreer je de keuze in ClashKing; deel de bonussen apart uit in Clash of Clans.
+
+## 📝 Aanmeldantwoorden bekijken
+
+Open een roster en selecteer **Answers** om antwoorden op de ingestelde aanmeldvragen te bekijken. Bewerk antwoorden via de knop naast een speler en sla ze op. Beheerderswijzigingen worden geregistreerd. Voeg eerst vragen toe onder **Settings**; het wijzigen van vragen kan bestaande antwoorden wissen, zoals hierboven beschreven.

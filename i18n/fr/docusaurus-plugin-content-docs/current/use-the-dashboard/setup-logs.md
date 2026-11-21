@@ -54,3 +54,7 @@ Le journal de guerre du clan doit être public dans Clash of Clans pour que les 
 ### Logs du serveur
 
 Sélectionnez votre serveur dans **Server or clan** pour **Clash of Clans maintenance**, le [Reddit Recruitment Feed](../server-setups/reddit-recruit-feed.md) et le **Reddit User Feed**. Ce dernier suit les publications de deux utilisateurs Reddit au maximum, avec éventuellement leurs commentaires.
+
+## Configurer un panneau d'arrivée
+
+Sous **Logs**, sélectionnez votre **serveur** et ouvrez **Join Panel**. Activez le panneau, choisissez un salon d'accueil et utilisez **Edit panel** pour choisir un embed enregistré facultatif, les boutons et leur couleur. Vérifiez l'aperçu et enregistrez. Le panneau est envoyé lorsqu'un membre rejoint le serveur. Consultez [Member buttons](../bot-commands/buttons.md) pour les actions disponibles et la commande Discord permettant de publier directement un panneau.

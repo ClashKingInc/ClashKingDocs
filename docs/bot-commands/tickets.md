@@ -30,3 +30,9 @@ Use `/ticket add` inside the ticket and select a Discord **member** to give them
 ## Send a shared message
 
 Create a message in **Tickets → Shared messages** in the dashboard first. Then use `/ticket messages` inside a ticket to select and send it. If the template has custom questions, fill those in when prompted.
+
+## Manage tickets in the dashboard
+
+Under **Management → Tickets**, open a panel and select its ticket history to find existing tickets. Depending on the ticket and your permissions, you can review details, change an open ticket's status, and access available transcripts. Closing a ticket requires confirmation and deletes its Discord channel; transcript availability depends on the panel settings.
+
+Use the panel's other tabs to manage its message, ticket actions, categories, log channels, and settings. Save and publish message changes when you want to update the live panel.

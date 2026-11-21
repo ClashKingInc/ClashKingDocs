@@ -39,3 +39,9 @@ Choose a user or a clan, not both. Hidden account links are subject to the owner
 A server manager or a role with **Links → Manage** dashboard access can use `/modlink add` or `/modlink remove` for players currently in a verified family clan. To add a link, select the **player** and the current Discord server member; the resulting link is unverified. Verified player links can only be changed by their owner. See [Add / Setup a clan](../use-the-dashboard/add-a-clan.md) for clan verification.
 
 The dashboard also has **Management → Links** for viewing accounts and clan rosters. In the **Clans** tab, Links managers can add or remove eligible unverified links for verified clans.
+
+## Explore links in the dashboard
+
+Under **Management → Links**, use **Clans** to browse clan rosters, **Accounts** to find server members and their linked accounts, and **Stats** for family or server totals and verification statistics. Search, filter, and use the page controls to find entries. Available actions depend on your Links access and the account's verification and visibility.
+
+In **Accounts**, adding a new link requires the player's in-game API token. In **Clans**, authorized Links managers can manage eligible unverified links for verified family clans. See [Dashboard access](../server-setups/whitelist.md) for permissions.

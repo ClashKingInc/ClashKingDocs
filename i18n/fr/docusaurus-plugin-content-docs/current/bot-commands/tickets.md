@@ -30,3 +30,9 @@ Utilisez `/ticket add` dans le ticket et sélectionnez un **member** Discord pou
 ## Envoyer un message partagé
 
 Créez d'abord un message sous **Tickets → Shared messages** dans le tableau de bord. Utilisez ensuite `/ticket messages` dans un ticket pour le sélectionner et l'envoyer. Répondez aux éventuelles questions personnalisées du modèle lorsque cela vous est demandé.
+
+## Gérer les tickets dans le tableau de bord
+
+Sous **Management → Tickets**, ouvrez un panneau et sélectionnez son historique pour trouver les tickets existants. Selon le ticket et vos permissions, vous pouvez consulter les détails, modifier le statut d'un ticket ouvert et accéder aux transcriptions disponibles. Fermer un ticket nécessite une confirmation et supprime son salon Discord ; la disponibilité des transcriptions dépend des paramètres du panneau.
+
+Utilisez les autres onglets du panneau pour gérer son message, les actions, les catégories, les salons de logs et les paramètres. Enregistrez et publiez les modifications de message pour mettre à jour le panneau en ligne.

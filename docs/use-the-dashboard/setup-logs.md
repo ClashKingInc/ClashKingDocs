@@ -81,3 +81,7 @@ Select your server in **Server or clan** to configure these feeds:
 - **Clash of Clans maintenance**: posts when maintenance starts and ends.
 - **Reddit Recruitment Feed**: shares recruitment posts; see [Reddit Recruit Feed](../server-setups/reddit-recruit-feed.md).
 - **Reddit User Feed**: follows posts from up to two Reddit users, with optional comments on their posts.
+
+## Set up a join panel
+
+Under **Logs**, select your **server** and open **Join Panel**. Enable the panel, select a welcome channel, and use **Edit panel** to choose an optional saved embed, buttons, and button color. Review the preview and save. The panel is sent when a member joins. See [Member buttons](../bot-commands/buttons.md) for the available actions and the Discord command for posting a panel directly.

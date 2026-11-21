@@ -54,3 +54,7 @@ Het oorlogslogboek van je clan moet openbaar zijn in Clash of Clans om oorlogsge
 ### Serverlogs
 
 Selecteer je server bij **Server or clan** voor **Clash of Clans maintenance**, de [Reddit Recruitment Feed](../server-setups/reddit-recruit-feed.md) en **Reddit User Feed**. Die laatste volgt berichten van maximaal twee Reddit-gebruikers, eventueel met reacties op hun berichten.
+
+## Stel een join panel in
+
+Selecteer onder **Logs** je **server** en open **Join Panel**. Schakel het paneel in, kies een welkomstkanaal en gebruik **Edit panel** om een optionele opgeslagen embed, knoppen en knopkleur te kiezen. Controleer de preview en sla op. Het paneel wordt verstuurd wanneer iemand lid wordt. Zie [Member buttons](../bot-commands/buttons.md) voor de acties en het Discord-commando om direct een paneel te plaatsen.

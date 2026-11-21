@@ -100,3 +100,15 @@ Use **Automations → Create Automation** in a roster to schedule actions such a
 ### Search and compare
 
 Search the dashboard roster list by name or clan. **Compare** lets you select two to four rosters and move players between them. In Discord, `/roster search` finds this server's rosters for a player or Discord user; `/roster post` publishes an existing roster.
+
+## 🤖 Roster assistant
+
+From **Management → Rosters**, open the roster assistant. Select the rosters to work with or use the family view, then describe what you need. For example, ask it to compare available players or suggest a lineup. You can save and share roster views. Review proposed roster changes and explicitly apply them; the assistant does not apply them without your approval.
+
+## 🏅 CWL bonuses
+
+Open **CWL Bonuses** from the rosters page and choose a clan and recorded season. The dashboard shows the league, standings, wars won, available bonus slots, and player attacks and stars. Once the standings are complete and reward information is available, select the required number of recipients and save the selection. This records your selection in ClashKing; award the bonuses in Clash of Clans separately.
+
+## 📝 Review signup answers
+
+Open a roster and select **Answers** to see responses to its configured signup questions. Use the edit action next to a player to update answers and save. Administrative edits are logged. Add questions under **Settings** first; changing questions can clear existing answers, as explained above.

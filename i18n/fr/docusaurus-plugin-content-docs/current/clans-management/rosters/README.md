@@ -100,3 +100,15 @@ Depuis **Automations → Create Automation** dans un roster, programmez des rapp
 ### Rechercher et comparer
 
 Recherchez un roster par nom ou clan dans le tableau de bord. **Compare** permet de sélectionner deux à quatre rosters et d'y déplacer des joueurs. Dans Discord, `/roster search` trouve les rosters du serveur pour un joueur ou utilisateur Discord ; `/roster post` publie un roster existant.
+
+## 🤖 Assistant de roster
+
+Depuis **Management → Rosters**, ouvrez l'assistant de roster. Sélectionnez les rosters concernés ou utilisez la vue famille, puis décrivez votre besoin. Par exemple, demandez une comparaison des joueurs disponibles ou une proposition de composition. Vous pouvez enregistrer et partager des vues. Examinez les modifications proposées et appliquez-les explicitement ; l'assistant ne les applique pas sans votre approbation.
+
+## 🏅 Bonus de CWL
+
+Ouvrez **CWL Bonuses** depuis la page des rosters et choisissez un clan et une saison enregistrée. Le tableau de bord affiche la ligue, le classement, les guerres gagnées, les places de bonus et les attaques et étoiles des joueurs. Une fois le classement complet et les récompenses disponibles, sélectionnez le nombre requis de bénéficiaires et enregistrez la sélection. Cela enregistre votre choix dans ClashKing ; attribuez les bonus séparément dans Clash of Clans.
+
+## 📝 Consulter les réponses d'inscription
+
+Ouvrez un roster et sélectionnez **Answers** pour voir les réponses aux questions configurées. Utilisez le bouton de modification à côté d'un joueur pour modifier et enregistrer ses réponses. Les modifications administratives sont enregistrées. Ajoutez d'abord des questions sous **Settings** ; leur modification peut effacer les réponses existantes, comme indiqué ci-dessus.

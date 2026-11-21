@@ -8,10 +8,14 @@
 ## Use the dashboard
 
 * [🖥️ Dashboard explained](use-the-dashboard/dashboard-explained.md)
+* [🎨 Bot Appearance](use-the-dashboard/bot-appearance.md)
+* [👤 Account Settings](use-the-dashboard/account-settings.md)
 * [⬜ Dashboard access](server-setups/whitelist.md)
 * [➕ Add / Setup a clan](use-the-dashboard/add-a-clan.md)
+* [📊 Analytics](use-the-dashboard/analytics.md)
 * [⏫ Roles & Nicknames](players-roles/roles-th-and-more/README.md)
 * [📋 Rosters](clans-management/rosters/README.md)
+* [🗺️ Bases](use-the-dashboard/bases.md)
 * [📄 Setup logs](use-the-dashboard/setup-logs.md)
 * [📳 Reminders](server-setups/reminders.md)
 * [🎙️ Voice Countdowns](server-setups/voice-countdowns.md)
