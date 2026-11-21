@@ -76,6 +76,10 @@
   .ck-navbar-search { padding: 0 var(--ifm-navbar-item-padding-horizontal); }
 }
 @media (max-width: 996px) {
+  .navbar-sidebar { display: flex; flex-direction: column; height: 100vh; height: 100dvh; bottom: auto; }
+  .navbar-sidebar__brand { flex: 0 0 var(--ifm-navbar-height); }
+  .navbar-sidebar__items { flex: 1 1 auto; height: auto; min-height: 0; }
+  .navbar-sidebar__item { overflow-y: auto; overscroll-behavior: contain; padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); }
   .ck-navbar-search { position: relative; }
   .navbar__items--right { gap: 4px; }
   .navbar__items--right .ck-doc-settings { position: static; }
