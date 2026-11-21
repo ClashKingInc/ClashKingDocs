@@ -19,5 +19,3 @@ npm start
 ```bash
 npm run build
 ```
-
-The legacy GitBook export folder (`ClashKingDocs-master/`) is intentionally ignored in `.gitignore`.
