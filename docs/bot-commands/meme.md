@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/meme
+---
+
 # 🐸 Memes
 
 Use `/meme` to create a Clash-themed meme or a Pepe sign with your own text.

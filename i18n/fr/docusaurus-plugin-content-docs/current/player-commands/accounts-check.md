@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/accounts-check
+---
+
 # 🙎‍♀️ Vérification des comptes
 
 Utilisez `/link list` dans un serveur Discord pour consulter les comptes liés d'une personne, les vôtres ou ceux d'un clan associé au serveur.

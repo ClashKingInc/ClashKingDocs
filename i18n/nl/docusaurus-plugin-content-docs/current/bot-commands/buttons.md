@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/buttons
+---
+
 # 🔘 Ledenknoppen
 
 Gebruik `/buttons` in een Discord-server om een paneel te maken waarmee leden accounts kunnen koppelen, rollen verversen, taken bekijken of hun roosters zien.

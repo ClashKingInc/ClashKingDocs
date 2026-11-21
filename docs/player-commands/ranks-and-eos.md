@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/ranks-and-eos
+---
+
 # 🏆 Ranks & EOS
 
 Use the Ranked commands in Discord to view a player's current tournament, group standings, and recorded season history. EOS means end of season.

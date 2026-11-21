@@ -8,7 +8,7 @@ const sidebars: SidebarsConfig = {
     'faq',
     {
       type: 'category',
-      label: 'Use the dashboard',
+      label: 'The dashboard',
       items: [
         'use-the-dashboard/dashboard-explained',
         'use-the-dashboard/bot-appearance',

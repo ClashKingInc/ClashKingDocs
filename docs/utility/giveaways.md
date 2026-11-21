@@ -1,3 +1,7 @@
+---
+slug: /dashboard/giveaways
+---
+
 # 🎁 Giveaways
 
 Give back to your community by hosting a giveaway. You can start one immediately or schedule it for later, and give selected roles extra entries.

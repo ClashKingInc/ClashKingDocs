@@ -1,3 +1,7 @@
+---
+slug: /dashboard/bot-appearance
+---
+
 # 🎨 Apparence du bot
 
 Utilisez **General settings** dans le tableau de bord pour configurer l'apparence du bot, l'analyse des liens et les accès de votre serveur.

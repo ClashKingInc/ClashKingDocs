@@ -1,3 +1,7 @@
+---
+slug: /dashboard/reminders
+---
+
 # 📳 Reminders
 
 Set up automatic reminders in the dashboard for your clan's wars, Raid Weekends, and Clan Games. To send a reminder immediately without creating a schedule, use the [one-off reminder command](../bot-commands/reminders.md).
@@ -20,7 +24,7 @@ Set up automatic reminders in the dashboard for your clan's wars, Raid Weekends,
 Your clan’s war log must be public in Clash of Clans for war reminders to work.
 :::
 
-Link players' Clash of Clans accounts to their Discord accounts so they can be mentioned in reminders. See [Link players](../clan-setups/link-players/).
+Link players' Clash of Clans accounts to their Discord accounts so they can be mentioned in reminders. See [Link players](../clan-setups/link-players/README.md).
 
 ## Manage reminders
 

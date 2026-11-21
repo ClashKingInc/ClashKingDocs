@@ -1,3 +1,7 @@
+---
+slug: /dashboard/reddit-recruit-feed
+---
+
 # 🤝 Reddit Recruit Feed
 
 De Reddit Recruitment Feed plaatst berichten van spelers die een clan zoeken op [r/ClashOfClansRecruit](https://www.reddit.com/r/ClashOfClansRecruit/) in je Discord-server. **De feed is bedoeld voor Engelstalige clans**: het werven en de gesprekken op deze subreddit zijn voornamelijk in het Engels.

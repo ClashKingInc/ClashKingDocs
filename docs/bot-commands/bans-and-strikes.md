@@ -1,5 +1,6 @@
 ---
 description: Manage player bans and strikes in Discord or the dashboard.
+slug: /bot-commands/bans-and-strikes
 ---
 
 # 🚪 Bans & strikes

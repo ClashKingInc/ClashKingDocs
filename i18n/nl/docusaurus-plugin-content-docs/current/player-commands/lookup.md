@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/lookup
+---
+
 # 🔍 Lookup
 
 Gebruik `/player lookup` in Discord om het profiel, de troepen, voortgang en clangeschiedenis van een speler te bekijken.

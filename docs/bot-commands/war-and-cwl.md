@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/war-and-cwl
+---
+
 # ⚔️ War & CWL
 
 Use the war and CWL commands in Discord to inspect a clan's wars, lineups, and Clan War League results.

@@ -1,3 +1,7 @@
+---
+slug: /dashboard/voice-countdowns
+---
+
 # 🎙️ Voice Countdowns
 
 Voice countdowns show Clash of Clans event timers and war information in the names of Discord voice channels.

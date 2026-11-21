@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/family-commands
+---
+
 # 👩‍👩‍👧‍👦 Family commands
 
 Use family commands in your Discord server to view information across the clans added to that server. [Add your clans in the dashboard](../use-the-dashboard/add-a-clan.md) first. Options vary by command; some results also have menus and refresh buttons.

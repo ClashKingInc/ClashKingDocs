@@ -1,5 +1,6 @@
 ---
 description: Gérez les bans et strikes dans Discord ou le tableau de bord.
+slug: /bot-commands/bans-and-strikes
 ---
 
 # 🚪 Bans & strikes

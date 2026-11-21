@@ -1,3 +1,7 @@
+---
+slug: /dashboard/rosters
+---
+
 # 📋 Rosters
 
 Les rosters permettent d'organiser les joueurs pour la CWL, les guerres et les événements. Créez-les et gérez-les sous **Management → Rosters** dans le tableau de bord. Les joueurs peuvent s'inscrire depuis une publication Discord.
@@ -50,7 +54,7 @@ Ces images illustrent d'anciennes présentations ; les commandes actuelles peuve
 
 ## 🙋‍♀️ S'inscrire à un roster
 
-[Associez d'abord votre compte Clash of Clans](../../clan-setups/link-players/) à Discord. La portée des inscriptions et les règles de vérification, de niveau d'hôtel de ville et de capacité déterminent si votre compte est admissible.
+[Associez d'abord votre compte Clash of Clans](../../clan-setups/link-players/README.md) à Discord. La portée des inscriptions et les règles de vérification, de niveau d'hôtel de ville et de capacité déterminent si votre compte est admissible.
 
 ### S'inscrire
 

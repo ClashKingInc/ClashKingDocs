@@ -1,3 +1,7 @@
+---
+slug: /dashboard/voice-countdowns
+---
+
 # 🎙️ Voice Countdowns
 
 Voice countdowns tonen Clash of Clans-eventtimers en oorlogsinformatie in de namen van Discord-spraakkanalen.

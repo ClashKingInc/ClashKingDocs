@@ -1,3 +1,7 @@
+---
+slug: /dashboard/bases
+---
+
 # 🗺️ Bases
 
 Utilisez **Management → Bases** dans le tableau de bord pour publier et gérer les bases de votre serveur. Cette page nécessite un accès complet au tableau de bord.

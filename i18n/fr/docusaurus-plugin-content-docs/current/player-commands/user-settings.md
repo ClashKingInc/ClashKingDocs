@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/user-settings
+---
+
 # 😎 Paramètres utilisateur
 
 Choisissez un compte principal lié pour chaque serveur Discord sur lequel vous utilisez ClashKing.

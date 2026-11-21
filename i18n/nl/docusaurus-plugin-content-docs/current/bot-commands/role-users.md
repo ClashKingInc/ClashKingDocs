@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/role-users
+---
+
 # 👥 Rolleden
 
 Gebruik `/role-users` in een Discord-server om leden met een bepaalde Discord-rol te bekijken.

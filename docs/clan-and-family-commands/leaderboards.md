@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/leaderboards
+---
+
 # 📋 Leaderboards
 
 Use `/leaderboard location` to view official Clash of Clans player and clan rankings in Discord.

@@ -1,5 +1,6 @@
 ---
 description: Beheer bans en strikes in Discord of via het dashboard.
+slug: /bot-commands/bans-and-strikes
 ---
 
 # 🚪 Bans & strikes

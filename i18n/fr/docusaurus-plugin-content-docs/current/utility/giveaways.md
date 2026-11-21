@@ -1,3 +1,7 @@
+---
+slug: /dashboard/giveaways
+---
+
 # 🎁 Concours
 
 Organisez un concours pour votre communauté. Vous pouvez le lancer immédiatement ou le programmer et accorder des participations supplémentaires à certains rôles.

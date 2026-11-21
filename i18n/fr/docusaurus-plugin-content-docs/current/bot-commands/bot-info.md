@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/bot-info
+---
+
 # 🤖 Informations du bot
 
 Utilisez `/bot` pour voir les statistiques de ClashKing et des liens utiles.

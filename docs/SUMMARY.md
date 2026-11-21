@@ -5,7 +5,7 @@
 * [📱 Get the mobile app!](get-the-mobile-app.md)
 * [❓ FAQ](faq.md)
 
-## Use the dashboard
+## The dashboard
 
 * [🖥️ Dashboard explained](use-the-dashboard/dashboard-explained.md)
 * [🎨 Bot Appearance](use-the-dashboard/bot-appearance.md)

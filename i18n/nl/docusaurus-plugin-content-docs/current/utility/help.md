@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/help
+---
+
 # 🆘 Help
 
 Gebruik `/help` om de beschikbare Discord-commando’s van ClashKing te bekijken en te zien wat ze doen.

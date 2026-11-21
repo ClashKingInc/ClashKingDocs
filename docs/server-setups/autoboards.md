@@ -1,3 +1,7 @@
+---
+slug: /dashboard/autoboards
+---
+
 # 🏗️ Autoboards
 
 Autoboards automatically keep leaderboards available in your Discord server.

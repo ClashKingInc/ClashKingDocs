@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/to-do
+---
+
 # 🤔 À faire
 
 Utilisez `/player to-do` dans Discord pour voir les attaques restantes et d'autres activités suivies pour les comptes liés.

@@ -1,5 +1,6 @@
 ---
 description: Configurez les tickets dans le tableau de bord et gérez-les dans Discord.
+slug: /bot-commands/tickets
 ---
 
 # 🎫 Tickets

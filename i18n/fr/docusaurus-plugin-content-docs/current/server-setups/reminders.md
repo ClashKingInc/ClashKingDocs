@@ -1,3 +1,7 @@
+---
+slug: /dashboard/reminders
+---
+
 # 📳 Rappels
 
 Configurez des rappels automatiques dans le tableau de bord pour les guerres, les week-ends de raids et les jeux de clan. Pour envoyer immédiatement un seul rappel sans planning, utilisez la [commande de rappel ponctuel](../bot-commands/reminders.md).
@@ -20,7 +24,7 @@ Configurez des rappels automatiques dans le tableau de bord pour les guerres, le
 Le journal de guerre de votre clan doit être public dans Clash of Clans pour que les rappels de guerre fonctionnent.
 :::
 
-Associez les comptes Clash of Clans des joueurs à leurs comptes Discord pour pouvoir les mentionner dans les rappels. Consultez [Associer les joueurs](../clan-setups/link-players/).
+Associez les comptes Clash of Clans des joueurs à leurs comptes Discord pour pouvoir les mentionner dans les rappels. Consultez [Associer les joueurs](../clan-setups/link-players/README.md).
 
 ## Gérer les rappels
 

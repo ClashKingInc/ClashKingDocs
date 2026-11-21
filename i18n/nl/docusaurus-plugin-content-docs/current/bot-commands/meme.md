@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/meme
+---
+
 # 🐸 Memes
 
 Gebruik `/meme` om een Clash-meme of Pepe-bordje met eigen tekst te maken.

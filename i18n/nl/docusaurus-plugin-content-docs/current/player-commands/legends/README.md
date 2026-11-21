@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/legends
+---
+
 # 🟣 Legends
 
 Gebruik de Legends-commando's in Discord om de Legend-dag en het seizoen van een speler, clanspelers, wereldwijde statistieken en eerdere seizoensresultaten te bekijken.

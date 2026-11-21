@@ -1,5 +1,6 @@
 ---
 description: Wat het ClashKing-dashboard is en hoe je het bereikt.
+slug: /dashboard/dashboard-explained
 ---
 
 # 🖥️ Dashboard uitgelegd

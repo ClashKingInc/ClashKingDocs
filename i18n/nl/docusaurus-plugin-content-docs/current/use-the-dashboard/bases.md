@@ -1,3 +1,7 @@
+---
+slug: /dashboard/bases
+---
+
 # 🗺️ Bases
 
 Gebruik **Management → Bases** in het dashboard om baselayouts voor je server te publiceren en beheren. Voor deze pagina is volledige dashboardtoegang nodig.

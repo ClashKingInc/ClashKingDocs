@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/fankit
+---
+
 # 🎨 Fankit
 
 Gebruik `/fankit` om afbeeldingen van ClashKing te zoeken, waaronder troepen, helden en gebouwen.

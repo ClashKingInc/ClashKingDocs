@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/legends
+---
+
 # 🟣 Legends
 
 Utilisez les commandes Legends dans Discord pour consulter la journée et la saison d'un joueur, les joueurs d'un clan, les statistiques mondiales et les résultats des saisons précédentes.

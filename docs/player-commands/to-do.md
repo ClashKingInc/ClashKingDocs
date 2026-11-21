@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/to-do
+---
+
 # 🤔 To-do
 
 Use `/player to-do` in Discord to see outstanding attacks and other tracked activity for linked accounts.

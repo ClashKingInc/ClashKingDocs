@@ -1,5 +1,5 @@
 ---
-slug: /server-setups/dashboard-access
+slug: /dashboard/dashboard-access
 ---
 
 # ⬜ Accès au tableau de bord

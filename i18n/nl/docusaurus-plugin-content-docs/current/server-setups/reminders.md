@@ -1,3 +1,7 @@
+---
+slug: /dashboard/reminders
+---
+
 # 📳 Reminders
 
 Stel via het dashboard automatische herinneringen in voor oorlogen, Raid Weekends en Clan Games. Wil je direct één herinnering versturen zonder schema, gebruik dan het [eenmalige remindercommando](../bot-commands/reminders.md).
@@ -20,7 +24,7 @@ Stel via het dashboard automatische herinneringen in voor oorlogen, Raid Weekend
 Het oorlogslogboek van je clan moet openbaar staan in Clash of Clans om war reminders te laten werken.
 :::
 
-Koppel de Clash of Clans-accounts van spelers aan hun Discord-accounts zodat ze vermeld kunnen worden in herinneringen. Zie [spelers koppelen](../clan-setups/link-players/).
+Koppel de Clash of Clans-accounts van spelers aan hun Discord-accounts zodat ze vermeld kunnen worden in herinneringen. Zie [spelers koppelen](../clan-setups/link-players/README.md).
 
 ## Herinneringen beheren
 

@@ -1,5 +1,6 @@
 ---
 description: Stel tickets in via het dashboard en beheer ze in Discord.
+slug: /bot-commands/tickets
 ---
 
 # 🎫 Tickets

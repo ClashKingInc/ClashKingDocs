@@ -1,5 +1,6 @@
 ---
 description: Compare clan and family statistics with /graph.
+slug: /bot-commands/graphs
 ---
 
 # 📈 Graphs

@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/leaderboards
+---
+
 # 📋 Leaderboards
 
 Gebruik `/leaderboard location` om officiële Clash of Clans-ranglijsten van spelers en clans in Discord te bekijken.

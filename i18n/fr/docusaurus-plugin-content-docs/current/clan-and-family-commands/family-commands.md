@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/family-commands
+---
+
 # 👩‍👩‍👧‍👦 Commandes de famille
 
 Utilisez les commandes de famille sur votre serveur Discord pour consulter les clans ajoutés à ce serveur. [Ajoutez d'abord vos clans dans le tableau de bord](../use-the-dashboard/add-a-clan.md). Les options varient selon la commande ; certains résultats proposent aussi des menus et un bouton d'actualisation.

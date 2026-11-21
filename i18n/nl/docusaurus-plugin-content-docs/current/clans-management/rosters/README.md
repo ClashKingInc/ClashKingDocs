@@ -1,3 +1,7 @@
+---
+slug: /dashboard/rosters
+---
+
 # 📋 Rosters
 
 Met rosters organiseer je spelers voor CWL, oorlogen en andere evenementen. Maak en beheer ze via **Management → Rosters** in het dashboard. Spelers kunnen zich aanmelden via een rosterbericht in Discord.
@@ -50,7 +54,7 @@ De afbeeldingen tonen oudere voorbeelden; de huidige bediening kan verschillen.
 
 ## 🙋‍♀️ Aanmelden voor een roster
 
-[Koppel eerst je Clash of Clans-account](../../clan-setups/link-players/) aan Discord. Het aanmeldbereik en de regels voor accountverificatie, Town Hall en capaciteit bepalen of je account mag deelnemen.
+[Koppel eerst je Clash of Clans-account](../../clan-setups/link-players/README.md) aan Discord. Het aanmeldbereik en de regels voor accountverificatie, Town Hall en capaciteit bepalen of je account mag deelnemen.
 
 ### Aanmelden
 

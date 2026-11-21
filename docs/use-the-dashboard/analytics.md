@@ -1,3 +1,7 @@
+---
+slug: /dashboard/analytics
+---
+
 # 📊 Analytics
 
 Analytics shows recorded activity and trends for the clans connected to your server. The feature is in **beta**.

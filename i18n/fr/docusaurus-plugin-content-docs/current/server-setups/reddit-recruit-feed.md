@@ -1,3 +1,7 @@
+---
+slug: /dashboard/reddit-recruit-feed
+---
+
 # 🤝 Reddit Recruit Feed
 
 Le Reddit Recruitment Feed publie sur votre serveur Discord les messages de joueurs qui cherchent un clan sur [r/ClashOfClansRecruit](https://www.reddit.com/r/ClashOfClansRecruit/). **Ce flux s'adresse aux clans anglophones** : le recrutement et les échanges sur ce subreddit se déroulent principalement en anglais.

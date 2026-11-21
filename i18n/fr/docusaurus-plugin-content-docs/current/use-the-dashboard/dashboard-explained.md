@@ -1,5 +1,6 @@
 ---
 description: Ce qu'est le tableau de bord ClashKing et comment y accéder.
+slug: /dashboard/dashboard-explained
 ---
 
 # 🖥️ Tableau de bord expliqué

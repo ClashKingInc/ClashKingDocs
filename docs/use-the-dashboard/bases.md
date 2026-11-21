@@ -1,3 +1,7 @@
+---
+slug: /dashboard/bases
+---
+
 # 🗺️ Bases
 
 Use **Management → Bases** in the dashboard to publish and manage your server's base layouts. This page requires full dashboard access.

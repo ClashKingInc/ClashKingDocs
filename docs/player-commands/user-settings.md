@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/user-settings
+---
+
 # 😎 User settings
 
 Choose a main linked account for each Discord server where you use ClashKing.

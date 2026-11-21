@@ -1,5 +1,6 @@
 ---
 description: What the ClashKing dashboard is and how to reach it.
+slug: /dashboard/dashboard-explained
 ---
 
 # 🖥️ Dashboard explained

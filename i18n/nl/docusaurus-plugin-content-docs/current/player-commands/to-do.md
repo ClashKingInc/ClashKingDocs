@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/to-do
+---
+
 # 🤔 To-do
 
 Gebruik `/player to-do` in Discord om openstaande aanvallen en andere bijgehouden activiteit van gekoppelde accounts te bekijken.

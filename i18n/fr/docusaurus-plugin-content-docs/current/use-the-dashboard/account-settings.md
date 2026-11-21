@@ -1,3 +1,7 @@
+---
+slug: /dashboard/account-settings
+---
+
 # 👤 Account Settings
 
 Utilisez **Account Settings** pour gérer vos préférences du tableau de bord et consulter les informations du serveur.

@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/accounts-check
+---
+
 # 🙎‍♀️ Accountcontrole
 
 Gebruik `/link list` in een Discord-server om gekoppelde accounts van jezelf, een andere Discord-gebruiker of een aan de server gekoppelde clan te bekijken.

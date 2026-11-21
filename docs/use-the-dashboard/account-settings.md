@@ -1,3 +1,7 @@
+---
+slug: /dashboard/account-settings
+---
+
 # 👤 Account Settings
 
 Use **Account Settings** to manage your dashboard preferences and view server information.

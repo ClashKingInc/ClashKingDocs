@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/family-commands
+---
+
 # 👩‍👩‍👧‍👦 Family commands
 
 Gebruik familycommando’s op je Discord-server voor informatie over de clans die aan die server zijn toegevoegd. [Voeg eerst je clans toe via het dashboard](../use-the-dashboard/add-a-clan.md). De opties verschillen per commando; sommige resultaten hebben ook menu’s en een vernieuwknop.

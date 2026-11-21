@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/user-settings
+---
+
 # 😎 Gebruikersinstellingen
 
 Kies een gekoppeld hoofdaccount voor elke Discord-server waar je ClashKing gebruikt.

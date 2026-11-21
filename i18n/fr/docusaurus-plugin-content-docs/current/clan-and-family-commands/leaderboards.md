@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/leaderboards
+---
+
 # 📋 Classements
 
 Utilisez `/leaderboard location` pour consulter les classements officiels Clash of Clans des joueurs et des clans dans Discord.

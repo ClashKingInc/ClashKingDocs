@@ -1,3 +1,7 @@
+---
+slug: /dashboard/analytics
+---
+
 # 📊 Analytics
 
 Analytics toont geregistreerde activiteit en ontwikkelingen voor clans die aan je server zijn gekoppeld. Deze functie is in **bèta**.

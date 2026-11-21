@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/manual-refresh-roles-and-nicknames
+---
+
 # 🔄 Handmatig verversen (rollen en bijnamen)
 
 Gebruik `/refresh` op een Discord-server om rollen en bijnamen bij te werken volgens de ingestelde regels. Dit is handig na het aanpassen van instellingen of wanneer je niet op de automatische evaluatie wilt wachten. Zie [Roles & Nicknames](roles-th-and-more/README.md) voor het instellen.

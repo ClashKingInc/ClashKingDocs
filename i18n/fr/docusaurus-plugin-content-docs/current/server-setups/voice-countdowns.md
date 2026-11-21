@@ -1,3 +1,7 @@
+---
+slug: /dashboard/voice-countdowns
+---
+
 # 🎙️ Comptes à rebours vocaux
 
 Les comptes à rebours vocaux affichent les événements Clash of Clans et les informations de guerre dans les noms des salons vocaux Discord.

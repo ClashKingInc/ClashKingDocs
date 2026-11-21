@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/buttons
+---
+
 # 🔘 Boutons pour les membres
 
 Utilisez `/buttons` dans un serveur Discord pour créer un panneau permettant aux membres de lier leurs comptes, actualiser leurs rôles, consulter leurs tâches ou voir leurs rosters.

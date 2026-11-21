@@ -1,5 +1,6 @@
 ---
 description: Configurez les logs depuis le tableau de bord.
+slug: /dashboard/setup-logs
 ---
 
 # 📄 Configurer les logs

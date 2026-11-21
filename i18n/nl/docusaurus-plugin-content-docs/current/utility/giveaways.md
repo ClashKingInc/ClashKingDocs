@@ -1,3 +1,7 @@
+---
+slug: /dashboard/giveaways
+---
+
 # 🎁 Winacties
 
 Geef iets terug aan je community met een winactie. Je kunt een winactie direct starten of inplannen en geselecteerde rollen extra deelnames geven.

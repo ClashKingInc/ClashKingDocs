@@ -1,5 +1,6 @@
 ---
 description: Set up tickets in the dashboard and manage them in Discord.
+slug: /bot-commands/tickets
 ---
 
 # 🎫 Tickets

@@ -1,5 +1,5 @@
 ---
-slug: /server-setups/link-parsing
+slug: /dashboard/link-parsing
 ---
 
 # 🏹 Link parsing

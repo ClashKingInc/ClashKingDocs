@@ -1,5 +1,5 @@
 ---
-slug: /players-roles/roles-and-nicknames
+slug: /dashboard/roles-and-nicknames
 ---
 
 # ⏫ Roles & Nicknames

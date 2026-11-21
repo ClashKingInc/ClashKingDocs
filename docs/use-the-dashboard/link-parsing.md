@@ -1,5 +1,5 @@
 ---
-slug: /use-the-dashboard/army-and-base-sharing
+slug: /bot-commands/army-and-base-sharing
 description: Share army and base links in Discord.
 ---
 

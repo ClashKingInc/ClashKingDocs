@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/clan-commands
+---
+
 # 🏛️ Clan commands
 
 Gebruik de clancommando’s in Discord om het profiel, de leden en geregistreerde statistieken van een clan te bekijken. Voor ieder commando hieronder is een **clan** nodig; selecteer die op naam of tag. De optionele velden verschillen per commando en sommige resultaten hebben extra menu’s of een vernieuwknop.

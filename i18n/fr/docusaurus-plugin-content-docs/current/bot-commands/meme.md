@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/meme
+---
+
 # 🐸 Memes
 
 Utilisez `/meme` pour créer un meme sur le thème de Clash ou une pancarte Pepe avec votre texte.

@@ -1,3 +1,7 @@
+---
+slug: /dashboard/autoboards
+---
+
 # 🏗️ Autoboards
 
 Les autoboards maintiennent automatiquement des classements sur votre serveur Discord.

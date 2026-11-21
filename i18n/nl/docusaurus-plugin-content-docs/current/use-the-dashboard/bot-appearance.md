@@ -1,3 +1,7 @@
+---
+slug: /dashboard/bot-appearance
+---
+
 # 🎨 Botweergave
 
 Gebruik **General settings** in het dashboard voor de botweergave, link parsing en toegangsinstellingen van je server.

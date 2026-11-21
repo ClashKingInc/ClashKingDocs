@@ -1,3 +1,7 @@
+---
+slug: /dashboard/autoboards
+---
+
 # 🏗️ Autoboards
 
 Autoboards houden automatisch ranglijsten beschikbaar op je Discord-server.

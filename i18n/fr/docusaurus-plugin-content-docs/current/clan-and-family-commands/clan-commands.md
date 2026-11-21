@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/clan-commands
+---
+
 # 🏛️ Commandes de clan
 
 Utilisez les commandes de clan dans Discord pour consulter le profil, les membres et les statistiques enregistrées d'un clan. Chaque commande ci-dessous nécessite un **clan** à sélectionner par nom ou tag. Les options varient selon la commande ; certains résultats proposent aussi des menus ou un bouton d'actualisation.

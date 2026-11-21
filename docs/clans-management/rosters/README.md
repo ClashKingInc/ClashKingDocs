@@ -1,3 +1,7 @@
+---
+slug: /dashboard/rosters
+---
+
 # 📋 Rosters
 
 Rosters help organize players for CWL, wars, and other events. Create and manage them under **Management → Rosters** in the dashboard. Players can sign up through a roster published in Discord.
@@ -50,7 +54,7 @@ The following images illustrate older layouts; current controls may differ.
 
 ## 🙋‍♀️ Signing up on a roster
 
-First [link your Clash of Clans account](../../clan-setups/link-players/) to Discord. A roster's signup scope, account verification, Town Hall and capacity rules determine whether an account is eligible.
+First [link your Clash of Clans account](../../clan-setups/link-players/README.md) to Discord. A roster's signup scope, account verification, Town Hall and capacity rules determine whether an account is eligible.
 
 ### Sign up
 

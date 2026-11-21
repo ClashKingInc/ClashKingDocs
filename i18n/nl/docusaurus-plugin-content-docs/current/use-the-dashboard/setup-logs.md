@@ -1,5 +1,6 @@
 ---
 description: Stel logs in vanuit het dashboard.
+slug: /dashboard/setup-logs
 ---
 
 # 📄 Logs instellen

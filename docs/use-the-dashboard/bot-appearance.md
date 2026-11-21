@@ -1,3 +1,7 @@
+---
+slug: /dashboard/bot-appearance
+---
+
 # 🎨 Bot Appearance
 
 Use **General settings** in the dashboard to configure your server's bot appearance, link parsing, and access settings.

@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/role-users
+---
+
 # 👥 Role users
 
 Use `/role-users` in a Discord server to list members with a specific Discord role.

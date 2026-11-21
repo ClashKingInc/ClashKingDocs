@@ -1,3 +1,7 @@
+---
+slug: /bot-commands/accounts-check
+---
+
 # 🙎‍♀️ Accounts check
 
 Use `/link list` in a Discord server to check linked accounts for yourself, another Discord user, or a clan linked to the server.

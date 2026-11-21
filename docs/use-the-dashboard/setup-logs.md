@@ -1,5 +1,6 @@
 ---
 description: Set up logs from the dashboard.
+slug: /dashboard/setup-logs
 ---
 
 # 📄 Setup logs

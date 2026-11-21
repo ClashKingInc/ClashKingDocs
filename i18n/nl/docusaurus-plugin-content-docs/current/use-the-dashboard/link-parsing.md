@@ -1,5 +1,5 @@
 ---
-slug: /use-the-dashboard/army-and-base-sharing
+slug: /bot-commands/army-and-base-sharing
 description: Deel army- en baselinks in Discord.
 ---
 
