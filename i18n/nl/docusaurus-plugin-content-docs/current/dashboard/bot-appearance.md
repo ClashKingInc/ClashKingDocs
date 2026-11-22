@@ -8,7 +8,11 @@ Gebruik **General settings** in het dashboard voor de botweergave, link parsing 
 
 ## Pas het botprofiel aan
 
-Open **General settings** voor je server en zoek **Bot server profile**. Als profielaanpassing voor je server is ingeschakeld, kun je de servernaam, bio, avatar en banner van de bot wijzigen. Wijzigingen worden opgeslagen via de profielkaart; met de resetknoppen zet je afzonderlijke onderdelen terug naar het algemene profiel. Bewerken vereist beheerrechten voor instellingen. Is de functie vergrendeld, gebruik dan de getoonde supportlink om toegang aan te vragen.
+Open **General settings** voor je server en zoek **Bot server profile**. Als profielaanpassing voor je server is ingeschakeld, kun je de servernaam, bio, avatar en banner van de bot wijzigen. Wijzigingen worden opgeslagen via de profielkaart; met de resetknoppen zet je afzonderlijke onderdelen terug naar het algemene profiel. Bewerken vereist beheerrechten voor instellingen.
+
+:::info
+Botpersonalisatie is beschikbaar voor supporters en contributors. Heb je geen toegang, vraag deze dan aan in de [support Discord](https://discord.gg/clashking).
+:::
 
 ## Kies de embedkleur
 

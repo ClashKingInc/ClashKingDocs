@@ -8,7 +8,11 @@ Use **General settings** in the dashboard to configure your server's bot appeara
 
 ## Customize the bot profile
 
-Open **General settings** for your server and find **Bot server profile**. If profile customization is enabled for your server, you can change the bot's server name, bio, avatar, and banner. Changes are saved from the profile card; use the reset controls to return individual fields to the global profile. Editing requires settings management access. If the feature is locked, use the displayed support link to request access.
+Open **General settings** for your server and find **Bot server profile**. If profile customization is enabled for your server, you can change the bot's server name, bio, avatar, and banner. Changes are saved from the profile card; use the reset controls to return individual fields to the global profile. Editing requires settings management access.
+
+:::info
+Bot personalization is available to supporters and contributors. If you don't have access, request it in the [support Discord](https://discord.gg/clashking).
+:::
 
 ## Choose the embed color
 

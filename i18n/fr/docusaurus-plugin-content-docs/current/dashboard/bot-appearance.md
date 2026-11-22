@@ -8,7 +8,11 @@ Utilisez **General settings** dans le tableau de bord pour configurer l'apparenc
 
 ## Personnaliser le profil du bot
 
-Ouvrez **General settings** pour votre serveur et trouvez **Bot server profile**. Si la personnalisation est activée pour votre serveur, vous pouvez modifier le nom, la bio, l'avatar et la bannière du bot sur ce serveur. Les changements sont enregistrés depuis la carte de profil ; les boutons de réinitialisation rétablissent chaque élément du profil global. La modification nécessite le droit de gérer les paramètres. Si la fonction est verrouillée, utilisez le lien d'assistance affiché pour demander l'accès.
+Ouvrez **General settings** pour votre serveur et trouvez **Bot server profile**. Si la personnalisation est activée pour votre serveur, vous pouvez modifier le nom, la bio, l'avatar et la bannière du bot sur ce serveur. Les changements sont enregistrés depuis la carte de profil ; les boutons de réinitialisation rétablissent chaque élément du profil global. La modification nécessite le droit de gérer les paramètres.
+
+:::info
+La personnalisation du bot est disponible pour les supporters et les contributeurs. Si vous n'y avez pas accès, demandez-la sur le [serveur de support Discord](https://discord.gg/clashking).
+:::
 
 ## Choisir la couleur des embeds
 
