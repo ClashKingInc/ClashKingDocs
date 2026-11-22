@@ -3,7 +3,7 @@ name: Deploy docs
 on:
   push:
     tags:
-      - "[0-9]*"
+      - "v*"
   workflow_dispatch:
 
 jobs:
